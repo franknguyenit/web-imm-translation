@@ -1,0 +1,233 @@
+[s301] The IMM Group team
+[s302] Board of Directors
+[s303] Consultation & Case Processing Department
+[s304] Office Department
+[s305] Legal Advisor Partners
+[s306] Investment Expert Advisors – IMM Group's Partners
+[s307] Product & Content Development
+[s308] Business Development & Public Relations
+[s311] [Tran Van Tinh](https://immgroup.com/en/our-people/tran-van-tinh/)
+[s312] Founder - Chairman
+[s313] View profile
+[s314] Portrait of Lim Chor Ghee, Co-founder and Corporate Affairs Director of IMM Group
+[s315] [Lim Chor Ghee](https://immgroup.com/en/our-people/lim-chor-ghee/)
+[s316] Co-founder of IMM Group - Corporate Affairs Director
+[s318] Portrait of Tran Tuan Anh (Alex), Deputy Chief Operating Officer of IMM Group
+[s319] Alex
+[s320] [Tran Tuan Anh](https://immgroup.com/en/our-people/tran-tuan-anh/)
+[s321] Deputy Chief Operating Officer - Case Processing Director
+[s323] Portrait of Thomas Lee, Manager and CEO of IMM Management LLC
+[s324] [Thomas Lee](https://immgroup.com/en/our-people/thomas-lee/)
+[s325] Manager and CEO of IMM Management LLC
+[s327] Portrait of Tran Thi Truc Linh (Elena), Senior Consultant at IMM Group
+[s328] Elena
+[s329] [Tran Thi Truc Linh](https://immgroup.com/en/our-people/tran-thi-truc-linh/)
+[s330] Senior Consultant
+[s332] Portrait of Nguyen Thi Minh Thu (Catherine), Senior Consultant at IMM Group
+[s333] Catherine
+[s334] [Nguyen Thi Minh Thu](https://immgroup.com/en/our-people/nguyen-thi-minh-thu/)
+[s337] Portrait of Nguyen Truong Anh Thu (Emily), Senior Consultant at IMM Group
+[s338] Emily
+[s339] [Nguyen Truong Anh Thu](https://immgroup.com/en/our-people/nguyen-truong-anh-thu/)
+[s342] Portrait of Vo Thi Thu Thao (Taylor), Senior Consultant at IMM Group
+[s343] Taylor
+[s344] [Vo Thi Thu Thao](https://immgroup.com/en/our-people/vo-thi-thu-thao/)
+[s347] Portrait of Tran Thi Thu Ha (Hayley), Senior Consultant at IMM Group
+[s348] Hayley
+[s349] [Tran Thi Thu Ha](https://immgroup.com/en/our-people/tran-thi-thu-ha/)
+[s352] Portrait of Nguyen Thi Minh Trang (Olive), Case Processing Manager at IMM Group
+[s353] Olive
+[s354] [Nguyen Thi Minh Trang](https://immgroup.com/en/our-people/nguyen-thi-minh-trang/)
+[s355] Case Processing Manager
+[s357] Portrait of Nguyen Tan Huy (Charles), Senior Case Processing Executive at IMM Group
+[s358] Charles
+[s359] [Nguyen Tan Huy](https://immgroup.com/en/our-people/nguyen-tan-huy/)
+[s360] Senior Case Processing Executive
+[s362] Portrait of Pham Nguyen Ky Duyen (Kaylin), Senior Case Processing Executive at IMM Group
+[s363] Kaylin
+[s364] [Pham Nguyen Ky Duyen](https://immgroup.com/en/our-people/pham-nguyen-ky-duyen/)
+[s367] Portrait of Phan Quynh Nhu (Cassie), Senior Case Processing Executive at IMM Group
+[s368] Cassie
+[s369] [Phan Quynh Nhu](https://immgroup.com/en/our-people/phan-quynh-nhu/)
+[s372] Portrait of Tran Thi Thanh Thuy (Carmen), Office and Administrator Manager at IMM Group
+[s373] Carmen
+[s374] [Tran Thi Thanh Thuy](https://immgroup.com/en/our-people/tran-thi-thanh-thuy/)
+[s375] Office and Administrator Manager
+[s377] Portrait of Phung Trung Vinh (Burin), Senior Manager, Marketing Department at IMM Group
+[s378] Burin
+[s379] [Phung Trung Vinh](https://immgroup.com/en/our-people/phung-trung-vinh/)
+[s380] Senior Manager | Marketing Department
+[s382] Portrait of Nguyen Thi Thanh Phuong (Hellen), Chief Accountant at IMM Group
+[s383] Hellen
+[s384] [Nguyen Thi Thanh Phuong](https://immgroup.com/en/our-people/nguyen-thi-thanh-phuong/)
+[s385] Chief Accountant
+[s387] Portrait of Phung Luong Minh Thao (Grace), Assistant to the Board of Directors at IMM Group
+[s388] Grace
+[s389] [Phung Luong Minh Thao](https://immgroup.com/en/our-people/phung-luong-minh-thao/)
+[s390] Assistant to the Board of Directors
+[s392] Portrait of Nguyen Huu Hung (Frank), Website System Management Team Leader at IMM Group
+[s393] Frank
+[s394] [Nguyen Huu Hung](https://immgroup.com/en/our-people/nguyen-huu-hung/)
+[s395] Website System Management Team Leader
+[s397] Portrait of Pham Hoang Dang Thanh (Paul), Head of Information Data System Management at IMM Group
+[s398] Paul
+[s399] [Pham Hoang Dang Thanh](https://immgroup.com/en/our-people/pham-hoang-dang-thanh/)
+[s400] Head of Information Data System Management Department
+[s402] Portrait of Tran Van Phu Nghia (Bryan), Head of Design Department at IMM Group
+[s403] Bryan
+[s404] [Tran Van Phu Nghia](https://immgroup.com/en/our-people/tran-van-phu-nghia/)
+[s405] Head of Design Department
+[s407] Portrait of Le Nu Nhu Thuy (Tyra), Payroll & Benefits Specialist at IMM Group
+[s408] Tyra
+[s409] [Le Nu Nhu Thuy](https://immgroup.com/en/our-people/le-nu-nhu-thuy/)
+[s410] Payroll & Benefits Specialist
+[s412] Portrait of Tran Thi Cam Van (Jenny), HR and Administration Specialist at IMM Group
+[s413] Jenny
+[s414] [Tran Thi Cam Van](https://immgroup.com/en/our-people/tran-thi-cam-van/)
+[s415] HR and Administration Specialist
+[s417] Portrait of Dang Phuong Anh (Jasper), Translator at IMM Group
+[s418] Jasper
+[s419] [Dang Phuong Anh](https://immgroup.com/en/our-people/dang-phuong-anh/)
+[s420] Translator
+[s422] Portrait of Luu Hieu Han (Hana), Translator at IMM Group
+[s423] Hana
+[s424] [Luu Hieu Han](https://immgroup.com/en/our-people/luu-hieu-han/)
+[s427] Portrait of Nguyen Quang Duc (Theodore), Digital Marketing Specialist at IMM Group
+[s428] Theodore
+[s429] [Nguyen Quang Duc](https://immgroup.com/en/our-people/nguyen-quang-duc/)
+[s430] Digital Marketing Specialist
+[s432] Portrait of Vo Thi Minh Thuy (Stella), Marketing Staff at IMM Group
+[s433] Stella
+[s434] [Vo Thi Minh Thuy](https://immgroup.com/en/our-people/vo-thi-minh-thuy/)
+[s435] Marketing Staff
+[s437] Portrait of Nguyen Tran Anh Thu (Jasmine), Marketing Staff at IMM Group
+[s438] Jasmine
+[s439] [Nguyen Tran Anh Thu](https://immgroup.com/en/our-people/nguyen-tran-anh-thu/)
+[s442] Portrait of Hoang Ho Quy Phuc (Maxys), Graphic Designer at IMM Group
+[s443] Maxys
+[s444] [Hoang Ho Quy Phuc](https://immgroup.com/en/our-people/hoang-ho-quy-phuc/)
+[s445] Graphic Designer
+[s447] Portrait of Nguyen Huu Kien (Kelvin), Frontend Developer at IMM Group
+[s448] Kelvin
+[s449] [Nguyen Huu Kien](https://immgroup.com/en/our-people/nguyen-huu-kien/)
+[s450] Frontend Developer
+[s452] Portrait of Maurice (Morrie) Berez, former Head of EB-5 processing at USCIS and Exclusive Advisor of IMM Group
+[s453] [Maurice (Morrie) Berez](https://immgroup.com/en/our-people/maurice-morrie-berez/)
+[s454] Former Head of EB-5 processing department at USCIS<br> Exclusive Advisor of IMM Group
+[s456] Portrait of Robert P.Gaffney, Founding Attorney
+[s457] [Robert P.Gaffney](https://immgroup.com/en/our-people/robert-p-gaffney/)
+[s458] Founding Attorney
+[s460] Portrait of David Crawford, Managing Partner
+[s461] [David Crawford](https://immgroup.com/en/our-people/david-crawford/)
+[s462] Managing Partner
+[s464] Portrait of Darren Silver, Founding Partner
+[s465] [Darren Silver](https://immgroup.com/en/our-people/darren-silver/)
+[s468] Portrait of Mark I. Davies, Global Managing Partner and Founder Chair
+[s469] [Mark I. Davies](https://immgroup.com/en/our-people/mark-i-davies/)
+[s470] Global Managing Partner and Founder Chair
+[s472] Portrait of Nicole Jadelrab, Principal/Founder
+[s473] [Nicole Jadelrab](https://immgroup.com/en/our-people/nicole-jadelrab/)
+[s476] Portrait of Stephen Lockyer, Founder
+[s477] [Stephen Lockyer](https://immgroup.com/en/our-people/stephen-lockyer/)
+[s480] Portrait of Cosmina Morariu, Senior Manager at Fragomen (Toronto)
+[s481] [Cosmina Morariu](https://immgroup.com/en/our-people/cosmina-morariu/)
+[s482] Senior Manager, Fragomen (Toronto)
+[s484] Portrait of Teresa Liu, Managing Partner, Fragomen Australia & New Zealand
+[s485] [Teresa Liu](https://immgroup.com/en/our-people/teresa-liu/)
+[s486] Managing Partner, Fragomen Australia & New Zealand
+[s488] Portrait of André Miranda, Founding Partner
+[s489] [André Miranda](https://immgroup.com/en/our-people/andre-miranda/)
+[s492] Portrait of Demetris Demetriades, Managing Partner and Head of the Immigration and Real Estate Department
+[s493] [Demetris Demetriades](https://immgroup.com/en/our-people/demetris-demetriades/)
+[s494] Managing Partner and Head of the Immigration and Real Estate Department
+[s496] Portrait of Vicky Veli, Attorney-at-Law
+[s497] [Vicky Veli](https://immgroup.com/en/our-people/vicky-veli/)
+[s500] Portrait of Afi Ventour de Vega, CEO
+[s501] [Afi Ventour de Vega](https://immgroup.com/en/our-people/afi-ventour-de-vega/)
+[s502] CEO
+[s504] Portrait of Dahlia Joseph Rowe, Founding Attorney
+[s505] [Dahlia Joseph Rowe](https://immgroup.com/en/our-people/dahlia-joseph-rowe/)
+[s508] Portrait of Owen Small, Managing Director
+[s509] [Owen Small](https://immgroup.com/en/our-people/owen-small/)
+[s512] Portrait of Gerhard Combrinck, Director
+[s513] [Gerhard Combrinck](https://immgroup.com/en/our-people/gerhard-combrinck/)
+[s516] Portrait of Livia Yuan, Case Processing Director
+[s517] [Livia Yuan](https://immgroup.com/en/our-people/livia-yuan/)
+[s518] Case Processing Director
+[s520] Portrait of Sam Wolfe, Chief Operating Officer – Asia
+[s521] [Sam Wolfe](https://immgroup.com/en/our-people/sam-wolfe/)
+[s522] Chief Operating Officer – Asia
+[s524] Portrait of Hoang Dinh Ngoc Trang (Sam), Product Development Specialist at IMM Group
+[s525] Sam
+[s526] [Hoang Dinh Ngoc Trang](https://immgroup.com/en/our-people/hoang-dinh-ngoc-trang/)
+[s527] Product Development Specialist
+[s529] Portrait of Ha Huynh Phuong Trinh (Tracy), Business Development & Partnerships Manager at IMM Group
+[s530] Tracy
+[s531] [Ha Huynh Phuong Trinh](https://immgroup.com/en/our-people/ha-huynh-phuong-trinh/)
+[s532] Business Development & Partnerships Manager
+[s534] Client case stories
+[s535|#viet-nam: bỏ quốc tịch khách theo style guide mục 4 (lời văn marketing của IMM, không phải lời khách)] Another family granted Grenada citizenship and passports, with thorough preparation by IMM Group's case team
+[s536] June 30, 2022
+[s538] The actual processing time for this Grenada passport application, handled by IMM Group, was 14 months to…
+[s539] Read more
+[s540] How a citizenship application was approved in under 60 days, with every procedure completed in 6 months
+[s541] March 9, 2022
+[s543] Taking part in the discussion: Mr. Tran Tuan Anh (left), Deputy Chief Operating Officer of IMM Group, who also serves as Director…
+[s545] “Whatever it takes, IMM Group must help reunite the child with the family in Australia!”
+[s546] February 18, 2022
+[s548] Taking part in the discussion: Mr. Nguyen Xuan Sinh (left), Chief Operating Officer of IMM Group, currently in charge of the…
+[s550] Client reviews
+[s551] 5/5
+[s552] Extremely satisfied!
+[s553] Program: Australia immigration – 188
+[s554] Case officer: Nguyen Thi Minh Trang (Olive),
+[s555|#viet-nam-hop-le] Office: IMM Group Ho Chi Minh City
+[s556] Mr. Ngo Triet Quang
+[s557] April 9, 2026, 10:05 am
+[s558] Passionate about her work, pretty and friendly, and treats clients like family. Thank you, IMM
+[s561] Program: Grenada immigration
+[s562] Case officer: Le Thi Hong Ngoc (Dolly),
+[s564] Mr. Ho Thanh Huy
+[s565] April 3, 2026, 10:03 am
+[s566] Ngoc provided very good service.
+[s569] Program: Malta immigration (MPRP)
+[s572] Ms. Doan Phuong Minh Lan
+[s573] March 18, 2026, 9:58 am
+[s574] Ngoc’s service is excellent we are very happy to work with her
+[s580] Mr. Tran Quang Thuan
+[s581] February 23, 2026, 9:56 am
+[s582] 200% satisfied
+[s585] Program: Australia immigration – 888
+[s588] Mr. Nguyen Viet Phuong
+[s589] February 23, 2026, 9:52 am
+[s590] Trang is always wholeheartedly committed to her clients' interests
+[s594] Case officer: Nguyen Tan Huy (Charles),
+[s596] Mr. Phung Vu Cuong
+[s597] January 20, 2026, 9:48 am
+[s598] Thank you, Huy, for handling my application so professionally
+[s604] Ms. Doan Thanh Thien Van
+[s605] December 25, 2025, 9:39 am
+[s606] The lawyer and Trang were very dedicated and filed my application as early as possible, even on Sundays and public holidays.
+[s612] Mr. Le Vu Dam & Ms. Tran Thi Thao Hien
+[s613] December 2, 2025, 9:36 am
+[s614] Over the past 3 years, Trang and I have worked together for a long time. She is very thorough, caring and professional, guiding me so I could easily understand and handle everything involved in preparing the application! My thanks to Minh Trang!!!
+[s617] Program: Turkey immigration
+[s620] Mr. Vu Quan Luat
+[s621] November 5, 2025, 9:34 am
+[s622] Huy is young but manages the work carefully and in detail, and is very supportive. I give 5 stars.
+[s628] Ms. Mai Thi Thao Yen
+[s629] November 4, 2025, 9:30 am
+[s630] On behalf of our family, we thank Trang and IMM very much. Over the 5 years IMM has accompanied our family, from the 188A visa application through to the 888, there was a lot of hard work, but with your effort, dedication and professionalism, you and the IMM team overcame it all. We truly appreciate you and are very grateful. We will certainly recommend IMM's services to our friends
+[s631] See more reviews
+[s632] IMM Group member companies
+[s633] IMM Group has built an ecosystem of member companies that work in concert, combining resources and expertise to deliver comprehensive solutions and lasting value to clients.
+[s634] IBDA logo
+[s636] IMM Advisory logo
+[s638] IMM Capital logo
+[s640] IMM Property logo
+[s642] IMM Business Travel logo
+[s644] IMM Management logo
+[s646] IMM FDI Services logo
+[s648] IMM Education logo
+[s650] IMMIMM GROUP
+[s651] IMM Group · International investment and residency advisory since 2005 — IMM Group advises only on entrepreneur and investor programs and does not accept labor export or unskilled worker cases (EB-3 and similar).

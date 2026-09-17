@@ -1,0 +1,4 @@
+[s004] The EB-5 visa is a U.S. investment immigration program established by Congress in 1990
+[s074] Enter the U.S. and receive your conditional green card
+[s075] Travel to the U.S. to begin your conditional permanent residence; your conditional green card is valid for 2 years.
+[s197] Form I-956F does not replace due diligence on financial risk, job-creation risk, and the project's ability to provide a return of capital

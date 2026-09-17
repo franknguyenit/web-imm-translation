@@ -1,0 +1,10 @@
+[s039] Your whole family can apply for U.S. citizenship after 5 years as permanent residents, if eligible, and your children can grow up as U.S. citizens with full rights
+[s080] Receive unconditional permanent residence
+[s081] You receive a 10-year green card as an unconditional permanent resident.
+[s120] What is the EB-5 program?
+[s138] A source of funds that cannot be documented to USCIS requirements
+[s166] Availability in the unreserved EB-5 category varies by country of birth; check the latest Visa Bulletin for your country.
+[s173] If you invest in EB-5 through a regional center, you generally do not need to manage the business directly
+[s190] How does an EB-5 regional center investment differ from a direct EB-5 investment?
+[s201] Once Form I-526E is approved, the family proceeds with immigrant visa processing through the National Visa Center (NVC) and a U.S. consulate, or with the appropriate procedure if they are in the United States and eligible
+[s230] Once USCIS approves Form I-526E and a visa is available, the family typically proceeds through the National Visa Center (NVC): filing Form DS-260, preparing civil documents, completing the medical exam, and attending the interview at a U.S. consulate

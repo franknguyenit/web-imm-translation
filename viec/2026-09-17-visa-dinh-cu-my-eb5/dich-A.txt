@@ -1,0 +1,83 @@
+[s001] EB-5 Visa: A U.S. Green Card for Your Whole Family
+[s002] Cover image for IMM Group's EB-5 visa video
+[s003] What is the EB-5 program?
+[s004] A U.S. investment immigration program established by Congress in 1990
+[s005|#bo-qua-so: số VND chỉ nhắc lại số USD] Minimum investment: **US$800,000**
+[s006] Creation of 10 full-time jobs for U.S. workers
+[s007] Green cards for the whole family: your spouse and children under 21
+[s008] EB-5 investment through a regional center: a streamlined, transparent process with structured risk management
+[s009] Request a consultation
+[s010] Key date for EB-5 investors
+[s011] Grandfathering cutoff for Form I-526E filings: September 30, 2026
+[s012] For EB-5 investors, the timing of your filing is key to managing costs and legal risk. The **September 30, 2026** date directly affects the **US$800,000 investment amount**, your legal rights, and the stability of your petition.
+[s013] Grandfathering protection for filed petitions
+[s014] Under the EB-5 Reform and Integrity Act of 2022 (RIA), only **Form I-526E** petitions filed before **September 30, 2026** are grandfathered under the current requirements if the program is changed later.
+[s015] Preserve the investment amount
+[s016] US$800,000
+[s017] Preserve the criteria
+[s018] Adjudication standards and benefits
+[s019] Protect your petition
+[s020] If the law changes
+[s021] Request a consultation
+[s022] Benefits of the EB-5 visa
+[s023] Green cards for your whole family
+[s024] Your spouse and children under 21
+[s025] Many of the same rights as U.S. citizens
+[s026] Freedom to live, study, and work anywhere in the United States
+[s027] A U.S. passport for global mobility
+[s028] Once naturalized, you can hold a U.S. passport with visa-free or eVisa access to 180+ destinations
+[s029] Travel in and out of the U.S. freely
+[s030] Travel whenever your plans require
+[s031] A strong education for your children
+[s032] Free public schooling from elementary through high school
+[s033] University tuition far lower than what international students pay
+[s034] Access to programs open only to U.S. permanent residents and citizens
+[s035] Advantages of the EB-5 investor visa
+[s036] A direct path to a green card
+[s037] No multi-stage visa route, no detours
+[s038] A path to U.S. citizenship after 5 years
+[s039] A path to U.S. citizenship for your whole family: you become eligible to apply for citizenship after 5 years as permanent residents, and your children can grow up as U.S. citizens with full rights
+[s040] Straightforward requirements
+[s041] No education requirement
+[s042] No language requirement
+[s043] No business experience required
+[s044] No business obligations
+[s045] No need to own or manage a company
+[s046] No requirement to start a company after receiving your green card
+[s047] No employer or family sponsor required
+[s048] Only an investment in a qualifying project is required
+[s049] EB-5 visa requirements
+[s050] Age 18 or older
+[s051] No upper age limit
+[s052] Invest US$800,000
+[s053] In a project located in a Targeted Employment Area (TEA)
+[s054|#bo: chỉ là giải nghĩa từ tiếng Anh cho người Việt, đã viết đủ tên ở s053] [BO]
+[s055] Lawful source of funds
+[s056] Document the lawful source of your investment funds
+[s057] Create 10 jobs
+[s058] Full-time positions for qualifying U.S. workers
+[s059] The EB-5 visa process
+[s060] Prepare your petition and document your source of funds
+[s061] Complete your legal documentation and establish the source of your investment capital.
+[s062] Transfer your investment
+[s063] Complete the transfer as set out in your EB-5 investment agreement.
+[s064] File Form I-526E
+[s065] Submit your investor petition to U.S. Citizenship and Immigration Services (USCIS).
+[s066] Receive your Form I-526E decision
+[s067] USCIS approves your investment petition.
+[s068] File with the National Visa Center (NVC)
+[s069] Complete visa processing.
+[s070] Attend your interview
+[s071] Attend an interview at a U.S. embassy or consulate.
+[s072] Receive your EB-5 immigrant visa
+[s073] You are issued an EB-5 immigrant visa.
+[s074] Enter the U.S. and activate your green card
+[s075] Travel to the U.S. to activate your conditional green card (valid for 2 years).
+[s076] File Form I-829 to remove conditions
+[s077] File once 21 months have passed since you received your green card.
+[s078] Exit your investment
+[s079] Receive a return of capital under the terms agreed with the project.
+[s080] Receive approval of permanent residence
+[s081] You are issued a permanent green card without conditions (valid for 10 years).
+[s082] Apply for U.S. citizenship
+[s083] Eligible after 5 years of permanent residence.

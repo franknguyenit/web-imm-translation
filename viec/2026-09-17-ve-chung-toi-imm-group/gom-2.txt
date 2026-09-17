@@ -1,0 +1,9 @@
+[s635|#sua-trung: chú thích chữ, không phải alt] IBDA
+[s637|#sua-trung: chú thích chữ, không phải alt] IMM Advisory
+[s639|#sua-trung: chú thích chữ, không phải alt] IMM Capital
+[s641|#sua-trung: chú thích chữ, không phải alt] IMM Property
+[s643|#sua-trung: chú thích chữ, không phải alt] IMM Business Travel
+[s645|#sua-trung: chú thích chữ, không phải alt] IMM Management
+[s647|#sua-trung: chú thích chữ, không phải alt] IMM FDI Services
+[s649|#sua-trung: chú thích chữ, không phải alt] IMM Education
+[s650|#bo: chữ của logo bị tách ra khi lấy trang, không phải nội dung] [BO]
