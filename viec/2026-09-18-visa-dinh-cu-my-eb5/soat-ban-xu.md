@@ -1,0 +1,75 @@
+# Soát bản xứ + chuyên môn (B6) — visa-dinh-cu-my-eb5 (bản 18/09/2026)
+
+Người soát: sub-agent Opus (B6), 18/09/2026. Nguồn là JSON xuất từ ACF Page Importer (260 đoạn, đánh số MỚI — mã đoạn KHÔNG khớp bản 17/09/282 đoạn). Đọc bản Anh ghép (`ban-giao/bai-dich.en.md`) trước, sau đó mới đối chiếu cột vi.
+
+Phạm vi: chỉ nêu điều **còn sót hoặc mới**. Toàn bộ góp ý bản xứ của báo cáo 17/09 đã được áp trong bộ nhớ dịch (kiểm tay: CTA "Book a consultation", "unmarried children under 21", "US$800,000 … TEA", "subscription agreement", "adjudicates", "There is no minimum-stay requirement", "As a guideline…", "a project that a regional center sponsors and raises capital for", tên đầy đủ I-956F/I-526E, "How IMM Group helps", "Helping you understand…"). Ba khối trùng lặp cũ (thẻ dự án Haven Residences / Ecoplastic / Horseshoe Bay, "Units available", "activate your green card") **không còn trong bản xuất ACF này** → CEO item #5 của 17/09 hết hiệu lực.
+
+Nhận xét chung: 245 đoạn lấp từ TM đọc trôi và đều giọng; lỗi còn lại tập trung đúng ở 16 đoạn dịch mới (tiêu đề trang, H1, nhãn liên kết) và ở phần dữ kiện luật đã lỗi thời theo ngày. H1 (s002) đúng Title Case; H2–H6 đúng sentence case toàn trang (đã kiểm từng heading); mật độ "EB-5 visa" ổn, có mặt ở H1, s003 và 4 H2/H4.
+
+## (A) Bản xứ
+
+| Mã | Vấn đề | Mức | Đề xuất |
+|---|---|---|---|
+| s001 | Tiêu đề trang WordPress "EB-5 Visa" không song hành với chính nhãn liên kết của trang ("U.S. E-2 visa", "U.S. L-1A visa", "U.S. EB-1C immigrant visa" — s089–s091) và bỏ phần "định cư Mỹ" của tiêu đề Việt. Trên site đa quốc gia, breadcrumb/menu/tìm kiếm nội bộ chỉ hiện "EB-5 Visa" là thiếu ngữ cảnh. `meta_title` trong seo.json đã gánh phần SEO nên post_title chỉ cần rõ nghĩa | vừa | "U.S. EB-5 Visa" |
+| s011 | "Grandfathering cutoff" — người trong ngành và các hãng luật lớn (Fragomen, Buchalter, NatLawReview) đều viết "grandfathering **deadline**"; đây cũng đúng từ khoá phụ trong brief. "Cutoff" còn để ngỏ chuyện ngày 30/09 có được tính hay không | nhẹ | "Grandfathering deadline for Form {1}I-526E{/1} filings:{br} {2}September 30, 2026{/2}" |
+| s017 | "Preserve the criteria" trơ, không đi cặp được với "Preserve the investment amount" (s015) | nhẹ | "Preserve the current criteria" |
+| s085, s086 | H2 và H3 ngay dưới nó là **cùng một chuỗi chữ** ("You may also be interested in") — hiện hai lần trên màn hình, hỏng dàn heading | vừa | giữ s085 làm H2; s086 → "Other U.S. immigration routes" |
+| s087 | "advisory services" nhưng 4 liên kết bên dưới là trang chương trình visa, không phải dịch vụ | nhẹ | "Explore IMM Group's other U.S. immigration programs:" |
+| s089, s090, s091 | Bộ nhãn liên kết không song hành: cả ba đều có tiền tố "U.S." nhưng chỉ s091 nói rõ loại visa. Trang của hãng Mỹ đặt tên theo tên hạng mục chính thức | nhẹ | s089 "U.S. E-2 treaty investor visa" · s090 "U.S. L-1A intracompany transferee visa" · s091 "U.S. EB-1C green card for executives and managers" |
+| s095, s098 | Danh sách "Understanding America" pha hai khuôn: s094/s096/s097 theo "… in the U.S.", s095/s098 theo "U.S. …". Riêng s098 còn thừa nghĩa: trong tiếng Anh Mỹ "benefits" và "welfare" gần trùng nhau | nhẹ | s095 "Taxes in the U.S." · s098 "Social Security and public benefits in the U.S." (gộp trợ cấp + phúc lợi thành "public benefits" — nhãn liên kết, được viết lại) |
+| s099, s100 | Sau khi viết chung theo brief, hai nhãn cạnh nhau đọc gần như trùng nghĩa trong tiếng Anh ("Success stories in America" / "Inspiring stories of immigrating to the U.S."); s099 cũng là chỗ duy nhất trong danh sách dùng "America" thay vì "the U.S." | vừa | s099 "Immigrant success stories in the U.S." · s100 "Inspiring U.S. immigration journeys" |
+| s137 | "about 3 weeks to 1 month" — khoảng đo bằng hai đơn vị khác nhau, văn Anh không viết vậy; lại mâu thuẫn với s222 ("up to 90 days") | nhẹ | không sửa chữ ở đây vì dính số liệu — xem mục CEO |
+| s148, s149 | Hai dòng duy nhất trong trang có dấu chấm cuối gạch đầu dòng, trong khi dòng thứ ba cùng khối (s150) và toàn bộ bullet khác thì không | nhẹ | bỏ dấu chấm cuối |
+| s190 | "must be linked to at least 10 … jobs" không phải cách nói của ngành; "under EB-5 rules" thừa trong một FAQ về EB-5 | nhẹ | "Each EB-5 investor must be credited with at least 10 qualifying full-time jobs for U.S. workers" |
+| s191 | "using an economic model" — luật và ngành dùng "reasonable (economic) methodologies" | nhẹ | "…may be counted using reasonable economic methodologies — direct, indirect, and induced jobs — provided the requirements are met" |
+| s195 | "I-829" trống, trong khi cả trang viết "Form I-829" | nhẹ | "…does not ensure Form I-829 approval" |
+| s222 | "pay the USCIS Immigrant Fee for USCIS to issue…" — "USCIS" hai lần trong một mệnh đề | nhẹ | "You need to pay the USCIS Immigrant Fee before the physical green card can be issued (actual timing depends on USCIS and can take up to 90 days)" |
+| s247–s253 (cấu trúc) | Trong JSON, s247–s253 nằm **cùng một mảng bullet** (`product_faq_item_bullets[0..6]`), nên "How IMM Group helps:" (s250) hiện ra như gạch đầu dòng thứ 4 của danh sách 3 nhóm rủi ro. Chữ đã sửa 17/09 nhưng cấu trúc thì chưa | vừa | không sửa được bằng chữ — team dựng trang tách thành 2 danh sách (3 rủi ro / 4 việc IMM làm) |
+| s083, s084 (cấu trúc) | Mục "Current EB-5 projects" trong bản xuất ACF này chỉ còn H2 + nút "View all projects"; 3 thẻ dự án của bản HTML 17/09 không có trong nguồn | vừa | team dựng trang xác nhận thẻ dự án được render động, nếu không mục này lên trang rỗng |
+| s053 (cấu trúc) | Chú thích định nghĩa TEA bị bỏ ([BO]) — đúng cho bản Anh vì s052 đã viết đủ "Targeted Employment Area (TEA)", nhưng trường `product_conditions_item_footnote` sẽ import rỗng | nhẹ | xác nhận template không để lại gạch/khoảng trống thừa |
+| Cấu trúc chung | H1 (s002) nhảy thẳng H3 (s003) không qua H2; "U.S." và "United States" dùng lẫn — giữ nguyên nhận xét 17/09, theo nguồn, chấp nhận được theo AP | nhẹ | báo team dựng trang; không sửa chữ |
+
+## (B) Chuyên môn & tuân thủ
+
+| Mã | Vấn đề | Mức | Đề xuất |
+|---|---|---|---|
+| s005, s016, s051, s107, s108, s112, s175 | **Mức vốn luật định hết hiệu lực 01/01/2027.** RIA quy định điều chỉnh CPI tự động lần đầu vào 01/01/2027; dự báo của hãng luật: TEA/hạ tầng từ US$800,000 lên khoảng US$937,500, mức chuẩn từ US$1,050,000 lên khoảng US$1.2–1.25 triệu. Trang lên ngày 18/09/2026 nêu 7 chỗ con số này **không kèm mốc ngày**, trái style guide mục 3 ("thông tin luật có mốc ngày thì giữ mốc") | nặng | không tự thêm dữ kiện → mục CEO 1 |
+| s010–s020 | **Khối "Key date" của hero chỉ còn 12 ngày hiệu lực.** Ngày 01/10/2026 toàn khối nổi bật nhất trang sẽ sai thì và lỗi thời | nặng | mục CEO 2 (cần bản thay sẵn, chốt trước 30/09) |
+| s012 | "The **September 30, 2026** date directly affects the **US$800,000 investment amount**" — sai cơ chế. Grandfathering của RIA bảo vệ hồ sơ đã nộp trước việc chương trình Trung tâm vùng hết hạn/không được gia hạn (USCIS và DOS vẫn phải tiếp tục xét duyệt); nó **không ấn định hay bảo lưu mức vốn**. Mức vốn do luật định giữ đến hết 31/12/2026 rồi tự điều chỉnh — mốc liên quan tới con số US$800,000 là **31/12/2026**, không phải 30/09/2026. (17/09 đã nêu; nay có thêm căn cứ Buchalter 2026 và chỉ còn 12 ngày) | nặng | mục CEO 1 |
+| s148, s151 | Trích **Visa Bulletin tháng 6/2026** và đóng dấu "Updated: June 2026" trên trang phát hành 18/09/2026 — cũ 3 kỳ ngay ngày lên trang, hại E-E-A-T. Nội dung thì vẫn đúng: theo bản tin tháng 9/2026, cả ba hạng mục set-aside (rural, high-unemployment, infrastructure) vẫn current cho mọi quốc gia, kể cả Ấn Độ | nặng | mục CEO 3 |
+| s002 | H1 "…: A U.S. Green Card for Your Whole Family" nêu kết quả như điều đã có. Chính trang dùng khuôn "A path to…" ở s026 và s035; trong marketing EB-5 câu khẳng định kết quả dễ bị đọc là cam kết | vừa | "{1}EB-5{/1} Visa: A Path to a U.S. Green Card for Your Whole Family" (giữ Title Case) |
+| s005, s107, s112 | US$800,000 trình bày như chỉ dành cho TEA. Theo RIA, mức này áp cho **TEA (rural + high-unemployment) và dự án hạ tầng** — chính trang gọi tên "infrastructure projects" ở s148, nên trang tự mâu thuẫn | vừa | không tự thêm dữ kiện → mục CEO 4 |
+| s149 | "Availability in the unreserved EB-5 category varies by country of birth" nói quá nhẹ so với thực tế: theo bản tin tháng 9/2026, hạng mục unreserved **Unavailable với Ấn Độ** đến hết FY2026, Trung Quốc đại lục ở mốc 01/12/2016. Người đọc Ấn Độ là nhóm khách brief nêu đích danh | vừa | mục CEO 3 |
+| s130, s131, s132 | Viết "Form I-526" ba lần trong khi cả trang (và toàn bộ khung trung tâm vùng) dùng "Form I-526E". Riêng nội dung "age is locked in" vẫn sai CSPA — 17/09 CEO #3, **chưa được xử lý** | vừa | thống nhất "Form I-526E" (đưa vào sua-ban-xu.txt); nội dung CSPA vẫn ở mục CEO 5 |
+| s259 | "a rural or set-aside project" — sai phân loại: rural **chính là một trong các hạng mục set-aside**, không phải lựa chọn song song. (Nguồn Việt cũng viết "Rural/set-aside") | vừa | "An interest in a rural or other set-aside project while visa availability remains favorable" |
+| (mới, chưa có trên trang) | **Dự thảo quy định tháng 7/2026** bổ sung bậc US$1.4 triệu cho "high employment area" (MSA ngoài TEA, thất nghiệp dưới trung bình). Nếu được ban hành sẽ đổi cách hiểu mức US$1,050,000 ở s108 | vừa | mục CEO 6 — theo dõi, chưa đưa lên trang |
+| s014 | "are grandfathered under the current requirements if the program is changed later" không nói rõ nội dung bảo vệ là gì; cách diễn đạt của hãng luật: USCIS và DOS **vẫn phải tiếp tục xét duyệt hồ sơ đã nộp** dù chương trình hết hạn | nhẹ | mục CEO 1 (gộp câu chốt) |
+| s008 vs s249 | Hero bán "structured risk management" trong khi trang không có câu miễn trừ rõ về khả năng mất một phần/toàn bộ vốn (s249 chỉ nói vốn "must genuinely be at risk"). 17/09 CEO #10, **chưa được xử lý** | vừa | mục CEO 7 |
+
+## Cần CEO xác nhận (bản dịch giữ đúng nguồn)
+
+**Mới hoặc đã đổi tình hình tính đến 18/09/2026**
+
+1. **Mốc 30/09/2026 ≠ mốc giữ mức vốn US$800,000 (s012, s014, s010–s020) — và mốc thật sự của con số là 31/12/2026.** Grandfathering của RIA bảo vệ hồ sơ I-526/I-526E nộp **on or before** 30/09/2026: nếu chương trình Trung tâm vùng hết hạn hoặc không được gia hạn, USCIS và DOS vẫn phải tiếp tục xét duyệt hồ sơ đó. Nó không ấn định mức vốn. Mức vốn do INA 203(b)(5)(C) điều chỉnh CPI tự động **từ 01/01/2027**. Đề nghị CEO/pháp chế duyệt cách viết tách bạch hai mốc, ví dụ: "Petitions filed on or before **September 30, 2026** remain protected if the Regional Center Program lapses or is not reauthorized — USCIS and the Department of State must continue to adjudicate them. Separately, the statutory investment amounts are scheduled to adjust for inflation on **January 1, 2027**." (Buchalter 2026, Fragomen 2026)
+2. **Lịch thay khối hero (s010–s020) — còn 12 ngày.** Cần chốt hôm nay ai viết bản thay và ngày đổi (khuyến nghị: dựng sẵn, hẹn đổi 01/10/2026), nếu không trang mới lên đã lỗi thời trong chưa đầy hai tuần. Đồng thời nên thêm dòng "Information current as of September 2026" cho cả khối mức vốn (7 đoạn nêu ở bảng B) vì các con số đổi ngày 01/01/2027.
+3. **Visa Bulletin (s148, s149, s151) — số liệu tháng 6/2026 đã cũ 3 kỳ.** Số liệu kỳ **tháng 9/2026**: ba hạng mục set-aside (rural, high-unemployment, infrastructure) **vẫn current cho mọi quốc gia, kể cả Ấn Độ**; hạng mục **unreserved: Ấn Độ Unavailable** đến hết FY2026, **Trung Quốc đại lục 01/12/2016**, các nước khác current. Lưu ý FY2027 bắt đầu 01/10/2026 — số visa reset và bản tin tháng 10 sẽ đổi, nên nếu trang lên trước 01/10 thì nên trích kỳ tháng 9 và ghi rõ "as of the September 2026 Visa Bulletin". Đề nghị duyệt cho phép nêu đích danh Ấn Độ/Trung Quốc ở s149 (thêm dữ kiện → cần CEO).
+4. **US$800,000 áp cho cả dự án hạ tầng (s005, s107, s112).** RIA: mức thấp áp cho dự án trong TEA (rural, high-unemployment) **và dự án hạ tầng**. Trang tự mâu thuẫn vì s148 đã kể tên "infrastructure projects". Đề nghị duyệt câu cho s107: "US$800,000 for projects in a Targeted Employment Area (TEA) — rural areas and high-unemployment areas — and for qualifying infrastructure projects".
+5. **"Tuổi con được khoá khi nộp I-526" (s130–s132)** — 17/09 CEO #3, **chưa xử lý, vẫn sai CSPA** và mâu thuẫn với chính s210 (đúng luật) trên cùng trang. Bản sửa hôm nay chỉ thống nhất tên mẫu đơn thành I-526E, **không** sửa nội dung. Câu đề xuất 17/09 vẫn để CEO duyệt: "Under the Child Status Protection Act (CSPA), the time Form I-526E is pending may be subtracted from a child's age."
+6. **Dự thảo quy định tháng 7/2026** thêm bậc US$1.4 triệu cho "high employment area". Chưa ban hành → đề nghị chưa đưa lên trang, nhưng đưa vào lịch rà soát nội dung quý 4/2026 cùng với mốc 01/01/2027.
+7. **Câu miễn trừ rủi ro vốn và khuyến nghị luật sư độc lập ở cấp trang.** 17/09 CEO #10, chưa xử lý. Trang có s249 ("must genuinely be at risk"), s244 (tư vấn thuế) và s251 (phối hợp luật sư) nhưng không có câu miễn trừ đứng riêng ở chân trang. Với hero bán "structured risk management" (s008), khuyến nghị pháp chế thêm một dòng ở chân trang — cần CEO duyệt vì là dữ kiện mới.
+
+**Chuyển tiếp từ 17/09, chưa được xử lý (không lặp lại lập luận)**
+
+8. "Age 18 or older" (s049) — luật EB-5 không đặt tuổi tối thiểu. *(17/09 CEO #2)*
+9. Thứ tự bước: "Exit your investment" (s077–s078) đặt giữa nộp I-829 (s075) và có thẻ xanh vĩnh viễn (s079). *(17/09 CEO #4)*
+10. "A May 22, 2026 USCIS update" (s217) — bản ghi nhớ PM-602-0199 ký 21/05/2026; xác nhận ngày ghi trên trang. *(17/09 CEO #6)*
+11. Mâu thuẫn nội bộ về thời gian: thẻ xanh "3 weeks to 1 month" (s137) vs "up to 90 days" (s222); hạn visa "6 months from the date of the medical exam" (s135) vs "6 months from issuance" (s221). *(17/09 CEO #8)*
+12. "180+ destinations" (s027) — kiểm lại chỉ số hộ chiếu Mỹ mới nhất. *(17/09 CEO #9)*
+
+**Hết hiệu lực:** 17/09 CEO #5 (xác nhận Ecoplastic/Horseshoe Bay là rural TEA) — thẻ dự án không còn trong bản xuất ACF này.
+
+**Không đổi từ 17/09:** 13 liên kết vẫn trỏ trang tiếng Việt và 3 ID bài (97875, 97934, 99848) vẫn trỏ bài tiếng Việt (cảnh báo của lệnh `ghep`) — đúng như brief đã thống nhất, chờ bản /en/ tương ứng.
+
+Nguồn tra 18/09/2026: https://www.fragomen.com/insights/approaching-eb-5-grandfathering-deadline-what-investors-need-to-know-before-september-30-2026.html · https://www.buchalter.com/insights/eb-5-at-a-crossroads-the-grandfathering-deadline-the-proposed-rule-and-the-rising-bar-on-source-of-funds-scrutiny/ · https://www.mondaq.com/unitedstates/investment-immigration/1839684/september-2026-visa-bulletin-eb-5-unreserved-visa-numbers-remain-unavailable-for-india · https://www.fragomen.com/insights/united-states-september-2026-visa-bulletin-main-employment-based-categories-hold-steady-some-categories-may-hit-annual-limits-before-end-of-september-uscis-to-honor-final-action-dates.html · https://www.greencardfund.com/the-inflation-adjustment-mechanism-under-the-eb-5-reform-and-integrity-act/ · https://www.congress.gov/crs-product/IF13040
+
+Tổng (theo dòng bảng): **nặng 4 · vừa 11 · nhẹ 13**. sua-ban-xu.txt: 23 dòng.

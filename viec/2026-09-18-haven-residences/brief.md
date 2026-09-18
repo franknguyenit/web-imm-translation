@@ -1,0 +1,13 @@
+# Brief — Haven Residences (EB-5 project page, ACF projectnew-2026, post_id 97875 — bản Việt)
+- Mục đích: trang giới thiệu một dự án EB-5 cụ thể (khu căn hộ phức hợp thương mại, Rancho Cucamonga, CA), kêu gọi để lại thông tin.
+- Người đọc: nhà đầu tư EB-5 quốc tế (châu Á — Trung Quốc, Ấn Độ, Việt Nam, Đài Loan; Trung Đông; Mỹ Latinh) đang so sánh dự án: cần cấu trúc vốn, vị trí khoản vay, việc làm, tiến độ.
+- Giọng: cố vấn ngân hàng tư nhân, dữ kiện, không hô hào. Tiếng Anh Mỹ, US$.
+- Dịch SÁT: số vốn, tỷ lệ, việc làm, tiến độ, bảo lãnh, cơ chế Parkview, miễn trừ trách nhiệm.
+- VIẾT LẠI: hero (eyebrow, H2, H1), tiêu đề mục (bỏ viết hoa cả dòng), CTA.
+- Làm mềm tuân thủ: "AN TOÀN THẺ XANH" / "AN TOÀN KHẢ NĂNG THU HỒI VỐN" / "bảo vệ quyền lợi tối đa" / "đánh giá khả năng thành công".
+- Viết chung vì ngữ cảnh Việt: s134 "xuất khẩu lao động" (khái niệm riêng VN) → "employment-based worker categories".
+- Không có tiền VND → không quy đổi.
+- Từ khoá (tukhoa trả 0 gợi ý — Cowork chặn mạng dòng lệnh; dùng WebSearch):
+  - Chính: "EB-5 project" (kèm tên Haven Residences) — trang dự án; top Google cho "EB-5 project California apartment senior loan" là trang dự án/hướng dẫn "EB-5 multifamily projects", "senior loan vs equity".
+  - Phụ: "EB-5 multifamily project" · "EB-5 senior loan" · "California EB-5 project" · "I-956F approved" · "Rancho Cucamonga" · "regional center".
+  - Chưa có số lượt tìm; xếp theo mức phủ kết quả tìm kiếm.

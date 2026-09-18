@@ -200,6 +200,186 @@ class DonVi(unittest.TestCase):
     def test_bang_thuat_ngu_that_xanh(self):
         self.assertEqual(dich.kiem_bang_thuat_ngu(dich.doc_thuat_ngu()), [])
 
+    def test_tm_tach_alt_anh_voi_chu(self):
+        tmp = Path(tempfile.mkdtemp())
+        cu_tm, cu_tmx = dich.TM, dich.TMX
+        try:
+            dich.TM, dich.TMX = tmp / "tm.jsonl", tmp / "tm.tmx"
+            v = tmp / "v"; v.mkdir()
+            dich.ghi_tsv(v / "song-ngu.tsv", [{"id": "s001", "loai": "h1", "vi": "Visa EB-5", "en": "EB-5 Visa Guide"},
+                                              {"id": "s002", "loai": "img", "vi": "Visa EB-5", "en": "Cover image for the EB-5 video"}])
+            dich.lenh_nap([str(v)])
+            tm = dich.doc_tm()
+            self.assertEqual(len(tm), 2)  # không nuốt nhau vì trùng chữ Việt
+            self.assertEqual(dich.goi_y_tm("Visa EB-5", tm, loai="h1"), "100%: EB-5 Visa Guide")
+            self.assertEqual(dich.goi_y_tm("Visa EB-5", tm, loai="img"), "100%: Cover image for the EB-5 video")
+        finally:
+            dich.TM, dich.TMX = cu_tm, cu_tmx; shutil.rmtree(tmp)
+
+    def test_bo_link_bo_the_giu_cho(self):
+        self.assertEqual(dich.bo_link("{1}EB-5{/1} [x](y){br}{2/}"), "EB-5 [x] ")
+
+    def test_tm_khop_chu_khac_the(self):
+        tm = [{"vi": "Visa Định Cư Mỹ EB-5", "en": "EB-5 Visa"}]
+        self.assertTrue(dich.goi_y_tm("Visa Định Cư Mỹ {1}EB-5{/1}", tm).startswith("100% (gắn lại thẻ {1} {/1}): "))
+        self.assertEqual(dich.goi_y_tm("Visa định cư Mỹ EB-5", tm), "100%: EB-5 Visa")
+
+
+MAU_JSON = GOC / "tests" / "mau" / "acf-product-mau.json"
+DICH_JSON = {
+    "Visa định cư Mỹ EB-5": "EB-5 Visa",
+    "Visa Định Cư Mỹ {1}EB-5{/1}": "{1}EB-5{/1} Visa: A U.S. Green Card for Your Family",
+    "EB-5 là gì?": "What is the EB-5 program?",
+    "Mức đầu tư tối thiểu **800.000 USD**": "Minimum investment: **US$800,000**",
+    "Yêu cầu tư vấn": "Book a consultation",
+    "MỐC QUAN TRỌNG": "KEY DATE",
+    "Hạn cuối nộp hồ sơ {1}I-526E{/1}:{br} {2}30 / 09 / 2026{/2}": "Form {1}I-526E{/1} filing deadline:{br} {2}09 / 30 / 2026{/2}",
+    "Mốc **30/09/2026** ảnh hưởng tới hồ sơ. Xem [visa E-2](https://immgroup.com/dau-tu-dinh-cu-my/visa-my-e2/#faq).":
+        "The **September 30, 2026** date affects your petition. See the [E-2 visa](https://immgroup.com/dau-tu-dinh-cu-my/visa-my-e2/#faq).",
+    "Xét duyệt & quyền lợi": "Adjudication & benefits",
+    "Gia đình tại Mỹ": 'A family in the "U.S."',
+    "ĐIỀU KIỆN": "ELIGIBILITY",
+    "Nguồn vốn hợp pháp": "Lawful source of funds",
+    "Chứng minh nguồn gốc số tiền": "Documented source of funds",
+    "TEA - khu vực việc làm mục tiêu.": "[BO]",
+    "Tìm hiểu dịch vụ của IMM Group:": "Explore IMM Group's services:",
+    "Visa Mỹ E-2": "U.S. E-2 Visa",
+}
+
+
+def khung(x):
+    if isinstance(x, dict):
+        return {k: khung(v) for k, v in x.items()}
+    if isinstance(x, list):
+        return [khung(v) for v in x]
+    return type(x).__name__
+
+
+class JsonAcf(unittest.TestCase):
+    """Việc có nguồn là tệp xuất của ACF Page Importer: moi → dien → ghep ra tệp JSON import được."""
+
+    def setUp(self):
+        self.tmp = Path(tempfile.mkdtemp())
+        self.cu = (dich.GOC, dich.TM, dich.LIEN_KET)
+        dich.GOC, dich.TM, dich.LIEN_KET = self.tmp, self.tmp / "tm.jsonl", self.tmp / "lk.tsv"
+        dich.LIEN_KET.write_text("vi\ten\tghi_chu\nhttps://immgroup.com/dau-tu-dinh-cu-my/visa-my-e2/\thttps://immgroup.com/en/e-2-visa/\t\n", encoding="utf-8")
+        dich.lenh_moi([str(MAU_JSON)])
+        self.viec = next((self.tmp / "viec").iterdir())
+
+    def tearDown(self):
+        dich.GOC, dich.TM, dich.LIEN_KET = self.cu
+        shutil.rmtree(self.tmp)
+
+    def dich_het(self, sua=None):
+        dong = []
+        for r in dich.doc_tsv(self.viec / "song-ngu.tsv"):
+            en = (sua or {}).get(r["id"], DICH_JSON[r["vi"]])
+            dong.append(f"[{r['id']}|#bo: chỉ giải nghĩa cho người Việt] [BO]" if en == "[BO]" else f"[{r['id']}] {en}")
+        (self.tmp / "d.txt").write_text("\n".join(dong), encoding="utf-8")
+        dich.lenh_dien([str(self.viec), str(self.tmp / "d.txt")])
+
+    def test_tach_doan(self):
+        r = dich.doc_tsv(self.viec / "song-ngu.tsv")
+        self.assertEqual([(x["loai"], x["vi"]) for x in r], [
+            ("tieu-de", "Visa định cư Mỹ EB-5"), ("h1", "Visa Định Cư Mỹ {1}EB-5{/1}"), ("h3", "EB-5 là gì?"),
+            ("li", "Mức đầu tư tối thiểu **800.000 USD**"), ("cta", "Yêu cầu tư vấn"), ("p", "MỐC QUAN TRỌNG"),
+            ("p", "Hạn cuối nộp hồ sơ {1}I-526E{/1}:{br} {2}30 / 09 / 2026{/2}"),
+            ("p", "Mốc **30/09/2026** ảnh hưởng tới hồ sơ. Xem [visa E-2](https://immgroup.com/dau-tu-dinh-cu-my/visa-my-e2/#faq)."),
+            ("h3", "Xét duyệt & quyền lợi"), ("img", "Gia đình tại Mỹ"), ("h2", "ĐIỀU KIỆN"), ("h3", "Nguồn vốn hợp pháp"),
+            ("li", "Chứng minh nguồn gốc số tiền"), ("p", "TEA - khu vực việc làm mục tiêu."),
+            ("p", "Tìm hiểu dịch vụ của IMM Group:"), ("li", "Visa Mỹ E-2")])
+        self.assertEqual(r[6]["src"], "acf.product_important_content#2")
+        self.assertTrue((self.viec / "nguon.json").exists())
+        self.assertEqual(dich.doc_meta(self.viec)["bo_chuyen"], "acf-product-2026")
+
+    def test_ghep_ra_json_import(self):
+        self.dich_het()
+        dich.lenh_ghep([str(self.viec)])
+        goc = json.loads(MAU_JSON.read_text(encoding="utf-8"))[0]
+        ra = json.loads((self.viec / "ban-giao" / "visa-mau.en.json").read_text(encoding="utf-8"))[0]
+        self.assertEqual(khung(ra), khung(goc))  # cùng khoá, cùng số dòng repeater, cùng kiểu
+        self.assertEqual((ra["post_id"], ra["post_slug"], ra["post_title"]), (123, "/visa-mau/", "EB-5 Visa"))
+        a = ra["acf"]
+        self.assertEqual(a["product_hero_title"]["product_hero_title_content"], '<span class=\\"accent\\">EB-5</span> Visa: A U.S. Green Card for Your Family')
+        self.assertEqual(a["product_hero_content"][0]["product_hero_content_text"][0]["product_hero_content_text_item"], "Minimum investment: <strong>US$800,000</strong>")
+        ic = a["product_important_content"]
+        for mau in ['<!-- Khối mốc -->',
+                    '<span class="material-symbols-outlined sm">alarm</span>\r\n    KEY DATE\r\n  </span>',
+                    'Form <span style="color:var(--navy);">I-526E</span> filing deadline:<br> <span class="date-num">09 / 30 / 2026</span>\r\n  </div>',
+                    '<strong style="color:var(--text-main);">September 30, 2026</strong>',
+                    '<a href="https://immgroup.com/en/e-2-visa/#faq" target="_blank">E-2 visa</a>.',
+                    '<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M9 12l2 2 4-4"/></svg>',
+                    'Adjudication &amp; benefits', 'alt="A family in the &quot;U.S.&quot;"']:
+            self.assertIn(mau, ic)
+        self.assertEqual(a["product_conditions_items"][0]["product_conditions_item_footnote"], "")
+        self.assertEqual(a["product_hero_cta"][0]["product_hero_cta_url"], "https://immgroup.com/dang-ky-tu-van/")
+        self.assertEqual(a["product_care_service_links"][0]["product_care_service_link_url"], "https://immgroup.com/en/e-2-visa/")
+        self.assertEqual(a["product_care_service_desc"], "<p>Explore IMM Group's services:</p>\n")
+        for k in ("product_hero_video", "product_projects_posts", "product_faq_mode"):
+            self.assertEqual(a[k], goc["acf"][k])
+        self.assertEqual((a["product_hero_content"][0]["product_hero_content_icon"], a["product_hero_cta"][0]["product_hero_cta_is_primary"]), ("info", True))
+        _, loi, canh = dich.dung_json(self.viec, dich.doc_tsv(self.viec / "song-ngu.tsv"))
+        self.assertEqual(loi, [])
+        self.assertTrue(any("dang-ky-tu-van" in c for c in canh) and any("97875" in c for c in canh), canh)
+        md = (self.viec / "ban-giao" / "bai-dich.en.md").read_text(encoding="utf-8")
+        self.assertIn("# EB-5 Visa: A U.S. Green Card for Your Family", md)
+        self.assertNotIn("{1}", md)
+
+    def test_the_lech_khong_ghi_json(self):
+        self.dich_het({"s007": "Form {1}I-526E{/1} filing deadline:{br} {2}09 / 30 / 2026"})
+        _, loi, _ = dich.dung_json(self.viec, dich.doc_tsv(self.viec / "song-ngu.tsv"))
+        self.assertTrue(any("s007 THẺ HTML LỆCH" in x for x in loi), loi)
+        with self.assertRaises(SystemExit):
+            dich.lenh_ghep([str(self.viec)])
+        self.assertFalse((self.viec / "ban-giao" / "visa-mau.en.json").exists())
+        ma, bc = chay_kiem(self.viec)
+        self.assertEqual(ma, 1)
+        self.assertIn("THẺ HTML LỆCH", bc.split("## CẢNH BÁO")[0])
+
+    def test_con_doan_chua_dich(self):
+        self.dich_het({"s003": ""})
+        _, loi, _ = dich.dung_json(self.viec, dich.doc_tsv(self.viec / "song-ngu.tsv"))
+        self.assertTrue(any("chưa dịch" in x for x in loi), loi)
+
+    def test_nguon_doi_sau_moi(self):
+        p = self.viec / "nguon.json"
+        p.write_text(p.read_text(encoding="utf-8").replace("Nguồn vốn hợp pháp", "Nguồn vốn sạch"), encoding="utf-8")
+        _, loi, _ = dich.dung_json(self.viec, dich.doc_tsv(self.viec / "song-ngu.tsv"))
+        self.assertIn("không còn khớp", loi[0])
+
+    def test_vong_tron_giu_nguyen_html(self):
+        goc = json.loads(MAU_JSON.read_text(encoding="utf-8"))[0]
+        bc = dich.doc_bo_chuyen("acf-product-2026")
+        ds = [d for d in dich.doan_json(goc, bc) if d["duong"] == ("acf", "product_important_content")]
+        chuoi = goc["acf"]["product_important_content"]
+        ra = dich.ghep_truong_html(chuoi, [(d, d["vi"]) for d in ds])
+        self.assertEqual(dich.gon(ra), dich.gon(chuoi))  # chỉ khác xuống dòng BÊN TRONG đoạn (gộp thành 1 dấu cách)
+        self.assertIn("alarm</span>\r\n    MỐC QUAN TRỌNG\r\n  </span>", ra)  # khoảng trắng ở mép đoạn giữ nguyên
+
+    def test_json_dan_vao_chat_luu_nham_duoi_md(self):
+        p = self.tmp / "dan-tu-chat.md"
+        p.write_text(MAU_JSON.read_text(encoding="utf-8"), encoding="utf-8")
+        dich.lenh_moi([str(p), "--ten", "dan-chat"])
+        viec = next((self.tmp / "viec").glob("*-dan-chat"))
+        self.assertEqual(dich.doc_meta(viec)["dang"], "acf-json")
+        self.assertEqual(dich.doc_tsv(viec / "song-ngu.tsv")[1]["vi"], "Visa Định Cư Mỹ {1}EB-5{/1}")
+
+    def test_moi_trung_ten_khong_ghi_de(self):
+        self.dich_het()
+        dich.lenh_moi([str(MAU_JSON)])
+        cu, moi = sorted((self.tmp / "viec").iterdir())
+        self.assertEqual((cu.name[11:], moi.name[11:]), ("visa-mau", "visa-mau-2"))
+        self.assertTrue(all(r["en"] for r in dich.doc_tsv(cu / "song-ngu.tsv")))  # bản dịch việc cũ còn nguyên
+
+    def test_nhieu_trang_phai_chon(self):
+        nhieu = self.tmp / "nhieu.json"
+        mot = json.loads(MAU_JSON.read_text(encoding="utf-8"))[0]
+        nhieu.write_text(json.dumps([mot, dict(mot, post_slug="/khac/", post_id=9)], ensure_ascii=False), encoding="utf-8")
+        with self.assertRaises(SystemExit):
+            dich.lenh_moi([str(nhieu)])
+        dich.lenh_moi([str(nhieu), "--trang", "/khac/", "--ten", "khac"])
+        self.assertEqual(dich.doc_meta(next((self.tmp / "viec").glob("*-khac")))["post_id"], 9)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -1,0 +1,23 @@
+[s001] U.S. EB-5 Visa
+[s002] {1}EB-5{/1} Visa: A Path to a U.S. Green Card for Your Whole Family
+[s011] Grandfathering deadline for Form {1}I-526E{/1} filings:{br} {2}September 30, 2026{/2}
+[s017] Preserve the current criteria
+[s086] Other U.S. immigration routes
+[s087] Explore IMM Group's other U.S. immigration programs:
+[s089] U.S. E-2 treaty investor visa
+[s090] U.S. L-1A intracompany transferee visa
+[s091] U.S. EB-1C green card for executives and managers
+[s095] Taxes in the U.S.
+[s098] Social Security and public benefits in the U.S.
+[s099] Immigrant success stories in the U.S.
+[s100] Inspiring U.S. immigration journeys
+[s130] A child's age is locked in when Form I-526E is filed
+[s131] While Form I-526E is pending, the child's age does not increase
+[s132] From the Form I-526E decision until the visa is issued, the child's age continues to count
+[s148] According to the June 2026 Visa Bulletin, the reserved EB-5 categories (rural, high-unemployment, and infrastructure projects) were current for applicants from all countries, with no backlog
+[s149] Availability in the unreserved EB-5 category varies by country of birth; check the latest Visa Bulletin for your country
+[s190] Each EB-5 investor must be credited with at least 10 qualifying full-time jobs for U.S. workers
+[s191] For regional center investments, jobs may be counted using reasonable economic methodologies — direct, indirect, and induced jobs — provided the requirements are met
+[s195] It is an important criterion in project due diligence, but it does not ensure Form I-829 approval
+[s222] You need to pay the USCIS Immigrant Fee before the physical green card can be issued (actual timing depends on USCIS and can take up to 90 days)
+[s259] An interest in a rural or other set-aside project while visa availability remains favorable

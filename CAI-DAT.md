@@ -21,7 +21,7 @@ Rồi thử: dán một link `immgroup.com/...` vào khung chat.
 | 2 | Kiểm mạng tới immgroup.com, Google gợi ý từ khoá, open.er-api.com (tỷ giá) | Không |
 | 3 | Cài memory vào `~/.claude/projects/<đường-dẫn-dự-án-mã-hoá>/memory/` | Tệp trùng tên mà khác nội dung → **sao lưu** `.truoc-cai-<giờ>` rồi ghi |
 | 4 | Cài skill `dich-web-imm` vào `~/.claude/skills/` (và `portable/skill-cua-tony/`, `hop-thu-skill/` nếu máy có) — tự đổi đường dẫn dự án trong skill theo máy mới | Skill cùng tên đã có → **sao lưu** rồi ghi |
-| 5 | Chạy 33 ca kiểm, kiểm bảng thuật ngữ, kiểm đồng bộ bộ nhớ | Không |
+| 5 | Chạy 45 ca kiểm, kiểm bảng thuật ngữ, kiểm đồng bộ bộ nhớ | Không |
 
 Kết thúc in `CÀI ĐẶT: XANH` hoặc `ĐỎ · n lỗi`. **Không** đụng `~/.claude/CLAUDE.md`, hook, `settings.json`.
 
@@ -52,7 +52,9 @@ CAI-DAT.md                 tệp này
 cong-cu/dich.py            moi · xem · dien · tukhoa · tygia · ghep · kiem · nap · kiemtn
 cong-cu/dong-bo-bo-nho.sh  chép memory + skill của Claude về bo-nho/
 cong-cu/cai-dat.sh         cài lên máy mới
-tests/                     33 ca kiểm (python3 -m unittest discover -s tests)
+tests/                     45 ca kiểm (python3 -m unittest discover -s tests)
+bo-chuyen/                 cấu hình trường theo template ACF (dịch tệp JSON của ACF Page Importer)
+lien-ket/lien-ket-vi-en.tsv  bảng link trang Việt → trang Anh
 quy-trinh/style-guide.md   style guide
 thuat-ngu/thuat-ngu.csv    bảng thuật ngữ
 bo-nho-dich/               bộ nhớ dịch .jsonl + .tmx

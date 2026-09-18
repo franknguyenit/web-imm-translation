@@ -1,0 +1,139 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	tieu-de	Dự án EB-5 | Khu dân cư phức hợp thương mại Haven Residences	EB-5 Project | Haven Residences Mixed-Use Residential Community			post_title
+s002	p	Còn suất	Investor spots available	100%: Investor spots available		acf.slot_pro
+s003	p	DỰ ÁN EB-5	EB-5 Project			acf.pro_sub_title_hero
+s004	h2	KHU DÂN CƯ PHỨC HỢP THƯƠNG MẠI	Mixed-use residential community			acf.sub_pro_title_hero
+s005	h1	HAVEN RESIDENCES	Haven Residences			acf.pro_title_hero
+s006	li	Lợi thế pháp lý: Đơn I-956F của Haven Residences đã được Sở Di trú Mỹ (USCIS) chấp thuận chính thức.	Regulatory milestone: U.S. Citizenship and Immigration Services (USCIS) has formally approved Form I-956F for the Haven Residences EB-5 project.			acf.pro_desc_hero#1
+s007	li	Tọa lạc tại Rancho Cucamonga, cách trung tâm Los Angeles khoảng 30 phút.	Located in Rancho Cucamonga, about 30 minutes from downtown Los Angeles.			acf.pro_desc_hero#2
+s008	li	{1}IMM trực tiếp quản lý vốn EB-5, giúp chủ động theo dõi, cập nhật tiến độ, và bảo vệ quyền lợi nhà đầu tư{/1}{2}. {/2}	{1}IMM directly manages the EB-5 capital, allowing us to monitor the project closely, report on progress, and protect investors' interests{/1}{2}.{/2}			acf.pro_desc_hero#3
+s009	li	{1}Vốn EB-5 thuộc nhóm ưu tiên hoàn trả đầu tiên, và được đảm bảo bằng vị trị thế chấp hạng nhất trên chính dự án{/1}{2}.{/2}	{1}EB-5 capital holds the highest repayment priority in the capital stack and is secured by a first-position lien on the project itself{/1}{2}.{/2}			acf.pro_desc_hero#4
+s010	li	Đã hoàn thành hơn 90% tiến độ xây dựng, dự kiến hoàn tất toàn bộ phần nhà ở vào tháng 10/2026	More than 90% of construction is complete, and all residential buildings are expected to be finished in October 2026.			acf.pro_desc_hero#5
+s011	li	Chủ đầu tư cam kết hoàn thành dự án, và bảo lãnh thanh toán khoản vay EB-5.	The developer has committed to completing the project and has provided a repayment guarantee on the EB-5 loan.			acf.pro_desc_hero#6
+s012	li	Khoản đầu tư EB-5 sẽ đáo hạn và dự kiến được hoàn trả sau 4 năm.	The EB-5 investment has a 4-year term, with repayment expected at maturity.			acf.pro_desc_hero#7
+s013	h2	HAVEN RESIDENCES - DỰ ÁN EB-5 ĐỘC QUYỀN IMM GROUP	Haven Residences: an IMM Group exclusive EB-5 project			acf.pro_parent_rp[0].pro_child_h3
+s014	h4	Tổng quan dự án	Project overview			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[0].pro_child_h5
+s015	li	Quy mô: 248 căn hộ, 11 khối nhà thấp tầng	Scale: 248 apartments across 11 low-rise buildings			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#1
+s016	li	Vị trí: 8500 Haven Avenue, Rancho Cucamonga, California, thuộc vùng Inland Empire	Location: 8500 Haven Avenue, Rancho Cucamonga, California, in the Inland Empire			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#2
+s017	li	Kết nối: cách trung tâm Los Angeles khoảng 30 phút di chuyển	Access: about 30 minutes from downtown Los Angeles			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#3
+s018	li	Thiết kế: phong cách resort, mật độ xây dựng thấp	Design: resort-style, low-density			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#4
+s019	li	Môi trường sống: trường học chất lượng, tiện ích đầy đủ, an ninh tốt	Community: well-regarded schools, comprehensive amenities, and a secure environment			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#5
+s020	h4	Khu thương mại nội khu đáp ứng nhu cầu thiết yếu	On-site retail for everyday needs			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[1].pro_child_h5
+s021	li	Tích hợp các mặt bằng chuyên biệt tại khối đế để cho thuê	Purpose-built ground-floor commercial spaces for lease			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#1
+s022	li	Phù hợp bán lẻ, cửa hàng tiện ích, khu mua sắm	Suited to retail shops, convenience stores, and everyday shopping			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#2
+s023	li	Phục vụ cư dân và cộng đồng lân cận	Serves residents and the surrounding community			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#3
+s024	h4	Tiện ích nội khu cao cấp	Premium on-site amenities			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[2].pro_child_h5
+s025	li	Không gian làm việc chung	Coworking space			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[2].pro_child_desc_n1#1
+s026	li	Hồ bơi và câu lạc bộ	Pool and clubhouse			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[2].pro_child_desc_n1#2
+s027	li	Sân thượng và khu tiện ích ngoài trời	Rooftop terrace and outdoor amenity areas			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[2].pro_child_desc_n1#3
+s028	li	Trung tâm thể dục	Fitness center			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[2].pro_child_desc_n1#4
+s029	li	Hệ thống kho lưu trữ	Resident storage			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[2].pro_child_desc_n1#5
+s030	h4	Cấu trúc vốn dự án	Project capital structure			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[3].pro_child_h5
+s031	li	Tổng vốn: 132 triệu USD	Total capitalization: US$132 million			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[3].pro_child_desc_n1#1
+s032	li	Vốn chủ sở hữu: 68 triệu USD (~52%)	Developer equity: US$68 million (~52%)			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[3].pro_child_desc_n1#2
+s033	li	Khoản vay xây dựng Parkview: 40 triệu USD	Parkview construction loan: US$40 million			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[3].pro_child_desc_n1#3
+s034	li	Vốn EB-5: 24 triệu USD (~18%)	EB-5 capital: US$24 million (~18%)			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[3].pro_child_desc_n1#4
+s035	li	Vốn chủ sở hữu chiếm hơn 50%, không đặt toàn bộ áp lực tài trợ lên vốn EB-5.	Equity makes up more than 50% of the capital stack, so the project's financing does not rest entirely on EB-5 capital.			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[3].pro_child_desc_n1#5
+s036	li	Vốn EB-5 tham gia theo cơ chế đồng cho vay với Parkview, nên cùng là khoản vay cấp cao, và có quyền đảm bảo bằng vị thế ưu tiên thế chấp cao nhất trên chính dự án.	EB-5 capital participates as a co-lender alongside Parkview, forming part of the senior loan secured by a first-position lien on the project itself.			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[3].pro_child_desc_n1#6
+s037	h4	IMM trực tiếp tham gia quản lý vốn EB-5	IMM is directly involved in managing EB-5 capital			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[4].pro_child_h5
+s038	li	IMM Management - pháp nhân của IMM Group tại Mỹ, trực tiếp tham gia vào giám sát và quản lý việc sử dụng vốn EB-5 tại dự án.	IMM Management, IMM Group's U.S. entity, is directly involved in overseeing and managing the use of EB-5 capital in the project.			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[4].pro_child_desc_n1#1
+s039	li	Đảm bảo nguồn vốn EB-5 được sử dụng đúng mục đích để tạo ra việc làm.	Helps ensure EB-5 capital is used as intended to create jobs.			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[4].pro_child_desc_n1#2
+s040	li	IMM có quyền can thiệp khi cần và bảo vệ quyền lợi tối đa cho nhà đầu tư.	IMM has the right to step in when necessary to protect investors' interests.			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[4].pro_child_desc_n1#3
+s041	h4	Trung tâm vùng Toma	Toma Regional Center			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[5].pro_child_h5
+s042	li	Đơn vị huy động các suất đầu tư EB-5 cho dự án.	Raises EB-5 capital for the project.			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[5].pro_child_desc_n1#1
+s043	li	Đã triển khai huy động vốn EB-5 thành công Khách sạn Whisky Hollywood – dự án EB-5 độc quyền của IMM Group.	Successfully raised EB-5 capital for the Whisky Hollywood hotel, an IMM Group exclusive EB-5 project.			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[5].pro_child_desc_n1#2
+s044	li	Whisky Hollywood đã vận hành ổn định, nhà đầu tư đang trong quá trình nhận thẻ xanh	Whisky Hollywood is now operating steadily, and its investors are progressing through the green card process.			acf.pro_parent_rp[0].pro_child_pr_item[0].pro_child_pr[5].pro_child_desc_n1#3
+s045	h2	TỔ HỢP CĂN HỘ PHỨC HỢP THƯƠNG MẠI TẠI TÂM ĐIỂM KINH TẾ NAM CALIFORNIA	A mixed-use apartment community in the economic heart of Southern California			acf.pro_parent_rp[1].pro_child_h3
+s046	h3	Vị trí đắc địa, khu dân cư ổn định, hạ tầng phát triển	Prime location, established neighborhood, strong infrastructure			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_h4
+s047	h4	Kết nối thuận tiện	Convenient access			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_pr[0].pro_child_h5
+s048	li	Cách trung tâm Los Angeles 30 phút	30 minutes from downtown Los Angeles			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#1
+s049	li	Sát cao tốc huyết mạch I-10 và I-15	Close to the I-10 and I-15 freeways			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#2
+s050	li	Cách sân bay quốc tế Ontario chỉ 7 phút	Just 7 minutes from Ontario International Airport			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#3
+s051	li	Kết nối đô thị trung tâm, vẫn giữ không gian sống thoáng đãng.	Connected to major urban centers while keeping an open, spacious living environment.			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#4
+s052	h4	Khu dân cư phát triển của Inland Empire	A growing Inland Empire community			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_pr[1].pro_child_h5
+s053	li	Hạ tầng giao thông, tiện ích, giáo dục và cộng đồng cư dân ổn định	Established transportation, amenities, schools, and a stable resident community			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#1
+s054	li	Phù hợp nhu cầu thuê của gia đình và chuyên gia	Well positioned to meet rental demand from families and professionals			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#2
+s055	li	Chi phí sinh hoạt thấp hơn đáng kể so với Los Angeles và Orange County	A significantly lower cost of living than Los Angeles and Orange County			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#3
+s056	h4	Nguồn việc làm dồi dào	A strong local job base			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_pr[2].pro_child_h5
+s057	li	Tập trung các trung tâm logistics lớn (Amazon...) và tổ hợp y tế quy mô	Home to major logistics centers (such as Amazon) and large healthcare complexes			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_pr[2].pro_child_desc_n1#1
+s058	li	Tạo nguồn việc làm đa dạng, thu nhập ổn định tại chỗ	Diverse local employment and stable incomes			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_pr[2].pro_child_desc_n1#2
+s059	li	Hỗ trợ nhu cầu thuê thực từ người lao động và gia đình	Supports real rental demand from local workers and their families			acf.pro_parent_rp[1].pro_child_pr_item[0].pro_child_pr[2].pro_child_desc_n1#3
+s060	h3	KHAN HIẾM NGUỒN CUNG NHÀ Ở MỚI	Limited supply of new housing			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_h4
+s061	h4	Quỹ đất hạn chế	Limited land supply			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[0].pro_child_h5
+s062	li	Rancho Cucamonga ưu tiên nhà ở riêng lẻ	Rancho Cucamonga prioritizes single-family housing			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[0].pro_child_desc_n1#1
+s063	li	Chính quyền cấp phép rất hạn chế cho dự án căn hộ phức hợp	The city grants very few approvals for mixed-use apartment projects			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[0].pro_child_desc_n1#2
+s064	h4	Thị trường căn hộ cao cấp	Upscale apartment market			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[1].pro_child_h5
+s065	li	Tỷ lệ trống căn hộ chỉ 4,5% - 4,6%	Apartment vacancy of just 4.5%–4.6%			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[1].pro_child_desc_n1#1
+s066	li	Giá thuê cao hơn đáng kể mặt bằng chung khu vực	Rents well above the area average			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[1].pro_child_desc_n1#2
+s067	li	Nhu cầu thuê ổn định	Steady rental demand			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[1].pro_child_desc_n1#3
+s068	h4	Mặt bằng thương mại lấp đầy nhanh	Commercial space leases up quickly			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[2].pro_child_h5
+s069	li	Thuộc tiểu khu Airport Area - tỷ lệ lấp đầy cao (tỷ lệ trống chỉ ~3,4%)	Located in the Airport Area submarket, with high occupancy (vacancy of only ~3.4%)			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[2].pro_child_desc_n1#1
+s070	li	Giá cho thuê vượt trội mức trung bình khu vực	Lease rates above the area average			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[2].pro_child_desc_n1#2
+s071	li	Mặt bằng cho thuê nhanh, dòng tiền ổn định từ dịch vụ và nhà hàng.	Fast lease-up, with steady cash flow from service and restaurant tenants.			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[2].pro_child_desc_n1#3
+s072	h4	Lực cầu thuê tăng mạnh	Strong growth in rental demand			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[3].pro_child_h5
+s073	li	California thiếu hụt nhà ở nghiêm trọng	California faces a severe housing shortage			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[3].pro_child_desc_n1#1
+s074	li	Lãi suất vay mua nhà neo cao, việc sở hữu nhà đắt đỏ	Mortgage rates remain elevated, making homeownership expensive			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[3].pro_child_desc_n1#2
+s075	li	Xu hướng chuyển sang thuê căn hộ hạng sang đầy đủ tiện ích	A growing preference for amenity-rich luxury rentals			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[3].pro_child_desc_n1#3
+s076	h4	Lợi thế dự án xây mới	New-construction advantages			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[4].pro_child_h5
+s077	li	Không chịu đạo luật kiểm soát giá thuê California trong 15 năm đầu	Exempt from California's rent control law for the first 15 years			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[4].pro_child_desc_n1#1
+s078	li	Điều chỉnh giá thuê linh hoạt theo thị trường	Rents can be adjusted to market rates			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[4].pro_child_desc_n1#2
+s079	li	Hỗ trợ tiềm năng vận hành và dòng tiền cho thuê.	Supports operating performance and rental cash flow.			acf.pro_parent_rp[1].pro_child_pr_item[1].pro_child_pr[4].pro_child_desc_n1#3
+s080	h2	AN TOÀN THẺ XANH ĐỊNH CƯ MỸ	Job creation to support your green card			acf.pro_parent_rp[2].pro_child_h3
+s081	h4	Biên dự phòng việc làm lớn	A substantial job cushion			acf.pro_parent_rp[2].pro_child_pr_item[0].pro_child_pr[0].pro_child_h5
+s082	li	Việc làm dự kiến: ~1.097 (~ 36 việc làm/ nhà đầu tư EB-5).	Projected job creation: approximately 1,097 jobs (about 36 per EB-5 investor).			acf.pro_parent_rp[2].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#1
+s083	li	Việc làm yêu cầu cho 30 nhà đầu tư: 300.	Jobs required for 30 investors: 300.			acf.pro_parent_rp[2].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#2
+s084	li	Số lượng việc làm dự kiến cao hơn 3,6 lần yêu cầu của chương trình.	Projected job creation is 3.6 times the program requirement.			acf.pro_parent_rp[2].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#3
+s085	h4	Cam kết hoàn thành từ chủ đầu tư	Developer completion commitment			acf.pro_parent_rp[2].pro_child_pr_item[0].pro_child_pr[1].pro_child_h5
+s086	li	Chủ đầu tư cam kết hoàn thành xây dựng.	The developer has committed to completing construction.			acf.pro_parent_rp[2].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#1
+s087	h2	AN TOÀN KHẢ NĂNG THU HỒI VỐN ĐẦU TƯ	Structural features designed to manage investment risk			acf.pro_parent_rp[3].pro_child_h3
+s088	h4	Vốn của chủ đầu tư chiếm tỷ trọng lớn	Significant developer equity			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[0].pro_child_h5
+s089	li	Vốn của chủ đầu tư dự án chiếm hơn 50% tổng vốn dự án.	Developer equity accounts for more than 50% of total project capital.			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#1
+s090	li	Cho thấy cam kết tài chính thực sự - không đặt toàn bộ rủi ro lên nhà đầu tư EB-5.	The developer has substantial capital at risk alongside EB-5 investors, so the risk does not rest solely on them.			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#2
+s091	h4	Không phụ thuộc quá nhiều vào vốn vay EB-5	Limited reliance on EB-5 financing			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[1].pro_child_h5
+s092	li	Tổng vốn 132 triệu USD - vốn chủ sở hữu chiếm hơn 50%	Total capitalization of US$132 million, with more than 50% equity			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#1
+s093	li	Parkview cấp khoản vay xây dựng 64 triệu USD (gồm 1 triệu USD thưởng khi hoàn thành dự án)	Parkview is providing a US$64 million construction loan (including a US$1 million bonus upon project completion)			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#2
+s094	li	Vốn EB-5 tối đa 24 triệu USD - chỉ chiếm phần nhỏ trong tổng vốn	EB-5 capital of up to US$24 million, only a small share of the total			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#3
+s095	li	Nếu vốn EB-5 chưa huy động đủ, Parkview có cơ chế tăng giải ngân bù đắp	If EB-5 capital is not fully raised, Parkview can increase its loan disbursements to cover the shortfall			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#4
+s096	li	Giảm đáng kể áp lực phụ thuộc vào việc huy động đủ toàn bộ vốn EB-5	Significantly reduces dependence on raising the full EB-5 amount			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#5
+s097	h4	Vị trí vốn EB-5 trong cấu trúc tài sản	Where EB-5 capital sits in the capital stack			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[2].pro_child_h5
+s098	li	Vốn EB-5 được cấu trúc đồng tham gia vào khoản vay Parkview	EB-5 capital is structured as a participation in the Parkview loan			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[2].pro_child_desc_n1#1
+s099	li	Vốn EB-5 được đảm bảo bằng vị trí thế chấp đầu tiên với toàn bộ dự án	EB-5 capital is secured by a first-position lien on the entire project			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[2].pro_child_desc_n1#2
+s100	li	Nếu chủ đầu tư mất khả năng thanh toán: Parkview đại diện xử lý tài sản và thanh toán lại cho quỹ EB-5 theo tỷ lệ đóng góp	If the developer becomes insolvent, Parkview, as the lenders' representative, handles disposal of the collateral and distributes the proceeds to the EB-5 fund pro rata to its contribution			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[2].pro_child_desc_n1#3
+s101	h4	Tỷ lệ tài sản bảo đảm so với dư nợ	Collateral value relative to debt			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[3].pro_child_h5
+s102	li	Giá trị dự án khi ổn định: 158,6 triệu USD (theo báo cáo thẩm đinh của đơn vị độc lập)	Appraised stabilized value: US$158.6 million (per an independent appraisal report)			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[3].pro_child_desc_n1#1
+s103	li	Tổng dư nợ vay tối đa: 64 triệu USD	Maximum total loan balance: US$64 million			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[3].pro_child_desc_n1#2
+s104	li	Dư địa lớn giữa giá trị tài sản và dư nợ, hỗ trợ khả năng tái cấp vốn hoặc thanh lý khi cần	A substantial cushion between appraised value and debt, supporting a refinancing or sale if needed			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[3].pro_child_desc_n1#3
+s105	h4	Bảo lãnh bằng tài sản cá nhân	Personal guarantees			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[4].pro_child_h5
+s106	li	Chủ đầu tư bảo lãnh hoàn thành dự án	The developer has guaranteed completion of the project			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[4].pro_child_desc_n1#1
+s107	li	Bảo lãnh thanh toán khoản vay bằng toàn bộ tài sản cá nhân	The developer has provided a personal guarantee of loan repayment, backed by the developer's entire personal assets			acf.pro_parent_rp[3].pro_child_pr_item[0].pro_child_pr[4].pro_child_desc_n1#2
+s108	h2	TIẾN ĐỘ XÂY DỰNG	Construction progress			acf.pro_parent_rp[4].pro_child_h3
+s109	h4	Tiến độ chung của dự án	Overall project timeline			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[0].pro_child_h5
+s110	li	Khởi công: Quý 3/2024	Construction start: Q3 2024			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#1
+s111	li	Dự kiến hoàn tất xây dựng: Quý 4/2026	Expected construction completion: Q4 2026			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#2
+s112	li	Hình ảnh thực tế cập nhật: Tháng 7/2026	Latest site photos: July 2026			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#3
+s113	h4	Cập nhật tiến độ - tháng 7/2026	Progress update – July 2026			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[1].pro_child_h5
+s114	p	Tiến độ xây dựng:	Construction:			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#1
+s115	li	Đã hoàn thành hơn 90% tiến độ. Toàn bộ tòa nhà cư dân dự kiến hoàn tất vào tháng 10.2026.	More than 90% of construction is complete. All residential buildings are expected to be finished in October 2026.		#bo-qua-so: 'tháng 10.2026' là ngày tháng 10/2026 → October 2026	acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#2
+s116	li	4/6 tòa nhà căn hộ đã hoàn thành và cư dân bắt đầu chuyển vào sinh sống.	4 of 6 apartment buildings are complete, and residents have begun moving in.			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#3
+s117	li	2 tòa nhà căn hộ còn lại dự kiến sẽ hoàn thiện vào cuối tháng 9 năm 2026.	The remaining 2 apartment buildings are expected to be completed by the end of September 2026.			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#4
+s118	p	Tiện ích & Cơ sở hạ tầng:	Amenities & infrastructure:			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#5
+s119	li	Hệ thống điện đã được kích hoạt thành công cho toàn dự án	Power has been energized across the entire project site			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#6
+s120	li	Văn phòng cho thuê, nhà điều hành, bể bơi, công viên cho chó và sân pickleball đã đi vào hoạt động.	The leasing office, management building, pool, dog park, and pickleball court are now open.			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#7
+s121	p	Tình hình cho thuê:	Leasing:			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#8
+s122	li	Hơn 60 căn hộ đã ký hợp đồng cho thuê	Leases have been signed for more than 60 apartments			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#9
+s123	li	Giá thuê thực tế đang đạt hoặc vượt mức giả định ban đầu	Achieved rents are meeting or exceeding the original underwriting assumptions			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#10
+s124	li	Đã ký thỏa thuận sơ bộ cho thuê hơn 21.000 sqft làm nhà hàng, spa, văn phòng.	Preliminary lease agreements have been signed for more than 21,000 sq ft of restaurant, spa, and office space.			acf.pro_parent_rp[4].pro_child_pr_item[0].pro_child_pr[1].pro_child_desc_n1#11
+s125	h2	VỊ TRÍ DỰ ÁN	Project location			acf.pro_parent_rp[5].pro_child_h3
+s126	h4	Vị trí dự án	Project location		trung:s125	acf.pro_parent_rp[5].pro_child_pr_item[0].pro_child_pr[0].pro_child_h5
+s127	p	Link Google Maps	View on Google Maps			acf.pro_parent_rp[5].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#1
+s128	img	Vị trí dự án EB-5 Haven Residences	Map showing the location of the Haven Residences EB-5 project			acf.pro_parent_rp[5].pro_child_pr_item[0].pro_child_pr[0].pro_child_desc_n1#2@alt
+s129	h2	Để lại thông tin - Nhận tư vấn dự án Haven Residences	Request a consultation on the Haven Residences project			acf.pro-cta-title
+s130	li	Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.	An IMM advisor will contact you to discuss the project in detail and assess your eligibility.			acf.pro-cta-content#1
+s131	li	Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.	Your personal information is kept confidential under IMM Group's Privacy Policy.			acf.pro-cta-content#2
+s132	p	LƯU Ý:	Please note:			acf.pro-cta-content#3
+s133	li	IMM Group chỉ tư vấn chương trình doanh nhân - đầu tư.	IMM Group advises only on entrepreneur and investor programs.			acf.pro-cta-content#4
+s134	li	Không tư vấn diện xuất khẩu lao động, tay nghề hoặc lao động phổ thông (EB-3...).	We do not advise on skilled or unskilled worker categories (such as EB-3).			acf.pro-cta-content#5
+s135	h3	Lưu ý thông tin	Important information			acf.pro_title_disclaimer
+s136	li	Thông tin trên trang này nhằm cung cấp tổng quan về dự án EB-5 Haven Residences, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.	The information on this page provides an overview of the Haven Residences EB-5 project and is not personalized legal, securities, or investment advice.			acf.pro_content_disclaimer#1
+s137	li	EB-5 là khoản đầu tư có rủi ro; kết quả hồ sơ và khả năng thu hồi vốn phụ thuộc hồ sơ từng nhà đầu tư, dự án và quá trình xét duyệt của USCIS.	EB-5 is an at-risk investment; case outcomes and the return of capital depend on each investor's application, the project, and the USCIS review process.			acf.pro_content_disclaimer#2
+s138	li	Vui lòng trao đổi trực tiếp với chuyên viên IMM trước khi quyết định.	Please speak directly with an IMM advisor before making a decision.			acf.pro_content_disclaimer#3

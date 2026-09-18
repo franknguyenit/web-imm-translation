@@ -1,0 +1,28 @@
+{
+  "mo_ta": "Template 'Project new 2026' (template-parts/content-projectnew-2026.php) — trang dự án EB-5 (vd Haven Residences). Tệp xuất từ Tools → Dịch trang ACF. quy_tac khớp theo TÊN TRƯỜNG lá, luật đầu tiên khớp thì dùng; kiểu: bo = giữ nguyên · url · id · h1..h6/p/li/cta = đoạn dịch. Cờ monopoly/pass/approval là '1'/'0' → bo.",
+  "truong_goc": [
+    "slot_pro", "monopoly_pro", "pass_pro", "approval_pro",
+    "pro_sub_title_hero", "sub_pro_title_hero", "pro_title_hero", "pro_desc_hero", "pro_video", "proj_photo",
+    "pro_parent_rp", "pro-cta-title", "pro-cta-content", "pro_title_disclaimer", "pro_content_disclaimer"
+  ],
+  "quy_tac": [
+    ["monopoly_pro", "bo"],
+    ["pass_pro", "bo"],
+    ["approval_pro", "bo"],
+    ["*_icon", "bo"],
+    ["*_video", "bo"],
+    ["*_photo", "bo"],
+    ["*_progress_rp", "bo"],
+    ["*_url", "url"],
+    ["pro_title_hero", "h1"],
+    ["sub_pro_title_hero", "h2"],
+    ["pro_sub_title_hero", "p"],
+    ["slot_pro", "p"],
+    ["pro_child_h3", "h2"],
+    ["pro_child_h4", "h3"],
+    ["pro_child_h5", "h4"],
+    ["pro-cta-title", "h2"],
+    ["pro_title_disclaimer", "h3"]
+  ],
+  "mac_dinh": "p"
+}

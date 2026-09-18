@@ -1,0 +1,16 @@
+vi	en	ghi_chu
+https://immgroup.com/	https://immgroup.com/en/	hreflang, lấy 18/09/2026
+https://immgroup.com/dau-tu-dinh-cu-my/visa-dinh-cu-my-eb5/	https://immgroup.com/en/visa-dinh-cu-my-eb5/	hreflang 18/09/2026 — seo.json đề xuất đổi slug EN thành eb-5-visa: đổi xong thì sửa dòng này
+https://immgroup.com/thien-nguyen/	https://immgroup.com/en/corporate-social-responsibility/	hreflang, lấy 18/09/2026
+https://immgroup.com/tuyen-dung/	https://immgroup.com/en/imm-group-careers/	hreflang, lấy 18/09/2026
+https://immgroup.com/ve-chung-toi-imm-group/	https://immgroup.com/en/about-us-imm-group/	hreflang, lấy 18/09/2026
+https://immgroup.com/doi-ngu-imm-group/	https://immgroup.com/en/our-people/	hreflang, lấy 18/09/2026
+https://immgroup.com/thong-tin-doanh-nghiep-chung-nhan-nang-luc-doi-ngu-chuyen-gia/	https://immgroup.com/en/imm-group-credentials/	hreflang, lấy 18/09/2026
+https://immgroup.com/dau-tu-dinh-cu-canada/dinh-cu-canada-dien-start-up/	https://immgroup.com/en/start-up-visa-canada-suv/	hreflang, lấy 18/09/2026
+https://immgroup.com/chinh-sach-bao-mat/	https://immgroup.com/en/privacy-policy/	hreflang, lấy 18/09/2026
+https://immgroup.com/dich-vu-imm-group/	https://immgroup.com/en/services/	hreflang, lấy 18/09/2026
+https://immgroup.com/thank-you/	https://immgroup.com/en/thank-you/	hreflang, lấy 18/09/2026
+https://immgroup.com/ban-giam-doc/	https://immgroup.com/en/our-leadership/	hreflang, lấy 18/09/2026
+https://immgroup.com/ve-imm-group/	https://immgroup.com/en/about-imm-group/	hreflang, lấy 18/09/2026
+https://immgroup.com/lien-he/	https://immgroup.com/en/contact/	hreflang, lấy 18/09/2026
+https://immgroup.com/dang-ky-tu-van/	https://immgroup.com/en/contact/	18/09/2026: chưa có trang đăng ký tư vấn tiếng Anh → dùng trang Contact (khớp nút tư vấn của theme, immgroup_wpml_page_url). Có bản dịch thì sửa dòng này

@@ -1,0 +1,61 @@
+[
+    {
+        "post_id": 123,
+        "post_slug": "/visa-mau/",
+        "post_title": "Visa định cư Mỹ EB-5",
+        "acf": {
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "Visa Định Cư Mỹ <span class=\\\"accent\\\">EB-5</span>"
+            },
+            "product_hero_video": "https://www.youtube.com/watch?v=CR_BHIX3dYI",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "EB-5 là gì?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Mức đầu tư tối thiểu <strong>800.000 USD</strong>",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Yêu cầu tư vấn",
+                    "product_hero_cta_url": "https://immgroup.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": true
+                }
+            ],
+            "product_important_content": "<!-- Khối mốc -->\r\n<div style=\"text-align:center;\">\r\n  <span class=\"badge\">\r\n    <span class=\"material-symbols-outlined sm\">alarm</span>\r\n    MỐC QUAN TRỌNG\r\n  </span>\r\n  <div>\r\n    Hạn cuối nộp hồ sơ <span style=\"color:var(--navy);\">I-526E</span>:<br>\r\n    <span class=\"date-num\">30 / 09 / 2026</span>\r\n  </div>\r\n  <p>Mốc <strong style=\"color:var(--text-main);\">30/09/2026</strong> ảnh hưởng tới hồ sơ. Xem <a href=\"https://immgroup.com/dau-tu-dinh-cu-my/visa-my-e2/#faq\" target=\"_blank\">visa E-2</a>.</p>\r\n  <span class=\"sp-icon\"><svg viewBox=\"0 0 24 24\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M9 12l2 2 4-4\"/></svg></span>\r\n  <h3 class=\"sp-title\">Xét duyệt &amp; quyền lợi</h3>\r\n  <img src=\"https://immgroup.com/wp-content/uploads/a.webp\" alt=\"Gia đình tại Mỹ\">\r\n</div>",
+            "product_conditions_title": "ĐIỀU KIỆN",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "paid",
+                    "product_conditions_item_title": "Nguồn vốn hợp pháp",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh nguồn gốc số tiền"
+                        }
+                    ],
+                    "product_conditions_item_footnote": "TEA - khu vực việc làm mục tiêu."
+                }
+            ],
+            "product_projects_posts": [
+                97875,
+                97934
+            ],
+            "product_care_service_desc": "<p>Tìm hiểu dịch vụ của IMM Group:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Visa Mỹ E-2",
+                    "product_care_service_link_url": "https://immgroup.com/dau-tu-dinh-cu-my/visa-my-e2/",
+                    "product_care_service_link_blank": false
+                }
+            ],
+            "product_faq_mode": "grouped"
+        }
+    }
+]

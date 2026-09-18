@@ -8,6 +8,8 @@ cư, quốc tịch toàn cầu và quản lý tài sản (wealth management).
 bước dưới đây tới khi có bản giao, **không hỏi giữa chừng** (trừ mục 6).
 **Bàn giao = nội dung viết thẳng ra khung chat** (CEO chốt 17/09/2026: *"bàn giao là nội dung viết ra trong khung chat
 này. Việc còn lại team khác làm."*). Đăng WordPress, chuyển hướng 301, dựng trang là việc team khác — Claude không làm.
+**Ngoại lệ (chốt 18/09/2026):** nguồn là tệp `.json` xuất từ ACF Page Importer → bàn giao **thêm** tệp
+`ban-giao/<slug>.en.json` để team import vào web (vẫn không tự đăng, không đăng nhập WordPress).
 **Chỉ dịch nội dung** — không hỏi lan man, không phân tích ngoài nhiệm vụ (CEO chốt 17/09/2026).
 
 ## 1. Nhận diện đầu vào → bắt đầu ngay
@@ -16,11 +18,16 @@ này. Việc còn lại team khác làm."*). Đăng WordPress, chuyển hướng
 |---|---|
 | Link `immgroup.com/...` (hoặc link tiếng Việt khác) | `python3 cong-cu/dich.py moi "<link>"` |
 | Tệp `.docx` `.pdf` `.md` `.txt` `.html` | `python3 cong-cu/dich.py moi "<đường dẫn>"` |
+| Tệp `.json` xuất từ ACF Page Importer (trang dựng bằng ACF) | `python3 cong-cu/dich.py moi "<tệp.json>"` — tự chọn bộ chuyển trong `bo-chuyen/`; tệp nhiều trang thì thêm `--trang <số\|post_slug\|post_id>` |
+| **Đính kèm hoặc dán JSON** (có `"acf"`) vào chat | Chép **nguyên văn, không sửa ký tự nào** ra `viec/nhap/<yyyy-mm-dd>-<slug>.json` (đính kèm thì chép tệp) rồi `moi` tệp đó. Không đổi sang `.md` |
 | Dán chữ vào khung chat | Ghi nguyên văn ra `viec/nhap/<yyyy-mm-dd>-<slug>.md` (giữ `#` heading, `-` gạch đầu dòng) rồi `moi` tệp đó |
 | Nhiều link một lượt | Mỗi link một thư mục việc; chạy song song tối đa 4 việc (mục 3) |
 
 - Lệnh `moi` báo 0 đoạn (trang chặn máy, hoặc trang dựng bằng JavaScript) → mở trang bằng Browser pane,
   `get_page_text`, ghi ra `.md`, chạy lại `moi` với tệp đó. Không dùng WebFetch để lấy nguồn (nó tóm tắt, mất chữ).
+- Trùng tên việc trong ngày (vd dịch lại cùng trang) → `moi` tự tạo `<ngày>-<slug>-2`, không ghi đè việc cũ. Việc dịch lại
+  cùng trang: `dien <việc> --tm100 --trung` lấp phần đã dịch, chép `ban-giao/seo.json` + `ty-gia.json` của việc cũ,
+  B5/B6 chỉ soát đoạn mới.
 - `moi` tự lấy **bản tiếng Anh đang có** (thẻ hreflang) vào `tham-khao-ban-en-hien-co.md`. Chỉ để giữ nhất quán
   tên gọi. **Không chép**, vì bản cũ có thể sai.
 
@@ -33,8 +40,12 @@ quy-trinh/style-guide.md   giọng, dịch sát/viết lại, tuân thủ, số-
 thuat-ngu/thuat-ngu.csv    bảng thuật ngữ (nguồn sự thật duy nhất) — cột: vi,en,bien_the_en,loai,trang_thai,ghi_chu,nguon
 bo-nho-dich/               bộ nhớ dịch (translation memory): .jsonl (máy dùng) + .tmx (mở được bằng Trados/memoQ)
 seo/tu-khoa-thi-truong.md  từ khoá đã học theo thị trường, dồn qua các việc
+bo-chuyen/<tên>.json       mỗi template ACF một tệp: trường nào dịch (loại h1/h2/p/li/cta), trường nào giữ (icon, ảnh…), url, id
+lien-ket/lien-ket-vi-en.tsv  bảng link trang Việt → trang Anh (và ID bài) — `ghep` đổi link/ID theo bảng; thêm dòng khi có trang /en/ mới
 viec/<ngày>-<slug>/        một việc: meta.json · song-ngu.tsv · ty-gia.json · tu-khoa.json · soat-*.md · kiem-bao-cao.md
+                           (việc JSON thêm nguon.json — bản gốc để dựng lại, không sửa tay)
   ban-giao/                bai-dich.en.md · bai-dich.en.html · seo.json · bao-cao.md   ← bản lưu local, nguồn để viết vào chat
+                           (việc JSON thêm <slug>.en.json — tệp import vào web)
 bo-nho/                    bản local của memory + skill trên Claude
 nhat-ky/nhat-ky.md         nhật ký từng việc
 tests/                     cửa kiểm máy của bộ công cụ: python3 -m unittest discover -s tests
@@ -79,6 +90,10 @@ gợi ý Google, chưa có số lượt tìm". Muốn có số → hỏi CEO (m�
 - Viết bản dịch ra `viec/<việc>/dich-1.txt` (nhiều phần thì `dich-2.txt`…), mỗi đoạn một dòng dạng:
   `[s001] English text` · bỏ đoạn: `[s008|#bo: lý do] [BO]` · bỏ qua kiểm số có lý do: `[s005|#bo-qua-so: lý do] text`.
   Rồi `python3 cong-cu/dich.py dien <việc> viec/<việc>/dich-*.txt`.
+- **Việc JSON — thẻ giữ chỗ:** đoạn có `{1}…{/1}` (thẻ span…), `{2/}` (thẻ lẻ), `{br}` (xuống dòng) thì bản dịch **giữ đủ
+  từng thẻ** (được đổi vị trí theo câu Anh); `**đậm**` và `[chữ](link)` như thường. Thiếu/thừa thẻ → `kiem` báo
+  THẺ HTML LỆCH và `ghep` không ghi tệp JSON. Gợi ý `100% (gắn lại thẻ …)` = câu cũ khớp chữ nhưng thiếu thẻ: dùng lại
+  bản dịch, gắn thẻ vào (`--tm100` không tự lấp loại này). Cột `src` là vị trí trường trong JSON, đừng sửa.
 - **B8 làm ngay trong lúc dịch:** tiền VND → chạy `tygia <việc>` trước, đổi sang USD theo style guide mục 5.
 - **B9 làm ngay trong lúc dịch:** bỏ ngữ cảnh khách Việt theo style guide mục 4.
 - Trang >2.000 chữ: chia theo H2 thành tối đa 4 mẻ, giao sub-agent **Opus** song song (lời giao phải kèm đường
@@ -128,6 +143,8 @@ nguồn, cần CEO xác nhận) · slug cũ cần chuyển hướng 301 · kết
 3. **Ghi chú cho team** (tiếng Việt, ≤8 gạch): đoạn đã bỏ hoặc viết chung vì ngữ cảnh Việt · quy đổi tiền · chỗ làm
    mềm vì tuân thủ · điều nguồn có vẻ lỗi thời cần CEO xác nhận · slug cũ cần 301 · cửa 0 xanh + số lỗi B5/B6 bắt ·
    nhãn "chưa qua soi độc lập".
+4. **Việc JSON:** đường dẫn tệp `ban-giao/<slug>.en.json` · link và ID bài còn trỏ bản Việt (cảnh báo `JSON:` của `ghep`)
+   để team quyết · nhắc: import vào **trang tiếng Anh** (bản WPML đã "Translate independently"), không vào trang Việt.
 
 ### Giai đoạn 3 — Tự học sau mỗi việc (B10, B11)
 
@@ -180,3 +197,8 @@ Còn lại (thuật ngữ chưa chắc, chọn từ khoá, quy đổi tiền, l�
 1. Tiếng Anh **Mỹ**, ký hiệu `US$`, một bản tiếng Anh chung cho mọi thị trường.
 2. Thị trường gợi ý từ khoá mặc định: Mỹ, Anh, Úc, Canada, Singapore, UAE.
 3. Bàn giao là nội dung viết trong khung chat (mục đầu tệp); không gửi tệp, không làm `.docx`.
+4. (18/09/2026) Trang dựng bằng ACF dịch từ tệp JSON xuất của ACF Page Importer; bàn giao thêm tệp JSON để import
+   (ngoại lệ của mục 3). Luồng: WPML duplicate trang Việt → "Translate independently" → **Tools → Dịch trang ACF**
+   export JSON **trang tiếng Anh** (có `post_id`, giá trị gốc) → `moi` → 11 bước → `ghep` → team nhập ở cùng trang đó
+   (Chạy thử → Nhập, có sao lưu). Tệp từ export cũ (Tools → ACF Page Importer) không có `post_id` → không nhập được
+   bằng luồng mới; `moi` đã cảnh báo.

@@ -3,16 +3,17 @@
 
 Lệnh:
   moi    <url|tệp> [--ten slug]   tạo thư mục việc, tách đoạn ra song-ngu.tsv, gợi ý từ bộ nhớ dịch
+         tệp .json xuất từ ACF Page Importer: [--trang <số|post_slug|post_id>] [--bo-chuyen <tên>]
   tukhoa <thư-mục-việc> "hạt 1" "hạt 2" [--thi-truong us,gb,au,ca,sg,ae]
   tygia  <thư-mục-việc>           lấy tỷ giá USD/VND, USD/EUR... ghi ty-gia.json
-  ghep   <thư-mục-việc>           dựng ban-giao/bai-dich.en.md + .html từ song-ngu.tsv
+  ghep   <thư-mục-việc>           dựng ban-giao/bai-dich.en.md + .html từ song-ngu.tsv (việc JSON: thêm ban-giao/<slug>.en.json)
   kiem   <thư-mục-việc>           CỬA 0 bằng máy — thoát mã 1 nếu có LỖI
   nap    <thư-mục-việc>           nạp câu đã chốt vào bộ nhớ dịch (trùng thì xoá cũ giữ mới) + xuất TMX
   kiemtn                          kiểm bảng thuật ngữ (trùng, thiếu cột)
   xem    <thư-mục-việc> [--tu s001] [--den s150] [--anh]   in gọn nguồn (và bản Anh nếu --anh) để đọc/dịch
   dien   <thư-mục-việc> <tệp.txt>... [--tm100] [--trung]  điền bản dịch/bản sửa dạng "[s001] text" hoặc "[s008|#bo: lý do] [BO]"
 """
-import csv, datetime as dt, difflib, html, json, re, subprocess, sys, time, unicodedata
+import copy, csv, datetime as dt, difflib, fnmatch, html, json, re, subprocess, sys, time, unicodedata
 import urllib.parse, urllib.request
 from pathlib import Path
 
@@ -20,7 +21,9 @@ GOC = Path(__file__).resolve().parent.parent
 TM = GOC / "bo-nho-dich" / "bo-nho-dich.jsonl"
 TMX = GOC / "bo-nho-dich" / "bo-nho-dich.tmx"
 THUAT_NGU = GOC / "thuat-ngu" / "thuat-ngu.csv"
-COT = ["id", "loai", "vi", "en", "tm", "ghi_chu", "src"]
+BO_CHUYEN = GOC / "bo-chuyen"
+LIEN_KET = GOC / "lien-ket" / "lien-ket-vi-en.tsv"
+COT =["id", "loai", "vi", "en", "tm", "ghi_chu", "src"]
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/126 Safari/537.36"
 KHOI = ["h1", "h2", "h3", "h4", "h5", "h6", "p", "li", "blockquote", "figcaption", "td", "th", "dt", "dd", "button"]
 BO_QUA_TAG = ["script", "style", "noscript", "svg", "form", "nav", "header", "footer", "iframe", "select", "option", "template"]
@@ -212,14 +215,24 @@ def tach_docx(p):
     return dong
 
 
-def goi_y_tm(vi, tm, nguong=0.85):
-    k = chuan(vi)
+def khoa_tm(e):
+    # alt ảnh và chữ thường cùng câu Việt vẫn dịch khác nhau → hai mục riêng trong bộ nhớ dịch
+    return (e.get("loai") == "img", chuan(e["vi"]))
+
+
+def goi_y_tm(vi, tm, nguong=0.85, loai=""):
+    # so khớp bỏ qua thẻ giữ chỗ {1}…{/1}; khớp chữ mà khác thẻ thì không cho `dien --tm100` tự lấp
+    k = chuan(bo_the(vi))
     if not k or len(k) < 3:
         return ""
     tot = None
     for e in tm:
-        kk = chuan(e["vi"])
+        if loai and (e.get("loai") == "img") != (loai == "img"):
+            continue
+        kk = chuan(bo_the(e["vi"]))
         if kk == k:
+            if THE_RE.findall(vi) != THE_RE.findall(e["vi"]):
+                return f"100% (gắn lại thẻ {' '.join(THE_RE.findall(vi))}): {e['en']}"
             return f"100%: {e['en']}"
         sm = difflib.SequenceMatcher(None, k, kk)
         if sm.real_quick_ratio() < nguong or sm.quick_ratio() < nguong:
@@ -230,12 +243,438 @@ def goi_y_tm(vi, tm, nguong=0.85):
     return f"{int(tot[0] * 100)}%: {tot[1]}" if tot else ""
 
 
+# ---------- JSON xuất từ ACF Page Importer ----------
+# Đoạn dịch lấy từ các trường chữ theo bo-chuyen/<tên>.json. Trường có HTML được chia theo khối; thẻ trong câu
+# hiện dạng **đậm**, [chữ](link), {1}…{/1} (thẻ khác), {2/} (thẻ lẻ), {br} — bản dịch phải giữ đủ thẻ.
+THE_RE = re.compile(r"\{/?\d+/?\}|\{br\}")
+TOKEN_RE = re.compile(r"<!--.*?-->|<![^>]*>|</?[a-zA-Z][^>]*>", re.S)
+THE_KHOI = {"address", "article", "aside", "blockquote", "button", "dd", "details", "dialog", "div", "dl", "dt",
+            "fieldset", "figcaption", "figure", "footer", "form", "h1", "h2", "h3", "h4", "h5", "h6", "header", "hr",
+            "li", "main", "nav", "ol", "p", "pre", "section", "summary", "table", "tbody", "td", "tfoot", "th",
+            "thead", "tr", "ul"}
+THE_LE = {"br", "img", "wbr", "input", "hr", "source", "col", "area", "embed", "track"}
+THE_KIN = {"svg", "script", "style", "noscript", "iframe", "template", "select", "textarea", "video", "audio",
+           "canvas", "object", "math"}  # bỏ nguyên khối, không dịch
+LOP_ICON = re.compile(r"material-(?:icons|symbols)|dashicons|\bfa-", re.I)
+LOAI_KHOI = {"li": "li", "dt": "li", "dd": "li", "button": "cta", "blockquote": "quote",
+             **{f"h{i}": f"h{i}" for i in range(1, 7)}}
+MIEN_IMM = ("immgroup.com", "www.immgroup.com")
+LAP_RE = re.compile(r"\*\*|\[((?:[^\[\]]|\[[^\]]*\])*)\]\(([^)\s]*)\)|\{(\d+)\}|\{/(\d+)\}|\{(\d+)/\}|\{br\}")
+
+
+def bo_the(s):
+    return THE_RE.sub(lambda m: " " if m.group(0) == "{br}" else "", s or "")
+
+
+def the_giu_cho(s):
+    return sorted(re.findall(r"\{/?\d+/?\}", s or ""))
+
+
+def gon(s):
+    return re.sub(r"\s+", " ", s or "").strip()
+
+
+def la_html(s):
+    return bool(re.search(r"</?[a-zA-Z][^>]*>|&(?:[a-zA-Z]+|#\d+|#x[0-9a-fA-F]+);", s))
+
+
+def tach_token(s):
+    """Chuỗi HTML → token (kiểu, chuỗi gốc, tên thẻ); kiểu: chu · cm · mo · tat · le. Ghép lại các token = chuỗi gốc."""
+    ra, vt = [], 0
+    for m in TOKEN_RE.finditer(s):
+        if m.start() > vt:
+            ra.append(("chu", s[vt:m.start()], ""))
+        t = m.group(0)
+        if t.startswith("<!"):
+            ra.append(("cm", t, ""))
+        else:
+            ten = re.match(r"</?([a-zA-Z][\w:-]*)", t).group(1).lower()
+            ra.append(("tat" if t.startswith("</") else ("le" if t.rstrip().endswith("/>") or ten in THE_LE else "mo"), t, ten))
+        vt = m.end()
+    if vt < len(s):
+        ra.append(("chu", s[vt:], ""))
+    return ra
+
+
+def thuoc_tinh(raw, ten):
+    # giá trị thuộc tính, chấp cả nháy đã escape (class=\"accent\") từ dữ liệu cũ
+    return re.search(r"(?<![\w-])" + ten + r"\s*=\s*(\\?[\"'])(.*?)\1", raw, re.S)
+
+
+def cap_the(tokens, tu, den):
+    cap, ngan = {}, []
+    for i in range(tu, den + 1):
+        kieu, _, ten = tokens[i]
+        if kieu == "mo":
+            ngan.append(i)
+        elif kieu == "tat":
+            for j in range(len(ngan) - 1, -1, -1):
+                if tokens[ngan[j]][2] == ten:
+                    cap[ngan[j]], cap[i] = i, ngan[j]
+                    del ngan[j:]
+                    break
+    return cap
+
+
+def het_the(tokens, i):
+    ten, sau = tokens[i][2], 0
+    for j in range(i, len(tokens)):
+        if tokens[j][2] == ten and tokens[j][0] == "mo":
+            sau += 1
+        elif tokens[j][2] == ten and tokens[j][0] == "tat":
+            sau -= 1
+            if sau == 0:
+                return j
+    return len(tokens) - 1
+
+
+def chia_html(tokens, loai_goc):
+    """Chia token HTML thành đoạn dịch: {"cach": "chay", "tu", "den", "loai"} hoặc {"cach": "alt", "i", "loai": "img"}."""
+    kq, chay, khoi = [], [], []
+
+    def xa():
+        chu = [i for i in chay if tokens[i][0] == "chu" and html.unescape(tokens[i][1]).strip()]
+        if chu and any(re.search(r"\w", html.unescape(tokens[i][1])) for i in chu):
+            tu, den = chu[0], chu[-1]
+            cap, doi = cap_the(tokens, chay[0], chay[-1]), True
+            while doi:  # kéo vào đoạn thẻ nào có một đầu nằm trong đoạn
+                doi = False
+                for i in range(tu, den + 1):
+                    j = cap.get(i)
+                    if j is not None and not tu <= j <= den:
+                        tu, den, doi = min(tu, j), max(den, j), True
+            kq.append({"cach": "chay", "tu": tu, "den": den, "loai": LOAI_KHOI.get(khoi[-1], "p") if khoi else loai_goc})
+        chay.clear()
+
+    i = 0
+    while i < len(tokens):
+        kieu, raw, ten = tokens[i]
+        lop = thuoc_tinh(raw, "class") if kieu == "mo" else None
+        if kieu == "cm":
+            xa()
+        elif kieu == "mo" and (ten in THE_KIN or (lop and LOP_ICON.search(lop.group(2)))):
+            xa(); i = het_the(tokens, i)
+        elif ten in THE_KHOI:
+            xa()
+            if kieu == "mo":
+                khoi.append(ten)
+            elif kieu == "tat" and ten in khoi:
+                del khoi[len(khoi) - 1 - khoi[::-1].index(ten):]
+        elif ten == "img":
+            xa()
+            m = thuoc_tinh(raw, "alt")
+            if m and re.search(r"\w", html.unescape(m.group(2))):
+                kq.append({"cach": "alt", "i": i, "loai": "img"})
+        else:
+            chay.append(i)
+        i += 1
+    xa()
+    return kq
+
+
+def sang_doan(tokens, tu, den):
+    """Token [tu, den] → chữ đoạn dịch + bảng thẻ gốc để dựng lại (tt)."""
+    cap = cap_the(tokens, tu, den)
+    tt, ra, n, ban = {"b": [], "a": [], "br": [], "ph": {}}, [], 0, {}
+    for i in range(tu, den + 1):
+        kieu, raw, ten = tokens[i]
+        mo = raw if kieu == "mo" else (tokens[cap[i]][1] if i in cap else "")
+        if kieu == "chu":
+            ra.append(html.unescape(raw))
+        elif ten == "br":
+            tt["br"].append(raw); ra.append("{br}")
+        elif ten in ("strong", "b") and i in cap:
+            if kieu == "mo":
+                tt["b"].append((raw, tokens[cap[i]][1]))
+            ra.append("**")
+        elif ten == "a" and i in cap and thuoc_tinh(mo, "href"):
+            if kieu == "mo":
+                tt["a"].append((raw, tokens[cap[i]][1])); ban[cap[i]] = html.unescape(thuoc_tinh(raw, "href").group(2)); ra.append("[")
+            else:
+                ra.append(f"]({ban[i]})")
+        elif kieu == "mo" and i in cap:
+            n += 1; tt["ph"][n] = (raw, tokens[cap[i]][1]); ban[cap[i]] = n; ra.append(f"{{{n}}}")
+        elif kieu == "tat" and i in cap:
+            ra.append(f"{{/{ban[i]}}}")
+        else:
+            n += 1; tt["ph"][n] = (raw, None); ra.append(f"{{{n}/}}")
+    return gon("".join(ra)), tt
+
+
+def sang_html(en, tt, doi_url=lambda u: u):
+    """Bản dịch (có **, [](), {n}, {br}) → HTML, dùng lại đúng thẻ gốc; href đi qua doi_url."""
+    trang = {"b": 0, "a": 0, "br": 0, "mo_b": []}
+
+    def dung(s):
+        ra, vt = [], 0
+        for m in LAP_RE.finditer(s):
+            ra.append(html.escape(s[vt:m.start()], quote=False)); vt = m.end()
+            g = m.group(0)
+            if g == "**":
+                if trang["mo_b"]:
+                    ra.append(trang["mo_b"].pop())
+                else:
+                    mo, tat = tt["b"][trang["b"]] if trang["b"] < len(tt["b"]) else ("<strong>", "</strong>")
+                    trang["b"] += 1; ra.append(mo); trang["mo_b"].append(tat)
+            elif g == "{br}":
+                ra.append(tt["br"][min(trang["br"], len(tt["br"]) - 1)] if tt["br"] else "<br>"); trang["br"] += 1
+            elif m.group(2) is not None:
+                mo, tat = tt["a"][trang["a"]] if trang["a"] < len(tt["a"]) else ('<a href="">', "</a>")
+                trang["a"] += 1
+                h = thuoc_tinh(mo, "href")
+                if h:
+                    mo = mo[:h.start(2)] + html.escape(doi_url(m.group(2)), quote=False) + mo[h.end(2):]
+                ra.append(mo + dung(m.group(1)) + tat)
+            else:
+                so = int(m.group(3) or m.group(4) or m.group(5))
+                mo, tat = tt["ph"][so]
+                ra.append(tat if m.group(4) else mo)
+        ra.append(html.escape(s[vt:], quote=False))
+        return "".join(ra)
+
+    return dung(en) + "".join(reversed(trang["mo_b"]))
+
+
+def duyet_la(obj, duong, ten=""):
+    """Sinh (đường dẫn, tên trường gần nhất, giá trị) cho mọi lá; mảng số (ID bài) là một lá."""
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            yield from duyet_la(v, duong + (k,), k)
+    elif isinstance(obj, list) and obj and not all(isinstance(x, int) and not isinstance(x, bool) for x in obj):
+        for i, v in enumerate(obj):
+            yield from duyet_la(v, duong + (i,), ten)
+    else:
+        yield duong, ten, obj
+
+
+def chuoi_duong(duong):
+    s = ""
+    for k in duong:
+        s += f"[{k}]" if isinstance(k, int) else ("." if s else "") + k
+    return s
+
+
+def lay_theo_duong(obj, duong):
+    for k in duong:
+        obj = obj[k]
+    return obj
+
+
+def dat_theo_duong(obj, duong, v):
+    lay_theo_duong(obj, duong[:-1])[duong[-1]] = v
+
+
+def luat_truong(ten, bc):
+    for mau, kieu in bc.get("quy_tac", []):
+        if fnmatch.fnmatchcase(ten, mau):
+            return kieu
+    return bc.get("mac_dinh", "p")
+
+
+def doc_bo_chuyen(ten):
+    p = BO_CHUYEN / f"{ten}.json"
+    if not p.exists():
+        sys.exit(f"Không có bộ chuyển {p}")
+    bc = json.loads(p.read_text(encoding="utf-8"))
+    bc["ten"] = ten
+    return bc
+
+
+def chon_bo_chuyen(acf, ten=""):
+    if ten:
+        return doc_bo_chuyen(ten)
+    khop = [doc_bo_chuyen(p.stem) for p in sorted(BO_CHUYEN.glob("*.json"))]
+    khop = [bc for bc in khop if set(acf) <= set(bc.get("truong_goc", []))]
+    if len(khop) == 1:
+        return khop[0]
+    if not khop:
+        sys.exit("Chưa có bộ chuyển cho template này. Trường gốc trong tệp: " + ", ".join(acf)
+                 + f"\n→ tạo {BO_CHUYEN}/<tên>.json theo mẫu acf-product-2026.json rồi chạy lại")
+    sys.exit("Nhiều bộ chuyển cùng khớp: " + ", ".join(bc["ten"] for bc in khop) + " — chọn bằng --bo-chuyen <tên>")
+
+
+def doan_json(trang, bc):
+    """Các đoạn cần dịch của một trang theo thứ tự trong tệp, kèm thông tin để dựng lại."""
+    ds = []
+    if isinstance(trang.get("post_title"), str) and re.search(r"\w", trang["post_title"]):
+        ds.append({"loai": "tieu-de", "vi": gon(html.unescape(trang["post_title"])), "src": "post_title",
+                   "duong": ("post_title",), "cach": "chu"})
+    for duong, ten, v in duyet_la(trang.get("acf") or {}, ("acf",)):
+        kieu = luat_truong(ten, bc)
+        if kieu in ("bo", "url", "id") or not isinstance(v, str) or not re.search(r"\w", v):
+            continue
+        if not la_html(v):
+            ds.append({"loai": kieu, "vi": gon(v), "src": chuoi_duong(duong), "duong": duong, "cach": "chu"})
+            continue
+        tokens = tach_token(v)
+        for so, p in enumerate(chia_html(tokens, kieu), 1):
+            d = dict(p, duong=duong, src=f"{chuoi_duong(duong)}#{so}")
+            if p["cach"] == "alt":
+                d.update(vi=gon(html.unescape(thuoc_tinh(tokens[p["i"]][1], "alt").group(2))), src=d["src"] + "@alt")
+            else:
+                d["vi"], d["tt"] = sang_doan(tokens, p["tu"], p["den"])
+            ds.append(d)
+    return ds
+
+
+def la_json_acf(p):
+    """Tệp (đuôi bất kỳ) chứa JSON xuất của ACF Page Importer."""
+    try:
+        s = p.read_text(encoding="utf-8").lstrip()
+        return s[:1] in "[{" and '"acf"' in s and bool(json.loads(s))
+    except (ValueError, OSError):
+        return False
+
+
+def tach_json_tep(p, args):
+    """Đọc tệp xuất của ACF Page Importer → (đoạn, meta, trang đã chọn, tên việc)."""
+    try:
+        data = json.loads(p.read_text(encoding="utf-8"))
+    except ValueError as e:
+        sys.exit(f"Tệp JSON lỗi cú pháp: {e}")
+    data = [data] if isinstance(data, dict) else data
+    if not (isinstance(data, list) and data and all(isinstance(x, dict) and isinstance(x.get("acf"), dict) for x in data)):
+        sys.exit('Tệp JSON không đúng dạng xuất của ACF Page Importer (mảng các trang, mỗi trang có "acf")')
+    chon = args[args.index("--trang") + 1] if "--trang" in args else ("0" if len(data) == 1 else "")
+    tim = [x for i, x in enumerate(data) if chon in (str(i), x.get("post_slug"), str(x.get("post_id", "")))]
+    if len(tim) != 1:
+        sys.exit("Tệp có nhiều trang — mỗi việc dịch 1 trang, chọn bằng --trang <số|post_slug|post_id>:\n"
+                 + "\n".join(f"  {i}: {x.get('post_slug')} · {x.get('post_title')}" for i, x in enumerate(data)))
+    trang = tim[0]
+    bc = chon_bo_chuyen(trang["acf"], args[args.index("--bo-chuyen") + 1] if "--bo-chuyen" in args else "")
+    dong = [{k: d[k] for k in ("loai", "vi", "src")} for d in doan_json(trang, bc)]
+    meta = {"dang": "acf-json", "bo_chuyen": bc["ten"], "post_slug": trang.get("post_slug", ""),
+            "post_title": trang.get("post_title", "")}
+    if "post_id" in trang:
+        meta["post_id"] = trang["post_id"]
+    else:
+        print("⚠ Tệp không có post_id (export cũ): Tools → Dịch trang ACF sẽ TỪ CHỐI nhập tệp dịch ra từ đây. "
+              "Export lại TRANG TIẾNG ANH bằng Tools → Dịch trang ACF rồi chạy `moi` tệp đó (bản dịch đã làm lấy lại qua bộ nhớ dịch).")
+    ten = slugify((trang.get("post_slug") or "").strip("/").split("/")[-1] or trang.get("post_title", ""))
+    return dong, meta, trang, ten
+
+
+def khoa_lien_ket(u):
+    """Khoá tra bảng liên kết: 'id:123' cho ID bài, đường dẫn '/a/b/' cho trang immgroup.com, None cho thứ khác."""
+    u = (u or "").strip()
+    if re.fullmatch(r"\d+", u):
+        return "id:" + u
+    p = urllib.parse.urlparse(u)
+    duong = p.path or ("/" if p.netloc else "")
+    if p.scheme not in ("", "http", "https") or (p.netloc and p.netloc.lower() not in MIEN_IMM) or not duong.startswith("/"):
+        return None
+    return duong.rstrip("/").lower() + "/"
+
+
+def doc_lien_ket():
+    if not LIEN_KET.exists():
+        return {}
+    return {khoa_lien_ket(r["vi"]): r["en"].strip() for r in doc_tsv(LIEN_KET)
+            if khoa_lien_ket(r.get("vi")) and (r.get("en") or "").strip()}
+
+
+def doi_lien_ket(u, bang):
+    """Đổi link trang Việt sang trang Anh theo bảng. Trả (link mới, còn trỏ trang Việt?)."""
+    k = khoa_lien_ket(u)
+    if k in bang:
+        p = urllib.parse.urlparse(u)
+        return bang[k] + (f"?{p.query}" if p.query else "") + (f"#{p.fragment}" if p.fragment else ""), False
+    return u, bool(k) and not k.startswith(("id:", "/en/", "/wp-content/", "/wp-admin/", "/wp-json/"))
+
+
+def ghep_truong_html(chuoi, ban, doi=lambda u: u):
+    """Thay các đoạn của một trường HTML bằng bản Anh; ban = [(đoạn từ doan_json, bản Anh)]. Phần còn lại giữ nguyên từng ký tự."""
+    tokens, thay = tach_token(chuoi), {}
+    for d, en in ban:
+        if d["cach"] == "alt":
+            raw = tokens[d["i"]][1]; m = thuoc_tinh(raw, "alt")
+            thay[d["i"]] = (d["i"], raw[:m.start(2)] + html.escape(en, quote=True) + raw[m.end(2):])
+        else:  # giữ khoảng trắng ở hai mép đoạn (xuống dòng, thụt lề giữa icon và chữ)
+            dau = re.match(r"\s*", tokens[d["tu"]][1]).group(0) if tokens[d["tu"]][0] == "chu" else ""
+            cuoi = re.search(r"\s*$", tokens[d["den"]][1]).group(0) if tokens[d["den"]][0] == "chu" else ""
+            thay[d["tu"]] = (d["den"], dau + sang_html(en, d["tt"], doi) + cuoi)
+    ra, i = [], 0
+    while i < len(tokens):
+        if i in thay:
+            ra.append(thay[i][1]); i = thay[i][0] + 1
+        else:
+            ra.append(tokens[i][1]); i += 1
+    return "".join(ra)
+
+
+def dung_json(viec, dong):
+    """Dựng trang tiếng Anh từ nguon.json + bản dịch trong song-ngu.tsv. Trả (trang, lỗi, cảnh báo)."""
+    meta = json.loads((viec / "meta.json").read_text(encoding="utf-8"))
+    goc = json.loads((viec / "nguon.json").read_text(encoding="utf-8"))[0]
+    bc = doc_bo_chuyen(meta["bo_chuyen"])
+    ds = doan_json(goc, bc)
+    lech = next((i for i, (a, b) in enumerate(zip(ds, dong)) if (a["src"], a["vi"]) != (b["src"], b["vi"])), None)
+    if lech is not None or len(ds) != len(dong):
+        vt = dong[lech]["id"] if lech is not None else f"đoạn thứ {min(len(ds), len(dong)) + 1}"
+        return None, [f"JSON: song-ngu.tsv không còn khớp nguon.json + bộ chuyển {bc['ten']} (lệch từ {vt}) — chạy lại `moi`"], []
+    loi, canh, bang, link_viet, id_giu = [], [], doc_lien_ket(), [], []
+
+    def doi(u):
+        moi, con_viet = doi_lien_ket(u, bang)
+        if con_viet:
+            link_viet.append(u)
+        return moi
+
+    ra, theo_truong = copy.deepcopy(goc), {}
+    for d, r in zip(ds, dong):
+        theo_truong.setdefault(d["duong"], []).append((d, r))
+    thieu = [r["id"] for r in dong if not (r["en"] or "").strip()]
+    if thieu:
+        loi.append(f"JSON: còn {len(thieu)} đoạn chưa dịch ({', '.join(thieu[:8])}{'…' if len(thieu) > 8 else ''}) — không dựng được tệp import")
+    for duong, cac in theo_truong.items():
+        if cac[0][0]["cach"] == "chu":
+            en = (cac[0][1]["en"] or "").strip()
+            if the_giu_cho(en) or "{br}" in en:
+                loi.append(f"{cac[0][1]['id']} THẺ HTML LỆCH: trường chữ thường không được có thẻ giữ chỗ — «{en[:60]}»")
+            dat_theo_duong(ra, duong, "" if en == "[BO]" else (en or cac[0][0]["vi"]))
+            continue
+        ban = []
+        for d, r in cac:
+            en = (r["en"] or "").strip()
+            bo = en == "[BO]"
+            en = "" if bo else (en or d["vi"])  # đoạn còn trống giữ chữ Việt (đã báo lỗi ở trên)
+            if d["cach"] == "chay" and not bo and the_giu_cho(en) != the_giu_cho(d["vi"]):
+                loi.append(f"{r['id']} THẺ HTML LỆCH: nguồn {' '.join(the_giu_cho(d['vi'])) or '(không)'} · bản Anh {' '.join(the_giu_cho(en)) or '(không)'} — giữ đủ thẻ giữ chỗ")
+            else:
+                ban.append((d, en))
+        dat_theo_duong(ra, duong, ghep_truong_html(lay_theo_duong(goc, duong), ban, doi))
+    for duong, ten, v in duyet_la(ra.get("acf") or {}, ("acf",)):
+        kieu = luat_truong(ten, bc)
+        if kieu == "url" and isinstance(v, str) and v:
+            dat_theo_duong(ra, duong, doi(v))
+        elif kieu == "id" and v not in (None, "", False, []):
+            ids = v if isinstance(v, list) else [v]
+            moi = [int(bang[f"id:{x}"]) if f"id:{x}" in bang else x for x in ids]
+            id_giu += [str(x) for x in ids if f"id:{x}" not in bang]
+            dat_theo_duong(ra, duong, moi if isinstance(v, list) else moi[0])
+    if not thieu:  # lưới an toàn: dựng lại xong không còn chữ Việt trong các trường đã dịch
+        mien = {d["duong"] for d, r in zip(ds, dong) if "#giu-tieng-viet" in (r.get("ghi_chu") or "")}
+        for d in doan_json(ra, bc):
+            if d["duong"] not in mien and con_tieng_viet(bo_link(d["vi"])):
+                loi.append(f"JSON: CÒN CHỮ TIẾNG VIỆT sau khi dựng ở {d['src']}: «{d['vi'][:60]}»")
+    if link_viet:
+        canh.append(f"JSON: {len(link_viet)} liên kết còn trỏ trang tiếng Việt (chưa có trong lien-ket/lien-ket-vi-en.tsv): "
+                    + ", ".join(sorted(set(link_viet))))
+    if id_giu:
+        canh.append(f"JSON: ID bài giữ nguyên, vẫn trỏ bài tiếng Việt (chưa có trong bảng liên kết): {', '.join(id_giu)}")
+    seo_p = viec / "ban-giao" / "seo.json"
+    if seo_p.exists():
+        seo = json.loads(seo_p.read_text(encoding="utf-8"))
+        ra["seo"] = {k: seo.get(k, "") for k in ("meta_title", "meta_description", "slug")}
+    return ra, loi, canh
+
+
 def lenh_moi(args):
     if not args:
         sys.exit("Thiếu nguồn: url hoặc đường dẫn tệp")
     nguon = args[0]
     ten = args[args.index("--ten") + 1] if "--ten" in args else ""
-    meta, dong, tho = {"nguon": nguon}, [], ""
+    meta, dong, tho, trang_json = {"nguon": nguon}, [], "", None
     if re.match(r"https?://", nguon):
         tho = lay_url(nguon)
         m, dong = tach_html(tho)
@@ -248,6 +687,8 @@ def lenh_moi(args):
         duoi = p.suffix.lower()
         if duoi in (".html", ".htm"):
             tho = p.read_text(encoding="utf-8", errors="replace"); m, dong = tach_html(tho); meta.update(m)
+        elif duoi == ".json" or la_json_acf(p):  # JSON dán vào chat có thể bị lưu nhầm đuôi .md/.txt
+            dong, m, trang_json, ten_json = tach_json_tep(p, args); meta.update(m); ten = ten or ten_json
         elif duoi == ".docx":
             dong = tach_docx(p)
         elif duoi == ".pdf":
@@ -256,23 +697,29 @@ def lenh_moi(args):
             dong = tach_md(p.read_text(encoding="utf-8", errors="replace"))
         ten = ten or re.sub(r"^\d{4}-\d{2}-\d{2}-", "", slugify(p.stem))
     viec = GOC / "viec" / f"{dt.date.today():%Y-%m-%d}-{ten}"
+    so = 2
+    while (viec / "song-ngu.tsv").exists():  # đã có việc cùng tên trong ngày → việc mới, không ghi đè bản dịch cũ
+        viec = GOC / "viec" / f"{dt.date.today():%Y-%m-%d}-{ten}-{so}"
+        so += 1
     viec.mkdir(parents=True, exist_ok=True)
     (viec / "ban-giao").mkdir(exist_ok=True)
     if tho:
         (viec / "nguon.html").write_text(tho, encoding="utf-8")
+    if trang_json is not None:
+        (viec / "nguon.json").write_text(json.dumps([trang_json], ensure_ascii=False, indent=4) + "\n", encoding="utf-8")
     tm = doc_tm()
     lan_dau = {}
     for i, d in enumerate(dong, 1):
         d["id"] = f"s{i:03d}"
         d["en"] = ""
-        d["tm"] = goi_y_tm(d["vi"], tm)
+        d["tm"] = goi_y_tm(d["vi"], tm, loai=d["loai"])
         k = (d["loai"] == "img", chuan(d["vi"]))  # alt ảnh và chữ thường giống nhau vẫn dịch khác nhau
         d["ghi_chu"] = f"trung:{lan_dau[k]}" if k in lan_dau and len(k[1]) > 2 else ""
         lan_dau.setdefault(k, d["id"])
     ghi_tsv(viec / "song-ngu.tsv", dong)
     meta["ngay"] = f"{dt.datetime.now():%Y-%m-%d %H:%M}"
     meta["so_doan"] = len(dong)
-    meta["so_tu_vi"] = sum(len(d["vi"].split()) for d in dong)
+    meta["so_tu_vi"] = sum(len(bo_the(d["vi"]).split()) for d in dong)
     en_url = meta.get("hreflang_en")
     if en_url and en_url.rstrip("/") != nguon.rstrip("/"):
         try:
@@ -347,12 +794,18 @@ def md_inline_html(s):
     return re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
 
 
+def doc_meta(viec):
+    p = viec / "meta.json"
+    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+
+
 def lenh_ghep(args):
     viec = Path(args[0]); dong = doc_tsv(viec / "song-ngu.tsv")
+    la_json = doc_meta(viec).get("dang") == "acf-json"
     md, h, trong_ul = [], [], False
     for d in dong:
-        en = (d["en"] or "").strip()
-        if not en or en == "[BO]":
+        en = gon(bo_the((d["en"] or "").strip()))
+        if not en or en == "[BO]" or d["loai"] == "tieu-de":  # tiêu đề trang không nằm trong thân bài
             continue
         loai = d["loai"]
         if loai != "li" and trong_ul:
@@ -365,8 +818,9 @@ def lenh_ghep(args):
                 h.append("<ul>"); trong_ul = True
             h.append(f"  <li>{md_inline_html(en)}</li>")
         elif loai == "img":
-            md += [f"![{en}]({d['src']})", ""]
-            h.append(f'<img src="{html.escape(d["src"])}" alt="{html.escape(en)}">')
+            anh = "" if la_json else d["src"]  # việc JSON: cột src là vị trí trường, không phải đường dẫn ảnh
+            md += [f"![{en}]({anh})", ""]
+            h.append(f'<img src="{html.escape(anh)}" alt="{html.escape(en)}">')
         elif loai == "quote":
             md += ["> " + en, ""]; h.append(f"<blockquote>{md_inline_html(en)}</blockquote>")
         else:
@@ -377,6 +831,15 @@ def lenh_ghep(args):
     (viec / "ban-giao" / "bai-dich.en.md").write_text("\n".join(md).strip() + "\n", encoding="utf-8")
     (viec / "ban-giao" / "bai-dich.en.html").write_text("\n".join(h) + "\n", encoding="utf-8")
     print(f"Ghép xong {len(md)} dòng markdown → {viec/'ban-giao'}")
+    if la_json:
+        trang, loi, canh = dung_json(viec, dong)
+        if loi:
+            print("✗ KHÔNG ghi tệp JSON để import:", *[f"  ✗ {x}" for x in loi], sep="\n")
+            sys.exit(1)
+        slug = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", viec.name)
+        p = viec / "ban-giao" / f"{slug}.en.json"
+        p.write_text(json.dumps([trang], ensure_ascii=False, indent=4) + "\n", encoding="utf-8")
+        print(f"Tệp JSON để import bằng ACF Page Importer → {p}", *[f"  ⚠ {x}" for x in canh], sep="\n")
 
 
 # ---------- kiểm (CỬA 0) ----------
@@ -408,7 +871,7 @@ def so_en(tok):
 
 
 def bo_link(s):
-    return re.sub(r"\]\([^)]*\)", "]", s or "")
+    return bo_the(re.sub(r"\]\([^)]*\)", "]", s or ""))
 
 
 def lay_so(s, ngon_ngu):
@@ -459,6 +922,7 @@ def lenh_kiem(args):
     viec = Path(args[0])
     loi, canh = [], []
     dong = doc_tsv(viec / "song-ngu.tsv")
+    la_json = doc_meta(viec).get("dang") == "acf-json"
     tn = doc_thuat_ngu()
     ty_gia = json.loads((viec / "ty-gia.json").read_text()) if (viec / "ty-gia.json").exists() else None
 
@@ -500,7 +964,7 @@ def lenh_kiem(args):
         # 3. link và in đậm
         if vi.count("](") != en.count("]("):
             loi.append(f"{i} SỐ LIÊN KẾT LỆCH: nguồn {vi.count('](')} · bản Anh {en.count('](')}")
-        for url in re.findall(r"\]\((https?://immgroup\.com/(?!en/)[^)]*)\)", en):
+        for url in ([] if la_json else re.findall(r"\]\((https?://immgroup\.com/(?!en/)[^)]*)\)", en)):  # việc JSON: đổi theo bảng liên kết, báo ở mục 11
             canh.append(f"{i} liên kết còn trỏ trang tiếng Việt: {url} — thay bằng trang /en/ tương ứng nếu có")
         if vi.count("**") != en.count("**"):
             canh.append(f"{i} số chỗ in đậm lệch")
@@ -590,6 +1054,11 @@ def lenh_kiem(args):
     # 10. bảng thuật ngữ
     loi += kiem_bang_thuat_ngu(tn)
 
+    # 11. việc JSON: dựng được tệp import (thẻ giữ chỗ đủ, không còn chữ Việt, link/ID còn trỏ bản Việt)
+    if la_json:
+        _, l, c = dung_json(viec, dong)
+        loi += l; canh += c
+
     bao_cao = [f"# CỬA 0 — {viec.name} — {dt.datetime.now():%Y-%m-%d %H:%M}",
                f"Kết quả: {'ĐỎ' if loi else 'XANH'} · {len(loi)} lỗi chặn · {len(canh)} cảnh báo · {len(co_dich)}/{len(dong)} đoạn đã dịch", "",
                "## LỖI CHẶN (phải sửa hết)", *([f"- {x}" for x in loi] or ["- (không)"]), "",
@@ -630,10 +1099,10 @@ def lenh_nap(args):
     viec = Path(args[0])
     dong = [d for d in doc_tsv(viec / "song-ngu.tsv") if (d["en"] or "").strip() not in ("", "[BO]") and d["vi"].strip()]
     meta = json.loads((viec / "meta.json").read_text(encoding="utf-8")) if (viec / "meta.json").exists() else {}
-    cu = {chuan(e["vi"]): e for e in doc_tm()}
+    cu = {khoa_tm(e): e for e in doc_tm()}
     moi = thay = 0
     for d in dong:
-        k = chuan(d["vi"])
+        k = khoa_tm(d)
         if k in cu:
             if cu[k]["en"] != d["en"]:
                 thay += 1
