@@ -4,7 +4,7 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
 ---
 # Dịch web IMM Group Việt → Anh
 
-**Nguồn luật đầy đủ:** `CLAUDE.md` + `quy-trinh/style-guide.md` ở thư mục dự án (máy Mac hiện tại: `/Users/kiennh23/Claude/Projects/Web IMM Translation`; máy cũ: `/Volumes/WORK-DATA/web-imm-translation`). Đang ở thư mục đó thì CLAUDE.md đã tự nạp; skill này dùng khi ở nơi khác và để giữ bài học.
+**Nguồn luật đầy đủ:** `/Users/mac/Claude/Projects/web-imm-translation/CLAUDE.md` + `quy-trinh/style-guide.md`. Đang ở thư mục đó thì CLAUDE.md đã tự nạp; skill này dùng khi ở nơi khác và để giữ bài học.
 
 ## Chạy nhanh (từ gốc dự án)
 1. `python3 cong-cu/dich.py moi "<link|tệp>"` (dán chat → ghi `viec/nhap/<ngày>-<slug>.md` trước; danh sách có số viết `- 5. câu`).
@@ -32,23 +32,25 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
 - **Soát trang lớn:** B5 chia 2 mẻ Sonnet theo mã đoạn, B6 1 mẻ Opus đọc cả trang ghép; B6 bắt được lỗi hệ thống giữa các mẻ dịch mà B5 không thấy.
 - **Khẳng định "đầu tiên/duy nhất/lâu nhất" của IMM:** thêm "in Vietnam" khi nguồn ngụ ý Việt Nam; ghi chú CEO cần bằng chứng. Bộ đếm số (counter) trên trang lấy về hiện "0" vì chạy bằng JavaScript — ghi chú team.
 - **Bộ kiểm:** tháng + năm ("January 2005") và tên Tây có dấu (André, Jurídico) từng bị bắt oan — đã sửa kèm ca kiểm.
-- **Cowork (máy ảo) chặn mạng dòng lệnh** tới immgroup.com, Google gợi ý, open.er-api.com (lỗi 403 blocked-by-allowlist): lấy trang bằng Browser pane (`request_access` scope site) + `javascript_tool` gỡ HTML vùng `#content` (bỏ script/svg/thuộc tính, bỏ chữ tên icon Material như `play_arrow`, số thứ tự trang trí) → ghi `viec/nhap/<ngày>-<slug>.html` kèm thẻ meta/canonical/hreflang → `moi` tệp đó. Kiểm hreflang các trang liên kết bằng `fetch()` cùng miền trong trang đang mở. Từ khoá: WebSearch; gợi ý Google chỉ lấy được khi trình duyệt tải JSON về (tệp `f.txt` rơi vào thư mục việc — đổi tên, dùng làm bằng chứng).
-- **Memory/skill cài trong Cowork nằm ở máy ảo tạm** — mất khi hết phiên; bản bền là `bo-nho/` trong dự án + memory claude.ai của project + skill tài khoản (propose_skills).
-- **`kiem` bắt `tygia` kể cả khi đã bỏ số VND bằng `#bo-qua-so`** — không có mạng thì chép `ty-gia.json` cùng ngày từ việc khác, ghi chú nguồn.
-- **Bản /en/ cũ có thể vẫn là chữ Việt** (vd /en/visa-dinh-cu-my-eb5/) → không có gì để giữ nhất quán; slug cũ vẫn cần 301.
-- **Số "5" trong "EB-5"**: bỏ chữ EB-5 ở bản Anh sẽ bị bắt "SỐ LỆCH" — giữ chữ EB-5 khi nguồn có.
-- **Từ khoá chính phải nằm trong đoạn văn đầu, không chỉ H1** — bộ kiểm SEO không tính heading.
-- **B6 tìm được lỗi luật thật của nguồn** (grandfathering, CSPA, rural priority) bằng WebSearch → luôn cho B6 dùng WebSearch/WebFetch nguồn chính thức.
-- **Dịch lại cùng một trang ở định dạng khác (HTML → JSON ACF):** `moi` tệp JSON → `dien <việc> tệp-rỗng --tm100` lấp gần hết từ bộ nhớ dịch (lần EB-5: 246/260), chỉ còn tiêu đề trang, H1 có thẻ, nhãn liên kết. Chép `ban-giao/seo.json` và `ty-gia.json` của việc cũ sang việc mới. **Lấp bằng TM làm mất cờ `#bo-qua-so`/`#bo`** → cửa 0 đỏ ở đoạn có tiền VND, phải `dien` lại đúng đoạn đó kèm cờ.
-- **Giao B5/B6 khi phần lớn đoạn lấy từ TM:** nói rõ đoạn nào dịch mới, đưa đường dẫn `soat-ban-xu.md` của việc cũ và dặn đừng lặp góp ý đã áp; B5 thêm việc quét cả bài tìm đoạn TM lấp sai vai trò trường và thẻ giữ chỗ lệch.
-- **Không nhận đề xuất của agent soát khi nó sửa dữ kiện của nguồn** (vd đổi "Form I-526" thành "I-526E") — giữ đúng nguồn, đẩy vào mục cần CEO xác nhận.
-- **Tệp JSON:** `ghep` thêm khối `seo` (meta title/description/slug) vào tệp xuất; `post_slug` giữ slug Việt vì team import vào trang tiếng Anh đã có. Cảnh báo `JSON:` liệt kê link và ID bài còn trỏ bản Việt → đưa vào ghi chú bàn giao, đừng tự đổi.
-- **`--trung` gán nhầm giữa hai đoạn cùng chữ Việt khác vai trò** (s085 H2 và s086 H3 cùng "Có thể bạn quan tâm" → H2 nhận bản của H3). Sau khi lấp, luôn so cột `en` từng đoạn với việc cũ bằng python (`csv.DictReader`), không tin số "Điền N đoạn".
-- **`dien` hai lần cùng đoạn có cờ `#bo`** → ghi chú bị nối đôi; sửa bằng cách đặt lại cột `ghi_chu`. Ghi lại TSV phải giữ **CRLF** (`open(..., newline='')` + `csv.writer`), nếu không diff báo đổi toàn tệp.
-- **Bản xuất JSON trang tiếng Anh (có `post_id`, `lang: en`) thay bản xuất cũ không có `post_id`:** nội dung Việt giống hệt → không đoạn mới → không chạy lại B5/B6, chỉ chứng minh cột vi/en khớp bản đã soát và `bai-dich.en.md` giống từng byte. Tên tệp import do `ghep` đặt theo tên việc (`<slug>-2.en.json`).
-- **Template ACF mới chưa có bộ chuyển** (`moi` báo "Chưa có bộ chuyển"): tạo `bo-chuyen/<tên>.json` theo mẫu; trường cờ `"1"/"0"` phải khai `bo` (chữ số khớp `\w` nên bị đưa vào dịch). Đã có: acf-product-2026, acf-projectnew-2026 (trang dự án EB-5).
-- **Tệp JSON xuất từ trang tiếng Việt** (`lang: vi`, post_id bản Việt): vẫn dịch, nhưng bàn giao phải cảnh báo đỏ — không import vào post_id đó (sẽ đè trang Việt); team export lại từ bản WPML tiếng Anh rồi `moi` lại (bộ nhớ dịch lấp 100%).
-- **Ngày dạng "tháng 10.2026"**: bộ kiểm báo SỐ LỆCH → cờ `#bo-qua-so`.
-- **B5/B6 trong Cowork**: sub-agent chạy ở container, không thấy máy → stage `song-ngu.tsv`, style guide, thuật ngữ, brief; agent ghi `/tmp/.../soat-*.md` + `sua-*.txt`; luồng chính gom ra `gom-sua.txt` trên máy rồi `dien`.
-- **Trang dự án EB-5**: tiêu đề "An toàn thẻ xanh" / "An toàn khả năng thu hồi vốn" → "Job creation to support your green card" / "Structural features designed to manage investment risk"; bảo lãnh luôn nói rõ là của chủ đầu tư cho khoản vay (không đọc thành hoàn vốn được bảo đảm); thống nhất "first-position lien". Số vốn nguồn hay vênh (khoản vay 40 vs 64 triệu) → ghi CEO.
-- **Chuỗi lệnh `&&`**: một lệnh phụ lỗi làm cả chuỗi (vd ghi báo cáo) không chạy — kiểm tệp sau khi ghi.
+- **Trang chương trình châu Âu ("Thường trú nhân <nước>"):** bản Anh dùng "<Nước> Golden Visa" / "<Nước>
+  Residency by Investment", KHÔNG dùng "permanent resident" (thẻ có thời hạn, gia hạn — dịch PR là sai dữ kiện).
+  Dòng `thường trú nhân` trong CSV là `chot` nên cửa 0 báo LỖI CHẶN: gắn cờ `[sXXX|#bo-qua-tn: lý do] text`
+  cho từng đoạn. **Đừng sửa `thuat-ngu.csv`** — dòng đó vẫn đúng cho trang Mỹ/thẻ xanh.
+- **Cờ `#bo-qua-so` còn dùng cho cách DIỄN ĐẠT, không chỉ tiền VND:** "6 tháng" → "any 180-day period"
+  (đúng luật Schengen, cùng số 90 ngày), "1/3" → "one-third". Bộ kiểm đếm chữ số nên sẽ bắt; ghi lý do vào cờ.
+- **Chia mẻ dịch → hai lỗi hệ thống hay gặp, luồng chính phải tự soát:** (1) **lệch ngôi** — mẻ này "you/your
+  family", mẻ kia "the investor/investors"; (2) **đoạn `{trung:sXXX}` giữa hai mẻ không khớp y hệt** (s050
+  "Your legal spouse" vs s189 "Legal spouse") → `ghep` sai. Trong lời giao, chốt sẵn bản dịch của mọi đoạn
+  `trung` bắc cầu giữa hai mẻ, và chốt ngôi "you".
+- **Gợi ý TM từ trang khác chương trình rất dễ sai ngữ cảnh:** trang Hy Lạp nhận TM 100% "Other U.S.
+  immigration routes" cho "Có thể bạn quan tâm", "EB-5 visa FAQs" cho "Các câu hỏi thường gặp". Nhắc sub-agent
+  bỏ mọi gợi ý nhắc tới chương trình khác.
+- **Cửa 0 kiểm từ khoá chính trong 150 chữ đầu chỉ tính đoạn `p` và `li`, KHÔNG tính heading** — phải nhét
+  nguyên cụm vào gạch đầu dòng đầu tiên của khối hero, không chỉ vào H3.
+- **Kiểm tệp JSON giao đi:** so tập đường dẫn trường của `ban-giao/<slug>.en.json` với `nguon.json` — phải
+  khớp hệt, chỉ thừa khối `/seo/*` do `ghep` thêm. Bắt được ngay việc mất trường/mất icon/mất ID ảnh.
+- **Mức vốn luật định bằng EUR thì KHÔNG quy đổi USD** (style guide 5.2) — nhưng vẫn phải chạy `tygia` trước,
+  nếu không cửa 0 đỏ.
+- **Trang châu Âu hiện chưa có bản /en/ nào** (kiểm hreflang 21/09/2026: Hy Lạp, Ireland, Cyprus, Latvia,
+  Malta, Bồ Đào Nha, Hungary, Bulgaria, trang tổng châu Âu, "Hiểu về nước Hy Lạp") → liên kết nội bộ còn trỏ
+  bản Việt, ghi chú cho team quyết.

@@ -1,1 +1,3 @@
 - [EB-5: dữ kiện nguồn hay nói gọn](eb5-su-that-hay-sai.md) — TEA vs mức chuẩn, điều chỉnh lạm phát 2027, vốn at risk
+- [Trang châu Âu: không dịch "permanent resident"](trang-chuong-trinh-chau-au-khong-dich-permanent-resident.md) — dùng Golden Visa / Residency by Investment, gắn cờ #bo-qua-tn
+- [Hy Lạp: 6 điểm chờ CEO chốt](hy-lap-cho-ceo-xac-nhan.md) — nguồn tự mâu thuẫn, Schengen 180 ngày, "White Paper", cam kết hoàn phí

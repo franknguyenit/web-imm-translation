@@ -1,0 +1,90 @@
+[s001] Greece Golden Visa
+[s002] {1}Greece{/1} Golden Visa {br}(Greek Residency by Investment)
+[s003] What is the Greece Golden Visa?
+[s004] A residence permit program established by the Greek government.
+[s005] Open to non-EU investors and their families through real estate investment.
+[s006] Three generations of one family can live in Greece and travel across 29 Schengen Area countries.
+[s007|#bo-qua-so: số VND chỉ nhắc lại mức 250.000 EUR, khách quốc tế không cần] From €250,000 as the minimum investment.
+[s008] The €250,000 threshold applies to the change-of-use route, where commercial property is converted to residential; taxes and fees are not included.
+[s009] Book a consultation
+[s010] Greece Golden Visa benefits
+[s011] Live in Greece
+[s012] Live, invest, run a business, and study freely in Greece.
+[s013] Freedom of travel across the Schengen Area
+[s014] Travel to 29 Schengen Area countries under the short-stay rules of 90 days in any six-month period.
+[s015] Access to education on the same terms as Greek nationals
+[s016] Your children study free of charge at Greek public schools, from primary school through public university.
+[s017] From the Greece Golden Visa to Greek citizenship
+[s018] After a period of lawful residence, and once the residence, language and integration conditions set by Greek law are met, investors may become eligible to apply for citizenship.
+[s019] Once you hold Greek citizenship
+[s020] Visa-free or eVisa access to more than 180 destinations, including the United States, the United Kingdom, Australia, Japan, and countries across Europe.
+[s021] Greece Golden Visa advantages
+[s022] Greece Golden Visa cost from €250,000
+[s023] Own real estate in central Athens from €250,000 — about one third of the €800,000 threshold that otherwise applies in the area — thanks to the change-of-use route for property converted to residential.
+[s024] Apply from your home country
+[s025] Buy the property and file your application from your home country
+[s026] Receive your White Paper, then travel to Greece to provide biometrics
+[s027] Complete the formalities for issuance of your residence permit
+[s028] No age limit for applicants
+[s029] No upper age limit for the main applicant
+[s030] Applicants under 18 are permitted, with parental consent
+[s031] Straightforward eligibility criteria
+[s032] No education requirement
+[s033] No business management experience required
+[s034] No language requirement
+[s035] No interview
+[s036] No continuous residence requirement
+[s037] You are not required to live in Greece continuously to maintain the Golden Visa
+[s038] Investors who plan to apply for Greek citizenship later must meet the residence and integration conditions set by law
+[s039] Greece Golden Visa requirements
+[s040] Real estate investment
+[s041] €250,000 — commercial property converted to residential use, or a listed heritage building requiring restoration; available in any location, including central Athens
+[s042] €400,000 — real estate in all other areas, with a minimum of 120 sq m
+[s043] €800,000 — real estate in Attica (Athens), Thessaloniki, Mykonos, Santorini and islands with more than 3,100 residents, with a minimum of 120 sq m
+[s044] Applicant requirements
+[s045] Meet security and medical background requirements
+[s046] Provide proof of a lawful source of funds
+[s047] No salaried employment in Greece
+[s048] Further investment and setting up a company are permitted.
+[s049] Family members you can include
+[s050] Your legal spouse
+[s051] Children, including adopted children, up to age 21; a child's permit can be renewed until age 24
+[s052] The parents of both spouses
+[s053] The Greece Golden Visa process, step by step
+[s054] Deposit and due diligence
+[s055] Sign the deposit agreement and complete the initial review of your file
+[s056] Sign the contracts
+[s057] Finalize the residence permit service agreement and the real estate purchase contract
+[s058] Prepare the application and transfer funds
+[s059] Assemble your application and transfer the investment funds according to your chosen investment option and the number of family members included
+[s060] File the application
+[s061] Submit the application to the Greek immigration authorities for review
+[s062] Receive the White Paper and provide biometrics
+[s063] Receive your White Paper, which lets you enter and leave Greece freely for 1 year; travel to Greece to provide biometrics and register for your residence permit
+[s064] Receive your residence permit
+[s065] Receive formal approval; your residence permit is delivered to your home country
+[s066] Renew your residence permit
+[s067] The permit is valid for 5 years and is renewed every 5 years for as long as you still own the real estate
+[s068] Greek real estate projects
+[s069] View all projects
+[s070] You may also be interested in
+[s071] You may also be interested in
+[s072] Explore IMM Group's other advisory services:
+[s073] Greek real estate projects
+[s074] European Citizenship & Residency
+[s075] Ireland Residency by Investment
+[s076] Cyprus Residency by Investment
+[s077] Latvia Residency by Investment
+[s078] Malta Residency by Investment
+[s079] Portugal Residency by Investment
+[s080] Hungary Residency by Investment (Guest Investor Program)
+[s081] Bulgaria Residency by Investment
+[s082] Understanding Greece
+[s083] IMM Group's resource hub brings together practical information on the following topics:
+[s084] Life in Greece
+[s085] Education in Greece
+[s086] Greek culture
+[s087] Working and doing business in Greece
+[s088] Social security and public benefits in Greece
+[s089] Greek real estate
+[s090] Travel in Greece
