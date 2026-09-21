@@ -86,3 +86,33 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
 - **Đoạn văn thô nhiều dòng trong trường ACF** ("- 114 căn…\r\n- 48 căn…" hoặc hai chú thích "*…\r\n*…" nằm giữa hai <ul>): `moi` gộp thành 1 đoạn, `ghep` mất xuống dòng → sau `ghep` so số `\r\n` với nguồn và vá bằng python (replace đếm đúng 1 lần), ghi báo cáo; chờ sửa dich.py.
 - **Trang dự án có khoản vay C-PACE** mà nguồn gọi vốn EB-5 là "senior loan / thế chấp hạng 1": dịch đúng nguồn, báo CEO — C-PACE ở Texas thường đứng trước khoản vay thế chấp. Cộng lại cấu trúc vốn và tỷ lệ việc làm ("cao hơn 30%") để bắt lệch làm tròn.
 - **Thư mục việc cũ bị xoá nhưng bộ nhớ dịch còn** → `dien --tm100 --trung` lấp lại, dựng seo.json theo `seo/tu-khoa-thi-truong.md`, không chạy lại B5/B6.
+- **`bo-nho-dich.jsonl` dính dấu xung đột git** (`<<<<<<< HEAD`, `=======`, `>>>>>>>` bị commit vào tệp):
+  MỌI lệnh `dich.py` chết ngay ở `doc_tm()` với `JSONDecodeError: Expecting value: line 1 column 1`. Đừng nghi
+  tệp nguồn — quét tệp TM tìm dấu xung đột, **giữ cả hai nhánh** (đều là bản ghi TM thật), xoá 6 dòng dấu, rồi
+  `nap` việc kế tiếp sẽ tự khử trùng và xuất lại TMX. Ireland 21/09/2026: 1.744 → 1.738 dòng, không mất bản ghi nào.
+- **TM của trang nước ANH EM còn nguy hiểm hơn TM của chương trình khác:** Ireland nhận gợi ý của Hy Lạp ở
+  s192 ("…**Greece** Golden Visa investment?" TM 100%), s237 ("…spend in **Greece**?" TM 85%) và — nặng nhất —
+  s218 "**Parents can be included** in the application" (TM 92%) trong khi nguồn Ireland nói bố mẹ **KHÔNG** được
+  đi kèm. Cửa 0 không bắt được loại lỗi này. Trong lời giao sub-agent: liệt kê đích danh các đoạn có TM đáng ngờ
+  và dặn "hễ gợi ý nhắc tên nước khác thì bỏ, dịch lại". **Đừng `dien --tm100` mù** cho trang châu Âu.
+- **Cửa 0 bắt SỐ LỆCH khi tiếng Anh viết số bằng CHỮ:** "1 ngày/năm" → "**One** day per year", "Gia hạn lần **1**"
+  → "**First** renewal", "Cả **2** phương án" → "**Both** options", "năm thứ **5**" → "the **fifth** year",
+  "Chọn **1** trong **2**" → "one of two". Hai cách xử lý: (a) viết lại để giữ chữ số — "Just 1 day per year",
+  "year 5", "1 of 2 ways", "Choose 1 of the 2 options"; (b) không tự nhiên được thì `#bo-qua-so` kèm lý do.
+  Cách (a) tốt hơn vì style guide §5 vốn đòi dùng chữ số.
+- **Kiểm thuật ngữ so CHUỖI NGUYÊN VĂN, không hiểu biến thể:** dòng `Immigrant Investor Programme (IIP)` bắt
+  buộc bản Anh chứa đúng cụm có ngoặc — viết "the Ireland Immigrant Investor Programme" (thiếu `(IIP)`) là LỖI
+  CHẶN, trong khi chỉ viết "IIP" lại qua (nhờ `bien_the_en`). Tương tự, **gạch nối phá khớp**:
+  "source-of-funds" không khớp `source of funds`, "residency-by-investment" không khớp `residency by investment`.
+  Sửa câu cho chứa nguyên cụm, hoặc khai biến thể vào CSV nếu biến thể đó đúng ở mọi trang (đừng khai chỉ để
+  cho qua một bài).
+- **Trang chương trình ĐÃ ĐÓNG (Ireland IIP đóng 15/02/2023):** thì của động từ là lỗi hệ thống hay gặp khi
+  chia mẻ — mẻ này viết quá khứ ("What made the IIP attractive"), mẻ kia viết hiện tại ("The program **is**
+  stable") làm trang đọc như vẫn mở. B6 bắt được; luồng chính phải rà lại toàn bài. Và 150 chữ đầu **phải**
+  nói rõ chương trình đã đóng — gợi ý Google cho thấy câu người ta gõ nhiều nhất là
+  "does ireland have a golden visa program" (24 lần / 6 thị trường).
+- **Windows (`G:\WORD\Github\web-imm-translation`):** lệnh là `python` (không phải `python3`) và **phải**
+  `$env:PYTHONIOENCODING="utf-8"` trước mỗi lệnh, nếu không mọi lệnh in chữ Việt đều chết cp1252.
+  `dong-bo-bo-nho.sh` trỏ đường dẫn macOS nên không chạy — chép tay sang `bo-nho/claude-memory/` và `bo-nho/skill/`.
+  `unittest` có **3 lỗi sẵn của môi trường** (2 lỗi cp1252 trong `tests/test_dich.py`, 1 lỗi thiếu `bs4`), 42/45 xanh —
+  không phải lỗi bộ công cụ, đừng đi sửa nhầm.

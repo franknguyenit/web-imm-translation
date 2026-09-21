@@ -1,0 +1,64 @@
+[s096] Can you buy real estate to get Irish residency?
+[s097] No — the Ireland IIP has no real estate purchase option.
+[s098] There are only two options:
+[s099|#bo-qua-so: số VND chỉ nhắc lại số EUR] An endowment of €400,000 to a social project
+[s100|#bo-qua-so: số VND chỉ nhắc lại số EUR] An investment of €1 million in an enterprise — held for 3 years
+[s101] Which option do most investors choose?
+[s102] Most of our clients choose the endowment option
+[s103|#viet-nam-hop-le] IMM Group was the first firm to process Ireland applications in Vietnam (since 2017).
+[s104] Three reasons clients choose the endowment option
+[s105|#bo-qua-so: số VND chỉ nhắc lại số EUR] Lowest cost — €400,000
+[s106] Simpler process — no need to maintain the investment for 3 years
+[s107] Fits the timeline for children to move over and study with free tuition
+[s108] What is a Stamp 4 visa in Ireland?
+[s109] Stamp 4 — long-term residence status under the IIP
+[s110] Stamp 4 is a form of residence permission (not a visa); the physical card is the Irish Residence Permit (IRP)
+[s111] Issued after the application is approved by Immigration Service Delivery (ISD) in Ireland — processing time depends on ISD schedules
+[s112] Allows you to live, work, do business, and study in Ireland under Stamp 4 conditions
+[s113] Has a fixed validity period and must be renewed as required
+[s114] Once you meet the reckonable residence requirements, you may apply for naturalization
+[s115] Does Stamp 4 allow free travel in the Schengen Area and the EU?
+[s116] Stamp 4 does not yet provide visa-free access to the Schengen Area
+[s117] Travel to the Schengen Area still requires a travel visa
+[s118] Holding Irish residence status may make the Schengen visa process more straightforward
+[s119] After naturalizing as an Irish citizen: eligible to travel, live, work, and study in EU countries, subject to the applicable rules.
+[s120] What is the difference between the Schengen Area and the EU?
+[s121] The Schengen Area is not the same thing as the EU
+[s122] EU — the European Union: 27 countries, an intergovernmental organization
+[s123] Schengen: currently 29 countries that allow free movement
+[s124] Ireland is an EU member but is not part of the Schengen Area
+[s125] Stamp 4 holders still need a Schengen visa for travel.
+[s126] Can your children study in other EU countries?
+[s127] No — with Stamp 4, children may only study in Ireland
+[s128] To study in another EU country: a student visa is required
+[s129] To study freely across the EU: Irish citizenship is required (once you are eligible)
+[s130] Do you pay Irish tax on income earned outside Ireland?
+[s131] Tax obligations depend on tax residency and the source of the income
+[s132] Under Irish rules, an individual is treated as a tax resident once they are present for the required time thresholds (generally more than 183 days per year, or under a cumulative formula)
+[s133] Short stays in Ireland (for example, 1 day per year) generally do not meet the tax residency thresholds
+[s134] We recommend consulting a tax advisor before proceeding
+[s135] Stamp 4 validity and renewal
+[s136] Stamp 4 — renewal timeline
+[s137] First issued for: 2 years
+[s138] First renewal: an additional 3 years
+[s139] Subsequent renewals: 5 years each
+[s140] Renewal conditions
+[s141] Enterprise investment option: maintain the investment as required
+[s142] Endowment option: file a renewal application in line with ISD requirements
+[s143] Can you withdraw the investment after 3 years?
+[s144] You may withdraw the capital after 3 years — this does not affect renewal
+[s145] The only requirement is to maintain the investment for 3 years
+[s146] Governed by the rules of Immigration Service Delivery (ISD) in Ireland
+[s147] Renewal conditions after 3 years
+[s148] Meet the residence requirement of 1 day per year
+[s149] No breaches of the law inside or outside Ireland
+[s150] How long until you can apply for Irish citizenship?
+[s151] You may apply for naturalization once you meet the reckonable residence requirements (a minimum of approximately 5 years under the rules)
+[s152] Choose one of two residence requirements:
+[s153] Option 1 — continuous residence
+[s154] Absences from Ireland of no more than 6 weeks per year during the first 4 years
+[s155] Continuous residence for the 12 months in the fifth year before you apply
+[s156] Option 2 — cumulative residence within a 9-year window
+[s157] For example, applying in year 8: accumulate a total of 4 years within the first 6 years
+[s158] Continuous residence for 12 months in year 7
+[s159] Note: the outcome of a naturalization application depends on approval by the competent Irish authorities

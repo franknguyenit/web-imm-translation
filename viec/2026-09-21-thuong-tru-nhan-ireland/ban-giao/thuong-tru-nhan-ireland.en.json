@@ -1,0 +1,1049 @@
+[
+    {
+        "post_id": 100871,
+        "post_slug": "/thuong-tru-nhan-ireland/",
+        "post_title": "Ireland Golden Visa",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "Notice",
+            "product_notice_title": "Ireland IIP: what remains open after the 2023 closure",
+            "product_notice_bullets": [
+                {
+                    "product_notice_bullet_text": "Ireland's Immigrant Investor Programme (IIP) stopped accepting new applications on February 15, 2023",
+                    "product_notice_bullet_subs": false
+                },
+                {
+                    "product_notice_bullet_text": "Legally eligible endowment projects may still accept investment allocations to complete their fundraising",
+                    "product_notice_bullet_subs": false
+                },
+                {
+                    "product_notice_bullet_text": "IMM Group — the first firm to process Ireland applications in Vietnam, beginning in 2017, and the exclusive partner of the Eterna investment fund — currently holds a limited number of eligible endowment allocations",
+                    "product_notice_bullet_subs": false
+                },
+                {
+                    "product_notice_bullet_text": "Once you naturalize as an Irish citizen, you are eligible to live and work across the EU and, under the Common Travel Area, in the UK — subject to the applicable rules",
+                    "product_notice_bullet_subs": false
+                }
+            ],
+            "product_notice_cta": [
+                {
+                    "product_notice_cta_label": "Book a consultation",
+                    "product_notice_cta_url": "https://immgroup.com/en/contact/",
+                    "product_notice_cta_is_primary": "1"
+                }
+            ],
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "<span class=\\\"accent\\\">Ireland</span> Golden Visa"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "98976",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "Ireland golden visa: Stamp 4 residency through the Immigrant Investor Programme (IIP)",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The Irish government's Immigrant Investor Programme (IIP), widely known as the Ireland golden visa, granted Stamp 4 residency to non-EU investors and their families. It closed to new applications on February 15, 2023. A limited number of €400,000 endowment allocations remain available through legally eligible projects.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Live, study, and work entirely in English inside the EU",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Once you naturalize as an Irish citizen, you are eligible to live across all 27 EU member states and, under the Common Travel Area, in the UK",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://immgroup.com/en/contact/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Ireland Golden Visa benefits for your family",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "groups",
+                    "product_benefits_item_title": "Stamp 4 residency for the whole family",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "The main applicant, spouse, and children under 24"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Live, study, and work under Stamp 4 conditions"
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "A high-quality European education",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Free tuition for your children through the end of secondary school"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "One of Europe's leading education systems, taught entirely in English — opening paths to leading universities in the UK, the US, and the EU"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Standards close to those in the UK, at a significantly lower cost"
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "timeline",
+                    "product_benefits_item_title": "A path to citizenship after 5 years",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "You may become eligible to apply for citizenship once you meet the reckonable residence requirement"
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "explore",
+                    "product_benefits_item_title": "After naturalization: freedom to live in the EU and the UK",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "As an Irish citizen, you are eligible to live in the EU and, under the Common Travel Area, in the UK."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "passport",
+                    "product_benefits_item_title": "An Irish passport ranked among the world's top 5",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Visa-free or eVisa access to roughly 190 destinations worldwide"
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "handshake",
+                    "product_benefits_item_title": "Rights in the UK under the Common Travel Area",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Irish citizens may live, study, and work in the UK under the Common Travel Area (CTA)"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Exemption from the English language requirement when applying for UK settlement and citizenship"
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "What made the Ireland Immigrant Investor Programme (IIP) attractive",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "verified",
+                    "product_advantages_item_title": "You invest only after pre-approval",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "One of the few programs structured this way"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "This reduces the risk to both your investment and your Stamp 4 residency"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "calendar_today",
+                    "product_advantages_item_title": "A light physical residence requirement",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Just 1 day per year to maintain Stamp 4"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Note: this applies only to maintaining IIP residency — it is not the requirement for citizenship"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "checklist",
+                    "product_advantages_item_title": "Straightforward eligibility criteria",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "No age requirement"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "No professional qualification requirement"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "No business ownership requirement"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "No English language requirement"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "No medical examination requirement"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "timer",
+                    "product_advantages_item_title": "Processing times average around 18 months",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Expected processing times depend on the individual application and on the workload at Immigration Service Delivery (ISD)."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Ireland golden visa requirements",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person_check",
+                    "product_conditions_item_title": "Applicant requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Aged 18 or older, with no upper age limit"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Meets security and background vetting requirements"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Minimum net worth of €2 million"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "diversity_3",
+                    "product_conditions_item_title": "Your spouse and dependent children",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Children under 24 who are unmarried, in full-time education, and financially dependent"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Meets security and background vetting requirements"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "monetization_on",
+                    "product_conditions_item_title": "Investment requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Evidence that the investment capital comes from a lawful source."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "alt_route",
+                    "product_conditions_item_title": "2 investment options",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "<strong>Option 1</strong>: Invest €1 million (approximately US$1.15 million) in a qualifying enterprise or project, and hold the investment for 3 years."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "<strong>Option 2</strong>: Make an endowment of €400,000 (approximately US$459,000) to a social project in the arts, culture, sport or education."
+                        }
+                    ],
+                    "product_conditions_item_footnote": "Please note: the Ireland IIP stopped accepting new applications on February 15, 2023. IMM Group holds a limited number of eligible endowment places from projects that met the legal criteria before that date."
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "Ireland golden visa process, step by step",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "content_paste_search",
+                    "product_process_step_title": "Deposit and due diligence",
+                    "product_process_step_desc": "Sign the deposit agreement and complete the initial due diligence on your file.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "handshake",
+                    "product_process_step_title": "Sign the contracts",
+                    "product_process_step_desc": "Complete the IMM Group service agreement together with the contracts that establish and implement the investment.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "upload_file",
+                    "product_process_step_title": "Prepare and file your application",
+                    "product_process_step_desc": "Prepare the legal documentation and file your application for Irish residency under the Immigrant Investor Programme (IIP).",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "approval",
+                    "product_process_step_title": "Receive pre-approval",
+                    "product_process_step_desc": "The Irish government reviews the application and issues pre-approval.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "currency_exchange",
+                    "product_process_step_title": "Transfer your investment",
+                    "product_process_step_desc": "Transfer the investment capital once the application has received pre-approval.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "card_membership",
+                    "product_process_step_title": "Travel to Ireland to complete the formalities",
+                    "product_process_step_desc": "Travel to Ireland to complete the remaining formalities and provide your fingerprints. You receive your residence permit (Stamp 4) during the same trip.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "You may also be interested in",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "You may also be interested in",
+            "product_care_service_desc": "<p>Explore IMM Group's other advisory services:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "European Citizenship & Residency",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Greece Golden Visa",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hy-lap/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Cyprus Residency by Investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-cong-hoa-sip-cyprus/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Latvia Residency by Investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/dau-tu-dinh-cu-latvia/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Malta Residency by Investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-malta/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Portugal Residency by Investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bo-dao-nha/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Hungary Residency by Investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hungary-guest-investor-program/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bulgaria Residency by Investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bulgaria/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Understanding Ireland",
+            "product_care_topics_desc": "<p>IMM Group's resource hub brings together practical information on the following topics:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Living in Ireland",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-ireland/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Education in Ireland",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-ireland/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Irish culture",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-ireland/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Healthcare in Ireland",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-ireland/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Taxation in Ireland",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-ireland/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Doing business in Ireland",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-ireland/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Inspiring Irish immigration journeys",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-ireland/#n6",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Frequently asked questions",
+            "product_faq_section_id": "",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Can you buy real estate to get Irish residency?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "No — the Ireland IIP has no real estate purchase option.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": ""
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "There are only 2 options:",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "An endowment of €400,000 to a social project"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "An investment of €1 million in an enterprise — held for 3 years"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Which option do most investors choose?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "In practice, most of our clients have chosen the endowment option"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group was the first firm to process Ireland applications in Vietnam (since 2017)."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Three reasons clients choose the endowment option",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Lowest cost — €400,000"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Simpler process — no need to maintain the investment for 3 years"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Aligns with the timeline for children to relocate and study with free tuition"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What is a Stamp 4 visa in Ireland?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Stamp 4 — long-term residence status under the IIP",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Stamp 4 is a form of residence permission (not a visa); the physical card is the Irish Residence Permit (IRP)"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Issued after the application is approved by ISD in Ireland — processing time depends on ISD schedules"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Allows you to live, work, do business, and study in Ireland under Stamp 4 conditions"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Has a fixed validity period and must be renewed as required"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Once you meet the reckonable residence requirements, you may apply for naturalization"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Does Stamp 4 allow free travel in the Schengen Area and the EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Stamp 4 does not yet provide visa-free access to the Schengen Area"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Travel to the Schengen Area still requires a travel visa"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Holding Irish residence status may make the Schengen visa process more straightforward"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "After naturalizing as an Irish citizen: eligible to travel, live, work, and study in EU countries, subject to the applicable rules."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What is the difference between the Schengen Area and the EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The Schengen Area is not the same thing as the EU",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "EU — the European Union: 27 countries, an intergovernmental organization"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Schengen: currently 29 countries that allow free movement"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Ireland is an EU member but is not part of the Schengen Area"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Stamp 4 holders still need a Schengen visa for travel."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can your children study in other EU countries?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No — with Stamp 4, children may only study in Ireland"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "To study in another EU country: a student visa is required"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "To study freely across the EU: Irish citizenship is required (once you are eligible)"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do you pay Irish tax on income earned outside Ireland?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Tax obligations depend on tax residency and the source of the income"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Under Irish rules, an individual is treated as a tax resident once they are present for the required time thresholds (generally more than 183 days per year, or under a cumulative formula)"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Short stays in Ireland (for example, 1 day per year) generally do not meet the tax residency thresholds"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "We recommend consulting an independent tax advisor before proceeding"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Stamp 4 validity and renewal",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Stamp 4 — renewal timeline",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "First issued for: 2 years"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "First renewal: an additional 3 years"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Subsequent renewals: 5 years each"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Renewal conditions",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Enterprise investment option: maintain the investment as required"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Endowment option: file a renewal application in line with ISD requirements"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can you withdraw the investment after 3 years?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You may withdraw the capital after 3 years — on its own, this does not affect your renewal, provided the other conditions are met"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The only requirement is to maintain the investment for 3 years"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Governed by the rules of Immigration Service Delivery (ISD) in Ireland"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Renewal conditions after 3 years"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Meet the residence requirement of 1 day per year"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "No breaches of the law inside or outside Ireland"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How long until you can apply for Irish citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "You may apply for naturalization once you meet the reckonable residence requirements (a minimum of approximately 5 years under the rules)",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You can meet the residence requirement in 1 of 2 ways:"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Option 1 — continuous residence",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Absences from Ireland of no more than 6 weeks per year during the first 4 years"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Continuous residence for the 12 months of year 5, immediately before you apply"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Option 2 — cumulative residence within a 9-year window",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "For example, applying in year 8: accumulate a total of 4 years within the first 6 years"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Continuous residence for 12 months in year 7"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": false,
+                            "product_faq_item_section_note": "Note: the outcome of a naturalization application depends on approval by the competent Irish authorities"
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What does Irish citizenship give you?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Benefits after naturalizing as an Irish citizen",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Full rights of an Irish citizen under Irish law"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Eligible to live in the 27 EU member states"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Eligible to live, study, and work in the UK through the Common Travel Area (CTA), subject to the applicable rules"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Eligible to apply for British citizenship once the UK residence conditions are met — with an exemption from the English language test"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The Irish passport ranks among the world's strongest — supporting visa-free or eVisa travel to many countries"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do I have to pass an Irish language test to obtain citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No language test is required — not even in English"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "You only need to meet the residence conditions and file the application"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "This differs from Portugal and Greece, which require a test in the national language"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the conditions for British citizenship once I hold Irish citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Conditions considered for British citizenship",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Aged over 18"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "5 years of residence in the UK before the date of application"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Indefinite Leave to Remain (ILR) for the final 12 months"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "English at B1 level (Irish citizens are exempt)"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Passing the Life in the UK test"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Demonstrating an intention to live in the UK long term"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Meets security and background vetting requirements"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Note on time spent outside the UK",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No more than 450 days outside the UK over the 5 years"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "No more than 90 days outside the UK in the final 12 months"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can I hold 3 citizenships — Irish, British, and my existing nationality?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You may hold more than one citizenship — this must be assessed under the nationality law of your home country"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Ireland and the UK both allow dual or multiple citizenship"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "For your home country: holding an additional foreign citizenship must be assessed under your home country's nationality law — we recommend consulting an independent legal advisor"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do I need British citizenship if I already have Irish citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Not necessarily — Irish citizenship already opens the right to live in the UK"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Irish citizenship allows you to live in the UK under the Common Travel Area (CTA)"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Under the CTA, Irish citizens are not treated as \"foreign nationals\" in the UK"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "If you still wish to naturalize as a British citizen, you are exempt from the language test."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the investment risks?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Three main risks of the Ireland Immigrant Investor Programme (IIP)",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Enterprise investment option: choosing an unreliable project or developer, or a project that is not viable"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Both options: an unclear source of funds leading to refusal of the application"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "An attorney or immigration firm without experience in proving the source of funds"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is the Ireland program stable?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The program has a long operating track record in Europe, although it no longer accepts new applications",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "One of the EU's first residency-by-investment programs, alongside Portugal"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Launched in the aftermath of the 2007–2008 financial crisis"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Well regarded in the region for its maturity and transparency"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Processing times depend on ISD schedules in Ireland"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Who can be included in the application?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Family members who can be included in the application",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Your legal spouse"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Children under 24 who are unmarried, in full-time education, and financially dependent"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The dependent-child policy is relatively generous compared with many other programs."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is dependency straightforward to prove?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Proving dependency is straightforward",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Only your children's birth certificates are needed"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Children under 18: no proof of dependency required"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Children aged 18–24: evidence that they are still in education and financially dependent"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Are adopted children and stepchildren eligible?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Adopted children and stepchildren are eligible",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Adopted child: a legal certificate is required"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Stepchild: a legal certificate plus a notarized letter of consent from the spouse"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group assists with preparing the documents."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can parents be included in the application?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No — the program does not accept parents within the same application"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "An application covers only the main applicant, the spouse, and dependent children"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group assists with visitor visa applications for parents"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Alternatives if you want to bring the whole family"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Move to the Portugal Golden Visa"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "File a separate Ireland application for the parents"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is there a language requirement?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No language requirement — and no age or management experience requirement"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Basic conditions"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Personal net worth of at least €2 million from a lawful source"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Choose 1 of the 2 investment options"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Cash requirement by option"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Endowment option: €400,000 held as cash or in a savings account"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Enterprise investment option: €1 million in cash ready to invest"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is there an annual application quota?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Note: the Ireland IIP stopped accepting new applications on February 15, 2023"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Previously, the program opened application windows according to the ISD calendar during the year"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Only investment places in projects that were legally eligible before that date are still being accepted, in order to complete their target funding"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How many days a year do I have to spend in Ireland?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Just 1 day per year to maintain Stamp 4"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Note: this applies only to maintaining IIP residency — it is not the requirement for citizenship"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tip: travel to Ireland late in 1 year and stay into the next — a single trip can cover the requirement for 2 years."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": ""
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": ""
+            }
+        },
+        "seo": {
+            "meta_title": "Ireland Golden Visa: Requirements & Cost | IMM Group",
+            "meta_description": "The Ireland golden visa (IIP) closed to new applications in 2023, but a limited number of EUR 400,000 endowment places remain. Speak with an advisor.",
+            "slug": "ireland-golden-visa"
+        }
+    }
+]

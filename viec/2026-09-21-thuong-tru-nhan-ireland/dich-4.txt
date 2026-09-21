@@ -1,0 +1,78 @@
+[s160] What does Irish citizenship give you?
+[s161] Benefits after naturalizing as an Irish citizen
+[s162] Full rights of an Irish citizen under Irish law
+[s163] Eligible to live in the 27 EU countries, subject to the applicable rules
+[s164] Eligible to live, study, and work in the UK through the Common Travel Area (CTA), subject to the applicable rules
+[s165] Eligible to apply for British citizenship - no English language test required
+[s166] The Irish passport ranks among the world's strongest - supporting visa-free or eVisa travel to many countries
+[s167] Do I have to pass an Irish language test to obtain citizenship?
+[s168] No language test is required - not even in English
+[s169] You only need to meet the residence conditions and file the application
+[s170] This differs from Portugal and Greece, which require a test in the national language
+[s171] What are the conditions for British citizenship once I hold Irish citizenship?
+[s172] Conditions considered for British citizenship
+[s173] Aged over 18
+[s174] Five years of residence in the UK before the date of application
+[s175] Indefinite Leave to Remain (ILR) for the final 12 months
+[s176] English at B1 level (Irish citizens are exempt)
+[s177] Passing the Life in the UK test
+[s178] Demonstrating an intention to live in the UK long term
+[s180] Note on time spent outside the UK
+[s181] No more than 450 days outside the UK over the 5 years
+[s182] No more than 90 days outside the UK in the final 12 months
+[s183] Can I hold Irish, British, and my current citizenship?
+[s184] You may hold more than one citizenship - this must be assessed under the nationality law of your home country
+[s185] Ireland and the UK both allow dual or multiple citizenship
+[s186] For your home country: holding an additional foreign citizenship must be assessed under your home country's nationality law - we recommend consulting a qualified legal advisor
+[s187] Do I need British citizenship if I already have Irish citizenship?
+[s188] Not necessarily - Irish citizenship already opens the right to live in the UK
+[s189] Irish citizenship allows you to live in the UK under the Common Travel Area (CTA)
+[s190] Under the CTA, Irish citizens are not treated as "foreign nationals" in the UK
+[s191] If you still wish to naturalize as a British citizen, you are exempt from the language test.
+[s192] What are the investment risks?
+[s193] Three main risks of the Ireland investment program
+[s194] Enterprise investment option: choosing an unreliable project or developer, or a project that is not viable
+[s195] Both options: an unclear source of funds leading to refusal of the application
+[s196] An inexperienced attorney or immigration firm handling the source-of-funds evidence
+[s197] Is the Ireland program stable?
+[s198] The program is stable and has a long operating track record in Europe
+[s199] One of the EU's first residency-by-investment programs, alongside Portugal
+[s200] Launched in the aftermath of the 2007-2008 financial crisis
+[s201] Well regarded in the region for its maturity and transparency
+[s202] Processing times depend on the workload at Immigration Service Delivery (ISD)
+[s203] Who can be included in the application?
+[s204] Family members who can be included in the application
+[s205] Your legal spouse
+[s207] The dependent-child policy is relatively generous compared with many other programs.
+[s208] Is dependency straightforward to prove?
+[s209] Proving dependency is straightforward
+[s210] Only your children's birth certificates are needed
+[s211] Children under 18: no proof of dependency required
+[s212] Children aged 18-24: evidence that they are still in education and financially dependent
+[s213] Are adopted children and stepchildren eligible?
+[s214] Adopted children and stepchildren are eligible
+[s215] Adopted child: a legal certificate is required
+[s216] Stepchild: a legal certificate plus a notarized letter of consent from the spouse
+[s217] IMM Group assists with preparing the documents.
+[s218] Can parents be included in the application?
+[s219] No - the program does not accept parents within the same application
+[s220] An application covers only the main applicant, the spouse, and dependent children
+[s221] IMM Group assists with visitor visa applications for parents
+[s222] Alternatives if you want to bring the whole family
+[s223] Move to the Portugal Golden Visa
+[s224] File a separate Ireland application for the parents
+[s225] Is there a language requirement?
+[s226] No language requirement - and no age or management experience requirement
+[s227] Basic conditions
+[s228|#bo-qua-so: số VND chỉ nhắc lại số EUR] Personal net worth of at least €2 million from a lawful source
+[s229] Choose one of the two investment options
+[s230] Cash requirement by option
+[s231|#bo-qua-so: số VND chỉ nhắc lại số EUR] Endowment option: €400,000 held as cash or in a savings account
+[s232|#bo-qua-so: số VND chỉ nhắc lại số EUR] Enterprise investment option: €1 million in cash ready to invest
+[s233] Is there an annual application quota?
+[s234] Note: the Ireland IIP stopped accepting new applications on February 15, 2023
+[s235] Previously, the program opened application windows according to the ISD calendar during the year
+[s236] Only investment places in projects that were legally eligible before that date are still being accepted, in order to complete their target funding
+[s237] How many days a year do I have to spend in Ireland?
+[s238] Just 1 day per year to maintain Stamp 4
+[s240] Tip: traveling to Ireland at the end of one year and staying into the new year can satisfy the condition for both years in a single trip.

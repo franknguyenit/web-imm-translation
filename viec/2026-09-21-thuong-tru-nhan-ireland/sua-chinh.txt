@@ -1,0 +1,40 @@
+[s001|#bo-qua-tn: tên trang dùng cụm người bản xứ gõ "golden visa", đồng bộ với trang Hy Lạp "Greece Golden Visa"] Ireland Golden Visa
+[s009|#bo-qua-tn: H1 dùng từ khoá chính "ireland golden visa"; Stamp 4 không phải permanent residence nên không dịch là permanent resident] {1}Ireland{/1} Golden Visa
+[s011|#bo-qua-so: nêu lại ngưỡng €400,000 của s059 ở khối mở đầu] The Irish government's Immigrant Investor Programme (IIP) — Ireland's golden visa — granted Stamp 4 residency to non-EU investors and their families. It closed to new applications in 2023, though a limited number of €400,000 endowment allocations remain open through legally eligible projects.
+[s015|#bo-qua-tn: Stamp 4 là quyền cư trú dài hạn có gia hạn, không phải permanent residence; tiêu đề dùng từ khoá "ireland golden visa"] Ireland Golden Visa benefits for your family
+[s023] A path to citizenship after 5 years
+[s032] Why investors chose the Ireland Immigrant Investor Programme (IIP)
+[s034] One of the few programs structured this way
+[s037] Just 1 day per year to maintain Stamp 4
+[s052] Your spouse and dependent children
+[s057] 2 investment options
+[s058|#bo-qua-so: số VND chỉ nhắc lại số EUR] **Option 1**: Invest €1 million (approximately US$1.15 million) in a qualifying enterprise or project, and hold the investment for 3 years.
+[s078|#bo-qua-tn: tên trang đã chốt trên site, giữ nguyên cho nhất quán] European Citizenship & Residency
+[s079|#bo-qua-tn: tên trang đã chốt trên site, giữ nguyên cho nhất quán] Greece Golden Visa
+[s080|#bo-qua-tn: tên trang đã chốt trên site, giữ nguyên cho nhất quán] Cyprus Residency by Investment
+[s081|#bo-qua-tn: tên trang đã chốt trên site, giữ nguyên cho nhất quán] Latvia Residency by Investment
+[s082|#bo-qua-tn: tên trang đã chốt trên site, giữ nguyên cho nhất quán] Malta Residency by Investment
+[s083|#bo-qua-tn: tên trang đã chốt trên site, giữ nguyên cho nhất quán] Portugal Residency by Investment
+[s084|#bo-qua-tn: tên trang đã chốt trên site, giữ nguyên cho nhất quán] Hungary Residency by Investment
+[s085|#bo-qua-tn: tên trang đã chốt trên site, giữ nguyên cho nhất quán] Bulgaria Residency by Investment
+[s098] There are only 2 options:
+[s138|#bo-qua-so: "lần 1" là số thứ tự, tiếng Anh viết "first renewal"] First renewal: an additional 3 years
+[s152] You can meet the residence requirement in 1 of 2 ways:
+[s155] Continuous residence for the 12 months of year 5, immediately before you apply
+[s165] Eligible to apply for British citizenship — no English language test required
+[s166] The Irish passport ranks among the world's strongest — supporting visa-free or eVisa travel to many countries
+[s168] No language test is required — not even in English
+[s174] 5 years of residence in the UK before the date of application
+[s183] Can I hold 3 citizenships — Irish, British, and my current one?
+[s184] You may hold more than one citizenship — this must be assessed under the nationality law of your home country
+[s186] For your home country: holding an additional foreign citizenship must be assessed under your home country's nationality law — we recommend consulting a qualified legal advisor
+[s188] Not necessarily — Irish citizenship already opens the right to live in the UK
+[s193] Three main risks of the Ireland Immigrant Investor Programme (IIP)
+[s195|#bo-qua-so: "cả 2 phương án" tiếng Anh viết "both options"] Both options: an unclear source of funds leading to refusal of the application
+[s196] An attorney or immigration firm without experience in proving the source of funds
+[s202] Processing times depend on the workload at Ireland's Immigration Service Delivery (ISD)
+[s212] Children aged 18–24: evidence that they are still in education and financially dependent
+[s219] No — the program does not accept parents within the same application
+[s226] No language requirement — and no age or management experience requirement
+[s229] Choose 1 of the 2 investment options
+[s240] Tip: travel to Ireland late in 1 year and stay into the next — a single trip can cover the requirement for 2 years.
