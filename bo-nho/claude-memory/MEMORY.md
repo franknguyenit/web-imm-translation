@@ -2,5 +2,6 @@
 - [Trang châu Âu: không dịch "permanent resident"](trang-chuong-trinh-chau-au-khong-dich-permanent-resident.md) — dùng Golden Visa / Residency by Investment, gắn cờ #bo-qua-tn
 - [Hy Lạp: 6 điểm chờ CEO chốt](hy-lap-cho-ceo-xac-nhan.md) — nguồn tự mâu thuẫn, Schengen 180 ngày, "White Paper", cam kết hoàn phí
 - [Ireland: 8 điểm chờ CEO chốt](ireland-cho-ceo-xac-nhan.md) — cơ sở pháp lý "suất còn lại", mốc 14 vs 15/02/2023, VND tự đá nhau
+- [Grenada: ghi chú nội bộ lọt vào trang + 2 dữ kiện sai](grenada-cho-ceo-xac-nhan.md) — note "+50.000 USD", phỏng vấn 16 vs 17 tuổi, ECCIRA đã hoãn, FAQ Covid lỗi thời
 - [TM hay gợi ý nhầm câu của nước khác](tm-lay-nham-cau-cua-trang-nuoc-khac.md) — Hy Lạp lọt sang Ireland, có câu ngược nghĩa; đừng dùng --tm100 mù
 - [Môi trường Windows của dự án dịch](moi-truong-windows-cua-du-an-dich.md) — dùng `python`, đặt PYTHONIOENCODING, 3 test hỏng sẵn

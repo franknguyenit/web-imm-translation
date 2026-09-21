@@ -111,6 +111,28 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
   stable") làm trang đọc như vẫn mở. B6 bắt được; luồng chính phải rà lại toàn bài. Và 150 chữ đầu **phải**
   nói rõ chương trình đã đóng — gợi ý Google cho thấy câu người ta gõ nhiều nhất là
   "does ireland have a golden visa program" (24 lần / 6 thị trường).
+- **Ghi chú biên tập nội bộ có thể nằm trong trường ACF và sẽ hiển thị cho khách** (Grenada 21/09/2026,
+  `product_faq_item_section_note`: *"Áp dụng đồng bộ khoản +50.000 USD vào mọi nơi mô tả Phương án BĐS"*).
+  Đừng dịch sát thành câu vô nghĩa với khách, cũng **đừng tự xoá nội dung**: chuyển thành câu đính chính có ích
+  (*"Figures quoted as 'from US$270,000' refer to the equity investment only; the US$50,000 government contribution
+  is payable on top"*) rồi nêu **đầu tiên** trong báo cáo. Loại ghi chú này thường **tố cáo một lỗi thật của nguồn**
+  — ở đây là 3 chỗ ghi giá thiếu phí Chính phủ.
+- **Trang CBI Caribbean là loại nhiều lời hứa tuyệt đối nhất** — phần lớn việc biên tập là rào lại, không phải dịch.
+  Mẫu hay gặp và cách xử lý: "quốc tịch đã nhận không bị thu hồi" → *"the failure of a project is not a ground for
+  withdrawing citizenship"* (vẫn thu hồi được nếu gian lận) · "**luật** bảo vệ, được yêu cầu hoàn vốn" → quyền hoàn
+  vốn nằm ở **hợp đồng với chủ đầu tư**, không có trong quy định CBI → *"depends on the terms of your purchase
+  agreement with the developer"* · "giữ quốc tịch **trọn đời**" → *"not conditional on continued ownership"* ·
+  "**tối ưu** nghĩa vụ thuế" → nêu dữ kiện + *"a second citizenship does not by itself change where you are tax
+  resident… independent tax advisor"* · "**chỉ** bị từ chối nếu…" → *"the most common reason for refusal is…"* ·
+  "mức độ **an toàn** của khoản đầu tư" → *"how the investment is structured"* · "**rộng nhất/nhanh gấp đôi**" →
+  bỏ so sánh không nguồn, hoặc thay bằng dữ kiện mạnh hơn mà đúng (*"the only route to the E-2 in the Caribbean"*).
+- **E-2 qua quốc tịch đầu tư: chuẩn pháp lý là `domicile`, KHÔNG phải `residence`** (B6 bắt, mức NẶNG).
+  Nguồn Việt viết "cư trú 3 năm" → bản Anh phải là *"3 continuous years of domicile"* kèm định nghĩa
+  *"actual residence with the intention of remaining, a stricter test than holding the passport"*. Đây là điểm bán
+  chính của trang Grenada nên dịch sai là rủi ro tư vấn. Hiệp ước E-2 Mỹ–Grenada hiệu lực từ 1989, Grenada là nước
+  Caribbean **duy nhất** có hiệp ước này.
+- **Nội dung Covid-19 còn sót trên trang** (Grenada có hẳn một câu hỏi thường gặp): dịch đúng nguồn nhưng đề nghị
+  CEO **xoá khỏi trang**; cùng loại với mốc so sánh cũ ("tăng 20,45% so với 2017") và số liệu không ghi năm.
 - **Windows (`G:\WORD\Github\web-imm-translation`):** lệnh là `python` (không phải `python3`) và **phải**
   `$env:PYTHONIOENCODING="utf-8"` trước mỗi lệnh, nếu không mọi lệnh in chữ Việt đều chết cp1252.
   `dong-bo-bo-nho.sh` trỏ đường dẫn macOS nên không chạy — chép tay sang `bo-nho/claude-memory/` và `bo-nho/skill/`.
