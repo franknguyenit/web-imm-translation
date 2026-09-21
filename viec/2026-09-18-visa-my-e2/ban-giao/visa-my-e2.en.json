@@ -1,0 +1,670 @@
+[
+    {
+        "post_id": 100587,
+        "post_slug": "/dau-tu-dinh-cu-my/visa-my-e2/",
+        "post_title": "U.S. E-2 treaty investor visa",
+        "lang": "vi",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "U.S. <span class=\"accent\">E-2</span> Visa for Treaty Investors"
+            },
+            "product_hero_video": "https://videopress.com/v/Sw3QO0oE",
+            "product_hero_image": "99290",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is the E-2 visa?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The E-2 visa is a U.S. nonimmigrant (temporary) investor visa.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "It is available to citizens of countries that have a treaty of commerce with the U.S.; investors from non-treaty countries commonly qualify through citizenship of Grenada, Türkiye, or Montenegro.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Who it covers:</strong> the investor, spouse, and children under 21 can live, study, and work anywhere in the U.S.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Key features:</strong> faster processing than many other routes and simpler documentation—well suited to families who want to move to the U.S. soon for their children's education.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "The E-2 visa can be renewed multiple times, but it does not automatically lead to a green card.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "E-2 visa benefits",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Your whole family moves to the U.S.",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Freedom to live, study, and work."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Tuition-free public schools for your children",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "From elementary school through high school, as long as your family holds valid visas."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "savings",
+                    "product_benefits_item_title": "U.S. tax on worldwide income only if you become a tax resident",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "You are not subject to U.S. tax on worldwide income unless you become a U.S. tax resident (based on days of physical presence). Seek advice from a tax advisor for details."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "sync_alt",
+                    "product_benefits_item_title": "Travel freely between the U.S. and your home country",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Balance business and family life across two countries with greater flexibility."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Advantages of the E-2 visa",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "speed",
+                    "product_advantages_item_title": "Faster than many other U.S. visa routes",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Often processed relatively quickly; actual timing depends on your case and consular appointment availability."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "account_balance_wallet",
+                    "product_advantages_item_title": "Simpler source of funds documentation",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Simpler than for many other U.S. visas."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "No language requirement and no age limit",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Opens the program to a wider range of applicants."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "business_center",
+                    "product_advantages_item_title": "Flexible choice of business",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Run your own business or choose an established E-2 business."
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "A professional operating team provides support, easing the day-to-day management burden."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Requirements for investors from non-treaty countries",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "flag",
+                    "product_conditions_item_title": "Citizenship of an E-2 treaty country",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Grenada · Türkiye (Turkey) · Montenegro."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "calendar_month",
+                    "product_conditions_item_title": "At least 3 years of residence",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "At least 3 consecutive years of residence in Grenada, Türkiye, or Montenegro."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Applicant requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Aged 18 or older, and meets health and police clearance certificate requirements."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Of an age that allows you to manage a business in the U.S."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Investing in the U.S.",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Use your Grenadian, Turkish, or Montenegrin citizenship to invest in the U.S."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Recommended investment: US$200,000."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "The E-2 visa application process",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "flag",
+                    "product_process_step_title": "Obtain a second citizenship",
+                    "product_process_step_desc": "Invest to obtain citizenship of Grenada, Türkiye, or Montenegro.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "business_center",
+                    "product_process_step_title": "Select and vet a U.S. business",
+                    "product_process_step_desc": "Choose the business you will own and carry out thorough due diligence.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "sync_alt",
+                    "product_process_step_title": "Complete the ownership transfer",
+                    "product_process_step_desc": "Complete the transfer of the business.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "edit_document",
+                    "product_process_step_title": "Finalize the E-2 business plan",
+                    "product_process_step_desc": "Prepare the business plan for your E-2 application.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "File the E-2 visa application",
+                    "product_process_step_desc": "Complete the process and submit your E-2 visa application.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "Other U.S. immigration routes",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "Other U.S. immigration routes",
+            "product_care_service_desc": "<p>Explore IMM Group's other U.S. immigration programs:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Compare U.S. investment immigration programs",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "U.S. EB-5 Visa",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/visa-dinh-cu-my-eb5/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "U.S. L-1A intracompany transferee visa",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/visa-my-l1a/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "U.S. EB-1C green card for executives and managers",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/visa-dinh-cu-my-eb1c/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Understanding America",
+            "product_care_topics_desc": "<p>IMM Group's resource hub brings together practical information on the following topics:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Living in the U.S.",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Taxes in the U.S.",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Doing business in the U.S.",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Education in the U.S.",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Social Security and public benefits in the U.S.",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Immigrant success stories in the U.S.",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Inspiring U.S. immigration journeys",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n6",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "E-2 visa FAQs",
+            "product_faq_section_id": "faq-e2",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "How does E-2 differ from EB-5?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "E-2 vs. EB-5",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "E-2 is a nonimmigrant investor visa: the process is faster and simpler, but it is difficult for the principal applicant and spouse to transition to a green card."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "E-2 applications are often processed relatively quickly; actual timing depends on your case and consular appointment availability."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "E-2 investments start from US$200,000—well suited to families who want to move to the U.S. soon for their children's education."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "EB-5 leads directly to a green card, but requires more capital and takes longer."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What is the total cost of Grenada + E-2 compared with EB-5?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Indicative costs",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The total cost is usually lower than EB-5 (from US$800,000): around US$220,000 for Grenadian citizenship (real estate), plus an E-2 investment or business purchase from US$200,000, plus other associated costs."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Figures exclude taxes and fees and may change over time."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How much do I need to invest in the U.S.?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "E-2 investment amount",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The U.S. government does not set a fixed minimum investment for the E-2 visa."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The law requires a “substantial” investment relative to the business model, and the total capitalization of the business determines whether you buy a stake or acquire it outright."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Based on immigration attorneys' experience, we recommend an investment of at least US$200,000."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The program sets no specific revenue or job creation requirements."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can I move from E-2 to a green card?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Possible routes in principle",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "E-2 is a nonimmigrant visa, and transitioning to a green card is very difficult."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "In principle, there are 3 routes to a green card: from E-2 to EB-5; from E-2 to EB-1C; or pursuing E-2 and EB-5 in parallel."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Moving from E-2 to EB-5 requires an investment of US$800,000 in a Targeted Employment Area (TEA) or US$1.1 million elsewhere, creating 10 jobs under EB-5 rules."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Moving from E-2 to EB-1C requires a large, established company in your home country that is expanding into the U.S."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Pursuing E-2 and EB-5 in parallel is complex and costly."
+                                }
+                            ],
+                            "product_faq_item_section_note": "We recommend clarifying your goals and choosing the right program from the start."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the risks of an E-2 investment?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Key risks",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The main risks lie in business operations and the business plan."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group carefully vets each case before signing a contract to improve the likelihood that the application meets the requirements."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Note: an E-2 business investment carries risk, and results depend on business performance."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What source of funds evidence is required?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Documentation requirements",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No business experience or prior business ownership is required."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Source of funds requirements are also simpler than for many other programs."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "You must show a lawful source of funds (for example, proceeds from selling real estate or a home, or earned income)."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is management experience required?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Management experience",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No management experience is required—unlike L-1A (designed for business owners and senior executives)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The E-2 visa is made available under treaties of commerce between the U.S. and treaty countries, allowing their citizens to invest and do business in the U.S."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "For investors without prior experience, IMM Group offers ready-made operating business structures and supports the process, paperwork, and structuring; day-to-day management is handled by a third-party company (an IMM partner) that shares profits with the investor."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Does IMM Group help choose a business?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Two options",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "If you already know what business you want to run, IMM Group helps restructure the ownership documents and engage an accountant."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "If you have not decided and prefer limited involvement in operations, IMM Group sources established businesses that come with a management support partner."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group has built complete business models (notably restaurant chain franchises and renovation of older properties for rental) and also helps investors find schools for their children and find housing in the U.S."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Which industries qualify?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Eligible industries",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "There are no industry restrictions, except for certain sensitive sectors the U.S. government does not encourage (such as securities investment, casinos, and currency exchange services)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "You must make a real, at-risk investment—passive investments such as buying real estate or securities to hold for appreciation do not qualify."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Where can the business be located?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Business location",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Flexible—the business can be located in any of the 50 states."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "We suggest choosing a location near where your family lives and your children attend school, both for ease of management and to meet U.S. government requirements."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Up to what age can children be included?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Two separate applications to consider",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "For the Grenadian citizenship application (the intermediate step): unmarried children under 30 can be included, along with your spouse, dependent parents, and unmarried siblings over 18 without children."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "For the E-2 visa application: children under 21 can be included."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Children aged 18 or older may choose to apply as principal applicants rather than as dependents."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can I hold an E-2 visa without living in the U.S.?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Presence and management requirements",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "It depends on who the principal applicant is."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The principal applicant must be in the U.S. regularly, because the E-2 visa is issued so the holder can develop and direct a business in the U.S."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "An accompanying spouse can travel outside the U.S. more flexibly."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "There is no set number of days, and you can travel back to your home country, but you must show that you are involved in directing the business to qualify for renewal."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Grenada, Türkiye, or Montenegro?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Second citizenship for E-2 eligibility",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The E-2 visa is only available to citizens of treaty countries, so investors from non-treaty countries need a second citizenship: Grenada, Türkiye, or Montenegro."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Grenada is the option many investors prefer: investment from US$220,000 (real estate or a government donation); Grenadian passport holders enjoy visa-free travel to many countries, including the UK, the EU, and the Schengen Area (the number changes over time); processing takes about 4–6 months; and E-2 approval rates via Grenada are considered relatively high."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the risks of obtaining Grenadian citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Application and investment risks in Grenada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "In reviewing applications, the Government of Grenada focuses on the police clearance certificate, health, and source of funds; applicants who meet the requirements are usually approved within 4–6 months."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Investment funds are only transferred after the application is approved, which reduces risk—however, the investment still carries asset value risk."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group carefully vets each project before advising clients; when you apply, the government reviews only the investor's application, not the project itself."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do I need to have lived in Grenada to apply for an E-2 visa?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Residence in Grenada and E-2",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "U.S. regulations do not require investors to reside in Grenada to qualify for an E-2 visa."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "However, requirements on how long you have held citizenship and other E-2 criteria still apply under the rules in effect when you apply."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do Grenadian citizens need a U.S. visitor visa?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "U.S. visitor visas",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Like citizens of many other countries, Grenadian citizens need a visitor visa to enter the U.S."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The difference lies in visa validity: for some nationalities, such as Vietnamese citizens, U.S. visitor visas are usually valid for up to 1 year; for Grenadian citizens, they can be valid for up to 10 years."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Specific validity periods follow U.S. visa policy in effect at the time of application."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How long is an E-2 visa valid, and can it be renewed?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Validity and renewal requirements",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "E-2 visas are valid for 2–5 years depending on nationality (5 years for Grenada) and can be renewed for 5 years at a time, with no limit on the number of renewals."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "To renew, the business must be performing well and generating enough income to support your family in the U.S."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "For example, if your family needs about US$30,000 a month to cover living costs, a nail salon in Texas would need to generate income above that amount. Specific requirements follow the rules in effect at the time of renewal."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        },
+        "seo": {
+            "meta_title": "E-2 Visa Through Grenada for Investors | IMM Group",
+            "meta_description": "Explore the E-2 visa: live, study, and run a business in the U.S. with your family through treaty-country citizenship such as Grenada. Book a consultation.",
+            "slug": "e-2-visa"
+        }
+    }
+]

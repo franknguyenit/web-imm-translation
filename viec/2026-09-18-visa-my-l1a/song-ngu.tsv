@@ -1,0 +1,106 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	tieu-de	Visa Mỹ L-1A	U.S. L-1A intracompany transferee visa	100%: U.S. L-1A intracompany transferee visa		post_title
+s002	h1	VISA MỸ {1}L-1A{/1}	U.S. {1}L-1A{/1} Visa for Intracompany Executives and Managers	100% (gắn lại thẻ {1} {/1}): U.S. L-1A intracompany transferee visa		acf.product_hero_title.product_hero_title_content#1
+s003	h3	Visa L-1A là gì?	What is the L-1A visa?			acf.product_hero_content[0].product_hero_content_title
+s004	li	L-1A là thị thực làm việc không định cư của Mỹ, dành cho nhà quản lý hoặc điều hành cấp cao được chuyển từ công ty nước ngoài sang công ty liên kết tại Mỹ.	The L-1A visa is a U.S. nonimmigrant work visa for managers and senior executives transferring from a company abroad to a related company in the U.S.			acf.product_hero_content[0].product_hero_content_text[0].product_hero_content_text_item
+s005	li	Doanh nghiệp có thể dùng L-1A để đưa nhân sự sang điều hành công ty con, chi nhánh, công ty mẹ hoặc công ty liên kết tại Mỹ.	Companies can use the L-1A visa to send leaders to run a subsidiary, branch, parent company, or affiliate in the U.S.			acf.product_hero_content[0].product_hero_content_text[1].product_hero_content_text_item
+s006	li	Vợ/chồng và con dưới 21 tuổi có thể đi cùng theo diện visa phụ thuộc L-2.	Your spouse and children under 21 can accompany you on L-2 dependent visas.			acf.product_hero_content[0].product_hero_content_text[2].product_hero_content_text_item
+s007	li	Sau khi vận hành doanh nghiệp tại Mỹ và đáp ứng điều kiện, nhà đầu tư có thể xét lộ trình xin thẻ xanh EB-1C.	After running the business in the U.S. and meeting the requirements, you may pursue an EB-1C green card.			acf.product_hero_content[0].product_hero_content_text[3].product_hero_content_text_item
+s008	cta	Đăng ký tư vấn	Book a consultation			acf.product_hero_cta[0].product_hero_cta_label
+s009	h2	QUYỀN LỢI KHI CÓ VISA L-1A	L-1A visa benefits			acf.product_benefits_title
+s010	h3	Sinh sống và làm việc tại Mỹ	Live and work in the U.S.			acf.product_benefits_items[0].product_benefits_item_title
+s011	li	Đương đơn được sang Mỹ làm việc, quản lý và điều hành công ty theo thời hạn visa được cấp.	You can work in the U.S. and manage and run the company for as long as your L-1A status remains valid.			acf.product_benefits_items[0].product_benefits_item_bullets[0].product_benefits_item_bullet_text
+s012	h3	Gia đình cùng đi Mỹ	Your family comes with you			acf.product_benefits_items[1].product_benefits_item_title
+s013	li	Vợ/chồng và con dưới 21 tuổi được đi cùng theo diện L-2.	Your spouse and children under 21 can accompany you in L-2 status.			acf.product_benefits_items[1].product_benefits_item_bullets[0].product_benefits_item_bullet_text
+s014	h3	Con học tại Mỹ	U.S. schooling for your children			acf.product_benefits_items[2].product_benefits_item_title
+s015	li	Con phụ thuộc được học tại trường công theo diện cư trú hợp lệ.	Dependent children can attend public schools while in valid status.			acf.product_benefits_items[2].product_benefits_item_bullets[0].product_benefits_item_bullet_text
+s016	h3	Chủ động vận hành doanh nghiệp	Hands-on control of your business			acf.product_benefits_items[3].product_benefits_item_title
+s017	li	Nhà đầu tư trực tiếp quản lý công ty con tại Mỹ, theo mô hình kinh doanh đã triển khai.	You directly manage the U.S. subsidiary under the business model you have established.			acf.product_benefits_items[3].product_benefits_item_bullets[0].product_benefits_item_bullet_text
+s018	h3	Cơ hội lên thẻ xanh EB-1C	A path to an EB-1C green card			acf.product_benefits_items[4].product_benefits_item_title
+s019	li	Nếu công ty và vị trí quản lý đáp ứng điều kiện, nhà đầu tư có thể nộp hồ sơ xin thẻ xanh diện EB-1C.	If the company and your managerial role meet the requirements, you may file for an EB-1C green card.			acf.product_benefits_items[4].product_benefits_item_bullets[0].product_benefits_item_bullet_text
+s020	h2	ƯU ĐIỂM VISA L-1A	Advantages of the L-1A visa			acf.product_advantages_title
+s021	h3	Thời gian xử lý nhanh	Fast processing			acf.product_advantages_items[0].product_advantages_item_title
+s022	li	Thời gian xử lý tham khảo khoảng 3 tháng; có thể rút ngắn nếu dùng dịch vụ xử lý nhanh của USCIS. Thời gian thực tế tùy hồ sơ.	Processing typically takes around 3 months and can be shortened with premium processing by U.S. Citizenship and Immigration Services (USCIS). Actual timing depends on your case.			acf.product_advantages_items[0].product_advantages_item_bullets[0].product_advantages_item_bullet_text
+s023	h3	Lộ trình lên thẻ xanh	A path to a green card			acf.product_advantages_items[1].product_advantages_item_title
+s024	li	L-1A có thể mở lộ trình lên thẻ xanh EB-1C nếu doanh nghiệp và vị trí quản lý đáp ứng điều kiện.	The L-1A visa can open a path to an EB-1C green card if the business and your managerial role meet the requirements.			acf.product_advantages_items[1].product_advantages_item_bullets[0].product_advantages_item_bullet_text
+s025	h3	Không yêu cầu mức đầu tư cố định	No fixed investment amount			acf.product_advantages_items[2].product_advantages_item_title
+s026	li	EB-1C không yêu cầu khoản đầu tư cố định như EB-5, nhưng cần đáp ứng điều kiện về doanh nghiệp và vai trò quản lý.	Unlike EB-5, EB-1C does not require a fixed investment amount, but you must meet the business and managerial-role requirements.			acf.product_advantages_items[2].product_advantages_item_bullets[0].product_advantages_item_bullet_text
+s027	h3	Gia đình cùng sang Mỹ	Your family moves with you			acf.product_advantages_items[3].product_advantages_item_title
+s028	li	Vợ/chồng và con dưới 21 tuổi có thể đi cùng, sinh sống và học tập tại Mỹ theo diện visa phù hợp.	Your spouse and children under 21 can accompany you, living and studying in the U.S. in the appropriate visa status.			acf.product_advantages_items[3].product_advantages_item_bullets[0].product_advantages_item_bullet_text
+s029	h3	Phù hợp với doanh nhân đang có công ty tại Việt Nam	Suited to business owners with an established company outside the U.S.			acf.product_advantages_items[4].product_advantages_item_title
+s030	li	Áp dụng cho chủ doanh nghiệp hoặc quản lý cấp cao muốn mở rộng hoạt động kinh doanh sang Mỹ.	Designed for business owners and senior executives who want to expand their business into the U.S.			acf.product_advantages_items[4].product_advantages_item_bullets[0].product_advantages_item_bullet_text
+s031	h3	Chủ động kiểm soát hoạt động kinh doanh	Direct control of your business			acf.product_advantages_items[5].product_advantages_item_title
+s032	li	Nhà đầu tư trực tiếp tham gia điều hành công ty tại Mỹ; hiệu quả kinh doanh tùy năng lực vận hành và thị trường.	You are directly involved in running the U.S. company; business results depend on your operating capability and market conditions.			acf.product_advantages_items[5].product_advantages_item_bullets[0].product_advantages_item_bullet_text
+s033	h2	ĐIỀU KIỆN ĐỐI VỚI NHÀ ĐẦU TƯ VIỆT NAM	L-1A visa requirements			acf.product_conditions_title
+s034	h3	Điều kiện doanh nghiệp	Company requirements			acf.product_conditions_items[0].product_conditions_item_title
+s035	li	Công ty mẹ tại Việt Nam có quy mô và năng lực tài chính đủ để đầu tư sang Mỹ.	The parent company outside the U.S. has the scale and financial capacity to invest in the U.S.			acf.product_conditions_items[0].product_conditions_item_bullets[0].product_conditions_item_bullet_text
+s036	li	Công ty tại Mỹ là công ty con, chi nhánh, công ty mẹ hoặc công ty liên kết với công ty tại Việt Nam.	The U.S. company is a subsidiary, branch, parent company, or affiliate of the company abroad.			acf.product_conditions_items[0].product_conditions_item_bullets[1].product_conditions_item_bullet_text
+s037	li	Công ty tại Mỹ có trụ sở văn phòng chính thức.	The U.S. company has a dedicated office.			acf.product_conditions_items[0].product_conditions_item_bullets[2].product_conditions_item_bullet_text
+s038	li	Có kế hoạch kinh doanh khả thi tại Mỹ.	There is a viable business plan for the U.S.			acf.product_conditions_items[0].product_conditions_item_bullets[3].product_conditions_item_bullet_text
+s039	li	Quy mô công ty tại Mỹ cần phù hợp để cần nhân sự quản lý hoặc điều hành cấp cao.	The U.S. company is large enough to need a manager or senior executive.			acf.product_conditions_items[0].product_conditions_item_bullets[4].product_conditions_item_bullet_text
+s040	h3	Điều kiện nhà đầu tư	Applicant requirements			acf.product_conditions_items[1].product_conditions_item_title
+s041	li	Từ 18 tuổi trở lên.	Aged 18 or older.			acf.product_conditions_items[1].product_conditions_item_bullets[0].product_conditions_item_bullet_text
+s042	li	Đang giữ vị trí quản lý hoặc điều hành cấp cao tại công ty mẹ ở Việt Nam.	Currently holds a managerial or senior executive position at the parent company abroad.			acf.product_conditions_items[1].product_conditions_item_bullets[1].product_conditions_item_bullet_text
+s043	li	Có năng lực và kinh nghiệm để quản lý, vận hành công ty tại Mỹ.	Has the capability and experience to manage and run the U.S. company.			acf.product_conditions_items[1].product_conditions_item_bullets[2].product_conditions_item_bullet_text
+s044	li	Đáp ứng điều kiện về lý lịch an ninh và sức khỏe.	Meets background security and medical requirements.			acf.product_conditions_items[1].product_conditions_item_bullets[3].product_conditions_item_bullet_text
+s045	h3	Điều kiện hồ sơ	Documentation requirements			acf.product_conditions_items[2].product_conditions_item_title
+s046	li	Chứng minh mối quan hệ giữa công ty tại Việt Nam và công ty tại Mỹ.	Evidence of the qualifying relationship between the company abroad and the U.S. company.			acf.product_conditions_items[2].product_conditions_item_bullets[0].product_conditions_item_bullet_text
+s047	li	Chứng minh vai trò quản lý hoặc điều hành của đương đơn.	Evidence of the applicant's managerial or executive role.			acf.product_conditions_items[2].product_conditions_item_bullets[1].product_conditions_item_bullet_text
+s048	li	Chứng minh doanh nghiệp tại Mỹ có khả năng hoạt động thực tế và cần nhân sự cấp cao.	Evidence that the U.S. business can genuinely operate and needs a senior leader.			acf.product_conditions_items[2].product_conditions_item_bullets[2].product_conditions_item_bullet_text
+s049	h2	QUY TRÌNH XIN VISA L-1A	The L-1A visa application process			acf.product_process_title
+s050	h3	Thẩm định hồ sơ L-1A	L-1A eligibility assessment			acf.product_process_steps[0].product_process_step_title
+s051	p	Đánh giá điều kiện công ty Việt Nam, vai trò đương đơn và khả năng triển khai hồ sơ.	We assess the eligibility of the company abroad, the applicant's role, and the feasibility of the application.			acf.product_process_steps[0].product_process_step_desc
+s052	h3	Lựa chọn mô hình kinh doanh tại Mỹ	Choose a business model in the U.S.			acf.product_process_steps[1].product_process_step_title
+s053	p	Xác định phương án thành lập công ty con hoặc mua lại doanh nghiệp phù hợp.	Decide whether to establish a subsidiary or acquire a suitable business.			acf.product_process_steps[1].product_process_step_desc
+s054	h3	Thành lập công ty tại Mỹ	Establish the U.S. company			acf.product_process_steps[2].product_process_step_title
+s055	p	Thiết lập pháp nhân, trụ sở và các yếu tố cần thiết cho hoạt động kinh doanh.	Set up the legal entity, office, and other essentials for business operations.			acf.product_process_steps[2].product_process_step_desc
+s056	h3	Thẩm định doanh nghiệp tại Mỹ	Due diligence on the U.S. business			acf.product_process_steps[3].product_process_step_title
+s057	p	Nếu mua lại doanh nghiệp, tiến hành thẩm định mô hình, tài chính và khả năng vận hành.	If acquiring a business, conduct due diligence on its model, finances, and operational viability.			acf.product_process_steps[3].product_process_step_desc
+s058	h3	Lập kế hoạch kinh doanh	Develop a business plan			acf.product_process_steps[4].product_process_step_title
+s059	p	Xây dựng kế hoạch kinh doanh tại Mỹ, nhân sự, tài chính và lộ trình phát triển.	Build a U.S. business plan covering staffing, finances, and a growth roadmap.			acf.product_process_steps[4].product_process_step_desc
+s060	h3	Nộp hồ sơ cho USCIS	File with USCIS			acf.product_process_steps[5].product_process_step_title
+s061	p	Tổng hợp hồ sơ doanh nghiệp, hồ sơ đương đơn và nộp đơn xin L-1A.	Compile the corporate and applicant documents and file the L-1A petition.			acf.product_process_steps[5].product_process_step_desc
+s062	h3	Phỏng vấn cấp visa	Visa interview			acf.product_process_steps[6].product_process_step_title
+s063	p	Sau khi hồ sơ được chấp thuận, đương đơn tham dự phỏng vấn tại Lãnh sự quán Mỹ.	Once the petition is approved, the applicant attends an interview at a U.S. embassy or consulate.			acf.product_process_steps[6].product_process_step_desc
+s064	cta	Xem tất cả dự án	View all projects	100%: View all projects		acf.product_projects_cta_label
+s065	h2	Có thể bạn quan tâm	Other U.S. immigration routes	100%: Other U.S. immigration routes		acf.product_care_title
+s066	h3	Có thể bạn quan tâm	Other U.S. immigration routes	100%: Other U.S. immigration routes	trung:s065	acf.product_care_service_title
+s067	p	Tìm hiểu các dịch vụ tư vấn từ IMM Group:	Explore IMM Group's other U.S. immigration programs:	100%: Explore IMM Group's other U.S. immigration programs:		acf.product_care_service_desc#1
+s068	li	So sánh các chương trình đầu tư định cư Mỹ	Compare U.S. investment immigration programs	100%: Compare U.S. investment immigration programs		acf.product_care_service_links[0].product_care_service_link_title
+s069	li	Visa định cư Mỹ EB-5	U.S. EB-5 Visa	100%: U.S. EB-5 Visa		acf.product_care_service_links[1].product_care_service_link_title
+s070	li	Visa Mỹ E-2	U.S. E-2 treaty investor visa	100%: U.S. E-2 treaty investor visa		acf.product_care_service_links[2].product_care_service_link_title
+s071	li	Visa định cư Mỹ EB-1C	U.S. EB-1C green card for executives and managers	100%: U.S. EB-1C green card for executives and managers		acf.product_care_service_links[3].product_care_service_link_title
+s072	h3	Hiểu về nước Mỹ	Understanding America	100%: Understanding America		acf.product_care_topics_title
+s073	p	Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:	IMM Group's resource hub brings together practical information on the following topics:	100%: IMM Group's resource hub brings together practical information on the following topics:		acf.product_care_topics_desc#1
+s074	li	Cuộc sống tại Mỹ	Living in the U.S.	100%: Living in the U.S.		acf.product_care_topics_links[0].product_care_topics_link_title
+s075	li	Thuế Mỹ	Taxes in the U.S.	100%: Taxes in the U.S.		acf.product_care_topics_links[1].product_care_topics_link_title
+s076	li	Kinh doanh tại Mỹ	Doing business in the U.S.	100%: Doing business in the U.S.		acf.product_care_topics_links[2].product_care_topics_link_title
+s077	li	Giáo dục tại Mỹ	Education in the U.S.	100%: Education in the U.S.		acf.product_care_topics_links[3].product_care_topics_link_title
+s078	li	Trợ cấp, phúc lợi, an sinh xã hội Mỹ	Social Security and public benefits in the U.S.	100%: Social Security and public benefits in the U.S.		acf.product_care_topics_links[4].product_care_topics_link_title
+s079	li	Những người Việt thành công trên đất Mỹ	Immigrant success stories in the U.S.	100%: Immigrant success stories in the U.S.		acf.product_care_topics_links[5].product_care_topics_link_title
+s080	li	Những câu chuyện định cư Mỹ truyền cảm hứng	Inspiring U.S. immigration journeys	100%: Inspiring U.S. immigration journeys		acf.product_care_topics_links[6].product_care_topics_link_title
+s081	h2	Câu hỏi thường gặp về Visa L-1A	L-1A visa FAQs			acf.product_faq_title
+s082	h4	L-1A có phải visa định cư không?	Is the L-1A an immigrant visa?			acf.product_faq_items[0].product_faq_item_question
+s083	p	Bản chất L-1A	What L-1A is			acf.product_faq_items[0].product_faq_item_sections[0].product_faq_item_section_heading
+s084	li	Không. L-1A là thị thực làm việc không định cư, có thời hạn. Đây là lộ trình đưa nhà quản lý hoặc điều hành cấp cao sang Mỹ làm việc cho công ty liên kết.	No. The L-1A is a temporary, nonimmigrant work visa. It allows managers and senior executives to transfer to the U.S. to work for a related company.			acf.product_faq_items[0].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s085	h4	L-1A có lên thẻ xanh được không?	Can the L-1A visa lead to a green card?			acf.product_faq_items[1].product_faq_item_question
+s086	p	Lộ trình EB-1C	The EB-1C route			acf.product_faq_items[1].product_faq_item_sections[0].product_faq_item_section_heading
+s087	li	Có thể. Sau khi doanh nghiệp tại Mỹ hoạt động và đáp ứng điều kiện, nhà đầu tư có thể xét nộp hồ sơ EB-1C để xin thẻ xanh.	Yes, potentially. Once the U.S. business is operating and meets the requirements, you may file an EB-1C petition for a green card.			acf.product_faq_items[1].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s088	h4	EB-1C có cần đầu tư 800.000 USD như EB-5 không?	Does EB-1C require a US$800,000 investment like EB-5?			acf.product_faq_items[2].product_faq_item_question
+s089	p	Mức đầu tư	Investment amount			acf.product_faq_items[2].product_faq_item_sections[0].product_faq_item_section_heading
+s090	li	Không. EB-1C không yêu cầu mức đầu tư cố định như EB-5, nhưng cần đáp ứng điều kiện về doanh nghiệp, vị trí quản lý và hoạt động kinh doanh.	No. Unlike EB-5, EB-1C does not require a fixed investment amount, but you must meet the requirements for the business, the managerial position, and business operations.			acf.product_faq_items[2].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s091	h4	Gia đình có được đi cùng không?	Can my family come with me?			acf.product_faq_items[3].product_faq_item_question
+s092	p	Gia đình đi cùng	Family members			acf.product_faq_items[3].product_faq_item_sections[0].product_faq_item_section_heading
+s093	li	Có. Vợ/chồng và con dưới 21 tuổi có thể đi cùng theo diện L-2.	Yes. Your spouse and children under 21 can accompany you in L-2 status.			acf.product_faq_items[3].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s094	h4	Con có được học tại Mỹ không?	Can my children attend school in the U.S.?			acf.product_faq_items[4].product_faq_item_question
+s095	p	Quyền học tập	Schooling			acf.product_faq_items[4].product_faq_item_sections[0].product_faq_item_section_heading
+s096	li	Có. Con phụ thuộc diện L-2 được học tại trường công theo diện cư trú hợp lệ.	Yes. Children in L-2 status can attend public schools while in valid status.			acf.product_faq_items[4].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s097	h4	Thời gian xử lý hồ sơ bao lâu?	How long does processing take?			acf.product_faq_items[5].product_faq_item_question
+s098	p	Thời gian xử lý	Processing time			acf.product_faq_items[5].product_faq_item_sections[0].product_faq_item_section_heading
+s099	li	Thời gian xử lý tham khảo khoảng 3 tháng. Có thể dùng dịch vụ xử lý nhanh của USCIS, nhưng thời gian thực tế vẫn phụ thuộc hồ sơ.	Processing typically takes around 3 months. USCIS premium processing is available, but actual timing still depends on your case.			acf.product_faq_items[5].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s100	h4	L-1A phù hợp với ai?	Who is the L-1A visa for?			acf.product_faq_items[6].product_faq_item_question
+s101	p	Đối tượng phù hợp	Who it suits			acf.product_faq_items[6].product_faq_item_sections[0].product_faq_item_section_heading
+s102	li	Phù hợp với chủ doanh nghiệp hoặc quản lý cấp cao tại Việt Nam muốn mở rộng hoạt động sang Mỹ và trực tiếp điều hành công ty tại Mỹ.	Business owners and senior executives outside the U.S. who want to expand into the U.S. and run the U.S. company themselves.			acf.product_faq_items[6].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s103	h4	Rủi ro chính của L-1A là gì?	What are the main risks of the L-1A visa?			acf.product_faq_items[7].product_faq_item_question
+s104	p	Rủi ro chính	Key risks			acf.product_faq_items[7].product_faq_item_sections[0].product_faq_item_section_heading
+s105	li	Rủi ro nằm ở khả năng chứng minh doanh nghiệp thật, vai trò quản lý thật, kế hoạch kinh doanh khả thi và năng lực vận hành công ty tại Mỹ.	The main risk lies in proving that the business is genuine, the managerial role is real, the business plan is viable, and you can run the U.S. company effectively.			acf.product_faq_items[7].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text

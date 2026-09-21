@@ -1,0 +1,1618 @@
+[
+    {
+        "post_id": 1047,
+        "post_slug": "/dau-tu-dinh-cu-my/visa-dinh-cu-my-eb1c/",
+        "post_title": "Visa định cư Mỹ EB-1C",
+        "lang": "vi",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "VISA ĐỊNH CƯ MỸ <span class=\"accent\">EB-1C</span>"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99301",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "Visa EB-1C là gì?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "EB-1C là visa định cư Mỹ, cấp thẻ xanh thường trú không điều kiện cho nhà quản lý hoặc điều hành cấp cao.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Dành cho nhân sự cấp cao từ công ty nước ngoài sang Mỹ điều hành công ty con, chi nhánh hoặc công ty liên kết.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Vợ/chồng và con dưới 21 tuổi được cấp thẻ xanh cùng đương đơn.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Khác EB-5, thẻ xanh EB-1C không qua giai đoạn “có điều kiện 2 năm”.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Sau tối thiểu 5 năm là thường trú nhân và đáp ứng điều kiện, gia đình có thể xét nộp hồ sơ nhập quốc tịch Mỹ.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI THẺ XANH EB-1C",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Thẻ xanh cho cả gia đình",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Đương đơn, vợ/chồng và con dưới 21 tuổi cùng được cấp thẻ xanh Mỹ."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "home_work",
+                    "product_benefits_item_title": "Sinh sống và làm việc tại Mỹ",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Cả gia đình được tự do sinh sống, học tập và làm việc tại Mỹ theo diện thường trú nhân."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Con học tại Mỹ",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Con cái được học tại trường công Mỹ theo quyền lợi của thường trú nhân."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "health_and_safety",
+                    "product_benefits_item_title": "Phúc lợi thường trú nhân",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Gia đình được tiếp cận các quyền lợi về y tế, giáo dục và an sinh theo diện thường trú, trừ các quyền chỉ dành cho công dân Mỹ."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "Lộ trình quốc tịch Mỹ",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Sau tối thiểu 5 năm có thẻ xanh và đáp ứng điều kiện, gia đình có thể xét nộp hồ sơ nhập tịch."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM VISA EB-1C",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "card_membership",
+                    "product_advantages_item_title": "Thẻ xanh không điều kiện",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không cần trải qua giai đoạn thẻ xanh có điều kiện 2 năm như EB-5."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "Không yêu cầu mức đầu tư cố định",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "EB-1C không yêu cầu khoản đầu tư cố định như EB-5, nhưng cần đáp ứng điều kiện về doanh nghiệp và vị trí quản lý."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "speed",
+                    "product_advantages_item_title": "Thời gian xử lý cạnh tranh",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Hồ sơ I-140 có thể dùng dịch vụ xử lý nhanh của USCIS. Tổng thời gian đến khi có thẻ xanh phụ thuộc hồ sơ và lịch visa."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "manage_accounts",
+                    "product_advantages_item_title": "Chủ động điều hành doanh nghiệp tại Mỹ",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Nhà đầu tư trực tiếp quản lý hoặc điều hành công ty con tại Mỹ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "route",
+                    "product_advantages_item_title": "Lộ trình lên quốc tịch",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Sau khi trở thành thường trú nhân và đáp ứng điều kiện cư trú, lý lịch, ngôn ngữ, có thể xét nhập quốc tịch Mỹ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "business_center",
+                    "product_advantages_item_title": "Phù hợp với doanh nghiệp đã mở rộng sang Mỹ",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Dành cho nhà đầu tư đã có công ty tại Mỹ hoạt động tối thiểu 1 năm và có nhu cầu chuyển nhân sự cấp cao sang điều hành."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN VISA EB-1C",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "business_center",
+                    "product_conditions_item_title": "Điều kiện doanh nghiệp",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Công ty mẹ tại Việt Nam có quy mô & năng lực tài chính đủ để đầu tư sang Mỹ."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Công ty con tại Mỹ hoạt động hiệu quả tối thiểu 1 năm & có kế hoạch kinh doanh khả thi."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đáp ứng các điều kiện của diện L-1A (quan hệ công ty mẹ – con, vị trí quản lý)."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện đương đơn",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 18 tuổi, không giới hạn tuổi tối đa."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đang giữ vị trí quản lý/điều hành cấp cao tại công ty mẹ ở Việt Nam."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đủ năng lực & kinh nghiệm để điều hành công ty con tại Mỹ."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đạt yêu cầu lý lịch an ninh và sức khỏe."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH XIN VISA EB-1C",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "domain_add",
+                    "product_process_step_title": "Thành lập công ty con tại Mỹ",
+                    "product_process_step_desc": "Thiết lập pháp nhân, mô hình sở hữu và hoạt động kinh doanh tại Mỹ.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "business_center",
+                    "product_process_step_title": "Vận hành công ty tối thiểu 1 năm",
+                    "product_process_step_desc": "Công ty con tại Mỹ cần hoạt động thực tế, hiệu quả và có kế hoạch phát triển.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Thẩm định hồ sơ EB-1C",
+                    "product_process_step_desc": "Đánh giá điều kiện doanh nghiệp, vai trò đương đơn và khả năng đáp ứng yêu cầu EB-1C.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Hoàn thiện hồ sơ nộp USCIS",
+                    "product_process_step_desc": "Chuẩn bị hồ sơ doanh nghiệp, hồ sơ đương đơn và nộp đơn I-140 cho Sở Di trú Mỹ.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "how_to_reg",
+                    "product_process_step_title": "Phỏng vấn hoặc hoàn tất thủ tục thẻ xanh",
+                    "product_process_step_desc": "Tùy tình trạng hồ sơ, đương đơn thực hiện phỏng vấn lãnh sự hoặc hoàn tất thủ tục cấp thẻ xanh tại Mỹ.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "Có thể bạn quan tâm",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "Có thể bạn quan tâm",
+            "product_care_service_desc": "<p>Tìm hiểu các dịch vụ tư vấn từ IMM Group:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "So sánh các chương trình đầu tư định cư Mỹ",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa định cư Mỹ EB-5",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/visa-dinh-cu-my-eb5/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Mỹ E-2",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/visa-my-e2/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa định cư Mỹ L-1A",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/visa-my-l1a/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Hiểu về nước Mỹ",
+            "product_care_topics_desc": "<p>Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Cuộc sống tại Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Thuế Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Kinh doanh tại Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Giáo dục tại Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Trợ cấp, phúc lợi, an sinh xã hội Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Những người Việt thành công trên đất Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Những câu chuyện định cư Mỹ truyền cảm hứng",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n6",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Câu hỏi thường gặp về Visa EB-1C",
+            "product_faq_section_id": "faq-eb1c",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "EB-1C có phải visa định cư không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Bản chất EB-1C",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có. EB-1C là diện visa định cư, cấp thẻ xanh thường trú Mỹ cho nhà quản lý hoặc điều hành cấp cao của doanh nghiệp đa quốc gia."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "EB-1C khác L-1A như thế nào?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "So sánh EB-1C và L-1A",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "L-1A là visa làm việc không định cư, có thời hạn. EB-1C là visa định cư, cấp thẻ xanh thường trú nếu đáp ứng điều kiện."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "EB-1C khác EB-5 như thế nào?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "So sánh EB-1C và EB-5",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "EB-5 yêu cầu khoản đầu tư cố định vào dự án đạt điều kiện. EB-1C không có mức đầu tư cố định, nhưng yêu cầu doanh nghiệp tại Mỹ hoạt động tối thiểu 1 năm và cần nhân sự cấp cao điều hành."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thẻ xanh EB-1C có điều kiện không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Thẻ xanh không điều kiện",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không. EB-1C cấp thẻ xanh thường trú không điều kiện, không cần nộp hồ sơ xóa điều kiện như EB-5."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Gia đình có được đi cùng không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Gia đình đi cùng",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có. Vợ/chồng và con dưới 21 tuổi có thể được cấp thẻ xanh cùng đương đơn."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Công ty tại Mỹ cần hoạt động bao lâu?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Thời gian hoạt động của công ty Mỹ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Công ty con tại Mỹ cần hoạt động hiệu quả tối thiểu 1 năm trước khi triển khai hồ sơ EB-1C."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Sau EB-1C có thể xin quốc tịch Mỹ không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Lộ trình quốc tịch",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có thể. Sau tối thiểu 5 năm là thường trú nhân và đáp ứng điều kiện nhập tịch, gia đình có thể xét nộp hồ sơ quốc tịch Mỹ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Rủi ro chính của EB-1C là gì?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Rủi ro chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Rủi ro nằm ở khả năng chứng minh doanh nghiệp thật, hoạt động hiệu quả, vai trò quản lý cấp cao và nhu cầu thực tế của công ty tại Mỹ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    },
+    {
+        "post_id": 1051,
+        "post_slug": "/dau-tu-dinh-cu-my/visa-my-e2/",
+        "post_title": "Visa Mỹ E-2",
+        "lang": "vi",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "VISA MỸ <span class=\"accent\">E-2</span>"
+            },
+            "product_hero_video": "https://videopress.com/v/Sw3QO0oE",
+            "product_hero_image": "99290",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "Visa E-2 là gì?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Thị thực đầu tư không định cư (tạm trú) vào Mỹ.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Dành cho công dân các nước ký hiệp định thương mại với Mỹ (phổ biến: Grenada, Thổ Nhĩ Kỳ, Montenegro).",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Phạm vi:</strong> nhà đầu tư + vợ/chồng + con dưới 21 tuổi được sinh sống, học tập, làm việc tại bất kỳ nơi nào trên nước Mỹ.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Đặc điểm:</strong> xử lý nhanh hơn nhiều diện khác, chứng minh đơn giản hơn - phù hợp gia đình muốn sang Mỹ sớm cho con đi học.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "E-2 có thể gia hạn nhiều lần nhưng không tự động chuyển thành thẻ xanh.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI VISA E-2",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Cả gia đình sang Mỹ",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Tự do sinh sống, học tập, làm việc."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Con học miễn phí trường công",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Từ tiểu học đến hết THPT, khi gia đình giữ thị thực hợp lệ."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "savings",
+                    "product_benefits_item_title": "Không phát sinh thuế thu nhập toàn cầu",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Nếu không trở thành đối tượng cư trú thuế tại Mỹ (theo quy định về thời gian hiện diện). Chi tiết theo tư vấn thuế."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "sync_alt",
+                    "product_benefits_item_title": "Tự do đi về Việt Nam - Mỹ",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Linh hoạt kết hợp công việc & gia đình ở hai nước."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM VISA E-2",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "speed",
+                    "product_advantages_item_title": "Xử lý nhanh hơn nhiều diện Mỹ khác",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Được ưu tiên xử lý; thời gian thực tế tùy hồ sơ và lịch hẹn lãnh sự."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "account_balance_wallet",
+                    "product_advantages_item_title": "Chứng minh nguồn tiền đơn giản",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Đơn giản hơn nhiều diện visa Mỹ khác."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Không yêu cầu ngoại ngữ - không giới hạn độ tuổi",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Mở rộng đối tượng có thể tham gia."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "business_center",
+                    "product_advantages_item_title": "Linh hoạt loại hình kinh doanh",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Tự vận hành hoặc chọn doanh nghiệp E-2 có sẵn."
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Đội ngũ vận hành chuyên nghiệp hỗ trợ - giảm áp lực điều hành."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN NHÀ ĐẦU TƯ VIỆT NAM CẦN ĐÁP ỨNG",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "flag",
+                    "product_conditions_item_title": "Có quốc tịch nước thuộc hiệp định E-2 với Mỹ",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Grenada · Thổ Nhĩ Kỳ (Turkey) · Montenegro."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "calendar_month",
+                    "product_conditions_item_title": "Cư trú tối thiểu 3 năm",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Cư trú liên tiếp tối thiểu 3 năm tại Grenada, Thổ Nhĩ Kỳ hoặc Montenegro."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện đương đơn",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 18 tuổi, đáp ứng điều kiện sức khỏe và lý lịch tư pháp."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Độ tuổi cần phù hợp để quản lý doanh nghiệp tại Mỹ."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Đầu tư vào Mỹ",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Dùng quốc tịch Grenada, Thổ Nhĩ Kỳ hoặc Montenegro để đầu tư Mỹ."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Mức đầu tư khuyến nghị: 200.000 USD."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH XIN VISA E-2",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "flag",
+                    "product_process_step_title": "Lấy quốc tịch trung gian",
+                    "product_process_step_desc": "Đầu tư lấy quốc tịch Grenada / Turkey / Montenegro.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "business_center",
+                    "product_process_step_title": "Chọn & thẩm định doanh nghiệp Mỹ",
+                    "product_process_step_desc": "Chọn doanh nghiệp sở hữu, thẩm tra kỹ.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "sync_alt",
+                    "product_process_step_title": "Chuyển giao quyền sở hữu",
+                    "product_process_step_desc": "Hoàn tất chuyển giao doanh nghiệp.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "edit_document",
+                    "product_process_step_title": "Hoàn tất kế hoạch kinh doanh E-2",
+                    "product_process_step_desc": "Chuẩn bị kế hoạch kinh doanh phục vụ hồ sơ E-2.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Nộp hồ sơ visa E-2",
+                    "product_process_step_desc": "Hoàn tất quy trình, nộp hồ sơ xin visa E-2.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "Có thể bạn quan tâm",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "Có thể bạn quan tâm",
+            "product_care_service_desc": "<p>Tìm hiểu các dịch vụ tư vấn từ IMM Group:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "So sánh các chương trình đầu tư định cư Mỹ",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa định cư Mỹ EB-5",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/visa-dinh-cu-my-eb5/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Mỹ L-1A",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/visa-my-l1a/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa định cư Mỹ EB-1C",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/visa-dinh-cu-my-eb1c/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Hiểu về nước Mỹ",
+            "product_care_topics_desc": "<p>Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Cuộc sống tại Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Thuế Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Kinh doanh tại Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Giáo dục tại Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Trợ cấp, phúc lợi, an sinh xã hội Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Những người Việt thành công trên đất Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Những câu chuyện định cư Mỹ truyền cảm hứng",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n6",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Câu hỏi thường gặp về Visa E-2",
+            "product_faq_section_id": "faq-e2",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "E-2 khác EB-5 thế nào?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "So sánh E-2 và EB-5",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "E-2 là thị thực đầu tư không định cư: thủ tục nhanh và đơn giản hơn, nhưng khó chuyển lên thẻ xanh cho đương đơn và vợ/chồng."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thời gian xử lý E-2 được ưu tiên, thực tế tùy hồ sơ và lịch hẹn lãnh sự."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Mức đầu tư E-2 từ 200.000 USD - phù hợp gia đình muốn sang Mỹ sớm cho con đi học."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "EB-5 cấp thẻ xanh trực tiếp nhưng vốn cao hơn và thời gian dài hơn."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Tổng chi phí Grenada + E-2 vs EB-5?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Chi phí tham khảo",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Tổng chi phí thường thấp hơn EB-5 (từ 800.000 USD): đầu tư Grenada khoảng 220.000 USD (bất động sản), cộng phần đầu tư/mua doanh nghiệp E-2 từ 200.000 USD và các chi phí phát sinh."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Số liệu chưa gồm thuế/phí; quy đổi VND theo tỷ giá tham khảo và có thể thay đổi theo thời điểm."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Đầu tư bao nhiêu vào Mỹ?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Mức đầu tư E-2",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chính phủ Mỹ không ấn định một mức đầu tư tối thiểu cố định cho E-2."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Luật yêu cầu nhà đầu tư rót “một khoản đáng kể” tùy theo mô hình kinh doanh, và cần căn cứ tổng vốn doanh nghiệp để quyết định mua cổ phần hay mua lại toàn bộ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Theo kinh nghiệm của luật sư di trú, khuyến nghị mức từ 200.000 USD."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Chương trình không yêu cầu cụ thể về doanh thu hay số việc làm phải tạo ra."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Từ E-2 lên thẻ xanh được không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Các hướng lý thuyết",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "E-2 là thị thực không định cư, rất khó chuyển lên thẻ xanh."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Về lý thuyết có 3 hướng lên thẻ xanh: từ E-2 đến EB-5; từ E-2 đến EB-1C; hoặc làm song song E-2 và EB-5."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Từ E-2 đến EB-5 cần đầu tư 800.000 USD vùng TEA hoặc 1,1 triệu USD, tạo 10 việc làm theo chuẩn EB-5."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Từ E-2 đến EB-1C cần công ty Việt Nam quy mô lớn mở rộng sang Mỹ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Làm song song E-2 và EB-5 đều phức tạp và tốn kém."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Khuyến nghị xác định rõ mục đích và chọn một chương trình phù hợp ngay từ đầu."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Rủi ro khi đầu tư E-2?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Rủi ro chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Rủi ro chính nằm ở khâu vận hành và kế hoạch kinh doanh."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group thẩm định kỹ hồ sơ trước khi ký hợp đồng nhằm nâng cao khả năng hồ sơ đạt yêu cầu."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Lưu ý: đầu tư doanh nghiệp E-2 là khoản đầu tư có rủi ro, kết quả phụ thuộc hiệu quả kinh doanh."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Chứng minh nguồn tiền?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Yêu cầu chứng minh",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không yêu cầu kinh nghiệm kinh doanh hay từng là chủ doanh nghiệp."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Yêu cầu chứng minh nguồn tiền cũng đơn giản hơn nhiều chương trình khác."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Chứng minh nguồn tiền đến từ nguồn hợp pháp (ví dụ bán bất động sản, bán nhà, thu nhập…)."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Yêu cầu kinh nghiệm quản lý?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Kinh nghiệm quản lý",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không yêu cầu kinh nghiệm quản lý - khác với L-1A (dành cho chủ doanh nghiệp và quản lý cấp cao)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "E-2 là quyền theo Hiệp định thương mại giữa Mỹ và các nước hiệp ước, cho phép công dân các nước này sang Mỹ đầu tư, kinh doanh."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Với nhà đầu tư chưa có kinh nghiệm, IMM Group có sẵn cấu trúc doanh nghiệp vận hành, hỗ trợ về quy trình, thủ tục và cấu trúc; việc quản lý điều hành do công ty thứ ba (đối tác của IMM) phụ trách và chia sẻ lợi nhuận với nhà đầu tư."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "IMM hỗ trợ chọn doanh nghiệp?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Hai lựa chọn",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Nếu nhà đầu tư đã biết sẽ kinh doanh gì, IMM Group hỗ trợ cấu trúc lại giấy tờ quyền sở hữu doanh nghiệp và thuê kế toán hỗ trợ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nếu chưa biết và không muốn can thiệp nhiều vào vận hành, IMM tìm các doanh nghiệp có sẵn kèm đơn vị hỗ trợ quản lý."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM đã xây dựng mô hình hoàn chỉnh (nổi bật là nhượng quyền chuỗi nhà hàng và cải tạo bất động sản cũ cho thuê lại), đồng thời hỗ trợ nhà đầu tư tìm trường cho con và ổn định chỗ ở tại Mỹ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Ngành nào thỏa điều kiện?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Ngành nghề đầu tư",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không giới hạn ngành nghề đầu tư, trừ một số ngành nhạy cảm Chính phủ không khuyến khích (liên quan đầu tư chứng khoán, casino, dịch vụ đổi tiền…)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nhà đầu tư phải thực hiện đầu tư thật, có yếu tố rủi ro - không được đầu tư bị động như mua bất động sản hay chứng khoán để chờ sinh lời."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Nơi đặt doanh nghiệp?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Địa điểm kinh doanh",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Linh hoạt, không giới hạn ở bất kỳ bang nào trong 50 bang."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nhà đầu tư nên chọn vị trí kinh doanh gần nơi gia đình sinh sống và con học, để vừa thuận tiện quản lý vừa đáp ứng yêu cầu của Chính phủ Mỹ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Tuổi con cái đi kèm hồ sơ?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cần phân biệt hai bộ hồ sơ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Với hồ sơ quốc tịch Grenada (bước trung gian): con chưa kết hôn dưới 30 tuổi được đi kèm, cùng vợ/chồng, cha mẹ phụ thuộc và anh chị em ruột trên 18 tuổi còn độc thân, chưa có con."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Với hồ sơ visa E-2: con dưới 21 tuổi được đi kèm."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Con từ 18 tuổi trở lên có thể chọn phương án đứng đơn chính thay vì là người phụ thuộc."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có E-2 mà không sang Mỹ được không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Yêu cầu hiện diện và điều hành",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Tùy ai là người đứng đơn chính."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Người đứng đơn phải ở Mỹ thường xuyên vì E-2 được cấp để người giữ visa kinh doanh, điều hành doanh nghiệp tại Mỹ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Vợ/chồng đi kèm có thể rời Mỹ linh hoạt hơn."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Không có quy định số ngày cụ thể và có thể bay về Việt Nam, nhưng đương đơn cần chứng minh có tham gia điều hành doanh nghiệp để đủ điều kiện gia hạn visa."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Chọn Grenada / Turkey / Montenegro?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Quốc tịch trung gian cho E-2",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "E-2 chỉ dành cho công dân nước có hiệp định với Mỹ, nên nhà đầu tư Việt Nam cần một quốc tịch trung gian: Grenada, Thổ Nhĩ Kỳ hoặc Montenegro."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Grenada là lựa chọn được nhiều nhà đầu tư ưu tiên: mức đầu tư từ 220.000 USD (bất động sản hoặc trao tặng Chính phủ); hộ chiếu Grenada miễn visa tới nhiều quốc gia gồm Anh, EU, Schengen (số lượng thay đổi theo thời điểm); thời gian thụ lý khoảng 4–6 tháng; tỉ lệ chấp thuận E-2 qua Grenada thuộc nhóm cao."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Rủi ro lấy quốc tịch Grenada?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Rủi ro hồ sơ và đầu tư Grenada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Về xét hồ sơ, Chính phủ Grenada tập trung vào lý lịch tư pháp, sức khỏe và nguồn tài chính; đáp ứng điều kiện thì thường được xét duyệt trong 4–6 tháng."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tiền đầu tư chỉ được chuyển sau khi hồ sơ được chấp thuận, giúp giảm thiểu rủi ro - tuy nhiên đây vẫn là khoản đầu tư có rủi ro về giá trị tài sản."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group thẩm định kỹ dự án trước khi tư vấn; khi nộp hồ sơ, Chính phủ chỉ xét hồ sơ nhà đầu tư, không xét lại dự án."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Cần từng cư trú Grenada để xin E-2?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cư trú Grenada và E-2",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Quy định của Mỹ không yêu cầu nhà đầu tư phải định cư tại Grenada để đủ điều kiện xin visa E-2."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tuy nhiên, điều kiện về thời gian sở hữu quốc tịch và các tiêu chí E-2 khác vẫn áp dụng theo quy định hiện hành tại thời điểm nộp."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Visa du lịch Mỹ với công dân Grenada?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Visa du lịch Mỹ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Cũng như công dân Việt Nam, công dân Grenada muốn vào Mỹ vẫn cần xin visa du lịch."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Điểm khác biệt là về thời hạn của visa du lịch Mỹ: với công dân Việt Nam thường tối đa 1 năm; với công dân Grenada có thể lên đến 10 năm."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Thời hạn cụ thể theo chính sách thị thực hiện hành của Mỹ tại thời điểm xin."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thời hạn & gia hạn E-2?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Thời hạn và điều kiện gia hạn",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Visa E-2 có thời hạn 2–5 năm tùy quốc tịch (với Grenada là 5 năm) và có thể gia hạn thêm 5 năm mỗi lần, không giới hạn số lần."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Điều kiện gia hạn là doanh nghiệp đầu tư hoạt động tốt và tạo đủ thu nhập trang trải cuộc sống cho gia đình tại Mỹ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Ví dụ một tiệm nail ở Texas cần khoảng 30.000 USD/tháng cho sinh hoạt thì thu nhập cần vượt mức này. Điều kiện cụ thể theo quy định hiện hành tại thời điểm gia hạn."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    },
+    {
+        "post_id": 1049,
+        "post_slug": "/dau-tu-dinh-cu-my/visa-my-l1a/",
+        "post_title": "Visa Mỹ L-1A",
+        "lang": "vi",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "VISA MỸ <span class=\"accent\">L-1A</span>"
+            },
+            "product_hero_video": "https://videopress.com/v/oruMcQ2d",
+            "product_hero_image": "99298",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "Visa L-1A là gì?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "L-1A là thị thực làm việc không định cư của Mỹ, dành cho nhà quản lý hoặc điều hành cấp cao được chuyển từ công ty nước ngoài sang công ty liên kết tại Mỹ.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Doanh nghiệp có thể dùng L-1A để đưa nhân sự sang điều hành công ty con, chi nhánh, công ty mẹ hoặc công ty liên kết tại Mỹ.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Vợ/chồng và con dưới 21 tuổi có thể đi cùng theo diện visa phụ thuộc L-2.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Sau khi vận hành doanh nghiệp tại Mỹ và đáp ứng điều kiện, nhà đầu tư có thể xét lộ trình xin thẻ xanh EB-1C.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI KHI CÓ VISA L-1A",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "work",
+                    "product_benefits_item_title": "Sinh sống và làm việc tại Mỹ",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Đương đơn được sang Mỹ làm việc, quản lý và điều hành công ty theo thời hạn visa được cấp."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Gia đình cùng đi Mỹ",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Vợ/chồng và con dưới 21 tuổi được đi cùng theo diện L-2."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Con học tại Mỹ",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Con phụ thuộc được học tại trường công theo diện cư trú hợp lệ."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "business_center",
+                    "product_benefits_item_title": "Chủ động vận hành doanh nghiệp",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Nhà đầu tư trực tiếp quản lý công ty con tại Mỹ, theo mô hình kinh doanh đã triển khai."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "card_membership",
+                    "product_benefits_item_title": "Cơ hội lên thẻ xanh EB-1C",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Nếu công ty và vị trí quản lý đáp ứng điều kiện, nhà đầu tư có thể nộp hồ sơ xin thẻ xanh diện EB-1C."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM VISA L-1A",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "speed",
+                    "product_advantages_item_title": "Thời gian xử lý nhanh",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Thời gian xử lý tham khảo khoảng 3 tháng; có thể rút ngắn nếu dùng dịch vụ xử lý nhanh của USCIS. Thời gian thực tế tùy hồ sơ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "route",
+                    "product_advantages_item_title": "Lộ trình lên thẻ xanh",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "L-1A có thể mở lộ trình lên thẻ xanh EB-1C nếu doanh nghiệp và vị trí quản lý đáp ứng điều kiện."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "Không yêu cầu mức đầu tư cố định",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "EB-1C không yêu cầu khoản đầu tư cố định như EB-5, nhưng cần đáp ứng điều kiện về doanh nghiệp và vai trò quản lý."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "family_restroom",
+                    "product_advantages_item_title": "Gia đình cùng sang Mỹ",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Vợ/chồng và con dưới 21 tuổi có thể đi cùng, sinh sống và học tập tại Mỹ theo diện visa phù hợp."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "business",
+                    "product_advantages_item_title": "Phù hợp với doanh nhân đang có công ty tại Việt Nam",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Áp dụng cho chủ doanh nghiệp hoặc quản lý cấp cao muốn mở rộng hoạt động kinh doanh sang Mỹ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "manage_accounts",
+                    "product_advantages_item_title": "Chủ động kiểm soát hoạt động kinh doanh",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Nhà đầu tư trực tiếp tham gia điều hành công ty tại Mỹ; hiệu quả kinh doanh tùy năng lực vận hành và thị trường."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN ĐỐI VỚI NHÀ ĐẦU TƯ VIỆT NAM",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "business_center",
+                    "product_conditions_item_title": "Điều kiện doanh nghiệp",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Công ty mẹ tại Việt Nam có quy mô và năng lực tài chính đủ để đầu tư sang Mỹ."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Công ty tại Mỹ là công ty con, chi nhánh, công ty mẹ hoặc công ty liên kết với công ty tại Việt Nam."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Công ty tại Mỹ có trụ sở văn phòng chính thức."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Có kế hoạch kinh doanh khả thi tại Mỹ."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Quy mô công ty tại Mỹ cần phù hợp để cần nhân sự quản lý hoặc điều hành cấp cao."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện nhà đầu tư",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 18 tuổi trở lên."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đang giữ vị trí quản lý hoặc điều hành cấp cao tại công ty mẹ ở Việt Nam."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Có năng lực và kinh nghiệm để quản lý, vận hành công ty tại Mỹ."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đáp ứng điều kiện về lý lịch an ninh và sức khỏe."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "description",
+                    "product_conditions_item_title": "Điều kiện hồ sơ",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh mối quan hệ giữa công ty tại Việt Nam và công ty tại Mỹ."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh vai trò quản lý hoặc điều hành của đương đơn."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh doanh nghiệp tại Mỹ có khả năng hoạt động thực tế và cần nhân sự cấp cao."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH XIN VISA L-1A",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Thẩm định hồ sơ L-1A",
+                    "product_process_step_desc": "Đánh giá điều kiện công ty Việt Nam, vai trò đương đơn và khả năng triển khai hồ sơ.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "business_center",
+                    "product_process_step_title": "Lựa chọn mô hình kinh doanh tại Mỹ",
+                    "product_process_step_desc": "Xác định phương án thành lập công ty con hoặc mua lại doanh nghiệp phù hợp.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "domain_add",
+                    "product_process_step_title": "Thành lập công ty tại Mỹ",
+                    "product_process_step_desc": "Thiết lập pháp nhân, trụ sở và các yếu tố cần thiết cho hoạt động kinh doanh.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "manage_search",
+                    "product_process_step_title": "Thẩm định doanh nghiệp tại Mỹ",
+                    "product_process_step_desc": "Nếu mua lại doanh nghiệp, tiến hành thẩm định mô hình, tài chính và khả năng vận hành.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "edit_document",
+                    "product_process_step_title": "Lập kế hoạch kinh doanh",
+                    "product_process_step_desc": "Xây dựng kế hoạch kinh doanh tại Mỹ, nhân sự, tài chính và lộ trình phát triển.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Nộp hồ sơ cho USCIS",
+                    "product_process_step_desc": "Tổng hợp hồ sơ doanh nghiệp, hồ sơ đương đơn và nộp đơn xin L-1A.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "record_voice_over",
+                    "product_process_step_title": "Phỏng vấn cấp visa",
+                    "product_process_step_desc": "Sau khi hồ sơ được chấp thuận, đương đơn tham dự phỏng vấn tại Lãnh sự quán Mỹ.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "Có thể bạn quan tâm",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "Có thể bạn quan tâm",
+            "product_care_service_desc": "<p>Tìm hiểu các dịch vụ tư vấn từ IMM Group:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "So sánh các chương trình đầu tư định cư Mỹ",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa định cư Mỹ EB-5",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/visa-dinh-cu-my-eb5/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Mỹ E-2",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/visa-my-e2/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa định cư Mỹ EB-1C",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-my/visa-dinh-cu-my-eb1c/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Hiểu về nước Mỹ",
+            "product_care_topics_desc": "<p>Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Cuộc sống tại Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Thuế Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Kinh doanh tại Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Giáo dục tại Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Trợ cấp, phúc lợi, an sinh xã hội Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Những người Việt thành công trên đất Mỹ",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Những câu chuyện định cư Mỹ truyền cảm hứng",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-my/#n6",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Câu hỏi thường gặp về Visa L-1A",
+            "product_faq_section_id": "faq-l1a",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "L-1A có phải visa định cư không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Bản chất L-1A",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không. L-1A là thị thực làm việc không định cư, có thời hạn. Đây là lộ trình đưa nhà quản lý hoặc điều hành cấp cao sang Mỹ làm việc cho công ty liên kết."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "L-1A có lên thẻ xanh được không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Lộ trình EB-1C",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có thể. Sau khi doanh nghiệp tại Mỹ hoạt động và đáp ứng điều kiện, nhà đầu tư có thể xét nộp hồ sơ EB-1C để xin thẻ xanh."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "EB-1C có cần đầu tư 800.000 USD như EB-5 không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Mức đầu tư",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không. EB-1C không yêu cầu mức đầu tư cố định như EB-5, nhưng cần đáp ứng điều kiện về doanh nghiệp, vị trí quản lý và hoạt động kinh doanh."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Gia đình có được đi cùng không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Gia đình đi cùng",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có. Vợ/chồng và con dưới 21 tuổi có thể đi cùng theo diện L-2."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Con có được học tại Mỹ không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Quyền học tập",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có. Con phụ thuộc diện L-2 được học tại trường công theo diện cư trú hợp lệ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thời gian xử lý hồ sơ bao lâu?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Thời gian xử lý",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Thời gian xử lý tham khảo khoảng 3 tháng. Có thể dùng dịch vụ xử lý nhanh của USCIS, nhưng thời gian thực tế vẫn phụ thuộc hồ sơ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "L-1A phù hợp với ai?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Đối tượng phù hợp",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Phù hợp với chủ doanh nghiệp hoặc quản lý cấp cao tại Việt Nam muốn mở rộng hoạt động sang Mỹ và trực tiếp điều hành công ty tại Mỹ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Rủi ro chính của L-1A là gì?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Rủi ro chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Rủi ro nằm ở khả năng chứng minh doanh nghiệp thật, vai trò quản lý thật, kế hoạch kinh doanh khả thi và năng lực vận hành công ty tại Mỹ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    }
+]
