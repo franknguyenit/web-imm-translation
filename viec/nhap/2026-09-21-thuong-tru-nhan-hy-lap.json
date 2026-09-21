@@ -1,0 +1,904 @@
+[
+    {
+        "post_id": 100869,
+        "post_slug": "/thuong-tru-nhan-hy-lap/",
+        "post_title": "Thường trú nhân Hy Lạp",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "THƯỜNG TRÚ NHÂN <span class=\\\"accent\\\">HY LẠP</span> <br>(GOLDEN VISA HY LẠP)"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99264",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "Golden Visa Hy Lạp là gì?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Chương trình cấp thẻ cư trú do Chính phủ Hy Lạp ban hành.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Dành cho nhà đầu tư ngoài EU và gia đình thông qua hình thức đầu tư bất động sản.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Cả gia đình 3 thế hệ được tự do sinh sống tại Hy Lạp và đi lại 29 nước Schengen.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Mức đầu tư tối thiểu 250.000 EUR - khoảng 7,6 tỷ đồng.",
+                            "product_hero_content_text_subs": [
+                                {
+                                    "product_hero_content_text_sub_item": "Mức 250.000 EUR áp dụng diện bất động sản chuyển đổi công năng; chưa gồm thuế và phí."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Yêu cầu tư vấn",
+                    "product_hero_cta_url": "https://immgroup.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI THƯỜNG TRÚ NHÂN HY LẠP",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "home_pin",
+                    "product_benefits_item_title": "Sinh sống tại Hy Lạp",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Tự do sinh sống, đầu tư kinh doanh và học tập tại Hy Lạp."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "Tự do đi lại Schengen",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Đi lại 29 nước khối Schengen theo quy định lưu trú ngắn hạn 90 ngày trong mỗi 6 tháng."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "health_and_safety",
+                    "product_benefits_item_title": "Tiếp cận hệ thống giáo dục như người bản xứ",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Con học miễn phí trường công Hy Lạp từ tiểu học đến hết bậc đại học công lập."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "flag",
+                    "product_benefits_item_title": "Cơ hội nhập quốc tịch Hy Lạp",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Sau thời gian cư trú hợp pháp và đáp ứng điều kiện về cư trú, ngôn ngữ và hội nhập theo luật Hy Lạp, nhà đầu tư có thể xét nộp hồ sơ nhập tịch."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "workspace_premium",
+                    "product_benefits_item_title": "Khi nhập tịch Hy Lạp",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Miễn visa hoặc visa điện tử tới hơn 180 quốc gia: Mỹ, Anh, Úc, Nhật Bản, các nước châu Âu…"
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM THƯỜNG TRÚ NHÂN HY LẠP",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "account_balance_wallet",
+                    "product_advantages_item_title": "Mức đầu tư từ 250.000 EUR",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Sở hữu bất động sản ngay trung tâm Athens chỉ từ 250.000 EUR - bằng khoảng 1/3 ngưỡng 800.000 EUR của khu vực, nhờ diện chuyển đổi công năng sang nhà ở."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "assignment",
+                    "product_advantages_item_title": "Thực hiện hồ sơ tại Việt Nam",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Mua BĐS & nộp hồ sơ tại Việt Nam"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Nhận White Paper sang Hy Lạp lấy sinh trắc"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Hoàn tất thủ tục cấp thẻ thường trú"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "supervisor_account",
+                    "product_advantages_item_title": "Không giới hạn độ tuổi đương đơn",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không giới hạn độ tuổi tối đa của đương đơn chính"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Cho phép đương đơn dưới 18 tuổi (có sự đồng ý của phụ huynh)"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "verified",
+                    "product_advantages_item_title": "Điều kiện tham gia đơn giản",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không yêu cầu bằng cấp"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Không cần kinh nghiệm điều hành doanh nghiệp"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Không yêu cầu ngoại ngữ"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Không cần phỏng vấn"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "home_work",
+                    "product_advantages_item_title": "Không yêu cầu cư trú liên tục",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không bắt buộc cư trú liên tục tại Hy Lạp để duy trì Golden Visa"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Nếu định hướng nhập tịch Hy Lạp về sau, nhà đầu tư cần đáp ứng các điều kiện cư trú và hội nhập theo luật"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN ĐẦU TƯ LẤY THƯỜNG TRÚ NHÂN HY LẠP",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "real_estate_agent",
+                    "product_conditions_item_title": "Đầu tư bất động sản",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "250.000 EUR - bất động sản thương mại chuyển đổi sang nhà ở hoặc tòa nhà lịch sử cần bảo tồn, áp dụng mọi vị trí kể cả trung tâm Athens"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "400.000 EUR - bất động sản tại các khu vực còn lại, tối thiểu 120m²"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "800.000 EUR - bất động sản tại Attica (Athens), Thessaloniki, Mykonos, Santorini và đảo trên 3.100 dân, tối thiểu 120m²"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện đương đơn",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đạt yêu cầu lý lịch an ninh & sức khỏe"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh nguồn vốn hợp pháp"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Không làm công ăn lương tại Hy Lạp"
+                        }
+                    ],
+                    "product_conditions_item_footnote": "Được phép đầu tư thêm hoặc mở công ty kinh doanh."
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Thành viên được đi kèm",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Vợ/chồng hợp pháp"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Con (kể cả con nuôi) tới 21 tuổi; thẻ của con được gia hạn đến năm 24 tuổi"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Bố mẹ của cả hai vợ chồng"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH ĐẦU TƯ LẤY THƯỜNG TRÚ NHÂN HY LẠP",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "payments",
+                    "product_process_step_title": "Đặt cọc & thẩm định",
+                    "product_process_step_desc": "Ký thỏa thuận đặt cọc và thẩm định hồ sơ ban đầu",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "edit_document",
+                    "product_process_step_title": "Ký hợp đồng",
+                    "product_process_step_desc": "Hoàn tất hợp đồng dịch vụ xin thẻ thường trú và hợp đồng mua bất động sản",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "account_balance_wallet",
+                    "product_process_step_title": "Chuẩn bị hồ sơ & chuyển vốn",
+                    "product_process_step_desc": "Chuẩn bị hồ sơ và chuyển tiền đầu tư theo lựa chọn đầu tư, số thành viên đi kèm",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "drive_folder_upload",
+                    "product_process_step_title": "Nộp hồ sơ",
+                    "product_process_step_desc": "Nộp hồ sơ cho Sở Di trú Hy Lạp xét duyệt",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "fingerprint",
+                    "product_process_step_title": "Nhận White Paper & lấy sinh trắc",
+                    "product_process_step_desc": "Nhận White Paper, được tự do ra vào Hy Lạp trong 1 năm; sang Hy Lạp lấy sinh trắc và đăng ký cấp thẻ cư trú",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "card_membership",
+                    "product_process_step_title": "Nhận thẻ cư trú",
+                    "product_process_step_desc": "Nhận chấp thuận chính thức; thẻ cư trú được gửi về Việt Nam",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "autorenew",
+                    "product_process_step_title": "Gia hạn thẻ cư trú",
+                    "product_process_step_desc": "Thẻ có thời hạn 5 năm, gia hạn 5 năm/lần nếu còn sở hữu bất động sản",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "CÁC DỰ ÁN BẤT ĐỘNG SẢN HY LẠP",
+            "product_projects_posts": [
+                "93495",
+                "92538"
+            ],
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hy-lap/cac-du-an-bat-dong-san-hy-lap/",
+            "product_care_icon": "hub",
+            "product_care_title": "Có thể bạn quan tâm",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "Có thể bạn quan tâm",
+            "product_care_service_desc": "<p>Tìm hiểu các dịch vụ tư vấn từ IMM Group:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Các dự án bất động sản Hy Lạp",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hy-lap/cac-du-an-bat-dong-san-hy-lap/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Quốc tịch & thường trú nhân châu Âu",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Ireland",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-ireland/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Cộng hòa Síp (Cyprus)",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-cong-hoa-sip-cyprus/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thương trú nhân Latvia",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/dau-tu-dinh-cu-latvia/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Malta",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-malta/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Bồ Đào Nha",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bo-dao-nha/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Hungary",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hungary-guest-investor-program/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Bulgaria",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bulgaria/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Hiểu về Hy Lạp",
+            "product_care_topics_desc": "<p>Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Cuộc sống tại Hy Lạp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Giáo dục Hy Lạp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Văn hóa Hy Lạp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Lao động / Kinh doanh tại Hy Lạp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Trợ cấp, phúc lợi, an sinh xã hội Hy Lạp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Bất động sản Hy Lạp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Du lịch Hy Lạp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n6",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Các câu hỏi thường gặp",
+            "product_faq_section_id": "",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Golden Visa là gì? Có khác thường trú nhân không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Golden Visa là thẻ cư trú dài hạn của Hy Lạp dành cho nhà đầu tư."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Quyền lợi tương đương thường trú nhân: cả gia đình được sinh sống, mở doanh nghiệp và cho con đi học tại Hy Lạp (không được đi làm)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thẻ có thời hạn 5 năm, gia hạn định kỳ mỗi 5 năm khi đáp ứng điều kiện."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Có thể là bước đệm cho lộ trình nhập tịch Hy Lạp nếu nhà đầu tư đáp ứng điều kiện cư trú, ngôn ngữ và hội nhập theo luật."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Golden Visa có tự do đi lại Schengen & EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Đi lại Schengen ngắn hạn - chưa được sống/làm việc toàn EU"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Golden Visa cho phép đi lại trong khối Schengen theo quy định lưu trú ngắn hạn 90 ngày trong mỗi 6 tháng."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đi sang các nước EU ngoài Schengen vẫn cần visa du lịch theo quy định của từng nước."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Quyền sinh sống, làm việc và học tập tại bất kỳ quốc gia EU nào chỉ phát sinh khi nhà đầu tư có quốc tịch Hy Lạp."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Khác nhau Schengen & EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Schengen ≠ EU",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "EU - Liên minh châu Âu: tổ chức liên Chính phủ, 27 nước."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Schengen: khu vực cho phép tự do đi lại giữa các nước thành viên."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Một số nước EU không thuộc Schengen, và ngược lại."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Hy Lạp là thành viên của CẢ HAI khối Schengen và EU."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Con cái có được học miễn phí?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Học miễn phí trường công Hy Lạp."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Từ tiểu học đến sau đại học."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Rủi ro đầu tư là gì?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "2 rủi ro chính của đầu tư Golden Visa.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chọn dự án / nhà phát triển không uy tín, dự án không đủ điều kiện."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nguồn tiền đầu tư không hợp pháp dẫn đến hồ sơ bị từ chối."
+                                }
+                            ],
+                            "product_faq_item_section_note": "IMM Group thẩm định kỹ hồ sơ trước khi ký hợp đồng, loại trừ rủi ro nguồn tiền."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Chứng minh nguồn tiền có phức tạp?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Đơn giản hơn Mỹ, Úc, Canada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chỉ cần chứng minh nguồn tiền hợp pháp ở mức cơ bản"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Ví dụ: bán BĐS, sẽ cần chứng minh năm mua và giá trị tại thời điểm đó"
+                                }
+                            ],
+                            "product_faq_item_section_note": "Mỗi gia đình có cách chứng minh khác nhau - liên hệ IMM Group để được tư vấn cụ thể."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Sau bao lâu được bán BĐS?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau 7 năm cư trú Hy Lạp với Golden Visa."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nếu xin nhập tịch Hy Lạp thì nhà đầu tư có thể bán bất động sản."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nếu tiếp tục giữ Golden Visa thì nhà đầu tư phải duy trì khoản đầu tư bất động sản."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Lợi thế dự án Kastella Bay",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Lợi thế dự án Kastella Bay",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Sở hữu căn hộ ngay vịnh du thuyền Mikrolimano, Piraeus "
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Chỉ 12-15 phút tới trung tâm Athens"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Cách ga metro Neo Faliro khoảng 1 km"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Quy mô dự án",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "32 căn hộ cao cấp"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Chuyển đổi công năng từ khách sạn"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đủ điều kiện Golden Visa thấp nhất 250.000 EUR"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Tiện ích & tiềm năng",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Gần bến du thuyền, nhà hàng, trung tâm thương mại"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thuận tiện metro, đại học, bệnh viện"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tiềm năng cho thuê cao"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Tài chính & tiến độ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Mức đầu tư từ 250.000 EUR - khoảng 7,6 tỷ đồng"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Chủ đầu tư Arish Capital Partners giàu kinh nghiệm"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Khởi công tháng 06/2026, dự kiến hoàn thành cải tạo 06/2027"
+                                }
+                            ],
+                            "product_faq_item_section_note": "Tiềm năng tăng giá và cho thuê theo kỳ vọng thị trường, không phải cam kết kết quả đầu tư."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Hoàn tiền nếu hồ sơ bị từ chối?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Chính sách hoàn tiền khi hồ sơ bị từ chối",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group cam kết hoàn 100% phí dịch vụ nếu hồ sơ bị từ chối không do lỗi của khách hàng."
+                                }
+                            ],
+                            "product_faq_item_section_note": "IMM Group thẩm định kỹ hồ sơ nhà đầu tư trước khi ký hợp đồng, tránh rủi ro từ chối."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thời hạn & gia hạn Golden Visa",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Thẻ 5 năm, gia hạn 5 năm/lần"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Điều kiện gia hạn",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Còn sở hữu bất động sản"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Lý lịch tư pháp trong sạch"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau 7 năm: có thể xin nhập tịch Hy Lạp nếu đủ điều kiện cư trú & ngôn ngữ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Gia hạn visa của người phụ thuộc",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Đương đơn & vợ/chồng: gia hạn như nhau, không giới hạn số lần, chỉ cần còn BĐS & lý lịch trong sạch."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Con phụ thuộc: chỉ được gia hạn đến 24 tuổi"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "3 hướng xử lý khi con đủ 24 tuổi:",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Con xin nhập tịch Hy Lạp nếu đủ điều kiện để giữ quyền cư trú."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Cho con dưới 18 tuổi đứng đơn chính theo quy định mới."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sang nhượng BĐS cho con để con tiếp tục gia hạn, nhưng tốn thời gian và chi phí hơn."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Mỗi năm phải ở Hy Lạp bao nhiêu ngày?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Không yêu cầu cư trú liên tục để duy trì Golden Visa.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Nhà đầu tư không cần cư trú liên tục tại Hy Lạp để giữ và gia hạn Golden Visa."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nếu định hướng nhập tịch Hy Lạp về sau, nhà đầu tư cần đáp ứng các điều kiện cư trú và hội nhập theo luật Hy Lạp."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Điều kiện nhập quốc tịch Hy Lạp",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "5 điều kiện nhập tịch Hy Lạp:",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Cư trú thực tế đủ 7 năm tại Hy Lạp - tối thiểu 183 ngày mỗi năm"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Có nguồn thu nhập tại Hy Lạp"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đạt tiếng Hy Lạp trình độ B1 và vượt kỳ thi quốc tịch về lịch sử, văn hóa, thể chế"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Chứng minh đã hòa nhập với xã hội Hy Lạp"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Không tiền án tiền sự trong và ngoài Hy Lạp"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Điều kiện riêng cho con:",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Học tại Hy Lạp 9 năm (tiểu học + trung học), hoặc"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Học tại Hy Lạp 6 năm (trung học) trước 18 tuổi"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Đặc quyền của quốc tịch Hy Lạp",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Quyền công dân EU đầy đủ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tự do sinh sống, làm việc, học tập tại bất kỳ quốc gia EU nào."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có giới hạn độ tuổi đương đơn?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Không giới hạn độ tuổi đương đơn",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không giới hạn tuổi tối đa"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Quy định mới: cho phép con dưới 18 tuổi đứng đơn chính"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Khi con đứng đơn chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Ba mẹ ủy quyền cho luật sư mua BĐS"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Ba mẹ đi kèm với tư cách người phụ thuộc"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Yêu cầu trình độ, kinh nghiệm quản lý?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không yêu cầu trình độ / kinh nghiệm."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Không yêu cầu bằng cấp hay kinh nghiệm quản lý."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thành viên gia đình đi kèm",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "3 nhóm thành viên đi kèm hồ sơ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Vợ/chồng hợp pháp"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Con (kể cả con nuôi) đến 21 tuổi"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Bố mẹ của cả hai vợ chồng"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Cho phép con nuôi / con riêng?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cho phép con nuôi & con riêng",
+                            "product_faq_item_section_bullets": false,
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Điều kiện chung",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chưa kết hôn, dưới 21 tuổi"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Con nuôi",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có giấy chứng nhận hợp pháp."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Con riêng",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có giấy chứng nhận hợp pháp + văn bản đồng ý có chứng thực của vợ/chồng."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Tuổi tối đa con đi cùng hồ sơ",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Con đến 21 tuổi",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Con cái đến 21 tuổi được đi kèm bộ hồ sơ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Bố mẹ có được đi kèm?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Bố mẹ được đi kèm hồ sơ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Cho phép bố mẹ của CẢ vợ và chồng đi cùng một bộ hồ sơ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    }
+]

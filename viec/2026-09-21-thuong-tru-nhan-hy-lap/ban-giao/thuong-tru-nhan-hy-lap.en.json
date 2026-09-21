@@ -1,0 +1,909 @@
+[
+    {
+        "post_id": 100869,
+        "post_slug": "/thuong-tru-nhan-hy-lap/",
+        "post_title": "Greece Golden Visa",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "<span class=\\\"accent\\\">Greece Golden Visa</span> <br>(Residency by Investment)"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99264",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is the Greece Golden Visa?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The Greece Golden Visa is a residence permit program established by the Greek government.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "It is open to non-EU investors and their families through an investment in Greek real estate.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Three generations of your family can live in Greece and travel across the 29 Schengen countries.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Minimum investment: €250,000.",
+                            "product_hero_content_text_subs": [
+                                {
+                                    "product_hero_content_text_sub_item": "The €250,000 threshold applies to properties converted from commercial to residential use; taxes and fees are not included."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://immgroup.com/en/contact/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Greece Golden Visa benefits",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "home_pin",
+                    "product_benefits_item_title": "Live in Greece",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Live, invest in a business, and study in Greece."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "Visa-free travel in the Schengen Area",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Travel across the 29 Schengen countries under the standard short-stay rule: 90 days in any 180-day period."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "health_and_safety",
+                    "product_benefits_item_title": "Access to education on the same terms as Greek nationals",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Your children can attend Greek public schools free of charge, from primary school through public university."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "flag",
+                    "product_benefits_item_title": "A path to Greek citizenship",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Once you have completed a period of lawful residence and met the residence, language, and integration conditions set by Greek law, you may apply for naturalization."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "workspace_premium",
+                    "product_benefits_item_title": "Once you hold Greek citizenship",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Visa-free or eVisa access to more than 180 destinations, including the United States, the United Kingdom, Australia, Japan, and countries across Europe."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Why investors choose the Greece Golden Visa",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "account_balance_wallet",
+                    "product_advantages_item_title": "Investment from €250,000",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Own real estate in central Athens from €250,000 — about one-third of the €800,000 threshold that otherwise applies there — by investing through the change-of-use route to residential property."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "assignment",
+                    "product_advantages_item_title": "Apply from your home country",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Buy the property and file your application from your home country"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Receive your \"White Paper,\" then travel to Greece for biometrics"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Complete the formalities for your residence card"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "supervisor_account",
+                    "product_advantages_item_title": "No age limit for applicants",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "No maximum age for the main applicant"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Applicants under 18 are accepted, with parental consent"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "verified",
+                    "product_advantages_item_title": "Straightforward eligibility",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "No education requirement"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "No business management experience required"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "No language requirement"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "No interview"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "home_work",
+                    "product_advantages_item_title": "No minimum stay requirement",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You are not required to live in Greece to keep your Golden Visa"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "If you plan to apply for Greek citizenship later, you will need to meet the residence and integration conditions set by law"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Greece Golden Visa investment requirements",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "real_estate_agent",
+                    "product_conditions_item_title": "Real estate investment",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "€250,000 — commercial property converted to residential use, or a historic building in need of restoration; available in any location, including central Athens"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "€400,000 — property in all other areas, minimum 120 m²"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "€800,000 — property in Attica (Athens), Thessaloniki, Mykonos, Santorini, and islands with more than 3,100 residents, minimum 120 m²"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Applicant requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "You meet the background security and health requirements"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "You document a lawful source of funds"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "You do not take up salaried employment in Greece"
+                        }
+                    ],
+                    "product_conditions_item_footnote": "You may make further investments or set up a business."
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Family members who can be included",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Your legal spouse"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Children (including adopted children) up to age 21; a child's card can be renewed until age 24"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Both sets of parents — yours and your spouse's"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "The Greece Golden Visa process",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "payments",
+                    "product_process_step_title": "Deposit and due diligence",
+                    "product_process_step_desc": "Sign the deposit agreement and complete initial due diligence",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "edit_document",
+                    "product_process_step_title": "Sign the contracts",
+                    "product_process_step_desc": "Sign the service agreement for your residence permit application and the property purchase contract",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "account_balance_wallet",
+                    "product_process_step_title": "Prepare documents and transfer funds",
+                    "product_process_step_desc": "Prepare your documents and transfer the investment funds, based on the investment option you choose and the number of family members included",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "drive_folder_upload",
+                    "product_process_step_title": "File the application",
+                    "product_process_step_desc": "File your application with the Greek migration authorities for review",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "fingerprint",
+                    "product_process_step_title": "Receive your \"White Paper\" and provide biometrics",
+                    "product_process_step_desc": "Receive your \"White Paper,\" which lets you enter and leave Greece freely for 1 year; then travel to Greece to provide biometrics and register for your residence card",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "card_membership",
+                    "product_process_step_title": "Receive your residence card",
+                    "product_process_step_desc": "Receive formal approval; the residence card is sent to you in your home country",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "autorenew",
+                    "product_process_step_title": "Renew your residence card",
+                    "product_process_step_desc": "The card is valid for 5 years and is renewable in 5-year periods for as long as you continue to own the property",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "Greek real estate projects",
+            "product_projects_posts": [
+                "93495",
+                "92538"
+            ],
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hy-lap/cac-du-an-bat-dong-san-hy-lap/",
+            "product_care_icon": "hub",
+            "product_care_title": "You may also be interested in",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "You may also be interested in",
+            "product_care_service_desc": "<p>Explore IMM Group's advisory services:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Greek real estate projects",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hy-lap/cac-du-an-bat-dong-san-hy-lap/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "European citizenship and residency",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Ireland residency by investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-ireland/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Cyprus residency by investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-cong-hoa-sip-cyprus/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Latvia residency by investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/dau-tu-dinh-cu-latvia/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Malta residency by investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-malta/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Portugal Golden Visa",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bo-dao-nha/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Hungary residency by investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hungary-guest-investor-program/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bulgaria residency by investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bulgaria/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Understanding Greece",
+            "product_care_topics_desc": "<p>IMM Group's resource hub brings together practical information on the following topics:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Life in Greece",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Education in Greece",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Greek culture",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Working and doing business in Greece",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Allowances, welfare, and social insurance in Greece",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Greek real estate",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Travel in Greece",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-hy-lap/#n6",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Frequently asked questions",
+            "product_faq_section_id": "",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "What is a Golden Visa, and is it different from permanent residence?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The Golden Visa is Greece's long-term residence permit for investors."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "In practice it gives your family many of the same day-to-day rights as permanent residence: you can live in Greece, start a business, and send your children to school (salaried employment is not permitted)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The card is valid for 5 years and is renewable every 5 years, provided the conditions continue to be met."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "It can put you on the pathway to Greek citizenship if you meet the residence, language, and integration conditions set by law."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Does the Golden Visa allow free movement in the Schengen Area and the EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Short stays in the Schengen Area — not a right to live or work elsewhere in the EU"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The Golden Visa allows travel within the Schengen Area under the short-stay rules of 90 days in any 180-day period."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Travel to EU countries outside the Schengen Area still requires a visitor visa under each country's rules."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The right to live, work, and study in any EU country arises only once you hold Greek citizenship."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What is the difference between Schengen and the EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Schengen is not the same as the EU",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The EU — the European Union: an intergovernmental organization of 27 countries."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Schengen: an area of free movement between its member countries."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Some EU countries are not in Schengen, and the reverse is also true."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Greece is a member of both the Schengen Area and the EU."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can my children study free of charge?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Free of charge at Greek public institutions."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "From primary school through postgraduate study."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the investment risks?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "There are 2 main risks in a Golden Visa investment.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Choosing a project or developer without a solid track record, or a project that does not qualify."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Investment funds from an unlawful source, which leads to refusal."
+                                }
+                            ],
+                            "product_faq_item_section_note": "IMM Group runs due diligence on every file before signing, to address source-of-funds risk up front."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is documenting my source of funds complicated?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Typically simpler than the United States, Australia, or Canada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You need to document a lawful source of funds, at a basic level of detail"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "For funds from a property sale, for example, you will need to show the year of purchase and the value at the time"
+                                }
+                            ],
+                            "product_faq_item_section_note": "Every family documents this differently — contact IMM Group for advice on your own situation."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How soon can I sell the property?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "After 7 years of residence in Greece on the Golden Visa."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "If you apply for Greek citizenship, you may sell the property."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "If you continue to hold the Golden Visa, you must maintain the real estate investment."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Why the Kastella Bay project",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Why the Kastella Bay project",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Apartments right on the Mikrolimano yacht marina in Piraeus"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Only 12–15 minutes from central Athens"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "About 1 km from Neo Faliro metro station"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Project size",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "32 premium apartments"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Converted from a hotel"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Qualifies for the Golden Visa at the lowest threshold of €250,000"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Amenities and potential",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Close to the marina, restaurants, and shopping centers"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Convenient for the metro, universities, and hospitals"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Strong rental potential"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Pricing and timeline",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Investment from €250,000"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Delivered by Arish Capital Partners, an experienced developer"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Construction started in June 2026; the conversion is scheduled for completion in June 2027"
+                                }
+                            ],
+                            "product_faq_item_section_note": "Capital appreciation and rental income reflect market expectations and are not a promise of investment results."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Does IMM Group refund fees if an application is refused?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Refund policy if an application is refused",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group refunds 100% of its service fee if an application is refused through no fault of your own."
+                                }
+                            ],
+                            "product_faq_item_section_note": "IMM Group runs due diligence on each investor's file before signing, to reduce the risk of refusal."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How long is the Golden Visa valid, and how is it renewed?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "A 5-year card, renewable every 5 years"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Renewal conditions",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You still own the property"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "A clean criminal record (police clearance certificate)"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "After 7 years: you may apply for Greek citizenship if you meet the residence and language conditions."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How are dependents' cards renewed?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Main applicant and spouse: renewals on the same terms, with no limit on the number of renewals, as long as you still own the property and your criminal records remain clean."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Dependent children: renewals are available only until age 24"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "There are 3 options once a child turns 24:",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Your child applies for Greek citizenship, if eligible, to keep the right of residence."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "You name a child under 18 as the main applicant under the new rules."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "You transfer the property to your child so that they can keep renewing, though this takes more time and costs more."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How many days a year must I spend in Greece?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "No minimum stay is required to keep the Golden Visa.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You do not need to live in Greece to hold and renew your Golden Visa."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "If you plan to apply for Greek citizenship later, you will need to meet the residence and integration conditions set by Greek law."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the requirements for Greek citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The 5 conditions for Greek naturalization:",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Actual residence in Greece for 7 full years — at least 183 days each year"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "A source of income in Greece"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Greek language at B1 level, plus passing the citizenship exam on history, culture, and institutions"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Evidence of integration into Greek society"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "No criminal record in Greece or abroad"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Separate route for children:",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Schooling in Greece for 9 years (primary and secondary), or"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Schooling in Greece for 6 years (secondary) before age 18"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What does Greek citizenship give you?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Full EU citizenship rights."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Freedom to live, work, and study in any EU country."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is there an age limit for applicants?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "No age limit for applicants",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No upper age limit"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Under the new rules, a child under 18 can be the main applicant"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "When a child is the main applicant",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The parents grant a lawyer power of attorney to buy the property"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The parents are included as dependents"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Are qualifications or management experience required?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No qualifications or experience required."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "No degree or management experience is required."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Which family members can be included?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The 3 groups that can be included in one application",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Your legal spouse"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Children (including adopted children) up to age 21"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Both sets of parents — yours and your spouse's"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Are adopted children and stepchildren eligible?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Adopted children and stepchildren are eligible",
+                            "product_faq_item_section_bullets": false,
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "General condition",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Unmarried and under 21"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Adopted children",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Legal adoption certificate required."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Stepchildren",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Legal certificate plus notarized consent from your spouse."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What is the maximum age for children on the application?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Children up to age 21",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Children up to age 21 can be included in the application."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can parents be included?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Parents can be included in the application",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Both your parents and your spouse's parents can be included in the same application."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        },
+        "seo": {
+            "meta_title": "Greece Golden Visa: Cost & Requirements | IMM Group",
+            "meta_description": "The Greece Golden Visa gives your family EU residency from €250,000, with Schengen travel and a route to citizenship. Book a consultation with IMM Group.",
+            "slug": "greece-golden-visa"
+        }
+    }
+]

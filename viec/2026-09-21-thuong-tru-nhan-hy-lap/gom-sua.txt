@@ -1,0 +1,49 @@
+[s002] {1}Greece Golden Visa{/1} {br}(Residency by Investment)
+[s005] It is open to non-EU investors and their families through an investment in Greek real estate.
+[s006|#bo-qua-so: số đứng đầu câu viết bằng chữ theo style guide mục 5] Three generations of your family can live in Greece and travel across the 29 Schengen countries.
+[s008] The €250,000 threshold applies to properties converted from commercial to residential use; taxes and fees are not included.
+[s012] Live, invest in a business, and study in Greece.
+[s013] Visa-free travel in the Schengen Area
+[s014] Travel across the 29 Schengen countries under the standard short-stay rule: 90 days in any 180-day period.
+[s016] Your children can attend Greek public schools free of charge, from primary school through public university.
+[s018] Once you have completed a period of lawful residence and met the residence, language, and integration conditions set by Greek law, you may apply for naturalization.
+[s020] Visa-free or eVisa access to more than 180 destinations, including the United States, the United Kingdom, Australia, Japan, and countries across Europe.
+[s021] Why investors choose the Greece Golden Visa
+[s023] Own real estate in central Athens from €250,000 — about one-third of the €800,000 threshold that otherwise applies there — by investing through the change-of-use route to residential property.
+[s026] Receive your "White Paper," then travel to Greece for biometrics
+[s041] €250,000 — commercial property converted to residential use, or a historic building in need of restoration; available in any location, including central Athens
+[s045] You meet the background security and health requirements
+[s046] You document a lawful source of funds
+[s047] You do not take up salaried employment in Greece
+[s055] Sign the deposit agreement and complete initial due diligence
+[s057] Sign the service agreement for your residence permit application and the property purchase contract
+[s059] Prepare your documents and transfer the investment funds, based on the investment option you choose and the number of family members included
+[s061] File your application with the Greek migration authorities for review
+[s062] Receive your "White Paper" and provide biometrics
+[s063] Receive your "White Paper," which lets you enter and leave Greece freely for 1 year; then travel to Greece to provide biometrics and register for your residence card
+[s067] The card is valid for 5 years and is renewable in 5-year periods for as long as you continue to own the property
+[s088] Allowances, welfare, and social insurance in Greece
+[s094] In practice it gives your family many of the same day-to-day rights as permanent residence: you can live in Greece, start a business, and send your children to school (salaried employment is not permitted).
+[s095] The card is valid for 5 years and is renewable every 5 years, provided the conditions continue to be met.
+[s096] It can be a step toward Greek citizenship if you meet the residence, language, and integration conditions set by law.
+[s098] Short stays in the Schengen Area — not a right to live or work elsewhere in the EU
+[s103] Schengen is not the same as the EU
+[s107] Greece is a member of both the Schengen Area and the EU.
+[s114] Investment funds from an unlawful source, which leads to refusal.
+[s116] Is documenting my source of funds complicated?
+[s117] Typically simpler than the United States, Australia, or Canada
+[s118] You need to document a lawful source of funds, at a basic level of detail
+[s119] For funds from a property sale, for example, you will need to show the year of purchase and the value at the time
+[s140] Delivered by Arish Capital Partners, an experienced developer
+[s143] Does IMM Group refund fees if an application is refused?
+[s145] IMM Group refunds 100% of its service fee if an application is refused through no fault of your own.
+[s148] A 5-year card, renewable every 5 years
+[s151] A clean criminal record (police clearance certificate)
+[s154] Main applicant and spouse: renewals on the same terms, with no limit on the number of renewals, as long as you still own the property and your criminal records remain clean.
+[s157] Your child applies for Greek citizenship, if eligible, to keep the right of residence.
+[s158] You name a child under 18 as the main applicant under the new rules.
+[s159] You transfer the property to your child so that they can keep renewing, though this takes more time and costs more.
+[s167] A source of income in Greece
+[s168] Greek language at B1 level, plus passing the citizenship exam on history, culture, and institutions
+[s182] The parents grant a lawyer power of attorney to buy the property
+[s199] Legal certificate plus notarized consent from your spouse.
