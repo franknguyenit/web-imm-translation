@@ -23,11 +23,6 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
 - **Dữ kiện EB-5 nguồn hay nói gọn:** 800.000 USD là mức TEA (chuẩn 1.050.000); điều chỉnh lạm phát từ 01/01/2027; vốn at risk. Ghi chú cho CEO, không tự sửa dữ kiện.
 - Từ khoá: "is eb-5 worth it" có ở cả 6 thị trường; người tìm hay so "eb-5 vs gold card"; Ấn Độ tìm nhiều ("for indian", "cost in inr").
 - **Bài dài có phần đã dịch:** `dien <việc> dich-1.txt --tm100` tự lấp đoạn khớp 100% bộ nhớ dịch; bản dịch chỉ viết đoạn mới. Lời giao B5/B6 chỉ liệt kê đoạn mới để khỏi soát lại.
-- **Trang dự án xuất cả hai bộ trường ACF** (bộ mới hero/pro_parent_rp/CTA + bộ cũ title_main/section_text_auto_*/cauhoiQA/form_dang_ky, vd Ecoplastic 20/09/2026): dịch cả hai; bộ chuyển acf-projectnew-2026 đã có đủ. Tệp nhiều trang có trang **mọi trường rỗng** (bản EN chưa nhân bản nội dung) → báo team xuất lại, không dịch.
-- **Không nối `kiem ... | head && ghep`**: head luôn trả 0 nên ghep vẫn chạy khi cửa 0 ĐỎ — chạy kiem, đọc kết quả, rồi mới ghep.
-- **Làm mềm tiêu đề bỏ chữ EB-5** ("AN TOÀN VỐN ĐẦU TƯ EB-5") bị bắt SỐ LỆCH + THUẬT NGỮ → giữ "EB-5" trong tiêu đề viết lại. "Cấp 1 (Tier-1)" nguồn lặp số → `#bo-qua-so`.
-- **Trang dự án hay tự mâu thuẫn số** (doanh thu công ty mẹ, số năm hợp tác "hơn/gần 40 năm", việc làm 2.229/2.230, mốc ràng buộc tiền mặt giữa khối tóm tắt và khối chi tiết) → dịch đúng từng chỗ, liệt kê CEO; bác góp ý agent đòi "thống nhất" số.
-- **"Độc quyền IMM Group"** trên bản Anh ngụ ý độc quyền toàn cầu → viết "offered exclusively through IMM Group in Vietnam" khi nguồn có câu "độc quyền tại Việt Nam".
 - **"Chỉ dịch nội dung"** (CEO 17/09/2026): không hỏi lan man, không phân tích ngoài nhiệm vụ; ghi chú bàn giao chỉ nêu điều CEO phải quyết.
 - **Bộ kiểm số: "EB-5 may" từng thành 5 triệu** (hệ số "m" không có ranh giới từ) — đã sửa; tên tháng chỉ tính khi cạnh số ngày 1–31.
 - **Tiền VND trùng mức vốn EB-5** ("hơn 20 tỷ đồng"): viết "US$800,000 or more" (trong sai số 5% của tỷ giá) thay vì con số lẻ.
@@ -138,3 +133,24 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
   `dong-bo-bo-nho.sh` trỏ đường dẫn macOS nên không chạy — chép tay sang `bo-nho/claude-memory/` và `bo-nho/skill/`.
   `unittest` có **3 lỗi sẵn của môi trường** (2 lỗi cp1252 trong `tests/test_dich.py`, 1 lỗi thiếu `bs4`), 42/45 xanh —
   không phải lỗi bộ công cụ, đừng đi sửa nhầm.
+- **Trang châu Âu — cách giảm cờ `#bo-qua-tn`:** thêm dòng riêng `thường trú nhân <nước>` → `<Nước> Golden Visa`
+  (`goi-y`) vào `thuat-ngu.csv`; bộ kiểm khớp cụm dài hơn nên chỉ còn cảnh báo ở nhãn liên kết sang các nước
+  chưa có dòng riêng (Hy Lạp: 13 cờ → 8). Trong **câu hỏi đáp so sánh khái niệm** ("Golden Visa có khác thường
+  trú nhân không?") thì ĐƯỢC dùng "permanent residence" — đó là khái niệm, không phải tên sản phẩm.
+- **Lỗi hứa hẹn kiểu mới B6 bắt được ở trang Golden Visa:** "is renewed every 5 years" đọc như **gia hạn tự
+  động** → "renewable in 5-year periods for as long as you continue to own the property". Và "freedom of
+  movement" là thuật ngữ luật EU chỉ quyền sống/làm việc → quyền đi lại 90/180 phải viết "visa-free travel in
+  the Schengen Area".
+- **B6 làm mềm quá tay có thể làm SAI nghĩa nguồn:** s114 "nguồn tiền không hợp pháp dẫn đến từ chối" bị B6 đổi
+  thành "cannot be shown to be lawful… can lead to refusal" (đổi bản chất rủi ro). B5 bắt đúng. Khi hai agent
+  đá nhau về độ mạnh: **giữ độ lớn của nguồn, chỉ bỏ tuyệt đối hoá**.
+- **Cờ `#bo-qua-so` còn dùng cho số đứng đầu câu viết bằng chữ** ("3 thế hệ" → "Three generations", style guide
+  mục 5) — bộ kiểm đếm chữ số nên sẽ bắt.
+- **Agent soát trả dấu nháy cong** (`“White Paper,”`) → luồng chính chuẩn hoá về nháy thẳng trước khi `dien`.
+- **`dien` chỉ NỐI THÊM ghi_chu khi dòng điền có cờ, và tự bỏ trùng** → sửa lại một đoạn đã có cờ thì viết
+  `[sXXX] text` không kèm cờ, cờ cũ vẫn còn. Chỉ kèm cờ khi muốn thêm cờ MỚI.
+- **Tệp JSON xuất từ trang tiếng Anh** (`lang: "en"`, có `post_id`) là luồng đúng: nhập lại vào **đúng trang
+  post_id đó**. Nhớ kiểm parity trường: tập đường dẫn của `<slug>.en.json` phải khớp hệt `nguon.json`, chỉ
+  thừa `/seo/*`.
+- **Trang chương trình dạng ACF product-2026 luôn có 2 cảnh báo cấu trúc** (H1→H3 ở hero, H2→H4 ở hỏi đáp) —
+  do template quy định, không sửa được từ nội dung; ghi lý do vào báo cáo chứ đừng đổi cấp heading.

@@ -93,15 +93,15 @@ an toàn thẻ xanh,job creation to support your green card,,thuat-ngu,goi-y,Ti�
 an toàn khả năng thu hồi vốn,structural features designed to manage investment risk,,thuat-ngu,goi-y,Không hứa lấy lại vốn — vốn EB-5 phải at risk,2026-09-18-haven-residences
 Hy Lạp,Greece,Greek,ten-rieng,chot,Tính từ: Greek (Greek Golden Visa); tên nước: Greece,thuong-tru-nhan-hy-lap
 thẻ cư trú,residence permit,residency card,thuat-ngu,goi-y,Không dịch là residence card — thẻ Golden Visa Hy Lạp gọi chính thức là residence permit,thuong-tru-nhan-hy-lap
-khối Schengen,Schengen Area,Schengen zone,ten-rieng,chot,Viết hoa cả hai chữ; không viết Schengen block,thuong-tru-nhan-hy-lap
-chuyển đổi công năng,change of use,commercial-to-residential conversion|converted property,thuat-ngu,goi-y,Diện 250.000 EUR: bất động sản thương mại chuyển sang nhà ở,thuong-tru-nhan-hy-lap
-tòa nhà lịch sử cần bảo tồn,listed heritage building requiring restoration,heritage property|listed building,thuat-ngu,goi-y,,thuong-tru-nhan-hy-lap
-lấy sinh trắc,biometrics appointment,provide biometrics|biometric enrollment,thuat-ngu,goi-y,,thuong-tru-nhan-hy-lap
+khối Schengen,Schengen Area,Schengen zone|Schengen countries,ten-rieng,chot,"Viết hoa cả hai chữ; không viết Schengen block. 21/09/2026 khi gộp hai nhánh: thêm biến thể ""Schengen countries"" — dùng làm tính từ (""the 29 Schengen countries"") là tiếng Anh đúng, không vi phạm ý định của luật",thuong-tru-nhan-hy-lap
+chuyển đổi công năng,change of use,change-of-use|converted from commercial to residential use|converted from,thuat-ngu,goi-y,Diện €250.000 của Golden Visa Hy Lạp; ở khối hero viết đủ 'converted from commercial to residential use' vì 'change-of-use' là tiếng lóng nghề,2026-09-21-thuong-tru-nhan-hy-lap
+tòa nhà lịch sử cần bảo tồn,historic building in need of restoration,listed historic building,thuat-ngu,goi-y,,2026-09-21-thuong-tru-nhan-hy-lap
+lấy sinh trắc,provide biometrics,biometrics|give biometrics (sai kết hợp từ),thuat-ngu,goi-y,"Ngành nói 'provide biometrics', không nói 'give biometrics'",2026-09-21-thuong-tru-nhan-hy-lap
 White Paper,White Paper,,khong-dich,goi-y,Giấy xác nhận tạm của Hy Lạp sau khi nộp hồ sơ — nguồn IMM gọi White Paper; giữ nguyên và ghi chú CEO,thuong-tru-nhan-hy-lap
 Sở Di trú Hy Lạp,the Greek immigration authorities,Greek migration authorities,ten-rieng,goi-y,Nguồn không nêu tên cơ quan cụ thể — dùng cách gọi chung để khỏi thêm dữ kiện,thuong-tru-nhan-hy-lap
 chứng minh nguồn vốn hợp pháp,proof of lawful source of funds,source of funds,thuat-ngu,goi-y,,thuong-tru-nhan-hy-lap
 lý lịch tư pháp trong sạch,clean criminal record,,thuat-ngu,goi-y,,thuong-tru-nhan-hy-lap
-người phụ thuộc,dependent,dependants,thuat-ngu,goi-y,Tiếng Anh Mỹ: dependent (danh từ và tính từ),thuong-tru-nhan-hy-lap
+người phụ thuộc,dependents,dependent|family members,thuat-ngu,goi-y,,khoi-tao-2026-09-17
 con nuôi,adopted child,,thuat-ngu,goi-y,,thuong-tru-nhan-hy-lap
 con riêng,stepchild,,thuat-ngu,goi-y,Không dịch là separate child,thuong-tru-nhan-hy-lap
 vợ/chồng hợp pháp,legal spouse,,thuat-ngu,goi-y,,thuong-tru-nhan-hy-lap
@@ -130,3 +130,35 @@ giấy phép du lịch điện tử ETA,Electronic Travel Authorisation (ETA),ET
 lễ tuyên thệ,oath of allegiance,oath,thuat-ngu,goi-y,"Nghi thức tuyên thệ trung thành khi nhận quốc tịch Grenada",quoc-tich-grenada
 lý lịch an ninh và sức khỏe,background and medical requirements,security and medical checks,thuat-ngu,goi-y,,quoc-tich-grenada
 thu hồi quốc tịch,revoke citizenship,revocation,thuat-ngu,goi-y,"Dùng khi rào lại câu ""quốc tịch không bị thu hồi"" — quốc tịch CBI vẫn thu hồi được nếu gian lận hồ sơ",quoc-tich-grenada
+thị thực làm việc không định cư,nonimmigrant work visa,temporary work visa,thuat-ngu,goi-y,L-1A,2026-09-18-visa-my-l1a
+chuyển nhân sự nội bộ,intracompany transferee,intracompany transfer,thuat-ngu,goi-y,Tên diện L-1 của USCIS,2026-09-18-visa-my-l1a
+visa phụ thuộc L-2,L-2 dependent visa,L-2 status,thuat-ngu,goi-y,Vợ/chồng L-2 được làm việc theo diện; con L-2 thì không,2026-09-18-visa-my-l1a
+công ty liên kết,affiliate,related company,thuat-ngu,goi-y,"Cùng nhóm: subsidiary, branch, parent company",2026-09-18-visa-my-l1a
+dịch vụ xử lý nhanh,premium processing,,thuat-ngu,goi-y,"Tên dịch vụ USCIS (I-129, I-140)",2026-09-18-visa-dinh-cu-my-eb1c
+nhà quản lý hoặc điều hành cấp cao,managers and senior executives,multinational executives and managers,thuat-ngu,goi-y,EB-1C/L-1A,2026-09-18-visa-dinh-cu-my-eb1c
+nước ký hiệp định,treaty country,E-2 treaty country,thuat-ngu,goi-y,Hiệp định thương mại (treaty of commerce) — không gọi trade agreement,2026-09-18-visa-my-e2
+quốc tịch trung gian,second citizenship,treaty-country citizenship,thuat-ngu,goi-y,Để đủ điều kiện E-2; AMIGOS Act đòi cư trú 3 năm với quốc tịch qua đầu tư,2026-09-18-visa-my-e2
+đầu tư thụ động,passive investment,,thuat-ngu,goi-y,E-2 không chấp nhận,2026-09-18-visa-my-e2
+Thổ Nhĩ Kỳ,Türkiye,Turkey,ten-rieng,goi-y,Tên chính thức; lần đầu có thể kèm (Turkey),2026-09-18-visa-my-e2
+tài sản ròng hữu hình,tangible net worth,,thuat-ngu,goi-y,Cam kết tài chính của bên bảo lãnh,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
+thế chấp ưu tiên hạng nhất,first-position lien,first lien,thuat-ngu,goi-y,Thống nhất với trang dự án EB-5 khác,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
+nhà cung ứng cấp 1,Tier 1 supplier,Tier-1 supplier,thuat-ngu,goi-y,Ngành ô tô,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
+cơ chế ràng buộc tài chính,financial covenants,,thuat-ngu,goi-y,Điều khoản khoản vay,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
+đúc ép phun,injection molding,,thuat-ngu,goi-y,US spelling molding,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
+hạn ngạch visa dành riêng,set-aside visas,reserved visas,thuat-ngu,goi-y,20% cho rural theo RIA 2022,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
+đáo hạn,maturity,mature,thuat-ngu,goi-y,Khoản vay EB-5,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
+căn hộ sống độc lập,Independent Living units,,thuat-ngu,goi-y,Senior housing; viết hoa tên cấp chăm sóc,2026-09-20-khu-nghi-duong-va-cham-soc-suc-khoe-nguoi-cao-tuoi-horseshoe
+hỗ trợ sinh hoạt,Assisted Living,,thuat-ngu,goi-y,Senior housing,2026-09-20-khu-nghi-duong-va-cham-soc-suc-khoe-nguoi-cao-tuoi-horseshoe
+chăm sóc trí nhớ,Memory Care,,thuat-ngu,goi-y,Senior housing,2026-09-20-khu-nghi-duong-va-cham-soc-suc-khoe-nguoi-cao-tuoi-horseshoe
+khu an dưỡng hưu trí,senior living community,senior housing,thuat-ngu,goi-y,,2026-09-20-khu-nghi-duong-va-cham-soc-suc-khoe-nguoi-cao-tuoi-horseshoe
+khoản vay C-PACE,C-PACE loan,C-PACE financing,thuat-ngu,goi-y,Commercial Property Assessed Clean Energy; thường ưu tiên trước khoản vay thế chấp — cẩn thận khi nói first-position lien,2026-09-20-khu-nghi-duong-va-cham-soc-suc-khoe-nguoi-cao-tuoi-horseshoe
+hạng A,Class A,,thuat-ngu,goi-y,Phân khúc bất động sản,2026-09-20-khu-nghi-duong-va-cham-soc-suc-khoe-nguoi-cao-tuoi-horseshoe
+Golden Visa Hy Lạp,Greece Golden Visa,Greece golden visa program,thuat-ngu,goi-y,Tên trang tiếng Anh; không dùng 'Greece permanent residence',2026-09-21-thuong-tru-nhan-hy-lap
+thường trú nhân Hy Lạp,Greece Golden Visa,Greece residency by investment,thuat-ngu,goi-y,Thẻ 5 năm có thời hạn — dịch 'permanent resident' là sai dữ kiện; gắn cờ #bo-qua-tn,2026-09-21-thuong-tru-nhan-hy-lap
+White Paper,White Paper,blue paper|blue receipt,thuat-ngu,goi-y,Giấy xác nhận đã nộp hồ sơ Golden Visa HL; trên trang đặt trong ngoặc kép. Ngành và hãng luật HL gọi là blue paper/blue receipt (μπλε βεβαίωση); người bản xứ hiểu 'white paper' là báo cáo chuyên đề — CHỜ CEO CHỐT,2026-09-21-thuong-tru-nhan-hy-lap
+tự do đi lại Schengen,visa-free travel in the Schengen Area,Schengen travel,thuat-ngu,goi-y,KHÔNG dịch 'freedom of movement' — đó là thuật ngữ luật EU chỉ quyền sống/làm việc,2026-09-21-thuong-tru-nhan-hy-lap
+90 ngày trong mỗi 6 tháng,90 days in any 180-day period,short-stay rule,thuat-ngu,goi-y,Công thức đúng của luật Schengen; nguồn Việt hay viết '6 tháng' — gắn cờ #bo-qua-so,2026-09-21-thuong-tru-nhan-hy-lap
+Sở Di trú Hy Lạp,Greek migration authorities,Ministry of Migration and Asylum,thuat-ngu,goi-y,Cơ quan chủ quản là Bộ Di trú và Tị nạn — 'migration' sát hơn 'immigration',2026-09-21-thuong-tru-nhan-hy-lap
+gia hạn 5 năm/lần,renewable in 5-year periods,renewable every 5 years,thuat-ngu,goi-y,"Không viết 'is renewed every 5 years' — đọc như gia hạn tự động, là hứa kết quả",2026-09-21-thuong-tru-nhan-hy-lap
+an sinh xã hội,social insurance,welfare|social security (chữ Mỹ),thuat-ngu,goi-y,Trang châu Âu dùng social insurance/welfare; 'Social Security' là chữ Mỹ,2026-09-21-thuong-tru-nhan-hy-lap
+ủy quyền cho luật sư,grant a lawyer power of attorney,power of attorney,thuat-ngu,goi-y,,2026-09-21-thuong-tru-nhan-hy-lap

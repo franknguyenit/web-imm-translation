@@ -1,57 +1,91 @@
-# Soát bản xứ + chuyên môn — Greece Golden Visa (B6)
+# Soát bản xứ + chuyên môn — thuong-tru-nhan-hy-lap (B6, Opus)
 
-Đọc bản tiếng Anh trước, không mở bản Việt ở bước 1. Tổng: 34 góp ý (7 nặng · 17 vừa · 10 nhẹ).
+Đọc bản tiếng Anh như biên tập viên bản xứ ngành private wealth / investment migration, rồi soát chuyên môn
+chương trình Golden Visa Hy Lạp. 44 góp ý: 5 NẶNG · 28 VỪA · 11 NHẸ.
 
-## Nặng
+## NẶNG
 
-- s094 · "carries rights equivalent to permanent residence" — nói quá và đúng thứ mà brief cấm: thẻ 5 năm gia hạn không tương đương PR. Rủi ro tuân thủ. · nặng
-- s162, s163, s101, s096, s123, s124, s038 · Lệch ngôi giữa hai mẻ: phần trên dùng "you / your family" (s037), phần hỏi đáp chuyển sang "the investor / investors". Style guide chốt "you". Đọc như hai người viết. · nặng
-- s016 vs s110 · Mâu thuẫn nội bộ ngay trong trang: s016 "through public university", s110 "through postgraduate study". Dịch đúng nguồn, nhưng nguồn tự đá nhau — CEO quyết. · nặng
-- s156 + s158 · Mục "Three options once a child turns 24" lại chứa phương án "A child under 18 becomes the main applicant" — vô lý về logic với người đọc bản xứ. Nguồn cũng vậy; không tự sửa dữ kiện. · nặng
-- s122 + s123 + s124 · Ba gạch đầu dòng trả lời "khi nào được bán BĐS" đọc rời rạc và tự mâu thuẫn (7 năm / bán được nếu nhập tịch / phải giữ nếu còn Golden Visa). Cần nối logic điều kiện, không thêm dữ kiện. · nặng
-- s148, s067 · "renewed every 5 years" nói như gia hạn mặc nhiên. Ngành viết "renewable". Rủi ro hứa kết quả. · nặng
-- s142 · "are not a commitment as to investment results" — câu miễn trừ quan trọng nhất trang lại viết stilted, dễ bị hiểu nhẹ đi. · nặng
+- s013 · NẶNG · "Freedom of movement in the Schengen Area" là thuật ngữ luật EU chỉ quyền sống/làm việc; dùng cho quyền đi lại 90/180 là nói quá và đá thẳng với s098/s101 · đổi thành "Visa-free travel in the Schengen Area"
+- s026 · NẶNG · "White Paper" người bản xứ đọc ra "báo cáo chuyên đề"; ngành gọi giấy này là blue paper / blue receipt. Chưa được CEO chốt nên không đổi dữ kiện, nhưng phải đặt trong ngoặc kép để người đọc hiểu đây là tên riêng của một loại giấy · đặt “White Paper” trong ngoặc kép, thống nhất với s062/s063
+- s063 · NẶNG · Ba lỗi trong một dòng: (a) "the White Paper" ở đây nhưng "your White Paper" ở s026; (b) "give biometrics" sai kết hợp từ, ngành nói "provide biometrics"; (c) khẳng định giấy này cho "enter and leave Greece freely for 1 year" — xem mục nguồn bên dưới · sửa văn phong, giữ nguyên dữ kiện, báo CEO phần (c)
+- s067 · NẶNG · "is renewed every 5 years" đọc như gia hạn tự động, là hứa kết quả; luật chỉ cho quyền xin gia hạn nếu còn giữ khoản đầu tư · đổi sang "is renewable in 5-year periods for as long as you continue to own the property"
+- s094 · NẶNG · "It carries rights equivalent to permanent residence" nói quá và đá thẳng với quyết định của dự án là KHÔNG gọi chương trình này là permanent residence; thẻ 5 năm phụ thuộc khoản đầu tư, không tương đương thường trú · hạ xuống "In practice it gives your family many of the same day-to-day rights as permanent residence"
 
-## Vừa
+## VỪA
 
-- s014 + s099 · "90 days in any six-month period" — trong ngành và trong luật Schengen luôn là "90 days in any 180-day period". Hai chỗ nhất quán với nhau nhưng cùng sai cách nói. · vừa
-- s008 vs s023 vs s132 · Gọi diện chuyển đổi công năng ba kiểu: "change of use route" / "change of use category" (x2). Thống nhất một cách gọi. · vừa
-- s008 + s023 · Lời giải thích "where commercial property is converted to residential" lặp nguyên văn hai lần trong 15 dòng đầu. Giải thích một lần ở s008 là đủ. · vừa
-- s010 vs s021 · Hai H2 "Greece Golden Visa benefits" và "Greece Golden Visa advantages" là cùng một nghĩa trong tiếng Anh; người đọc không hiểu vì sao có hai mục. (vi: quyền lợi / ưu điểm). · vừa
-- s018 · Câu bị động chồng bị động, "and once ... are met" — mùi dịch rõ. · vừa
-- s027 · "Complete the formalities for issuance of your residence permit" — danh từ hoá kiểu văn bản hành chính dịch máy. · vừa
-- s045 · "Meet security and medical background requirements" — "medical background" không phải cách người trong ngành nói (health checks / medical requirements). · vừa
-- s048 · "Further investment and setting up a company are permitted." — ghép danh từ với V-ing, sai song hành; câu cụt. · vừa
-- s055 · thiếu mạo từ: "complete initial due diligence" → "the initial due diligence". · vừa
-- s059 · Câu dài 30 chữ, "according to your chosen investment option and the number of family members included" bám đuôi lủng củng. · vừa
-- s096 · "a stepping stone on the pathway to" — ẩn dụ chồng ẩn dụ, thừa. · vừa
-- s103 · "Schengen ≠ EU" — ký hiệu toán trong thân bài, không hợp giọng private wealth. · vừa
-- s104 · "The EU — the European Union: an intergovernmental organization" — hai lần đồng vị liên tiếp, đọc vấp. · vừa
-- s154 · Ba mệnh đề bị động nối nhau ("is still owned", "the criminal record is clean"). · vừa
-- s159 · "the child ... the child" lặp; "takes more time and money" hơi bình dân so với giọng còn lại. · vừa
-- s166 · "actual residence" là dịch chữ; ngành nói "physical residence / physical presence". · vừa
-- s168 · "Greek at level B1, plus passing the citizenship exam" — ghép danh từ với V-ing, sai song hành. · vừa
+- s002 · VỪA · H1 lặp "Greece" hai lần và đẩy từ khoá chính xuống ngoặc đơn · đảo thành "{1}Greece Golden Visa{/1} {br}(Residency by Investment)" — Title Case, từ khoá chính đứng đầu, giữ đủ thẻ
+- s008 · VỪA · "change-of-use properties" là tiếng lóng nghề, đặt ở khối hero không có lời giải thích · viết đủ "properties converted from commercial to residential use" (đúng như s041 đã nói)
+- s014 · VỪA · "the short-stay rules of 90 days in any 180-day period" lủng củng · "the standard short-stay rule: 90 days in any 180-day period"
+- s016 · VỪA · "Your children attend Greek public schools free of charge" viết ở thì hiện tại khẳng định, đọc như lời hứa · thêm "can attend"
+- s018 · VỪA · Câu chồng ba mệnh đề, nhiều dấu phẩy, "mùi dịch" · đảo thành "Once you have completed… you may apply for naturalization"
+- s021 · VỪA · H2 "advantages" gần như đồng nghĩa H2 "benefits" ở s010; tiếng Anh hai mục này không phân biệt được · đổi thành "Why investors choose the Greece Golden Visa" (vẫn giữ từ khoá)
+- s023 · VỪA · "the threshold that applies in the area" mơ hồ (khu nào); "through the change-of-use route" thiếu động từ dẫn · "that otherwise applies there" + "by investing through…"
+- s041 · VỪA · "a historic building requiring conservation" không phải cách ngành nói · "a historic building in need of restoration"
+- s045–s047 · VỪA · Ba gạch đầu dòng duy nhất trên trang viết ngôi thứ ba lược chủ ngữ ("Meets…", "Documents…", "Does not take…") trong khi cả trang xưng "you"; s048 ngay dưới lại quay về "You may…". Riêng s045 "Meets security background" thừa chữ "security" · viết lại cả ba theo ngôi "you"
+- s055 · VỪA · "complete the initial due diligence on your file" thừa mạo từ và thừa "on your file" · "complete initial due diligence"
+- s057 · VỪA · "Complete the service agreement… and the property purchase contract" — "complete a contract" không phải cách nói tự nhiên cho việc ký · đổi sang "Sign…"
+- s059 · VỪA · "transfer the investment amount, according to…" — sai kết hợp từ và thừa dấu phẩy · "transfer the investment funds, based on the investment option you choose and…"
+- s062 · VỪA · "give biometrics" sai kết hợp từ; "the White Paper" không thống nhất với s026 · “White Paper” trong ngoặc kép + "provide biometrics"
+- s088 · VỪA · "Social security" là chữ Mỹ (dấu vết bộ nhớ dịch từ trang EB-5); ở Hy Lạp/EU ngành gọi là social insurance và welfare benefits · "Welfare, benefits, and social insurance in Greece"
+- s095 · VỪA · Cùng lỗi gia hạn tự động như s067 · "is renewable every 5 years, provided the conditions continue to be met"
+- s098 · VỪA · "not yet the right to live or work across the EU" — chữ "yet" ngụ ý quyền đó sẽ tự đến, là hứa hẹn · bỏ "yet", đổi thành "not a right to live or work elsewhere in the EU"
+- s107 · VỪA · "BOTH" viết hoa cả chữ — style guide mục 1 cấm lối nhấn này · viết thường, để in đậm nếu cần nhấn
+- s114 · VỪA · "which leads to a refusal" tuyệt đối hoá; "cannot be shown to be lawful" vòng vo · "whose lawful origin cannot be documented, which can lead to refusal"
+- s117 · VỪA · So sánh trần trụi với ba nước, không có mức độ, dễ bị bắt bẻ · thêm "Typically"
+- s118 · VỪA · "show a lawful source of funds at a basic level" — ngành nói "document", và "at a basic level" cần rõ là mức chi tiết hồ sơ · "You need to document a lawful source of funds, at a basic level of detail"
+- s119 · VỪA · Hai chữ "for" liền nhau đầu câu ("For example, for funds from…") · đảo "For funds from a property sale, for example,…"
+- s143 · VỪA · Chữ "you" ở đây là IMM Group, trong khi cả trang "you" là người đọc — đảo ngôi giữa chừng gây khó hiểu · "Does IMM Group refund fees if an application is refused?"
+- s145 · VỪA · "no fault of the client" lạc giọng trên trang xưng "you"; số nhiều "fees" nên là "service fee" cho khớp phạm vi cam kết · "through no fault of your own" (vẫn cần pháp chế duyệt, xem mục nguồn)
+- s148 · VỪA · Cùng lỗi gia hạn tự động · "A 5-year card, renewable every 5 years"
+- s151 · VỪA · "A clean criminal record check" sai ngữ pháp (trong sạch là lý lịch, không phải lần kiểm tra) · "A clean criminal record"
+- s154 · VỪA · "records remain clean" mơ hồ là hồ sơ gì; "the property is still owned" thể bị động lạc giọng · "as long as you still own the property and your criminal records remain clean"
+- s168 · VỪA · "Greek at B1 level" thiếu chữ "language"; "a pass in the citizenship exam" cứng · "Greek language at B1 level, plus passing the citizenship exam on history, culture, and institutions"
+- s182 · VỪA · "authorize a lawyer to buy the property" — ngành gọi đúng việc uỷ quyền này là grant power of attorney · "grant a lawyer power of attorney to buy the property"
 
-## Nhẹ
+## NHẸ
 
-- s005 · "through real estate investment" gắn đuôi rời; gộp vào mệnh đề quan hệ tự nhiên hơn. · nhẹ
-- s006 · "Three generations of one family" — "one family" thừa, và style guide muốn "your family". · nhẹ
-- s020 "the United States" vs s117 "the U.S." · không nhất quán cách gọi trong cùng trang. · nhẹ
-- s022 · "Greece Golden Visa cost from €250,000" — nhồi từ khoá vào H3, thiếu dấu ngắt nên đọc như câu cụt. · nhẹ
-- s023 · "1/3" viết bằng phân số trong thân bài; văn bản tài chính viết "one-third". · nhẹ
-- s024 + s025 · "from your home country" lặp lại ngay ở H3 rồi bullet đầu. · nhẹ
-- s046 · "Provide proof of a lawful source of funds" → ngành nói "document / demonstrate". · nhẹ
-- s112 · "Golden Visa investments carry 2 main risks" — số nhiều chung chung; số ít đọc gọn hơn. · nhẹ
-- s115 + s146 · Hai câu gần như giống hệt nhau xuất hiện hai lần trong phần hỏi đáp. · nhẹ
-- s141 · "Construction started" rồi "the renovation" — hai cách gọi cho cùng một việc (dự án là chuyển đổi khách sạn); thêm dấu chấm cuối dòng trong khi các bullet cạnh đó không có. · nhẹ
+- s005 · NHẸ · "an investment in real estate" trống, không rõ là BĐS Hy Lạp · thêm "Greek"
+- s006 · NHẸ · "All 3 generations of your family" đọc gượng · "Three generations of your family…" (đầu câu nên viết chữ, đúng style guide mục 5)
+- s020 · NHẸ · Ngành dùng "destinations" chứ không "countries" cho chỉ số miễn thị thực (Henley và các đối thủ top 5 đều vậy) · "more than 180 destinations"
+- s061 · NHẸ · Cơ quan chủ quản Hy Lạp là Bộ Di trú và Tị nạn nên "migration authorities" sát hơn "immigration authorities"; "the application" → "your application" cho khớp ngôi · sửa cả hai
+- s096 · NHẸ · "a step on the pathway to" thừa chữ · "a step toward Greek citizenship"
+- s103 · NHẸ · Ký hiệu "≠" quá suồng sã cho trang private wealth và có font không hiển thị · "Schengen is not the EU"
+- s116 · NHẸ · Câu hỏi hỏi đáp duy nhất dùng "your" trong khi các câu khác dùng "I/my" (s108, s121, s160) · "Is documenting my source of funds complicated?"
+- s140 · NHẸ · "Developed by… an experienced developer" lặp gốc từ · "Delivered by Arish Capital Partners, an experienced developer"
+- s157–s159 · NHẸ · Ba phương án lẫn ngôi: hai câu ngôi thứ ba ("The child…", "Transfer…" mệnh lệnh) · thống nhất "your child" / "you transfer"
+- s167 · NHẸ · "An income source in Greece" · "A source of income in Greece"
+- s199 · NHẸ · "consent from the spouse" lạc ngôi · "from your spouse"
 
-## Nguồn có vẻ sai/lỗi thời — CEO quyết
+## Nguồn có vẻ sai/lỗi thời (báo CEO)
 
-- **s016 vs s110 — học miễn phí tới đâu.** Nguồn Việt nói "hết bậc đại học công lập" (s016) nhưng phần hỏi đáp nói "đến sau đại học" (s110). Đã dịch đúng từng chỗ; trang đang tự mâu thuẫn, cần chốt một mốc.
-- **s014, s099 — "90 ngày trong mỗi 6 tháng".** Quy định Schengen viết là 90 ngày trong bất kỳ 180 ngày liên tiếp nào (cửa sổ trượt), không phải "mỗi 6 tháng" theo lịch. Đã đề xuất sửa cách VIẾT sang "90 days in any 180-day period" — cùng con số, không đổi dữ kiện. CEO xác nhận.
-- **s122–s124 — thời điểm được bán bất động sản.** Nguồn nói "sau 7 năm", nhưng hai gạch dưới lại nói chỉ bán được khi nhập tịch, còn giữ Golden Visa thì phải duy trì khoản đầu tư. Mốc "7 năm" trùng mốc nhập tịch nên có thể nguồn đang gộp hai việc. Cần CEO/luật sư Hy Lạp xác nhận.
-- **s156 + s158 — ba hướng khi con đủ 24 tuổi.** Hướng "cho con dưới 18 tuổi đứng đơn chính" không thể áp dụng cho đứa trẻ vừa 24 tuổi; nhiều khả năng nguồn muốn nói đến việc tái cấu trúc hồ sơ từ sớm. Giữ nguyên dữ kiện, chờ CEO.
-- **s152 vs s165–s170 — điều kiện nhập tịch.** s152 chỉ nêu "cư trú & ngôn ngữ"; mục sau liệt kê 5 điều kiện (thêm thu nhập tại Hy Lạp, hội nhập, lý lịch). s038/s163 lại nói "cư trú & hội nhập". Ba cách liệt kê khác nhau cho cùng một việc trong một trang.
-- **"White Paper" (s026, s062, s063).** Trong tiếng Anh thương mại, "white paper" là báo cáo chuyên đề; người đọc bản xứ sẽ hiểu nhầm. Nếu đây là giấy hẹn/biên nhận nộp hồ sơ cư trú của Hy Lạp thì nên chốt một tên tiếng Anh dùng thống nhất. Chưa tự đổi vì là tên tài liệu.
-- **s145 — hoàn 100% phí dịch vụ.** Đây là cam kết hợp đồng của IMM Group, không phải dữ kiện luật. Nên để pháp chế duyệt trước khi đăng bản tiếng Anh.
-- **s047 vs s048.** "No salaried employment in Greece" đứng ngay cạnh "được phép đầu tư thêm hoặc mở công ty" — đúng luật nhưng người đọc dễ thấy vênh; có thể cần một câu nối do CEO chốt nội dung.
+- **s026 / s062 / s063 — "White Paper".** Tra cứu 21/09/2026: ngành và các hãng luật Hy Lạp gọi giấy xác nhận
+  đã nộp hồ sơ là **blue paper / blue receipt** (μπλε βεβαίωση), nay thường là bản PDF. Không tìm thấy nguồn
+  nào dùng "White Paper". Người đọc bản xứ hiểu "white paper" là báo cáo chuyên đề. **Chưa sửa** — chờ CEO
+  hoặc luật sư Hy Lạp chốt tên tiếng Anh.
+- **s063 — "enter and leave Greece freely for 1 year".** Nguồn tham chiếu ngành nói khác hai điểm: (a) giấy
+  này cho lưu trú hợp pháp tại Hy Lạp nhưng **chưa cho quyền đi lại Schengen đầy đủ** (quyền đó chỉ có khi đã
+  có thẻ cư trú); (b) thời hạn đi lấy sinh trắc thường nêu là **6 tháng**, không phải 1 năm. Đã dịch đúng
+  nguồn, cần CEO xác nhận lại với luật sư.
+- **s122 vs s124 vs s067 — bán bất động sản sau 7 năm.** s122 nói bán được sau 7 năm, nhưng s124 và s067 nói
+  phải giữ BĐS suốt thời gian còn Golden Visa. Tra cứu 21/09/2026: quy tắc ngành là **phải duy trì khoản đầu
+  tư để gia hạn**; bán trước khi có quốc tịch (hoặc không tái đầu tư vào tài sản đủ điều kiện) làm mất quyền
+  gia hạn. Mốc 7 năm là mốc **nhập tịch**, không phải mốc được bán. Nguồn tự mâu thuẫn — chưa sửa.
+- **s016 vs s110 — mức học miễn phí.** s016 "đến hết đại học công lập", s110 "đến sau đại học". Nguồn tự đá nhau.
+- **s018 vs s038 vs s096 vs s152 vs s163 — điều kiện nhập tịch nói bốn kiểu** trong cùng một trang: có chỗ
+  "cư trú + ngôn ngữ + hội nhập", có chỗ "cư trú + hội nhập", có chỗ "cư trú + ngôn ngữ". Đề xuất khi CEO
+  chốt: dùng một công thức duy nhất "residence, language, and integration conditions set by Greek law" cho
+  cả s038 và s163. **Chưa sửa** vì là thay đổi dữ kiện nguồn.
+- **s156–s158 — "3 hướng khi con đủ 24 tuổi"** nhưng hướng thứ hai lại là "cho con **dưới 18 tuổi** đứng đơn
+  chính" — không phải phương án cho đứa trẻ đã 24. Logic nguồn sai.
+- **s158 / s180 — "quy định mới" / "the new rules"** không nêu mốc ngày. Style guide mục 3 yêu cầu giữ mốc
+  ngày cho thông tin luật. Cần CEO cho ngày hiệu lực, hoặc đổi thành "the current rules".
+- **s104 — "The EU… an intergovernmental organization".** EU là tổ chức **siêu quốc gia** (supranational), không
+  phải thuần liên chính phủ. Dữ kiện nguồn không chính xác — đã dịch đúng nguồn, chưa sửa.
+- **s145 — cam kết hoàn 100% phí dịch vụ.** Đúng phạm vi "phí dịch vụ" nên không phải hứa kết quả di trú,
+  nhưng là cam kết tài chính ràng buộc: đề nghị pháp chế duyệt câu tiếng Anh trước khi đăng, và cân nhắc thêm
+  "as set out in your service agreement" nếu hợp đồng có điều khoản đó (chưa tự thêm vì nguồn không có).
+- **s045 — "security background and health requirements".** Thực tế Hy Lạp yêu cầu lý lịch tư pháp trong sạch
+  và **bảo hiểm y tế tư nhân**, không phải kiểm tra sức khoẻ. Nguồn nói chung chung — cần CEO xác nhận có nên
+  nêu rõ bảo hiểm y tế không.
+- **s128 — "12–15 minutes from central Athens"** không nói bằng phương tiện gì (ô tô hay metro). Nguồn thiếu —
+  cần CEO bổ sung để tránh bị hiểu là đi bộ.

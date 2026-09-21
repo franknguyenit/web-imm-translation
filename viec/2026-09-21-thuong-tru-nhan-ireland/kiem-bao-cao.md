@@ -1,5 +1,5 @@
-# CỬA 0 — 2026-09-21-thuong-tru-nhan-ireland — 2026-09-21 14:41
-Kết quả: XANH · 0 lỗi chặn · 31 cảnh báo · 240/240 đoạn đã dịch
+# CỬA 0 — 2026-09-21-thuong-tru-nhan-ireland — 2026-09-21 15:45
+Kết quả: XANH · 0 lỗi chặn · 30 cảnh báo · 240/240 đoạn đã dịch
 
 ## LỖI CHẶN (phải sửa hết)
 - (không)
@@ -12,7 +12,6 @@ Kết quả: XANH · 0 lỗi chặn · 31 cảnh báo · 240/240 đoạn đã d�
 - s015 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Ireland Golden Visa benefits for your family»
 - s051 VND 60,000,000,000 ≈ US$2,308,142 không thấy (đã ghi #bo-qua-so)
 - s078 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «European Citizenship & Residency»
-- s079 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Greece Golden Visa»
 - s080 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Cyprus Residency by Investment»
 - s082 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Malta Residency by Investment»
 - s083 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Portugal Residency by Investment»
