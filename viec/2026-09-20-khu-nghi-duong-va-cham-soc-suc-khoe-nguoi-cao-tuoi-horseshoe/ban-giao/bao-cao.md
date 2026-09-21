@@ -1,0 +1,11 @@
+# Báo cáo — Horseshoe Bay Senior Living (20/09/2026)
+- Nguồn: viec/nhap/2026-09-20-dich-2-trang-vi.json, trang 2 (post_id 99848, lang vi, template projectnew-2026). 103 đoạn / 1.409 chữ; 34 đoạn khớp bộ nhớ dịch.
+- Từ khoá chính "rural EB-5 project" (đồng bộ Ecoplastic, top Google dùng cụm này). Phụ: Horseshoe Bay Senior Living (tên EB5 Capital đặt, mã JF49), senior living EB-5 project, Texas EB-5 project, EB5 Capital, rural TEA. Xếp theo WebSearch, chưa có số lượt tìm.
+- Không có đoạn ngữ cảnh Việt, không có tiền VND.
+- Làm mềm: "duy nhất" (s007 thêm "According to the project sponsor", s048 "is expected to"); "Đảm bảo" ở s074, s076; tiêu đề "An toàn thẻ xanh/vốn" theo mẫu trang dự án; s064 thêm "actual processing times may vary".
+- B5 (sonnet): 3 góp ý nhẹ/vừa — nhận s059; bác s099 (bỏ "xuất khẩu lao động" là ngữ cảnh Việt, giữ bản đã dùng các trang khác), bác s064 (câu làm mềm cố ý).
+- B6 (opus): 21 góp ý — nhận 15; bác s002 (giữ nhất quán "Investor spots available"), s066 (đổi I-526→I-526E là dữ kiện nguồn), s084 (giữ sát "dư nợ vay").
+- Cần CEO xác nhận: (1) khoản vay EB-5 gọi là "senior loan / thế chấp hạng 1" trong khi có C-PACE 38,5 triệu — C-PACE ở Texas thường đứng trước khoản vay thế chấp; (2) s046 tự mâu thuẫn "xây trước 2000" / "mới nhất từ 2014"; (3) tổng vốn 48+22,5+38,5 = 109,0 nhưng nguồn ghi 109,1; báo ngành ghi C-PACE 38,6 triệu; (4) "cao hơn 30%" thực tế 777/600 = 29,5% → viết "about 30%"; (5) s066 nguồn ghi I-526, đúng là I-526E.
+- Máy: bản gốc tách s014 (3 dòng căn hộ) và s031 (2 chú thích *) thành 1 dòng; đã gắn lại xuống dòng \r\n trong tệp .en.json bằng python (lỗi công cụ, cần sửa dich.py).
+- Cửa 0 XANH (17 cảnh báo đã đọc: số "5" trong EB-5, "2022" trong tên luật, heading H2→H4 theo template, H1 là tên dự án).
+- Nhãn: chưa qua soi độc lập.

@@ -1,0 +1,11 @@
+# Báo cáo — Visa định cư Mỹ EB-1C → EB-1C Green Card (18/09/2026)
+- Nguồn: viec/nhap/2026-09-18-dich-3-trang.json, trang post_id 1047 (lang vi, xuất từ web staging). 96 đoạn / 1.112 chữ. 20 đoạn lấp bộ nhớ dịch.
+- Từ khoá chính "eb-1c green card"; phụ eb-1c visa, eb-1c requirements, multinational manager green card, eb-1c vs l-1a. Xếp hạng theo WebSearch top Google, chưa có số lượt tìm (tukhoa trả 0 vì Cowork chặn mạng).
+- Viết chung vì ngữ cảnh Việt: s036, s041 (công ty mẹ ở Việt Nam → công ty mẹ ở nước ngoài).
+- Viết lại: H1; s026 "Thời gian xử lý cạnh tranh" → "Premium processing available"; s062 nguồn gọi L-1A là "định cư" → dịch đúng là L-1A intracompany transferee visa.
+- Không quy đổi tiền. Không làm mềm lời hứa.
+- B5 bắt 1 nhẹ (bác: "investment immigration" là bản chốt bộ nhớ dịch, giữ nhất quán các trang); B6 bắt 11 (4 vừa, 7 nhẹ) — nhận hết.
+- Nguồn có vẻ sai/thiếu, cần CEO: s040 "từ 18 tuổi" (luật không đặt tuổi tối thiểu); thiếu điều kiện đương đơn đã làm quản lý cho công ty nước ngoài ≥1 năm trong 3 năm trước; "con dưới 21 tuổi" luật ghi con chưa kết hôn; thường trú nhân mới bị giới hạn một số phúc lợi liên bang.
+- Link trong JSON trỏ staging-41de-immgroupcom.wpcomstaging.com bản Việt (bảng lien-ket chỉ có immgroup.com) → team đổi. Tệp xuất từ trang Việt (post_id 1047) → không import đè.
+- Slug đề xuất eb-1c-green-card; chưa biết slug /en/ cũ.
+- Cửa 0: XANH (lần đầu đỏ 2: thuật ngữ thẻ xanh s075, thiếu seo.json). Nhãn: chưa qua soi độc lập.
