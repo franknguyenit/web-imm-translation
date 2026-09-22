@@ -17,3 +17,4 @@
 - [thuat-ngu.csv bị nhân đôi sau merge](thuat-ngu-csv-bi-nhan-doi-sau-merge.md) — 509 dòng/200 khoá trùng, cách gộp lại mà không mất khoá
 - [3 trang dự án CBI Caribbean: điểm chờ CEO](ba-trang-du-an-cbi-caribbean-cho-ceo.md) — "lợi nhuận cam kết", ghi chú nội bộ lọt trang lần hai, Grenadian vs Grenada
 - [Axis Istanbul (Thổ Nhĩ Kỳ): điểm chờ CEO](axis-istanbul-tho-nhi-ky-cho-ceo.md) — trang tự đá nhau về cư trú E-2, và 3 lỗi đang nằm trên trang nước đã bàn giao
+- [Síp chưa thuộc Schengen · Grenada không độc quyền E-2](sip-chua-thuoc-schengen-grenada-khong-doc-quyen-e2.md) — hai dữ kiện nguồn nói sai, đã kiểm nguồn ngoài; trang trục là cửa kiểm chéo giữa các trang con

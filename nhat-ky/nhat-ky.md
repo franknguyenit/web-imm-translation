@@ -166,3 +166,33 @@
   rất giàu nhưng **lạc đối tượng** (người mua để ở), chỉ lấy làm từ khoá phụ;
   (9) điểm chờ CEO: "ưu đãi phí luật sư 5.000 USD" không rõ **giảm hay là phí** · danh hiệu "Siêu Thương hiệu
   2014–2015" đã 11 năm, không ghi tổ chức trao · "Tiến độ: đang cập nhật" khi đang chào bán
+- 22/09/2026 · **2026-09-22-bat-dong-san-nuoc-ngoai — TRANG TRỤC** của mảng BĐS quốc tế (khối HTML dán
+  WordPress, đường `rut-layout.py`): 351 đoạn / 2.785 chữ nhưng chỉ **191 chuỗi khác nhau** (140 đoạn lấp bằng
+  `dien --trung`) · TM khớp sẵn 82 · cửa kiểm ráp ngược XANH · cửa 0 lần đầu **ĐỎ 9 lỗi** (4 thuật ngữ
+  `khối Schengen`, 1 `Golden Visa`, 1 `thường trú nhân` Hy Lạp, 2 SỐ LỆCH "1 & 2 phòng ngủ", thiếu `seo.json`),
+  chốt **XANH 50 cảnh báo** · B5 (Sonnet) bắt 1 lỗi dịch + **2 lệch số liệu LIÊN TRANG** · B6 (Opus) bắt
+  **52 đoạn sửa, 6 NẶNG** · nhận 53 đoạn, **bác 2 nhóm** · +191 đơn vị bộ nhớ dịch (tổng 6.340) ·
+  **+7 thuật ngữ** (336 dòng, `kiemtn` XANH) · `ganlink` đã ghi 1 dòng · học:
+  (1) **TRANG TRỤC LÀ CỬA KIỂM CHÉO — dịch sau các trang con là đúng thứ tự.** Đặt 15 dự án cạnh nhau làm lộ ba
+  con số đá nhau mà từng trang riêng không thấy: Thổ Nhĩ Kỳ **6–8 tháng** (trục) vs **12–18 tháng** (trang nước);
+  Dominica **3–5 năm / 6–9 tháng** vs **3 năm / 8–10 tháng**. Từ nay lời giao B5 của trang trục phải yêu cầu
+  **đối chiếu sang `song-ngu.tsv` của trang con**;
+  (2) **hai dữ kiện nguồn IMM nói SAI, đã kiểm nguồn ngoài:** **Cộng Hòa Síp CHƯA thuộc Schengen** (09/2026 mới
+  có đánh giá tích cực của Ủy ban, chưa có phiếu Hội đồng) nên không được hứa đi lại Schengen cho "thẻ thường trú
+  châu Âu" nói chung; và **Grenada không độc quyền hiệp ước E-2** — Jamaica, Trinidad & Tobago cũng có, Grenada
+  chỉ là nước duy nhất **vừa có E-2 vừa có CBI**. ⚠ **Câu E-2 sai đang nằm trên cả hai trang Grenada bàn giao
+  cùng ngày**, cần sửa;
+  (3) **lệch quy trình có chủ ý, đã ghi rõ:** trang >2.000 chữ nhưng **không chia mẻ sub-agent** vì độ dài đến từ
+  LẶP (351 đoạn / 191 chuỗi, ~120 nhãn lặp 8–15 lần) và 15 mô tả dự án phải khớp từng chữ với 15 trang đã bàn
+  giao ⇒ **đếm chuỗi khác nhau trước khi quyết chia mẻ**, đừng đếm chữ máy móc;
+  (4) **bẫy U+00A0:** nguồn WordPress dùng **dấu cách không ngắt** trong `alt` (`Căn hộ cao cấp…`) nên bảng
+  `chu-ngoai-bo-rut.tsv` gõ tay bằng dấu cách thường **không khớp dòng nào** (31/31 dòng trượt). Cách đúng: trích
+  chuỗi thẳng từ tệp **sau khi `nhet`** bằng regex rồi sinh bảng;
+  (5) **không dịch `data-name="Hy Lạp"`** — khoá ghép tab–panel của JavaScript, đổi là vỡ tab; chú thích HTML
+  tiếng Việt cũng giữ;
+  (6) **bác B6 ở nhãn dùng chung:** `Units available` → `Still available` đúng về chất (3 thẻ là **cổ phần
+  resort**, không phải "unit") nhưng 15 trang đã bàn giao dùng cụm cũ ⇒ giữ, ghi thành **ứng viên sửa đồng loạt
+  16 trang**; và bác `Freedom of travel` vì gần với "freedom of movement" mà bảng thuật ngữ cấm;
+  (7) **hub hai nửa thì meta title chứa cả hai cụm** và lấy **thân chung** `citizenship by real estate investment`,
+  không lấy biến thể có tên nước (đó là từ khoá của trang con); nhánh `golden visa real estate` giàu nhưng nghiêng
+  **UAE/Dubai** — IMM không có sản phẩm UAE nên chỉ để làm từ khoá phụ

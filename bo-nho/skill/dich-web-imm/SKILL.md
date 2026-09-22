@@ -334,3 +334,29 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
   Tên chủ đầu tư là **Sur Yapı** (có chữ ı), nguồn Việt viết thiếu dấu.
 - **Đối thủ SEO của nhánh CBI là hãng luật và hãng tư vấn**, không phải cổng rao vặt như mảng BĐS châu Âu ⇒
   meta description nêu **tên dự án đã được phê duyệt + con số ngưỡng**, đừng đua khái niệm.
+
+## Bài học thêm từ TRANG TRỤC bất động sản quốc tế (22/09/2026)
+
+- **Dịch trang trục SAU các trang con là đúng thứ tự — nó là cửa kiểm chéo.** Đặt 15 dự án cạnh nhau làm lộ ra
+  mâu thuẫn mà từng trang riêng không thấy: Thổ Nhĩ Kỳ **6–8 tháng** (trục) vs **12–18 tháng** (trang nước);
+  Dominica **3–5 năm / 6–9 tháng** vs **3 năm / 8–10 tháng**. Giao B5 nhiệm vụ **đối chiếu sang `song-ngu.tsv`
+  của trang con** khi dịch hub.
+- **Hai dữ kiện nguồn IMM nói sai, đã kiểm nguồn ngoài:** (1) **Cộng Hòa Síp CHƯA thuộc Schengen** (09/2026 mới
+  có đánh giá tích cực của Ủy ban, chưa có phiếu Hội đồng) ⇒ không hứa đi lại Schengen cho "thẻ thường trú châu
+  Âu" nói chung, phải buộc vào **chương trình Golden Visa** (Hy Lạp); (2) **Grenada không độc quyền hiệp ước
+  E-2** — Jamaica và Trinidad & Tobago cũng có; Grenada chỉ là nước duy nhất **vừa có E-2 vừa có CBI**.
+- **Trang trục dài vì LẶP, không vì nhiều nội dung.** 351 đoạn nhưng chỉ **191 chuỗi khác nhau**; `dien --trung`
+  lấp 140 đoạn còn lại. ⇒ Luật "chia mẻ khi >2.000 chữ" **không áp dụng máy móc**: đếm **chuỗi khác nhau** trước
+  (`awk` đếm `vi` duy nhất). Chia mẻ sẽ xé các nhãn lặp 8–15 lần ra nhiều agent — tạo đúng lỗi nhất quán mà B6
+  hay bắt. Ghi rõ lý do lệch quy trình vào brief và báo cáo.
+- **Bẫy U+00A0:** nguồn WordPress dùng **dấu cách không ngắt** bên trong `alt` (`Căn\u00a0hộ cao cấp…`). Bảng
+  `chu-ngoai-bo-rut.tsv` gõ bằng dấu cách thường sẽ **không khớp dòng nào** và tool báo lỗi hàng loạt. Cách đúng:
+  **trích chuỗi thẳng từ tệp SAU khi `nhet`** bằng regex rồi sinh bảng, đừng gõ tay.
+- **Không dịch `data-name="Hy Lạp"`.** Đó là **khoá ghép tab–panel của JavaScript**, người đọc không thấy; đổi
+  là vỡ tab. Chú thích HTML tiếng Việt cũng giữ nguyên.
+- **Nhãn dùng chung giữa hub và trang con: hub phải theo trang con.** B6 đòi đổi `Units available` →
+  `Still available` (đúng về chất vì 3 thẻ là **cổ phần resort**, không phải "unit"), nhưng 15 trang đã bàn giao
+  dùng `Units available` ⇒ **bác, ghi thành ứng viên sửa đồng loạt 16 trang**. Quy tắc chung cả tuần: sửa lẻ
+  một trang trong loạt là tạo lỗi mới.
+- **Hub hai nửa thì meta title chứa cả hai cụm**, và lấy **thân chung** của từ khoá (`citizenship by real estate
+  investment`), không lấy biến thể có tên nước — đó là từ khoá của trang con.

@@ -1,0 +1,52 @@
+[s003] {1}03{/1}{2}Residence real estate (Europe){/2}
+[s007] International Real Estate
+[s008] International real estate is more than a store of value and a source of income in hard currency: it can also open a path to permanent residence or a second citizenship for your whole family.
+[s013] Visa-free travel across the Schengen area with a European Golden Visa, and visa-free access to more than 140 destinations with a second citizenship
+[s022] Property abroad can produce regular income in a hard currency while acting as a store of value and spreading risk through portfolio diversification. Beyond the financial side, owning an asset in a market with clear property law — together with easier travel, the right of residence, or a fallback plan for the family — creates long-term value that goes beyond investment return alone.
+[s028] Rental yields in these markets are generally in the 3–5% range, producing passive income; actual returns depend on the property and the market.
+[s031] A second home abroad, and a fallback plan for the family.
+[s037] More freedom to travel, study, work, and live abroad.
+[s042] A vacation home, or somewhere to retire
+[s043] A place to vacation, or to settle in later life, abroad.
+[s049] Depending on your financial objective and your plans for the family, you can follow either of the two routes most investors take today.
+[s052] Buy a property that meets the program's investment threshold to obtain a residence permit or permanent residence for you and your family, while keeping full ownership of the asset.
+[s057] From €250,000
+[s061] Invest in a government-approved real estate project to obtain a second passport; processing takes months rather than years, and most programs have no residence requirement.
+[s066] From US$400,000
+[s070] "Each country sets its own investment threshold, defines which property qualifies, and grants different residence rights. Choose a country to see the projects available."
+[s074] **The Greece Golden Visa:** a real estate investment from €250,000 for a qualifying change-of-use conversion, or €400,000 / €800,000 depending on the zone under the new rules, leads to Greek residence for 3 generations.
+[s076] {1}{2}description{/2}Residence route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s080] From €250,000
+[s091] {1}{2}description{/2}Residence route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s095] From €250,000
+[s103] A former industrial building converted into 158 serviced apartments in the heart of the port of Piraeus, with a rooftop pool, a gym, and 24/7 reception — suitable both to live in and to rent out.
+[s106] See all properties in Greece
+[s108] **Cyprus permanent residence:** a new-build real estate investment from €300,000 excluding VAT leads to permanent residence for the whole family, with fast processing.
+[s110] {1}{2}description{/2}Residence route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s125] {1}{2}description{/2}Residence route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s127] Beachside Villa — seafront villas
+[s140] {1}{2}description{/2}Residence route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s155] {1}{2}description{/2}Residence route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s170] {1}{2}description{/2}Residence route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s185] {1}{2}description{/2}Residence route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s200] {1}{2}description{/2}Residence route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s215] {1}{2}description{/2}Residence route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s230] {1}{2}description{/2}Residence route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s245] {1}{2}description{/2}Residence route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s260] See all properties in Cyprus
+[s262] Real estate that leads directly to a second citizenship
+[s263] "Each country has its own investment structure, threshold, and program conditions. Choose a country to see the projects available."
+[s268] **Turkish citizenship:** invest from US$400,000 in real estate you own outright and hold it for 3 years; citizenship and passports are typically issued in about 6–8 months.
+[s269] {1}{2}description{/2}Citizenship route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s273] From US$400,000
+[s286] **Dominica citizenship:** invest from US$200,000 in a share of a government-approved resort project and hold it for 3–5 years; passports are typically issued in about 6–9 months.
+[s287] {1}{2}description{/2}Citizenship route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s304] **Grenadian citizenship:** invest from US$270,000 in a share of a government-approved project to apply for a Grenadian passport — among Caribbean citizenship-by-investment countries, only Grenada has an E-2 treaty with the United States.
+[s305] {1}{2}description{/2}Citizenship route{/1} {3}{4}check_circle{/4}{5}Still available{/5}{/3}
+[s317] A real estate share in the InterContinental resort (IHG, 150 rooms, developed by Range Developments) on La Sagesse beach in southern Grenada. Qualifies for the Grenada Citizenship by Investment program — among Caribbean citizenship-by-investment countries, only Grenada has an E-2 treaty with the United States.
+[s323] Setting out the legal basis, the type of asset, and the countries involved helps you and your family choose the route that fits your long-term objective.
+[s330] You invest in a government-approved project and are granted citizenship and a passport.
+[s334] Freedom of travel in the Schengen area with a European Golden Visa, and wider international travel
+[s342] The title deed is in your own name — a premium apartment, a seafront villa, or a qualifying restoration or change-of-use property.
+[s344] 100% ownership of an apartment (Türkiye), or a share in the project with a projected — not guaranteed — annual return (Dominica, Grenada).
+[s348] Best suited to

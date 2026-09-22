@@ -1,0 +1,3516 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/template-bds-imm/bds-quoc-te/imm-bds-quoc-te.v4.wordpress.html",
+ "truong_json": null,
+ "doan": [
+  {
+   "tu": 26411,
+   "den": 26452,
+   "raw": "<i>01</i><span>Giá trị BĐS quốc tế</span>",
+   "loai": "cta",
+   "lop": "is-on",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 26519,
+   "den": 26556,
+   "raw": "<i>02</i><span>Mục tiêu đầu tư</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s002"
+  },
+  {
+   "tu": 26621,
+   "den": 26663,
+   "raw": "<i>03</i><span>BĐS Cư trú (Châu Âu)</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s003"
+  },
+  {
+   "tu": 26730,
+   "den": 26767,
+   "raw": "<i>04</i><span>Dự án Quốc tịch</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s004"
+  },
+  {
+   "tu": 26830,
+   "den": 26872,
+   "raw": "<i>05</i><span>Đối chiếu chiến lược</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s005"
+  },
+  {
+   "tu": 27650,
+   "den": 27679,
+   "raw": "<b></b><span>IMM Group</span>",
+   "loai": "p",
+   "lop": "immbds-badge",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s006"
+  },
+  {
+   "tu": 27694,
+   "den": 27714,
+   "raw": "BẤT ĐỘNG SẢN QUỐC TẾ",
+   "loai": "h1",
+   "lop": "",
+   "the": "h1",
+   "ngu_canh": "",
+   "id": "s007"
+  },
+  {
+   "tu": 27749,
+   "den": 27917,
+   "raw": "Bất động sản quốc tế không chỉ là kênh tích sản an toàn và tạo dòng tiền ngoại tệ bền vững, mà còn mang lại đặc quyền thường trú hoặc quốc tịch thứ hai cho cả gia đình.",
+   "loai": "p",
+   "lop": "immbds-kicker",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s008"
+  },
+  {
+   "tu": 28032,
+   "den": 28119,
+   "raw": "<span>Tìm hiểu dự án</span><span class=\"immbds-ms immbds-s23 immbds-ico\">explore</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--red is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s009"
+  },
+  {
+   "tu": 28226,
+   "den": 28242,
+   "raw": "Tư vấn trực tiếp",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--outline link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s010"
+  },
+  {
+   "tu": 28340,
+   "den": 28434,
+   "raw": "<span class=\"immbds-proof-box\"><span class=\"immbds-ms immbds-s26\">flight_takeoff</span></span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s011"
+  },
+  {
+   "tu": 28467,
+   "den": 28488,
+   "raw": "Tự do đi lại toàn cầu",
+   "loai": "p",
+   "lop": "immbds-proof-t",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s012"
+  },
+  {
+   "tu": 28522,
+   "den": 28622,
+   "raw": "Miễn thị thực khối Schengen và hơn 140 quốc gia (thông qua Golden Visa / Thẻ thường trú / Quốc tịch)",
+   "loai": "p",
+   "lop": "immbds-proof-d",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s013"
+  },
+  {
+   "tu": 28652,
+   "den": 28743,
+   "raw": "<span class=\"immbds-proof-box\"><span class=\"immbds-ms immbds-s26\">trending_up</span></span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s014"
+  },
+  {
+   "tu": 28776,
+   "den": 28807,
+   "raw": "Bảo toàn &amp; Gia tăng tài sản",
+   "loai": "p",
+   "lop": "immbds-proof-t",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s015"
+  },
+  {
+   "tu": 28841,
+   "den": 28917,
+   "raw": "Quyền sở hữu lâu dài, tích sản và tạo dòng tiền bằng ngoại tệ mạnh (USD/EUR)",
+   "loai": "p",
+   "lop": "immbds-proof-d",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s016"
+  },
+  {
+   "tu": 28947,
+   "den": 29038,
+   "raw": "<span class=\"immbds-proof-box\"><span class=\"immbds-ms immbds-s26\">diversity_3</span></span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s017"
+  },
+  {
+   "tu": 29071,
+   "den": 29097,
+   "raw": "Đặc quyền cho nhiều thế hệ",
+   "loai": "p",
+   "lop": "immbds-proof-t",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s018"
+  },
+  {
+   "tu": 29131,
+   "den": 29195,
+   "raw": "Nhận quyền thường trú nhân hoặc quốc tịch thứ hai cho 2–3 thế hệ",
+   "loai": "p",
+   "lop": "immbds-proof-d",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s019"
+  },
+  {
+   "tu": 29260,
+   "den": 29334,
+   "raw": "<span>Cuộn để tìm hiểu</span><span class=\"immbds-ms\">arrow_downward</span>",
+   "loai": "p",
+   "lop": "immbds-scrolldown",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s020"
+  },
+  {
+   "tu": 29797,
+   "den": 29894,
+   "raw": "<span class=\"immbds-bar\"></span><span class=\"immbds-etxt\">Giá trị của bất động sản quốc tế</span>",
+   "loai": "p",
+   "lop": "immbds-eyebrow",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s021"
+  },
+  {
+   "tu": 29935,
+   "den": 30384,
+   "raw": "Bất động sản nước ngoài có thể mang lại mức sinh lời ổn định bằng ngoại tệ mạnh, đồng thời đóng vai trò như một công cụ tích sản an toàn và phân tán rủi ro theo nguyên tắc đa dạng hóa danh mục đầu tư. Bên cạnh giá trị tài chính, quyền sở hữu tài sản tại các thị trường có pháp lý minh bạch cùng các lợi ích về tự do đi lại, quyền cư trú hoặc một phương án dự phòng cho gia đình tạo nên những giá trị dài hạn vượt ra ngoài lợi nhuận đầu tư thuần túy.",
+   "loai": "p",
+   "lop": "immbds-ov-lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s022"
+  },
+  {
+   "tu": 30526,
+   "den": 30644,
+   "raw": "<span class=\"immbds-sp-num\">01</span><span class=\"immbds-sp-div\"></span><span class=\"immbds-ms\">account_balance</span>",
+   "loai": "p",
+   "lop": "immbds-sp-head",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s023"
+  },
+  {
+   "tu": 30688,
+   "den": 30722,
+   "raw": "Đa dạng hóa &amp; bảo toàn tài sản",
+   "loai": "p",
+   "lop": "immbds-sp-title",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s024"
+  },
+  {
+   "tu": 30763,
+   "den": 30840,
+   "raw": "Phân bổ tài sản ra nước ngoài, sở hữu tài sản bằng ngoại tệ mạnh như USD/EUR.",
+   "loai": "p",
+   "lop": "immbds-sp-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s025"
+  },
+  {
+   "tu": 30943,
+   "den": 31054,
+   "raw": "<span class=\"immbds-sp-num\">02</span><span class=\"immbds-sp-div\"></span><span class=\"immbds-ms\">payments</span>",
+   "loai": "p",
+   "lop": "immbds-sp-head",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s026"
+  },
+  {
+   "tu": 31098,
+   "den": 31125,
+   "raw": "Tạo dòng tiền bằng ngoại tệ",
+   "loai": "p",
+   "lop": "immbds-sp-title",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s027"
+  },
+  {
+   "tu": 31166,
+   "den": 31248,
+   "raw": "Lợi suất cho thuê duy trì ổn định quanh mức 3–5%/năm, mang lại dòng tiền thụ động.",
+   "loai": "p",
+   "lop": "immbds-sp-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s028"
+  },
+  {
+   "tu": 31351,
+   "den": 31463,
+   "raw": "<span class=\"immbds-sp-num\">03</span><span class=\"immbds-sp-div\"></span><span class=\"immbds-ms\">home_work</span>",
+   "loai": "p",
+   "lop": "immbds-sp-head",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s029"
+  },
+  {
+   "tu": 31507,
+   "den": 31529,
+   "raw": "Mở rộng lựa chọn an cư",
+   "loai": "p",
+   "lop": "immbds-sp-title",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s030"
+  },
+  {
+   "tu": 31570,
+   "den": 31631,
+   "raw": "Thêm nơi ở và phương án dự phòng cho gia đình tại nước ngoài.",
+   "loai": "p",
+   "lop": "immbds-sp-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s031"
+  },
+  {
+   "tu": 31734,
+   "den": 31843,
+   "raw": "<span class=\"immbds-sp-num\">04</span><span class=\"immbds-sp-div\"></span><span class=\"immbds-ms\">school</span>",
+   "loai": "p",
+   "lop": "immbds-sp-head",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s032"
+  },
+  {
+   "tu": 31887,
+   "den": 31910,
+   "raw": "Hỗ trợ giáo dục quốc tế",
+   "loai": "p",
+   "lop": "immbds-sp-title",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s033"
+  },
+  {
+   "tu": 31951,
+   "den": 32016,
+   "raw": "Tạo nền tảng cho du học, an cư và kế hoạch tương lai của con cái.",
+   "loai": "p",
+   "lop": "immbds-sp-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s034"
+  },
+  {
+   "tu": 32119,
+   "den": 32228,
+   "raw": "<span class=\"immbds-sp-num\">05</span><span class=\"immbds-sp-div\"></span><span class=\"immbds-ms\">public</span>",
+   "loai": "p",
+   "lop": "immbds-sp-head",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s035"
+  },
+  {
+   "tu": 32272,
+   "den": 32302,
+   "raw": "Tăng khả năng tiếp cận quốc tế",
+   "loai": "p",
+   "lop": "immbds-sp-title",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s036"
+  },
+  {
+   "tu": 32343,
+   "den": 32412,
+   "raw": "Mở rộng cơ hội đi lại, học tập, làm việc và sinh sống tại nước ngoài.",
+   "loai": "p",
+   "lop": "immbds-sp-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s037"
+  },
+  {
+   "tu": 32515,
+   "den": 32628,
+   "raw": "<span class=\"immbds-sp-num\">06</span><span class=\"immbds-sp-div\"></span><span class=\"immbds-ms\">storefront</span>",
+   "loai": "p",
+   "lop": "immbds-sp-head",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s038"
+  },
+  {
+   "tu": 32672,
+   "den": 32690,
+   "raw": "Mở rộng kinh doanh",
+   "loai": "p",
+   "lop": "immbds-sp-title",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s039"
+  },
+  {
+   "tu": 32731,
+   "den": 32810,
+   "raw": "Tạo thêm cơ hội thành lập doanh nghiệp, giao thương và tiếp cận thị trường mới.",
+   "loai": "p",
+   "lop": "immbds-sp-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s040"
+  },
+  {
+   "tu": 32913,
+   "den": 33028,
+   "raw": "<span class=\"immbds-sp-num\">07</span><span class=\"immbds-sp-div\"></span><span class=\"immbds-ms\">beach_access</span>",
+   "loai": "p",
+   "lop": "immbds-sp-head",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s041"
+  },
+  {
+   "tu": 33072,
+   "den": 33097,
+   "raw": "Nghỉ dưỡng &amp; nghỉ hưu",
+   "loai": "p",
+   "lop": "immbds-sp-title",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s042"
+  },
+  {
+   "tu": 33138,
+   "den": 33209,
+   "raw": "Sở hữu không gian nghỉ dưỡng hoặc nơi an hưởng tuổi già tại nước ngoài.",
+   "loai": "p",
+   "lop": "immbds-sp-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s043"
+  },
+  {
+   "tu": 33312,
+   "den": 33429,
+   "raw": "<span class=\"immbds-sp-num\">08</span><span class=\"immbds-sp-div\"></span><span class=\"immbds-ms\">family_history</span>",
+   "loai": "p",
+   "lop": "immbds-sp-head",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s044"
+  },
+  {
+   "tu": 33473,
+   "den": 33504,
+   "raw": "Xây dựng tài sản cho thế hệ sau",
+   "loai": "p",
+   "lop": "immbds-sp-title",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s045"
+  },
+  {
+   "tu": 33545,
+   "den": 33624,
+   "raw": "Tạo dựng tài sản thực có giá trị dài hạn, có thể truyền lại cho thế hệ kế tiếp.",
+   "loai": "p",
+   "lop": "immbds-sp-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s046"
+  },
+  {
+   "tu": 33808,
+   "den": 33895,
+   "raw": "<span class=\"immbds-bar\"></span><span class=\"immbds-etxt\">Lựa chọn theo mục tiêu</span>",
+   "loai": "p",
+   "lop": "immbds-eyebrow",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s047"
+  },
+  {
+   "tu": 33910,
+   "den": 33957,
+   "raw": "Hai hướng sở hữu và đầu tư bất động sản quốc tế",
+   "loai": "h2",
+   "lop": "",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s048"
+  },
+  {
+   "tu": 33990,
+   "den": 34124,
+   "raw": "Tùy thuộc vào mục tiêu tài chính và định hướng gia đình, bạn có thể lựa chọn hai hình thức đầu tư bất động sản phổ biến nhất hiện nay.",
+   "loai": "p",
+   "lop": "immbds-lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s049"
+  },
+  {
+   "tu": 34468,
+   "den": 34518,
+   "raw": "<span class=\"immbds-path-choice\">Lựa chọn 1</span>",
+   "loai": "p",
+   "lop": "immbds-path-body",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s050"
+  },
+  {
+   "tu": 34533,
+   "den": 34562,
+   "raw": "Bất động sản kèm quyền cư trú",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s051"
+  },
+  {
+   "tu": 34606,
+   "den": 34755,
+   "raw": "Mua bất động sản đạt hạn mức của chương trình để nhận thẻ cư trú hoặc thường trú nhân cho nhà đầu tư và gia đình, tài sản vẫn thuộc sở hữu toàn phần.",
+   "loai": "p",
+   "lop": "immbds-path-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s052"
+  },
+  {
+   "tu": 34861,
+   "den": 34983,
+   "raw": "<span class=\"immbds-ms\">check_circle</span><span>Toàn quyền sở hữu bất động sản, được bán lại sau thời gian nắm giữ</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s053"
+  },
+  {
+   "tu": 35005,
+   "den": 35120,
+   "raw": "<span class=\"immbds-ms\">check_circle</span><span>Quyền cư trú cho vợ/chồng, con và cha mẹ (tuỳ chương trình)</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s054"
+  },
+  {
+   "tu": 35142,
+   "den": 35265,
+   "raw": "<span class=\"immbds-ms\">check_circle</span><span>Tự do đi lại khối Schengen với các chương trình Golden Visa châu Âu</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s055"
+  },
+  {
+   "tu": 35379,
+   "den": 35393,
+   "raw": "Hạn mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-path-limit__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s056"
+  },
+  {
+   "tu": 35450,
+   "den": 35464,
+   "raw": "Từ 250.000 EUR",
+   "loai": "p",
+   "lop": "immbds-path-limit__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s057"
+  },
+  {
+   "tu": 35549,
+   "den": 35626,
+   "raw": "<span>Xem dự án</span><span class=\"immbds-ms immbds-s23\">arrow_forward</span>",
+   "loai": "cta",
+   "lop": "immbds-path-cta",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s058"
+  },
+  {
+   "tu": 35969,
+   "den": 36019,
+   "raw": "<span class=\"immbds-path-choice\">Lựa chọn 2</span>",
+   "loai": "p",
+   "lop": "immbds-path-body",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s059"
+  },
+  {
+   "tu": 36034,
+   "den": 36060,
+   "raw": "Bất động sản kèm quốc tịch",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s060"
+  },
+  {
+   "tu": 36104,
+   "den": 36257,
+   "raw": "Đầu tư bất động sản được chính phủ phê duyệt để nhận hộ chiếu thứ hai, thời gian xét duyệt tính bằng tháng và phần lớn chương trình không yêu cầu cư trú.",
+   "loai": "p",
+   "lop": "immbds-path-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s061"
+  },
+  {
+   "tu": 36363,
+   "den": 36476,
+   "raw": "<span class=\"immbds-ms\">check_circle</span><span>Quốc tịch thứ hai cho cả gia đình, kế thừa cho thế hệ sau</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s062"
+  },
+  {
+   "tu": 36498,
+   "den": 36609,
+   "raw": "<span class=\"immbds-ms\">check_circle</span><span>Xét duyệt 4–8 tháng, không yêu cầu cư trú hay ngoại ngữ</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s063"
+  },
+  {
+   "tu": 36631,
+   "den": 36746,
+   "raw": "<span class=\"immbds-ms\">check_circle</span><span>Được bán lại BĐS hoặc cổ phần sở hữu sau thời gian quy định</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s064"
+  },
+  {
+   "tu": 36867,
+   "den": 36881,
+   "raw": "Hạn mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-path-limit__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s065"
+  },
+  {
+   "tu": 36938,
+   "den": 36952,
+   "raw": "Từ 400.000 USD",
+   "loai": "p",
+   "lop": "immbds-path-limit__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s066"
+  },
+  {
+   "tu": 37063,
+   "den": 37140,
+   "raw": "<span>Xem dự án</span><span class=\"immbds-ms immbds-s23\">arrow_forward</span>",
+   "loai": "cta",
+   "lop": "immbds-path-cta immbds-path-cta--primary",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s067"
+  },
+  {
+   "tu": 37353,
+   "den": 37449,
+   "raw": "<span class=\"immbds-bar\"></span><span class=\"immbds-etxt\">Bất động sản &amp; quyền cư trú</span>",
+   "loai": "p",
+   "lop": "immbds-eyebrow",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s068"
+  },
+  {
+   "tu": 37466,
+   "den": 37489,
+   "raw": "Dự án theo quyền cư trú",
+   "loai": "h2",
+   "lop": "",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s069"
+  },
+  {
+   "tu": 37549,
+   "den": 37684,
+   "raw": "“Mỗi quốc gia có yêu cầu đầu tư, loại bất động sản đủ điều kiện và quyền lợi cư trú khác nhau. Chọn quốc gia để xem các dự án hiện có.”",
+   "loai": "p",
+   "lop": "immbds-lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s070"
+  },
+  {
+   "tu": 37814,
+   "den": 37901,
+   "raw": "<span class=\"immbds-flag\">🇬🇷</span><span>Hy Lạp</span><span class=\"immbds-cnt\">2</span>",
+   "loai": "cta",
+   "lop": "immbds-tab is-on",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s071"
+  },
+  {
+   "tu": 38002,
+   "den": 38096,
+   "raw": "<span class=\"immbds-flag\">🇨🇾</span><span>Cộng hòa Síp</span><span class=\"immbds-cnt\">10</span>",
+   "loai": "cta",
+   "lop": "immbds-tab",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s072"
+  },
+  {
+   "tu": 38333,
+   "den": 38415,
+   "raw": "<span class=\"immbds-nicon\"><span class=\"immbds-ms immbds-s26\">shield</span></span>",
+   "loai": "p",
+   "lop": "immbds-ntxt",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s073"
+  },
+  {
+   "tu": 38418,
+   "den": 38593,
+   "raw": "<strong>Chương trình Golden Visa Hy Lạp:</strong> Đầu tư bất động sản từ 250.000 EUR (hoặc 400.000 / 800.000 EUR theo phân vùng mới) nhận Thường trú nhân châu Âu cho 3 thế hệ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s074"
+  },
+  {
+   "tu": 38614,
+   "den": 38755,
+   "raw": "<span class=\"immbds-sealtag\"><span class=\"immbds-ms immbds-s23\">check_circle</span><span>Dự án được Luật sư IMM Group thẩm định</span></span>",
+   "loai": "p",
+   "lop": "immbds-notice",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s075"
+  },
+  {
+   "tu": 39464,
+   "den": 39720,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình cư trú</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s076"
+  },
+  {
+   "tu": 39788,
+   "den": 39822,
+   "raw": "<span>🇬🇷</span><span>Hy Lạp</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s077"
+  },
+  {
+   "tu": 39906,
+   "den": 39933,
+   "raw": "Căn hộ cao cấp Kastella Bay",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s078"
+  },
+  {
+   "tu": 40025,
+   "den": 40035,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s079"
+  },
+  {
+   "tu": 40089,
+   "den": 40103,
+   "raw": "Từ 250.000 EUR",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s080"
+  },
+  {
+   "tu": 40228,
+   "den": 40408,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s081"
+  },
+  {
+   "tu": 40468,
+   "den": 40660,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Sở hữu 100%</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s082"
+  },
+  {
+   "tu": 40720,
+   "den": 40778,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s083"
+  },
+  {
+   "tu": 40784,
+   "den": 40838,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s084"
+  },
+  {
+   "tu": 41194,
+   "den": 41255,
+   "raw": "Piraeus <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s085"
+  },
+  {
+   "tu": 41333,
+   "den": 41537,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">Căn hộ Golden Visa</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s086"
+  },
+  {
+   "tu": 41597,
+   "den": 41799,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">Arish Capital Partners</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s087"
+  },
+  {
+   "tu": 41868,
+   "den": 42065,
+   "raw": "Căn hộ cao cấp bên vịnh du thuyền Mikrolimano, cách trung tâm Athens 12–15 phút. Dự án đủ điều kiện Golden Visa, mở lộ trình thẻ cư trú Hy Lạp cho cả gia đình cùng quyền tự do đi lại khối Schengen.",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s088"
+  },
+  {
+   "tu": 42385,
+   "den": 42469,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s089"
+  },
+  {
+   "tu": 42551,
+   "den": 42565,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s090"
+  },
+  {
+   "tu": 43227,
+   "den": 43483,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình cư trú</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s091"
+  },
+  {
+   "tu": 43551,
+   "den": 43585,
+   "raw": "<span>🇬🇷</span><span>Hy Lạp</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s092"
+  },
+  {
+   "tu": 43669,
+   "den": 43695,
+   "raw": "Căn hộ dịch vụ Etolikou 11",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s093"
+  },
+  {
+   "tu": 43787,
+   "den": 43797,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s094"
+  },
+  {
+   "tu": 43851,
+   "den": 43865,
+   "raw": "Từ 250.000 EUR",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s095"
+  },
+  {
+   "tu": 43990,
+   "den": 44170,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s096"
+  },
+  {
+   "tu": 44230,
+   "den": 44422,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Sở hữu 100%</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s097"
+  },
+  {
+   "tu": 44482,
+   "den": 44540,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s098"
+  },
+  {
+   "tu": 44546,
+   "den": 44600,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s099"
+  },
+  {
+   "tu": 44735,
+   "den": 44796,
+   "raw": "Piraeus <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s100"
+  },
+  {
+   "tu": 44874,
+   "den": 45070,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">158 căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s101"
+  },
+  {
+   "tu": 45130,
+   "den": 45320,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">MIBS Group</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s102"
+  },
+  {
+   "tu": 45389,
+   "den": 45585,
+   "raw": "Dự án chuyển đổi công năng từ tòa nhà công nghiệp cũ thành 158 căn hộ dịch vụ tại trung tâm cảng Piraeus, tiện ích hồ bơi sân thượng, gym và lễ tân 24/7, phù hợp cho ở thực lẫn khai thác cho thuê.",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s103"
+  },
+  {
+   "tu": 45904,
+   "den": 45988,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s104"
+  },
+  {
+   "tu": 46070,
+   "den": 46084,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s105"
+  },
+  {
+   "tu": 46353,
+   "den": 46383,
+   "raw": "Xem tất cả bất động sản Hy Lạp",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s106"
+  },
+  {
+   "tu": 46561,
+   "den": 46643,
+   "raw": "<span class=\"immbds-nicon\"><span class=\"immbds-ms immbds-s26\">shield</span></span>",
+   "loai": "p",
+   "lop": "immbds-ntxt",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s107"
+  },
+  {
+   "tu": 46646,
+   "den": 46815,
+   "raw": "<strong>Chương trình Thường trú nhân Síp:</strong> Đầu tư bất động sản mới từ 300.000 EUR (chưa gồm VAT) nhận Thường trú nhân vĩnh viễn cho cả gia đình, xét duyệt nhanh.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s108"
+  },
+  {
+   "tu": 46836,
+   "den": 46977,
+   "raw": "<span class=\"immbds-sealtag\"><span class=\"immbds-ms immbds-s23\">check_circle</span><span>Dự án được Luật sư IMM Group thẩm định</span></span>",
+   "loai": "p",
+   "lop": "immbds-notice",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s109"
+  },
+  {
+   "tu": 47655,
+   "den": 47911,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình cư trú</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s110"
+  },
+  {
+   "tu": 47979,
+   "den": 48019,
+   "raw": "<span>🇨🇾</span><span>Cộng hòa Síp</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s111"
+  },
+  {
+   "tu": 48103,
+   "den": 48128,
+   "raw": "Căn hộ cao cấp Elysia Blu",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s112"
+  },
+  {
+   "tu": 48220,
+   "den": 48230,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s113"
+  },
+  {
+   "tu": 48284,
+   "den": 48298,
+   "raw": "Từ 511.000 EUR",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s114"
+  },
+  {
+   "tu": 48423,
+   "den": 48603,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s115"
+  },
+  {
+   "tu": 48663,
+   "den": 48855,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Sở hữu 100%</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s116"
+  },
+  {
+   "tu": 48915,
+   "den": 48973,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s117"
+  },
+  {
+   "tu": 48979,
+   "den": 49033,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s118"
+  },
+  {
+   "tu": 49168,
+   "den": 49228,
+   "raw": "Paphos <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s119"
+  },
+  {
+   "tu": 49306,
+   "den": 49502,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">200 căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s120"
+  },
+  {
+   "tu": 49562,
+   "den": 49749,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">Pafilia</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s121"
+  },
+  {
+   "tu": 49818,
+   "den": 49987,
+   "raw": "Căn hộ 2 và 3 phòng ngủ, Trung tâm Paphos, Cộng Hòa Síp. Quy mô: 200 căn hộ. Đủ điều kiện chương trình Thường trú nhân Cộng hòa Síp (đầu tư bất động sản từ 300.000 EUR).",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s122"
+  },
+  {
+   "tu": 50305,
+   "den": 50389,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s123"
+  },
+  {
+   "tu": 50471,
+   "den": 50485,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s124"
+  },
+  {
+   "tu": 51197,
+   "den": 51453,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình cư trú</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s125"
+  },
+  {
+   "tu": 51521,
+   "den": 51561,
+   "raw": "<span>🇨🇾</span><span>Cộng hòa Síp</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s126"
+  },
+  {
+   "tu": 51645,
+   "den": 51678,
+   "raw": "Biệt thự ven biển Beachside Villa",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s127"
+  },
+  {
+   "tu": 51770,
+   "den": 51780,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s128"
+  },
+  {
+   "tu": 51834,
+   "den": 51848,
+   "raw": "Từ 633.000 EUR",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s129"
+  },
+  {
+   "tu": 51973,
+   "den": 52155,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Biệt thự</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s130"
+  },
+  {
+   "tu": 52215,
+   "den": 52407,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Sở hữu 100%</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s131"
+  },
+  {
+   "tu": 52467,
+   "den": 52525,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s132"
+  },
+  {
+   "tu": 52531,
+   "den": 52585,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s133"
+  },
+  {
+   "tu": 52720,
+   "den": 52779,
+   "raw": "Polis <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s134"
+  },
+  {
+   "tu": 52857,
+   "den": 53054,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">28 biệt thự</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s135"
+  },
+  {
+   "tu": 53114,
+   "den": 53301,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">Pafilia</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s136"
+  },
+  {
+   "tu": 53370,
+   "den": 53555,
+   "raw": "Biệt thự ven biển cao cấp, Ven biển Địa Trung Hải, gần thành phố Polis. Quy mô: 28 biệt thự. Đủ điều kiện chương trình Thường trú nhân Cộng hòa Síp (đầu tư bất động sản từ 300.000 EUR).",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s137"
+  },
+  {
+   "tu": 53881,
+   "den": 53965,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s138"
+  },
+  {
+   "tu": 54047,
+   "den": 54061,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s139"
+  },
+  {
+   "tu": 54737,
+   "den": 54993,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình cư trú</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s140"
+  },
+  {
+   "tu": 55061,
+   "den": 55101,
+   "raw": "<span>🇨🇾</span><span>Cộng hòa Síp</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s141"
+  },
+  {
+   "tu": 55185,
+   "den": 55209,
+   "raw": "Khu biệt thự Coral Vista",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s142"
+  },
+  {
+   "tu": 55301,
+   "den": 55311,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s143"
+  },
+  {
+   "tu": 55365,
+   "den": 55379,
+   "raw": "Từ 480.000 EUR",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s144"
+  },
+  {
+   "tu": 55504,
+   "den": 55686,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Biệt thự</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s145"
+  },
+  {
+   "tu": 55746,
+   "den": 55938,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Sở hữu 100%</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s146"
+  },
+  {
+   "tu": 55998,
+   "den": 56056,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s147"
+  },
+  {
+   "tu": 56062,
+   "den": 56116,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s148"
+  },
+  {
+   "tu": 56251,
+   "den": 56311,
+   "raw": "Paphos <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s149"
+  },
+  {
+   "tu": 56389,
+   "den": 56586,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">19 biệt thự</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s150"
+  },
+  {
+   "tu": 56646,
+   "den": 56833,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">Pafilia</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s151"
+  },
+  {
+   "tu": 56902,
+   "den": 57057,
+   "raw": "Biệt thự cao cấp, Đỉnh đồi Peyia, Paphos. Quy mô: 19 biệt thự. Đủ điều kiện chương trình Thường trú nhân Cộng hòa Síp (đầu tư bất động sản từ 300.000 EUR).",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s152"
+  },
+  {
+   "tu": 57374,
+   "den": 57458,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s153"
+  },
+  {
+   "tu": 57540,
+   "den": 57554,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s154"
+  },
+  {
+   "tu": 58227,
+   "den": 58483,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình cư trú</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s155"
+  },
+  {
+   "tu": 58551,
+   "den": 58591,
+   "raw": "<span>🇨🇾</span><span>Cộng hòa Síp</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s156"
+  },
+  {
+   "tu": 58675,
+   "den": 58690,
+   "raw": "Limassol Marina",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s157"
+  },
+  {
+   "tu": 58782,
+   "den": 58792,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s158"
+  },
+  {
+   "tu": 58846,
+   "den": 58862,
+   "raw": "Từ 3.900.000 EUR",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s159"
+  },
+  {
+   "tu": 58987,
+   "den": 59182,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Biệt thự &amp; Căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s160"
+  },
+  {
+   "tu": 59242,
+   "den": 59434,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Sở hữu 100%</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s161"
+  },
+  {
+   "tu": 59494,
+   "den": 59552,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s162"
+  },
+  {
+   "tu": 59558,
+   "den": 59612,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s163"
+  },
+  {
+   "tu": 59747,
+   "den": 59809,
+   "raw": "Limassol <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s164"
+  },
+  {
+   "tu": 59887,
+   "den": 60099,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">Khu phức hợp bến du thuyền</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s165"
+  },
+  {
+   "tu": 60159,
+   "den": 60346,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">Cybarco</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s166"
+  },
+  {
+   "tu": 60415,
+   "den": 60568,
+   "raw": "Biệt thự và căn hộ hạng sang, Bến du thuyền Limassol Marina. Đủ điều kiện chương trình Thường trú nhân Cộng hòa Síp (đầu tư bất động sản từ 300.000 EUR).",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s167"
+  },
+  {
+   "tu": 60881,
+   "den": 60965,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s168"
+  },
+  {
+   "tu": 61047,
+   "den": 61061,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s169"
+  },
+  {
+   "tu": 61781,
+   "den": 62037,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình cư trú</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s170"
+  },
+  {
+   "tu": 62105,
+   "den": 62145,
+   "raw": "<span>🇨🇾</span><span>Cộng hòa Síp</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s171"
+  },
+  {
+   "tu": 62229,
+   "den": 62264,
+   "raw": "Căn hộ phức hợp 5 sao Pafilia Plaza",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s172"
+  },
+  {
+   "tu": 62356,
+   "den": 62366,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s173"
+  },
+  {
+   "tu": 62420,
+   "den": 62434,
+   "raw": "Từ 378.000 EUR",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s174"
+  },
+  {
+   "tu": 62559,
+   "den": 62739,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s175"
+  },
+  {
+   "tu": 62799,
+   "den": 62991,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Sở hữu 100%</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s176"
+  },
+  {
+   "tu": 63051,
+   "den": 63109,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s177"
+  },
+  {
+   "tu": 63115,
+   "den": 63169,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s178"
+  },
+  {
+   "tu": 63304,
+   "den": 63364,
+   "raw": "Paphos <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s179"
+  },
+  {
+   "tu": 63442,
+   "den": 63637,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">82 căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s180"
+  },
+  {
+   "tu": 63697,
+   "den": 63884,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">Pafilia</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s181"
+  },
+  {
+   "tu": 63953,
+   "den": 64127,
+   "raw": "Căn hộ phức hợp 5 sao, Trung tâm Paphos, Cộng Hòa Síp. Quy mô: 8 tầng, 82 căn hộ. Đủ điều kiện chương trình Thường trú nhân Cộng hòa Síp (đầu tư bất động sản từ 300.000 EUR).",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s182"
+  },
+  {
+   "tu": 64455,
+   "den": 64539,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s183"
+  },
+  {
+   "tu": 64621,
+   "den": 64635,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s184"
+  },
+  {
+   "tu": 65345,
+   "den": 65601,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình cư trú</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s185"
+  },
+  {
+   "tu": 65669,
+   "den": 65709,
+   "raw": "<span>🇨🇾</span><span>Cộng hòa Síp</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s186"
+  },
+  {
+   "tu": 65793,
+   "den": 65821,
+   "raw": "Biệt thự nhà phố Konia Green",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s187"
+  },
+  {
+   "tu": 65913,
+   "den": 65923,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s188"
+  },
+  {
+   "tu": 65977,
+   "den": 65991,
+   "raw": "Từ 345.000 EUR",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s189"
+  },
+  {
+   "tu": 66116,
+   "den": 66312,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Biệt thự &amp; Nhà phố</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s190"
+  },
+  {
+   "tu": 66372,
+   "den": 66564,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Sở hữu 100%</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s191"
+  },
+  {
+   "tu": 66624,
+   "den": 66682,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s192"
+  },
+  {
+   "tu": 66688,
+   "den": 66742,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s193"
+  },
+  {
+   "tu": 66913,
+   "den": 66973,
+   "raw": "Paphos <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s194"
+  },
+  {
+   "tu": 67051,
+   "den": 67265,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">34 biệt thự &amp; 26 nhà phố</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s195"
+  },
+  {
+   "tu": 67325,
+   "den": 67512,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">Pafilia</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s196"
+  },
+  {
+   "tu": 67581,
+   "den": 67781,
+   "raw": "Biệt thự đơn lập và nhà phố, Gần trung tâm Paphos, Cộng Hòa Síp. Quy mô: 34 biệt thự đơn lập và 26 nhà phố. Đủ điều kiện chương trình Thường trú nhân Cộng hòa Síp (đầu tư bất động sản từ 300.000 EUR).",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s197"
+  },
+  {
+   "tu": 68111,
+   "den": 68195,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s198"
+  },
+  {
+   "tu": 68277,
+   "den": 68291,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s199"
+  },
+  {
+   "tu": 68986,
+   "den": 69242,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình cư trú</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s200"
+  },
+  {
+   "tu": 69310,
+   "den": 69350,
+   "raw": "<span>🇨🇾</span><span>Cộng hòa Síp</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s201"
+  },
+  {
+   "tu": 69434,
+   "den": 69471,
+   "raw": "Căn hộ &amp; biệt thự Seaview Heights",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s202"
+  },
+  {
+   "tu": 69563,
+   "den": 69573,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s203"
+  },
+  {
+   "tu": 69627,
+   "den": 69641,
+   "raw": "Từ 320.000 EUR",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s204"
+  },
+  {
+   "tu": 69766,
+   "den": 69961,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Căn hộ &amp; Biệt thự</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s205"
+  },
+  {
+   "tu": 70021,
+   "den": 70213,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Sở hữu 100%</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s206"
+  },
+  {
+   "tu": 70273,
+   "den": 70331,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s207"
+  },
+  {
+   "tu": 70337,
+   "den": 70391,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s208"
+  },
+  {
+   "tu": 70526,
+   "den": 70588,
+   "raw": "Limassol <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s209"
+  },
+  {
+   "tu": 70666,
+   "den": 70878,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">81 căn hộ &amp; 9 biệt thự</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s210"
+  },
+  {
+   "tu": 70938,
+   "den": 71125,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">Cybarco</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s211"
+  },
+  {
+   "tu": 71194,
+   "den": 71408,
+   "raw": "Căn hộ cao cấp (1 - 3 PN) và Biệt thự sang trọng (3 - 4 PN), Limassol, Cộng Hòa Síp. Quy mô: 81 căn hộ và 9 căn biệt thự. Đủ điều kiện chương trình Thường trú nhân Cộng hòa Síp (đầu tư bất động sản từ 300.000 EUR).",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s212"
+  },
+  {
+   "tu": 71732,
+   "den": 71816,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s213"
+  },
+  {
+   "tu": 71898,
+   "den": 71912,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s214"
+  },
+  {
+   "tu": 72611,
+   "den": 72867,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình cư trú</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s215"
+  },
+  {
+   "tu": 72935,
+   "den": 72975,
+   "raw": "<span>🇨🇾</span><span>Cộng hòa Síp</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s216"
+  },
+  {
+   "tu": 73059,
+   "den": 73089,
+   "raw": "Căn hộ cao cấp Park Residences",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s217"
+  },
+  {
+   "tu": 73181,
+   "den": 73191,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s218"
+  },
+  {
+   "tu": 73245,
+   "den": 73259,
+   "raw": "Từ 320.000 EUR",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s219"
+  },
+  {
+   "tu": 73384,
+   "den": 73564,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s220"
+  },
+  {
+   "tu": 73624,
+   "den": 73816,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Sở hữu 100%</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s221"
+  },
+  {
+   "tu": 73876,
+   "den": 73934,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s222"
+  },
+  {
+   "tu": 73940,
+   "den": 73994,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s223"
+  },
+  {
+   "tu": 74129,
+   "den": 74190,
+   "raw": "Nicosia <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s224"
+  },
+  {
+   "tu": 74268,
+   "den": 74463,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">12 căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s225"
+  },
+  {
+   "tu": 74523,
+   "den": 74710,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">Cybarco</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s226"
+  },
+  {
+   "tu": 74779,
+   "den": 75014,
+   "raw": "Căn hộ cao cấp 2 và 3 phòng ngủ, Khu Acropolis, Thủ đô Nicosia, Cộng Hòa Síp. Quy mô: Tòa tháp căn hộ boutique 4 tầng với tổng cộng 12 căn hộ. Đủ điều kiện chương trình Thường trú nhân Cộng hòa Síp (đầu tư bất động sản từ 300.000 EUR).",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s227"
+  },
+  {
+   "tu": 75337,
+   "den": 75421,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s228"
+  },
+  {
+   "tu": 75503,
+   "den": 75517,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s229"
+  },
+  {
+   "tu": 76199,
+   "den": 76455,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình cư trú</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s230"
+  },
+  {
+   "tu": 76523,
+   "den": 76563,
+   "raw": "<span>🇨🇾</span><span>Cộng hòa Síp</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s231"
+  },
+  {
+   "tu": 76647,
+   "den": 76677,
+   "raw": "Căn hộ cao cấp Centro Limassol",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s232"
+  },
+  {
+   "tu": 76769,
+   "den": 76779,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s233"
+  },
+  {
+   "tu": 76833,
+   "den": 76847,
+   "raw": "Từ 350.000 EUR",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s234"
+  },
+  {
+   "tu": 76972,
+   "den": 77152,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s235"
+  },
+  {
+   "tu": 77212,
+   "den": 77404,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Sở hữu 100%</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s236"
+  },
+  {
+   "tu": 77464,
+   "den": 77522,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s237"
+  },
+  {
+   "tu": 77528,
+   "den": 77582,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s238"
+  },
+  {
+   "tu": 77717,
+   "den": 77779,
+   "raw": "Limassol <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s239"
+  },
+  {
+   "tu": 77857,
+   "den": 78052,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">60 căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s240"
+  },
+  {
+   "tu": 78112,
+   "den": 78299,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">Cybarco</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s241"
+  },
+  {
+   "tu": 78368,
+   "den": 78549,
+   "raw": "Căn hộ cao cấp 1 &amp; 2 phòng ngủ, Trung tâm Limassol, Cộng Hòa Síp. Quy mô: 60 căn hộ. Đủ điều kiện chương trình Thường trú nhân Cộng hòa Síp (đầu tư bất động sản từ 300.000 EUR).",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s242"
+  },
+  {
+   "tu": 78872,
+   "den": 78956,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s243"
+  },
+  {
+   "tu": 79038,
+   "den": 79052,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s244"
+  },
+  {
+   "tu": 79765,
+   "den": 80021,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình cư trú</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s245"
+  },
+  {
+   "tu": 80089,
+   "den": 80129,
+   "raw": "<span>🇨🇾</span><span>Cộng hòa Síp</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s246"
+  },
+  {
+   "tu": 80213,
+   "den": 80246,
+   "raw": "Căn hộ cao cấp Aktea Residences 4",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s247"
+  },
+  {
+   "tu": 80338,
+   "den": 80348,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s248"
+  },
+  {
+   "tu": 80402,
+   "den": 80416,
+   "raw": "Từ 545.000 EUR",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s249"
+  },
+  {
+   "tu": 80541,
+   "den": 80721,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s250"
+  },
+  {
+   "tu": 80781,
+   "den": 80973,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Sở hữu 100%</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s251"
+  },
+  {
+   "tu": 81033,
+   "den": 81091,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s252"
+  },
+  {
+   "tu": 81097,
+   "den": 81151,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s253"
+  },
+  {
+   "tu": 81286,
+   "den": 81348,
+   "raw": "Limassol <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s254"
+  },
+  {
+   "tu": 81426,
+   "den": 81629,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">Tòa căn hộ 4 tầng</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s255"
+  },
+  {
+   "tu": 81689,
+   "den": 81876,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">Cybarco</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s256"
+  },
+  {
+   "tu": 81945,
+   "den": 82161,
+   "raw": "Căn hộ cao cấp 1 và 2 phòng ngủ, Trung tâm Limassol, Cộng Hòa Síp (Cách biển 1km). Quy mô: Tòa tháp căn hộ boutique 4 tầng. Đủ điều kiện chương trình Thường trú nhân Cộng hòa Síp (đầu tư bất động sản từ 300.000 EUR).",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s257"
+  },
+  {
+   "tu": 82487,
+   "den": 82571,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s258"
+  },
+  {
+   "tu": 82653,
+   "den": 82667,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s259"
+  },
+  {
+   "tu": 82955,
+   "den": 82991,
+   "raw": "Xem tất cả bất động sản Cộng hòa Síp",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s260"
+  },
+  {
+   "tu": 83185,
+   "den": 83272,
+   "raw": "<span class=\"immbds-bar\"></span><span class=\"immbds-etxt\">Đầu tư &amp; quốc tịch</span>",
+   "loai": "p",
+   "lop": "immbds-eyebrow",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s261"
+  },
+  {
+   "tu": 83289,
+   "den": 83340,
+   "raw": "Sở hữu bất động sản lấy trực tiếp quốc tịch thứ hai",
+   "loai": "h2",
+   "lop": "",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s262"
+  },
+  {
+   "tu": 83400,
+   "den": 83523,
+   "raw": "“Mỗi quốc gia có hình thức đầu tư, mức đầu tư và điều kiện chương trình khác nhau. Chọn quốc gia để xem các dự án hiện có.”",
+   "loai": "p",
+   "lop": "immbds-lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s263"
+  },
+  {
+   "tu": 83665,
+   "den": 83756,
+   "raw": "<span class=\"immbds-flag\">🇹🇷</span><span>Thổ Nhĩ Kỳ</span><span class=\"immbds-cnt\">1</span>",
+   "loai": "cta",
+   "lop": "immbds-tab is-dark is-on",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s264"
+  },
+  {
+   "tu": 83861,
+   "den": 83950,
+   "raw": "<span class=\"immbds-flag\">🇩🇲</span><span>Dominica</span><span class=\"immbds-cnt\">1</span>",
+   "loai": "cta",
+   "lop": "immbds-tab is-dark",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s265"
+  },
+  {
+   "tu": 84054,
+   "den": 84142,
+   "raw": "<span class=\"immbds-flag\">🇬🇩</span><span>Grenada</span><span class=\"immbds-cnt\">1</span>",
+   "loai": "cta",
+   "lop": "immbds-tab is-dark",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s266"
+  },
+  {
+   "tu": 84391,
+   "den": 84480,
+   "raw": "<span class=\"immbds-nicon\"><span class=\"immbds-ms immbds-s26\">verified_user</span></span>",
+   "loai": "p",
+   "lop": "immbds-ntxt",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s267"
+  },
+  {
+   "tu": 84483,
+   "den": 84626,
+   "raw": "<strong>Quốc tịch Thổ Nhĩ Kỳ:</strong> Đầu tư từ 400.000 USD, sở hữu bất động sản, giữ tài sản 3 năm, nhận quốc tịch và hộ chiếu sau 6-8 tháng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s268"
+  },
+  {
+   "tu": 85251,
+   "den": 85510,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình quốc tịch</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s269"
+  },
+  {
+   "tu": 85578,
+   "den": 85616,
+   "raw": "<span>🇹🇷</span><span>Thổ Nhĩ Kỳ</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s270"
+  },
+  {
+   "tu": 85700,
+   "den": 85728,
+   "raw": "Căn hộ cao cấp Axis Istanbul",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s271"
+  },
+  {
+   "tu": 85820,
+   "den": 85830,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s272"
+  },
+  {
+   "tu": 85884,
+   "den": 85898,
+   "raw": "Từ 400.000 USD",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s273"
+  },
+  {
+   "tu": 86023,
+   "den": 86203,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Căn hộ</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s274"
+  },
+  {
+   "tu": 86263,
+   "den": 86455,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Sở hữu 100%</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s275"
+  },
+  {
+   "tu": 86515,
+   "den": 86573,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s276"
+  },
+  {
+   "tu": 86579,
+   "den": 86633,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s277"
+  },
+  {
+   "tu": 86768,
+   "den": 86830,
+   "raw": "Istanbul <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s278"
+  },
+  {
+   "tu": 86908,
+   "den": 87119,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">Căn hộ trong khu phức hợp</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s279"
+  },
+  {
+   "tu": 87179,
+   "den": 87367,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">Sur Yapi</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s280"
+  },
+  {
+   "tu": 87436,
+   "den": 87660,
+   "raw": "Căn hộ cao cấp trong khu phức hợp Axis (Axis Mall, ngay tuyến Metro M1 và cao tốc O-3) tại quận trung tâm kinh doanh Istanbul, mạn châu Âu. Đủ điều kiện chương trình Quốc tịch Thổ Nhĩ Kỳ (đầu tư bất động sản từ 400.000 USD).",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s281"
+  },
+  {
+   "tu": 87921,
+   "den": 88005,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s282"
+  },
+  {
+   "tu": 88088,
+   "den": 88102,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s283"
+  },
+  {
+   "tu": 88314,
+   "den": 88348,
+   "raw": "Tìm hiểu thêm Quốc Tịch Thổ Nhĩ Kỳ",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost-dark",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s284"
+  },
+  {
+   "tu": 88530,
+   "den": 88619,
+   "raw": "<span class=\"immbds-nicon\"><span class=\"immbds-ms immbds-s26\">verified_user</span></span>",
+   "loai": "p",
+   "lop": "immbds-ntxt",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s285"
+  },
+  {
+   "tu": 88622,
+   "den": 88786,
+   "raw": "<strong>Quốc tịch Dominica:</strong> Đầu tư cổ phần dự án resort được Chính phủ phê duyệt từ 200.000 USD, giữ tài sản 3-5 năm, nhận hộ chiếu trong khoảng 6-9 tháng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s286"
+  },
+  {
+   "tu": 89423,
+   "den": 89682,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình quốc tịch</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s287"
+  },
+  {
+   "tu": 89750,
+   "den": 89786,
+   "raw": "<span>🇩🇲</span><span>Dominica</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s288"
+  },
+  {
+   "tu": 89870,
+   "den": 89887,
+   "raw": "Resort Secret Bay",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s289"
+  },
+  {
+   "tu": 89979,
+   "den": 89989,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s290"
+  },
+  {
+   "tu": 90043,
+   "den": 90057,
+   "raw": "Từ 212.000 USD",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s291"
+  },
+  {
+   "tu": 90182,
+   "den": 90376,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Cổ phần resort 6 sao</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s292"
+  },
+  {
+   "tu": 90436,
+   "den": 90630,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Cổ phần dự án</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s293"
+  },
+  {
+   "tu": 90690,
+   "den": 90748,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s294"
+  },
+  {
+   "tu": 90754,
+   "den": 90808,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s295"
+  },
+  {
+   "tu": 90973,
+   "den": 91037,
+   "raw": "Portsmouth <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s296"
+  },
+  {
+   "tu": 91115,
+   "den": 91321,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">Cổ phần resort 6 sao</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s297"
+  },
+  {
+   "tu": 91381,
+   "den": 91577,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">GEMS Holding Ltd</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s298"
+  },
+  {
+   "tu": 91646,
+   "den": 91845,
+   "raw": "Cổ phần trong resort 6 sao Secret Bay (nhà phát triển GEMS Holding) thuộc danh mục dự án được Chính phủ Dominica phê duyệt. Đủ điều kiện chương trình Quốc tịch Dominica theo diện đầu tư bất động sản.",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s299"
+  },
+  {
+   "tu": 92123,
+   "den": 92207,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s300"
+  },
+  {
+   "tu": 92290,
+   "den": 92304,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s301"
+  },
+  {
+   "tu": 92531,
+   "den": 92563,
+   "raw": "Tìm hiểu thêm Quốc Tịch Dominica",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost-dark",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s302"
+  },
+  {
+   "tu": 92744,
+   "den": 92833,
+   "raw": "<span class=\"immbds-nicon\"><span class=\"immbds-ms immbds-s26\">verified_user</span></span>",
+   "loai": "p",
+   "lop": "immbds-ntxt",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s303"
+  },
+  {
+   "tu": 92836,
+   "den": 93008,
+   "raw": "<strong>Quốc tịch Grenada:</strong> Đầu tư cổ phần dự án được phê duyệt từ 270.000 USD, nhận hộ chiếu Grenada — quốc gia duy nhất vùng Caribbean có hiệp ước E-2 với Hoa Kỳ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s304"
+  },
+  {
+   "tu": 93692,
+   "den": 93951,
+   "raw": "<span class=\"immbds-project-route\"><span class=\"immbds-ms immbds-s18\">description</span>Lộ trình quốc tịch</span>\n              <span class=\"immbds-project-status is-available\"><span class=\"immbds-ms immbds-s17\">check_circle</span><span>Còn suất</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-badges",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s305"
+  },
+  {
+   "tu": 94019,
+   "den": 94054,
+   "raw": "<span>🇬🇩</span><span>Grenada</span>",
+   "loai": "p",
+   "lop": "immbds-project-country",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s306"
+  },
+  {
+   "tu": 94138,
+   "den": 94169,
+   "raw": "InterContinental Grenada Resort",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s307"
+  },
+  {
+   "tu": 94261,
+   "den": 94271,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "immbds-price__label",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s308"
+  },
+  {
+   "tu": 94325,
+   "den": 94339,
+   "raw": "Từ 270.000 USD",
+   "loai": "p",
+   "lop": "immbds-price__value",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s309"
+  },
+  {
+   "tu": 94464,
+   "den": 94652,
+   "raw": "<span class=\"immbds-project-meta__icon\">apartment</span><span><span class=\"immbds-project-meta__label\">Loại hình</span><span class=\"immbds-project-meta__value\">Cổ phần resort</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s310"
+  },
+  {
+   "tu": 94712,
+   "den": 94906,
+   "raw": "<span class=\"immbds-project-meta__icon\">handshake</span><span><span class=\"immbds-project-meta__label\">Hình thức đầu tư</span><span class=\"immbds-project-meta__value\">Cổ phần dự án</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s311"
+  },
+  {
+   "tu": 94966,
+   "den": 95024,
+   "raw": "<span class=\"immbds-project-meta__icon\">location_on</span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s312"
+  },
+  {
+   "tu": 95030,
+   "den": 95084,
+   "raw": "<span class=\"immbds-project-meta__label\">Vị trí</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "span",
+   "ngu_canh": "",
+   "id": "s313"
+  },
+  {
+   "tu": 95229,
+   "den": 95293,
+   "raw": "La Sagesse <span class=\"immbds-ms immbds-s15\">open_in_new</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s314"
+  },
+  {
+   "tu": 95371,
+   "den": 95566,
+   "raw": "<span class=\"immbds-project-meta__icon\">aspect_ratio</span><span><span class=\"immbds-project-meta__label\">Diện tích / Quy mô</span><span class=\"immbds-project-meta__value\">150 phòng</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s315"
+  },
+  {
+   "tu": 95626,
+   "den": 95824,
+   "raw": "<span class=\"immbds-project-meta__icon\">corporate_fare</span><span><span class=\"immbds-project-meta__label\">Chủ đầu tư</span><span class=\"immbds-project-meta__value\">Range Developments</span></span>",
+   "loai": "p",
+   "lop": "immbds-project-meta__item",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s316"
+  },
+  {
+   "tu": 95893,
+   "den": 96140,
+   "raw": "Cổ phần bất động sản trong resort InterContinental (IHG, 150 phòng, phát triển bởi Range Developments) tại bãi biển La Sagesse, phía Nam Grenada. Đủ điều kiện chương trình Quốc tịch Grenada — quốc gia Caribbean duy nhất có hiệp ước E-2 với Hoa Kỳ.",
+   "loai": "p",
+   "lop": "immbds-project-desc",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s317"
+  },
+  {
+   "tu": 96430,
+   "den": 96514,
+   "raw": "<span>Chi tiết</span><span class=\"immbds-ms immbds-s19 immbds-ico\">north_east</span>",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost is-spin",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s318"
+  },
+  {
+   "tu": 96597,
+   "den": 96611,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--navy",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s319"
+  },
+  {
+   "tu": 96837,
+   "den": 96868,
+   "raw": "Tìm hiểu thêm Quốc Tịch Grenada",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--ghost-dark",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s320"
+  },
+  {
+   "tu": 97078,
+   "den": 97195,
+   "raw": "<span class=\"immbds-bar\"></span><span class=\"immbds-etxt\">Đối chiếu chiến lược</span><span class=\"immbds-bar\"></span>",
+   "loai": "p",
+   "lop": "immbds-eyebrow",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s321"
+  },
+  {
+   "tu": 97212,
+   "den": 97246,
+   "raw": "Bảng So Sánh Hai Định Hướng Đầu Tư",
+   "loai": "h2",
+   "lop": "",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s322"
+  },
+  {
+   "tu": 97306,
+   "den": 97446,
+   "raw": "Phân định rõ ràng bản chất pháp lý, loại hình tài sản và quốc gia áp dụng giúp gia đình lựa chọn đúng lộ trình phù hợp với mục tiêu dài hạn.",
+   "loai": "p",
+   "lop": "immbds-lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s323"
+  },
+  {
+   "tu": 97667,
+   "den": 97793,
+   "raw": "<span class=\"immbds-ibox\"><span class=\"immbds-ms immbds-s23\">shield</span></span><span class=\"immbds-cttl\">Quyền cư trú</span>",
+   "loai": "p",
+   "lop": "immbds-navyc",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s324"
+  },
+  {
+   "tu": 97833,
+   "den": 97966,
+   "raw": "<span class=\"immbds-ibox\"><span class=\"immbds-ms immbds-s23\">language</span></span><span class=\"immbds-cttl\">Quốc tịch thứ hai</span>",
+   "loai": "p",
+   "lop": "immbds-inkc",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s325"
+  },
+  {
+   "tu": 98049,
+   "den": 98090,
+   "raw": "<b></b><span>Định hướng / Lựa chọn</span>",
+   "loai": "p",
+   "lop": "immbds-rh",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s326"
+  },
+  {
+   "tu": 98131,
+   "den": 98192,
+   "raw": "Bất động sản kèm quyền cư trú (Golden Visa / Thường trú nhân)",
+   "loai": "p",
+   "lop": "immbds-cb",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s327"
+  },
+  {
+   "tu": 98217,
+   "den": 98302,
+   "raw": "Nhà đầu tư sở hữu tài sản địa ốc đáp ứng quy định để nhận thẻ cư trú cho cả gia đình.",
+   "loai": "p",
+   "lop": "immbds-cn",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s328"
+  },
+  {
+   "tu": 98347,
+   "den": 98373,
+   "raw": "Bất động sản kèm quốc tịch",
+   "loai": "p",
+   "lop": "immbds-cb",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s329"
+  },
+  {
+   "tu": 98398,
+   "den": 98484,
+   "raw": "Nhà đầu tư tham gia dự án được Chính phủ phê duyệt để nhận hộ chiếu và quyền công dân.",
+   "loai": "p",
+   "lop": "immbds-cn",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s330"
+  },
+  {
+   "tu": 98571,
+   "den": 98599,
+   "raw": "<b></b><span>Mục tiêu</span>",
+   "loai": "p",
+   "lop": "immbds-rh",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s331"
+  },
+  {
+   "tu": 98655,
+   "den": 98780,
+   "raw": "<span class=\"immbds-ms\">check_circle</span><span class=\"immbds-goal-t\">Thêm quyền cư trú hợp pháp tại quốc gia định cư</span>",
+   "loai": "p",
+   "lop": "immbds-goal",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s332"
+  },
+  {
+   "tu": 98805,
+   "den": 98852,
+   "raw": "Thẻ cư trú/Thường trú nhân (PR) cho cả gia đình",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s333"
+  },
+  {
+   "tu": 98861,
+   "den": 98934,
+   "raw": "Tự do đi lại trong khối Schengen/châu Âu; mở rộng khả năng đi lại quốc tế",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s334"
+  },
+  {
+   "tu": 98943,
+   "den": 99003,
+   "raw": "Tạo nền tảng học tập &amp; sinh sống lâu dài tại nước sở tại",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s335"
+  },
+  {
+   "tu": 99085,
+   "den": 99199,
+   "raw": "<span class=\"immbds-ms\">check_circle</span><span class=\"immbds-goal-t\">Sở hữu quốc tịch và hộ chiếu thứ hai</span>",
+   "loai": "p",
+   "lop": "immbds-goal is-red",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s336"
+  },
+  {
+   "tu": 99224,
+   "den": 99275,
+   "raw": "Quyền công dân đầy đủ, mở rộng quyền đi lại quốc tế",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s337"
+  },
+  {
+   "tu": 99284,
+   "den": 99335,
+   "raw": "Kế hoạch dự phòng công dân toàn cầu cho cả gia đình",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s338"
+  },
+  {
+   "tu": 99344,
+   "den": 99403,
+   "raw": "Không bắt buộc thời gian cư trú thực tế tại quốc gia đầu tư",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s339"
+  },
+  {
+   "tu": 99505,
+   "den": 99532,
+   "raw": "<b></b><span>Tài sản</span>",
+   "loai": "p",
+   "lop": "immbds-rh",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s340"
+  },
+  {
+   "tu": 99573,
+   "den": 99607,
+   "raw": "Sở hữu 100% Bất động sản vĩnh viễn",
+   "loai": "p",
+   "lop": "immbds-cb",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s341"
+  },
+  {
+   "tu": 99632,
+   "den": 99758,
+   "raw": "Đứng tên sổ đỏ chính chủ căn hộ cao cấp, biệt thự ven biển hoặc dự án phục hồi/chuyển đổi công năng đủ điều kiện chương trình.",
+   "loai": "p",
+   "lop": "immbds-cn",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s342"
+  },
+  {
+   "tu": 99803,
+   "den": 99849,
+   "raw": "Sở hữu BĐS hoặc Cổ phần trong dự án trọng điểm",
+   "loai": "p",
+   "lop": "immbds-cb",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s343"
+  },
+  {
+   "tu": 99874,
+   "den": 99975,
+   "raw": "Sở hữu 100% căn hộ (Thổ Nhĩ Kỳ) hoặc sở hữu cổ phần dự án, nhận lợi tức hàng năm (Dominica, Grenada).",
+   "loai": "p",
+   "lop": "immbds-cn",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s344"
+  },
+  {
+   "tu": 100062,
+   "den": 100098,
+   "raw": "<b></b><span>Quốc gia hiện có</span>",
+   "loai": "p",
+   "lop": "immbds-rh",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s345"
+  },
+  {
+   "tu": 100139,
+   "den": 100239,
+   "raw": "<span><span>🇬🇷</span><span>Hy Lạp</span></span><span><span>🇨🇾</span><span>Cộng hòa Síp</span></span>",
+   "loai": "p",
+   "lop": "immbds-flags",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s346"
+  },
+  {
+   "tu": 100288,
+   "den": 100436,
+   "raw": "<span><span>🇹🇷</span><span>Thổ Nhĩ Kỳ</span></span><span><span>🇩🇲</span><span>Dominica</span></span><span><span>🇬🇩</span><span>Grenada</span></span>",
+   "loai": "p",
+   "lop": "immbds-flags is-gold",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s347"
+  },
+  {
+   "tu": 100519,
+   "den": 100550,
+   "raw": "<b></b><span>Phù hợp với</span>",
+   "loai": "p",
+   "lop": "immbds-rh",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s348"
+  },
+  {
+   "tu": 100570,
+   "den": 100727,
+   "raw": "<em class=\"immbds-cq\">“Gia đình muốn thêm lựa chọn sống, môi trường học tập chuẩn quốc tế cho con cái và sở hữu tài sản truyền đời an toàn tại châu Âu.”</em>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s349"
+  },
+  {
+   "tu": 100747,
+   "den": 100906,
+   "raw": "<em class=\"immbds-cq\">“Nhà đầu tư có chiến lược quốc tịch thứ hai, ưu tiên tốc độ xét duyệt, tính linh hoạt đi lại và cơ hội mở rộng kinh doanh toàn cầu.”</em>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s350"
+  },
+  {
+   "tu": 101096,
+   "den": 101125,
+   "raw": "Nhận tư vấn lựa chọn quốc gia",
+   "loai": "cta",
+   "lop": "immbds-btn immbds-btn--big link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s351"
+  }
+ ]
+}

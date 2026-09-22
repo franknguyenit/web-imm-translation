@@ -1,0 +1,191 @@
+[s001] {1}01{/1}{2}Why international real estate{/2}
+[s002] {1}02{/1}{2}Your objective{/2}
+[s003] {1}03{/1}{2}Residency real estate (Europe){/2}
+[s004] {1}04{/1}{2}Citizenship projects{/2}
+[s005] {1}05{/1}{2}Compare the two routes{/2}
+[s006] IMM Group
+[s007] INTERNATIONAL REAL ESTATE
+[s008] International real estate is more than a store of value and a source of income in hard currency: it can also open permanent residence or a second citizenship for your whole family.
+[s009] {1}Explore the projects{/1}{2}explore{/2}
+[s010] Speak with an advisor
+[s013] Schengen travel on a European residence permit, and visa-free access to more than 140 destinations with a second citizenship
+[s015] Protect and grow your wealth
+[s016] Long-term ownership, a store of value, and income in hard currency (USD/EUR)
+[s017] diversity_3
+[s018] A benefit that passes down
+[s019] Permanent residence or a second citizenship for 2–3 generations
+[s020] {1}Scroll to explore{/1}{2}arrow_downward{/2}
+[s021] Why international real estate
+[s022] Property abroad can produce steady income in a hard currency while acting as a store of value and spreading risk, on the usual principle of portfolio diversification. Beyond the financial side, owning an asset in a market with clear property law — together with easier travel, the right of residence, or a fallback plan for the family — creates long-term value that goes beyond investment return alone.
+[s023] {1}01{/1}{2}{/2}{3}account_balance{/3}
+[s024] Diversify and protect your wealth
+[s025] Hold part of your wealth abroad, in a hard currency such as the US dollar or the euro.
+[s026] {1}02{/1}{2}{/2}{3}payments{/3}
+[s027] Income in hard currency
+[s028] Rental yields in these markets have typically run at about 3–5% a year, producing passive income.
+[s029] {1}03{/1}{2}{/2}{3}home_work{/3}
+[s030] More options on where to live
+[s031] Another home, and a fallback plan for the family, abroad.
+[s032] {1}04{/1}{2}{/2}{3}school{/3}
+[s033] Support for an international education
+[s034] A base for your children to study abroad, settle, and plan ahead.
+[s035] {1}05{/1}{2}{/2}{3}public{/3}
+[s036] Better international access
+[s037] Wider scope to travel, study, work, and live abroad.
+[s038] {1}06{/1}{2}{/2}{3}storefront{/3}
+[s039] Room to grow a business
+[s040] More scope to set up a company, trade, and reach new markets.
+[s041] {1}07{/1}{2}{/2}{3}beach_access{/3}
+[s042] A holiday home, or somewhere to retire
+[s043] A place to holiday, or to settle in later life, abroad.
+[s044] {1}08{/1}{2}{/2}{3}family_history{/3}
+[s045] Wealth for the next generation
+[s046] A real asset with long-term value that you can pass on.
+[s047] Choose by objective
+[s048] Two ways to own and invest in international real estate
+[s049] Depending on your financial objective and your plans for the family, you can take either of the two routes investors use most today.
+[s050] Route 1
+[s051] Real estate with residence rights
+[s052] Buy a property at the program's threshold to obtain a residence permit or permanent residence for you and your family, while keeping full ownership of the asset.
+[s053] {1}check_circle{/1}{2}Full ownership of the property, with the right to resell after the holding period{/2}
+[s054] {1}check_circle{/1}{2}Residence rights for your spouse, children, and parents (depending on the program){/2}
+[s055] {1}check_circle{/1}{2}Schengen travel under the European Golden Visa programs{/2}
+[s056] Investment threshold
+[s058] {1}See the projects{/1}{2}arrow_forward{/2}
+[s059] Route 2
+[s060] Real estate with citizenship
+[s061] Invest in a government-approved real estate project to obtain a second passport; processing is counted in months and most programs have no residence requirement.
+[s062] {1}check_circle{/1}{2}A second citizenship for the whole family, passed on to the next generation{/2}
+[s063] {1}check_circle{/1}{2}Processed in 4–8 months, with no residence or language requirement{/2}
+[s064] {1}check_circle{/1}{2}The right to resell the property or the project share after the required period{/2}
+[s068] Real estate & residence rights
+[s069] Projects on the residence route
+[s070] "Each country sets its own investment threshold, its own list of qualifying property, and its own residence rights. Choose a country to see the projects available."
+[s071] {1}🇬🇷{/1}{2}Greece{/2}{3}2{/3}
+[s072] {1}🇨🇾{/1}{2}Cyprus{/2}{3}10{/3}
+[s073] shield
+[s074] **The Greece Golden Visa:** a real estate investment from €250,000 for a change-of-use conversion, or €400,000 / €800,000 depending on the new zoning, gives European residence for 3 generations.
+[s075] {1}check_circle{/1}{2}Project reviewed by IMM Group's lawyers{/2}
+[s076] {1}{2}description{/2}Residence route{/1} {3}{4}check_circle{/4}{5}Units available{/5}{/3}
+[s077] {1}🇬🇷{/1}{2}Greece{/2}
+[s078] Kastella Bay premium apartments
+[s081] {1}apartment{/1}{2}{3}Property type{/3}{4}Apartments{/4}{/2}
+[s082] {1}handshake{/1}{2}{3}Investment type{/3}{4}100% freehold ownership{/4}{/2}
+[s085] Piraeus {1}open_in_new{/1}
+[s086] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}Golden Visa apartments{/4}{/2}
+[s087] {1}corporate_fare{/1}{2}{3}Developer{/3}{4}Arish Capital Partners{/4}{/2}
+[s088] Premium apartments beside the Mikrolimano marina, 12–15 minutes from central Athens. The project qualifies for the Golden Visa, opening a route to a Greek residence permit for the whole family, with Schengen travel.
+[s089] {1}Details{/1}{2}north_east{/2}
+[s093] Etolikou 11 serviced apartments
+[s101] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}158 apartments{/4}{/2}
+[s102] {1}corporate_fare{/1}{2}{3}Developer{/3}{4}MIBS Group{/4}{/2}
+[s103] A former industrial building converted into 158 serviced apartments in the heart of the port of Piraeus, with a rooftop pool, a gym, and 24/7 reception — suitable both to live in and to let.
+[s106] See all Greek properties
+[s108] **Cyprus permanent residence:** a new-build real estate investment from €300,000 plus VAT gives permanent residence for the whole family, with fast processing.
+[s111] {1}🇨🇾{/1}{2}Cyprus{/2}
+[s112] Elysia Blu premium apartments
+[s119] Paphos {1}open_in_new{/1}
+[s120] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}200 apartments{/4}{/2}
+[s121] {1}corporate_fare{/1}{2}{3}Developer{/3}{4}Pafilia{/4}{/2}
+[s122] Two- and three-bedroom apartments in central Paphos, Cyprus. Scale: 200 apartments. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s127] Beachside Villa seafront villas
+[s130] {1}apartment{/1}{2}{3}Property type{/3}{4}Villas{/4}{/2}
+[s134] Polis {1}open_in_new{/1}
+[s135] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}28 villas{/4}{/2}
+[s137] Premium seafront villas on the Mediterranean coast, near the town of Polis. Scale: 28 villas. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s142] Coral Vista villas
+[s150] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}19 villas{/4}{/2}
+[s152] Premium villas on the Peyia hilltop, Paphos. Scale: 19 villas. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s160] {1}apartment{/1}{2}{3}Property type{/3}{4}Villas & apartments{/4}{/2}
+[s164] Limassol {1}open_in_new{/1}
+[s165] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}Marina complex{/4}{/2}
+[s166] {1}corporate_fare{/1}{2}{3}Developer{/3}{4}Cybarco{/4}{/2}
+[s167] Luxury villas and apartments at Limassol Marina. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s172] Pafilia Plaza 5-star mixed-use apartments
+[s174] From €378,000
+[s180] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}82 apartments{/4}{/2}
+[s182] Five-star mixed-use apartments in central Paphos, Cyprus. Scale: 8 floors, 82 apartments. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s187] Konia Green villas and townhouses
+[s190] {1}apartment{/1}{2}{3}Property type{/3}{4}Villas & townhouses{/4}{/2}
+[s195] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}34 villas & 26 townhouses{/4}{/2}
+[s197] Detached villas and townhouses near central Paphos, Cyprus. Scale: 34 detached villas and 26 townhouses. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s202] Seaview Heights apartments and villas
+[s205] {1}apartment{/1}{2}{3}Property type{/3}{4}Apartments & villas{/4}{/2}
+[s210] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}81 apartments & 9 villas{/4}{/2}
+[s212] Premium apartments (1–3 bedrooms) and luxury villas (3–4 bedrooms) in Limassol, Cyprus. Scale: 81 apartments and 9 villas. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s217] Park Residences premium apartments
+[s224] Nicosia {1}open_in_new{/1}
+[s225] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}12 apartments{/4}{/2}
+[s227] Two- and three-bedroom premium apartments in Acropolis, Nicosia, Cyprus. Scale: a 4-story boutique building with 12 apartments in total. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s232] Centro Limassol premium apartments
+[s240] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}60 apartments{/4}{/2}
+[s242] One- and two-bedroom premium apartments in central Limassol, Cyprus. Scale: 60 apartments. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s247] Aktea Residences 4 premium apartments
+[s249] From €545,000
+[s255] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}4-story apartment building{/4}{/2}
+[s257] One- and two-bedroom premium apartments in central Limassol, Cyprus, 1 km from the sea. Scale: a 4-story boutique apartment building. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s260] See all Cyprus properties
+[s261] Investment & citizenship
+[s262] Real estate that leads straight to a second citizenship
+[s263] "Each country sets its own investment structure, its own threshold, and its own program conditions. Choose a country to see the projects available."
+[s264] {1}🇹🇷{/1}{2}Türkiye{/2}{3}1{/3}
+[s265] {1}🇩🇲{/1}{2}Dominica{/2}{3}1{/3}
+[s266] {1}🇬🇩{/1}{2}Grenada{/2}{3}1{/3}
+[s268] **Turkish citizenship:** invest from US$400,000 in real estate you own outright and hold it for 3 years; citizenship and passports follow in about 6–8 months.
+[s269] {1}{2}description{/2}Citizenship route{/1} {3}{4}check_circle{/4}{5}Units available{/5}{/3}
+[s270] {1}🇹🇷{/1}{2}Türkiye{/2}
+[s271] Axis Istanbul premium apartments
+[s278] Istanbul {1}open_in_new{/1}
+[s279] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}Apartments in a mixed-use complex{/4}{/2}
+[s280] {1}corporate_fare{/1}{2}{3}Developer{/3}{4}Sur Yapı{/4}{/2}
+[s281] Premium apartments in the Axis complex (Axis Mall, directly on the M1 metro line and the O-3 highway) in Istanbul's central business district, on the European side. Qualifies for the Turkey Citizenship by Investment program (real estate investment from US$400,000).
+[s284] More on Turkish citizenship
+[s286] **Dominica citizenship:** invest from US$200,000 in a share of a government-approved resort project and hold it for 3–5 years; passports follow in about 6–9 months.
+[s288] {1}🇩🇲{/1}{2}Dominica{/2}
+[s289] Secret Bay resort
+[s291] From US$212,000
+[s292] {1}apartment{/1}{2}{3}Property type{/3}{4}A share in a 6-star resort{/4}{/2}
+[s293] {1}handshake{/1}{2}{3}Investment type{/3}{4}A share in the project{/4}{/2}
+[s296] Portsmouth {1}open_in_new{/1}
+[s297] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}A share in a 6-star resort{/4}{/2}
+[s298] {1}corporate_fare{/1}{2}{3}Developer{/3}{4}GEMS Holding Ltd{/4}{/2}
+[s299] A share in the 6-star Secret Bay resort, developed by GEMS Holding, which is on the list of projects approved by the Government of Dominica. Qualifies for the Dominica Citizenship by Investment program under the real estate option.
+[s302] More on Dominica citizenship
+[s304] **Grenadian citizenship:** invest from US$270,000 in a share of an approved project and receive a Grenadian passport — Grenada is the only Caribbean country with an E-2 treaty with the United States.
+[s306] {1}🇬🇩{/1}{2}Grenada{/2}
+[s309] From US$270,000
+[s310] {1}apartment{/1}{2}{3}Property type{/3}{4}A share in a resort{/4}{/2}
+[s314] La Sagesse {1}open_in_new{/1}
+[s315] {1}aspect_ratio{/1}{2}{3}Size / scale{/3}{4}150 rooms{/4}{/2}
+[s316] {1}corporate_fare{/1}{2}{3}Developer{/3}{4}Range Developments{/4}{/2}
+[s317] A real estate share in the InterContinental resort (IHG, 150 rooms, developed by Range Developments) on La Sagesse beach in southern Grenada. Qualifies for the Grenada Citizenship by Investment program — Grenada is the only Caribbean country with an E-2 treaty with the United States.
+[s320] More on Grenadian citizenship
+[s321] Compare the two routes
+[s322] The two investment routes side by side
+[s323] Setting out the legal basis, the type of asset, and the countries involved helps a family pick the route that fits its long-term objective.
+[s324] {1}{2}shield{/2}{/1}{3}Residence rights{/3}
+[s325] {1}{2}language{/2}{/1}{3}Second citizenship{/3}
+[s326] Route
+[s327] Real estate with residence rights (Golden Visa / permanent residence)
+[s328] You own a qualifying property and receive a residence permit for the whole family.
+[s330] You invest in a government-approved project and receive a passport and full citizenship.
+[s332] {1}check_circle{/1}{2}Adds a lawful right of residence in the destination country{/2}
+[s333] A residence permit or permanent residence (PR) for the whole family
+[s334] Schengen and wider European travel; broader international travel overall
+[s335] A base for long-term study and living in the host country
+[s336] {1}check_circle{/1}{2}A second citizenship and passport{/2}
+[s337] Full citizenship rights, and wider international travel
+[s338] A global fallback plan for the whole family
+[s339] No minimum physical residence in the country you invest in
+[s340] The asset
+[s341] 100% freehold ownership of the property
+[s342] The title deed is in your own name — a premium apartment, a seafront villa, or a restoration or change-of-use project that qualifies for the program.
+[s343] Property ownership, or a share in a flagship project
+[s344] 100% ownership of an apartment (Türkiye), or a share in the project with projected annual returns (Dominica, Grenada).
+[s345] Countries available
+[s346] {1}{2}🇬🇷{/2}{3}Greece{/3}{/1}{4}{5}🇨🇾{/5}{6}Cyprus{/6}{/4}
+[s347] {1}{2}🇹🇷{/2}{3}Türkiye{/3}{/1}{4}{5}🇩🇲{/5}{6}Dominica{/6}{/4}{7}{8}🇬🇩{/8}{9}Grenada{/9}{/7}
+[s348] Suits
+[s349] "Families who want another place to live, an international standard of schooling for their children, and a real asset in Europe to pass on."
+[s350] "Investors following a second-citizenship strategy, who value processing speed, travel flexibility, and room to expand a business globally."
+[s351] Get help choosing a country

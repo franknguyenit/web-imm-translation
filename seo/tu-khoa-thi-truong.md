@@ -181,3 +181,21 @@ Mỗi việc dịch thêm điều học được. Ghi: ngày · việc · chươ
   và `buy apartment in istanbul` làm từ khoá phụ.
 - **`minimum investment in turkey for citizenship` là nhánh "con số"** — cùng mẫu với
   `… citizenship by investment cost` của Caribbean. Người tìm hỏi ngưỡng trước khi hỏi dự án.
+
+## Trang trục bất động sản quốc tế (22/09/2026) — hub của 15 trang dự án
+
+- **Hub có HAI nửa thì meta title phải chứa CẢ HAI cụm.** Trang này gồm nửa **cư trú** (Golden Visa Hy Lạp,
+  Thường trú nhân Síp) và nửa **quốc tịch** (Thổ Nhĩ Kỳ, Dominica, Grenada) ⇒
+  `Golden Visa & Citizenship by Real Estate Investment` (51 ký tự) phủ cả hai, và chứa nguyên cụm từ khoá chính
+  `citizenship by real estate investment`.
+- **Chọn cụm GỐC, không chọn biến thể có tên nước.** Gợi ý Google trả về hàng loạt
+  `<nước> citizenship by investment real estate` (cyprus, dominica, grenada, turkish, portugal, antigua) —
+  đó là từ khoá của **trang con**. Hub lấy **thân chung** `citizenship by real estate investment`, nếu không sẽ
+  giành truy vấn với chính trang dự án của mình.
+- **Nhánh "golden visa real estate" rất giàu nhưng nghiêng UAE/Dubai:** `dubai golden visa real estate price`,
+  `how to get uae golden visa real estate`, `golden visa real estate uae` đều 6/6 — IMM **không có sản phẩm
+  UAE** nên chỉ giữ `golden visa real estate` và `golden visa real estate greece` làm từ khoá phụ.
+- **Nhánh nghi ngờ/thuế của người mua nước ngoài:** `buying property overseas tax implications`,
+  `buying property abroad to avoid inheritance tax`, `can you buy a property in another country` — người đọc hub
+  đang ở giai đoạn **chưa chọn nước**, nên phần mở đầu trang nên trả lời "mua được không / thuế thế nào" hơn là
+  khoe dự án.

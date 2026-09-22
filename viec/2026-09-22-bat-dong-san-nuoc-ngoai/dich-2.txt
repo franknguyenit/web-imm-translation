@@ -1,0 +1,10 @@
+[s013] Visa-free travel in the Schengen area on a European residence permit, and visa-free access to more than 140 destinations with a second citizenship
+[s055] {1}check_circle{/1}{2}Travel in the Schengen area under the European Golden Visa programs{/2}
+[s074|#bo-qua-tn: nguồn gọi thẻ Golden Visa Hy Lạp là "thường trú nhân châu Âu"; thực tế là thẻ cư trú 5 năm, dịch "permanent residence" là sai dữ kiện — xem báo cáo] **The Greece Golden Visa:** a real estate investment from €250,000 for a change-of-use conversion, or €400,000 / €800,000 depending on the new zoning, gives European residence for 3 generations.
+[s088] Premium apartments beside the Mikrolimano marina, 12–15 minutes from central Athens. The project qualifies for the Golden Visa, opening a route to a Greek residence permit for the whole family, with travel in the Schengen area.
+[s227] 2- and 3-bedroom premium apartments in Acropolis, Nicosia, Cyprus. Scale: a 4-story boutique building with 12 apartments in total. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s242] 1- and 2-bedroom premium apartments in central Limassol, Cyprus. Scale: 60 apartments. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s257] 1- and 2-bedroom premium apartments in central Limassol, Cyprus, 1 km from the sea. Scale: a 4-story boutique apartment building. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s122] 2- and 3-bedroom apartments in central Paphos, Cyprus. Scale: 200 apartments. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s212] Premium apartments (1–3 bedrooms) and luxury villas (3–4 bedrooms) in Limassol, Cyprus. Scale: 81 apartments and 9 villas. Qualifies for Cyprus permanent residence (real estate investment from €300,000).
+[s334] Travel in the Schengen area and wider Europe; broader international travel overall
