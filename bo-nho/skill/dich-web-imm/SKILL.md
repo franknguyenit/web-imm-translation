@@ -75,3 +75,27 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
   thừa `/seo/*`.
 - **Trang chương trình dạng ACF product-2026 luôn có 2 cảnh báo cấu trúc** (H1→H3 ở hero, H2→H4 ở hỏi đáp) —
   do template quy định, không sửa được từ nội dung; ghi lý do vào báo cáo chứ đừng đổi cấp heading.
+- **Template HTML thuần trong theme (không ACF) — KHÔNG đưa cả tệp cho agent dịch, và KHÔNG dùng nhánh
+  `.html` của `dich.py`** (`tach_html` đập phẳng DOM, `src` rỗng → không ráp ngược vào template được).
+  Cách đúng (việc overview-usa-v2, 21/09/2026): `cong-cu/rut-layout.py rut` rút từng đoạn chữ kèm **vị trí
+  byte** trong tệp gốc → xuất JSON dạng ACF-giả (`bo-chuyen/theme-layout-2026.json`, tên trường `sXXX_<loại>`)
+  để chạy trọn 11 bước không phải sửa `dich.py` → `rut-layout.py nhet` ghi bản dịch về **đúng byte cũ**.
+  Máy chạm markup, người chạm chữ. Bàn giao: `bang-song-ngu.md` + `tmp-info.en.php` + `ban-dich-de-duyet.docx`
+  (CEO chốt: docx để duyệt, JSON chỉ khi upload ACF).
+- **Ba cửa kiểm bắt buộc cho việc ráp lại template:** (1) nhét chính bản tiếng Việt vào → tệp ra phải giống
+  tệp gốc **từng byte**; (2) đếm thẻ HTML bản Anh phải bằng bản gốc (chỉ khác `data-section` và href đã đổi);
+  (3) đo thật trên trình duyệt ở 375 · 577 · 700 · 768 · 1440px, so số ô xuống dòng + số phần tử tràn ngang
+  **với bản tiếng Việt** (bằng bản Việt là đạt, không cần bằng 0).
+- **Ngân sách ký tự của từng ô CSS phải nằm trong brief và trong lời giao cho B5/B6**, nếu không TM sẽ đẩy câu
+  dài làm vỡ ô (TM gợi `Investment amount` 17 ký tự cho ô `.stat-row-label` chỉ vừa 12). CSS thường đã
+  `text-transform: uppercase` → viết thường trong HTML.
+- **Bẫy của bộ rút chữ:** chạy cắt thẻ lẻ ở hai đầu đoạn chỉ được cắt khi thẻ **nằm sát mép**; so với "thẻ đầu
+  tiên/cuối cùng" sẽ nuốt mất đoạn chữ đứng sau `</svg>` (mất 3 đoạn: nhãn badge và 2 ô `pill-yes` "Có").
+  Luôn đối chiếu `difflib` giữa hai lần rút để biết đoạn nào mới.
+- **Trang trục (hub) chọn từ khoá khác trang chương trình:** `u.s. investor visa` phủ 6/6 thị trường và gộp
+  được cả đường thẻ xanh (EB-5, EB-1C) lẫn đường visa (L-1A, E-2); `eb-5 visa` chỉ hợp trang chương trình.
+- **Dữ kiện nguồn Việt của trang Mỹ hay lỗi thời:** "giữ vốn tối thiểu 5 năm" là mốc **tiền-RIA** (RIA 2022 +
+  USCIS Policy Manual Vol. 6 Part G 11/10/2024 chỉ còn **2 năm**); "15 ngày" của L-1A là **premium processing
+  15 ngày làm việc** có phí I-907; "không bị đánh thuế thu nhập toàn cầu" (E-2) sai vì substantial presence
+  test; "cư trú 3 năm" (AMIGOS Act) chỉ áp cho quốc tịch **có được bằng đầu tư**. Giữ đúng nguồn, đưa lên mục
+  "CEO quyết" — nhưng nói rõ bản tiếng Việt đang chạy cũng sai.

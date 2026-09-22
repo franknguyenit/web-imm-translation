@@ -1,0 +1,2795 @@
+{
+ "nguon": "/Users/mac/Studio/imm-1/wp-content/themes/immgroup/resources/templates/overview/usa/v2/tmp-info.php",
+ "doan": [
+  {
+   "tu": 137,
+   "den": 147,
+   "raw": "Hành Trình",
+   "loai": "p",
+   "lop": "section-indicator",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 271,
+   "den": 277,
+   "raw": "Mở Đầu",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Mở Đầu",
+   "id": "s002"
+  },
+  {
+   "tu": 608,
+   "den": 629,
+   "raw": "IMM GROUP · EST. 2005",
+   "loai": "p",
+   "lop": "badge badge-ghost-gold",
+   "the": "div",
+   "ngu_canh": "Mở Đầu",
+   "id": "s003"
+  },
+  {
+   "tu": 935,
+   "den": 956,
+   "raw": "Đầu Tư<br> Định Cư Mỹ",
+   "loai": "h1",
+   "lop": "reveal reveal-1 serif hero-h1 text-gold-grad",
+   "the": "h1",
+   "ngu_canh": "Mở Đầu",
+   "id": "s004"
+  },
+  {
+   "tu": 1200,
+   "den": 1253,
+   "raw": "Lộ trình lấy Thẻ xanh Mỹ diện doanh nhân &amp; đầu tư",
+   "loai": "p",
+   "lop": "reveal reveal-2",
+   "the": "p",
+   "ngu_canh": "Mở Đầu",
+   "id": "s005"
+  },
+  {
+   "tu": 2261,
+   "den": 2271,
+   "raw": "CUỘN XUỐNG",
+   "loai": "p",
+   "lop": "scroll-hint",
+   "the": "div",
+   "ngu_canh": "Mở Đầu",
+   "id": "s006"
+  },
+  {
+   "tu": 2526,
+   "den": 2540,
+   "raw": "Mốc Quan Trọng",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Mốc Quan Trọng",
+   "id": "s007"
+  },
+  {
+   "tu": 2817,
+   "den": 2851,
+   "raw": "Mốc quan trọng cho nhà đầu tư EB-5",
+   "loai": "p",
+   "lop": "reveal text-center mb-3 mb-xl-5",
+   "the": "div",
+   "ngu_canh": "Mốc Quan Trọng",
+   "id": "s008"
+  },
+  {
+   "tu": 3073,
+   "den": 3138,
+   "raw": "Hạn cuối nộp hồ sơ <span style=\"color:var(--red);\">I-526E</span>:",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Mốc Quan Trọng",
+   "id": "s009"
+  },
+  {
+   "tu": 3268,
+   "den": 3282,
+   "raw": "30 / 09 / 2026",
+   "loai": "p",
+   "lop": "serif",
+   "the": "div",
+   "ngu_canh": "Mốc Quan Trọng",
+   "id": "s010"
+  },
+  {
+   "tu": 3394,
+   "den": 3681,
+   "raw": "Khi đầu tư EB-5, thời điểm nộp hồ sơ là yếu tố then chốt để kiểm soát chi phí và rủi ro pháp lý. Mốc <strong style=\"color:var(--text);\">30/09/2026</strong> ảnh hưởng trực tiếp đến <strong style=\"color:var(--navy);\">mức vốn 800.000 USD</strong>, quyền lợi pháp lý và độ ổn định của hồ sơ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Mốc Quan Trọng",
+   "id": "s011"
+  },
+  {
+   "tu": 3896,
+   "den": 3991,
+   "raw": "<span style=\"color:var(--red); font-weight:700;\">!</span> Cơ chế Grandfathering — Bảo lưu hồ sơ",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Mốc Quan Trọng",
+   "id": "s012"
+  },
+  {
+   "tu": 4007,
+   "den": 4224,
+   "raw": "Theo RIA 2022, chỉ hồ sơ <strong style=\"color:var(--navy);\">I-526E</strong> nộp trước <strong style=\"color:var(--navy);\">30/09/2026</strong> được bảo lưu các điều kiện hiện hành nếu chương trình có điều chỉnh sau này.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Mốc Quan Trọng",
+   "id": "s013"
+  },
+  {
+   "tu": 4636,
+   "den": 4647,
+   "raw": "Giữ mức vốn",
+   "loai": "p",
+   "lop": "gi-label",
+   "the": "div",
+   "ngu_canh": "Mốc Quan Trọng",
+   "id": "s014"
+  },
+  {
+   "tu": 4686,
+   "den": 4697,
+   "raw": "800.000 USD",
+   "loai": "p",
+   "lop": "gi-value",
+   "the": "div",
+   "ngu_canh": "Mốc Quan Trọng",
+   "id": "s015"
+  },
+  {
+   "tu": 4997,
+   "den": 5009,
+   "raw": "Giữ tiêu chí",
+   "loai": "p",
+   "lop": "gi-label",
+   "the": "div",
+   "ngu_canh": "Mốc Quan Trọng",
+   "id": "s016"
+  },
+  {
+   "tu": 5048,
+   "den": 5073,
+   "raw": "Xét duyệt &amp; quyền lợi",
+   "loai": "p",
+   "lop": "gi-value",
+   "the": "div",
+   "ngu_canh": "Mốc Quan Trọng",
+   "id": "s017"
+  },
+  {
+   "tu": 5386,
+   "den": 5397,
+   "raw": "Miễn rủi ro",
+   "loai": "p",
+   "lop": "gi-label",
+   "the": "div",
+   "ngu_canh": "Mốc Quan Trọng",
+   "id": "s018"
+  },
+  {
+   "tu": 5436,
+   "den": 5455,
+   "raw": "Khi luật điều chỉnh",
+   "loai": "p",
+   "lop": "gi-value",
+   "the": "div",
+   "ngu_canh": "Mốc Quan Trọng",
+   "id": "s019"
+  },
+  {
+   "tu": 5646,
+   "den": 5658,
+   "raw": "Chương Trình",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Chương Trình",
+   "id": "s020"
+  },
+  {
+   "tu": 5848,
+   "den": 5857,
+   "raw": "Tổng quan",
+   "loai": "p",
+   "lop": "reveal eyebrow",
+   "the": "div",
+   "ngu_canh": "Chương Trình",
+   "id": "s021"
+  },
+  {
+   "tu": 6014,
+   "den": 6051,
+   "raw": "Các chương trình<br>đầu tư định cư Mỹ",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Chương Trình",
+   "id": "s022"
+  },
+  {
+   "tu": 6176,
+   "den": 6400,
+   "raw": "Mỗi chương trình cho nhà đầu tư &amp; doanh nhân muốn an cư tại Mỹ phù hợp với mục tiêu, năng lực tài chính và mô hình kinh doanh khác nhau. Có thể chia thành 2 nhóm: đầu tư lấy thẻ xanh trực tiếp và định cư diện doanh nhân.",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Chương Trình",
+   "id": "s023"
+  },
+  {
+   "tu": 6567,
+   "den": 6573,
+   "raw": "Nhóm A",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Nhóm A",
+   "id": "s024"
+  },
+  {
+   "tu": 6607,
+   "den": 6608,
+   "raw": "A",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s025"
+  },
+  {
+   "tu": 6728,
+   "den": 6773,
+   "raw": "<span class=\"num\">A</span> Thẻ xanh trực tiếp",
+   "loai": "p",
+   "lop": "reveal eyebrow on-dark",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s026"
+  },
+  {
+   "tu": 6923,
+   "den": 7013,
+   "raw": "Đầu tư thẻ xanh Mỹ trực tiếp<br><span style=\"color:var(--gold-soft);\">(EB-5, EB-1C)</span>",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Nhóm A",
+   "id": "s027"
+  },
+  {
+   "tu": 7155,
+   "den": 7253,
+   "raw": "Chương trình cấp thẻ xanh Mỹ vĩnh viễn trực tiếp cho nhà đầu tư cùng vợ/chồng và con dưới 21 tuổi.",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Nhóm A",
+   "id": "s028"
+  },
+  {
+   "tu": 7440,
+   "den": 7444,
+   "raw": "EB-5",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s029"
+  },
+  {
+   "tu": 7467,
+   "den": 7483,
+   "raw": "ĐẦU TƯ QUA DỰ ÁN",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s030"
+  },
+  {
+   "tu": 7765,
+   "den": 7770,
+   "raw": "EB-1C",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s031"
+  },
+  {
+   "tu": 7793,
+   "den": 7806,
+   "raw": "CÓ CÔNG TY MỸ",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s032"
+  },
+  {
+   "tu": 8166,
+   "den": 8170,
+   "raw": "EB-5",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "EB-5",
+   "id": "s033"
+  },
+  {
+   "tu": 8230,
+   "den": 8232,
+   "raw": "01",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s034"
+  },
+  {
+   "tu": 8330,
+   "den": 8378,
+   "raw": "<span class=\"num\">01</span> Nhóm A · Lựa chọn 01",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s035"
+  },
+  {
+   "tu": 8458,
+   "den": 8462,
+   "raw": "EB-5",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s036"
+  },
+  {
+   "tu": 8585,
+   "den": 8595,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s037"
+  },
+  {
+   "tu": 8629,
+   "den": 8640,
+   "raw": "800.000 USD",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s038"
+  },
+  {
+   "tu": 8673,
+   "den": 8683,
+   "raw": "(~19,2 tỷ)",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s039"
+  },
+  {
+   "tu": 8757,
+   "den": 8765,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s040"
+  },
+  {
+   "tu": 8799,
+   "den": 8810,
+   "raw": "Thẻ xanh Mỹ",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s041"
+  },
+  {
+   "tu": 8843,
+   "den": 8852,
+   "raw": "vĩnh viễn",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s042"
+  },
+  {
+   "tu": 8926,
+   "den": 8935,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s043"
+  },
+  {
+   "tu": 8969,
+   "den": 8978,
+   "raw": "1,5 – 2,5",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s044"
+  },
+  {
+   "tu": 9011,
+   "den": 9014,
+   "raw": "năm",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s045"
+  },
+  {
+   "tu": 9253,
+   "den": 9269,
+   "raw": "Hình thức đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s046"
+  },
+  {
+   "tu": 9285,
+   "den": 9351,
+   "raw": "Đầu tư vào dự án thỏa điều kiện của Sở Di trú Mỹ, tối thiểu 5 năm.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "EB-5",
+   "id": "s047"
+  },
+  {
+   "tu": 9430,
+   "den": 9447,
+   "raw": "Đặc quyền nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s048"
+  },
+  {
+   "tu": 9666,
+   "den": 9718,
+   "raw": "Thẻ xanh cho đương đơn + vợ/chồng + con dưới 21 tuổi",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s049"
+  },
+  {
+   "tu": 9910,
+   "den": 9964,
+   "raw": "Tự do sinh sống, làm việc, học tập tại mọi bang của Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s050"
+  },
+  {
+   "tu": 10156,
+   "den": 10236,
+   "raw": "Hưởng đầy đủ phúc lợi y tế, giáo dục, an sinh như công dân Mỹ (trừ quyền bầu cử)",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s051"
+  },
+  {
+   "tu": 10428,
+   "den": 10469,
+   "raw": "Con học miễn phí trường công đến hết THPT",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s052"
+  },
+  {
+   "tu": 10661,
+   "den": 10711,
+   "raw": "Học đại học với mức chi phí chỉ bằng ⅓ du học sinh",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s053"
+  },
+  {
+   "tu": 10903,
+   "den": 10964,
+   "raw": "Sau 5 năm có thẻ xanh, đủ điều kiện nộp đơn nhập quốc tịch Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s054"
+  },
+  {
+   "tu": 11276,
+   "den": 11293,
+   "raw": "Hạn chế cần lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s055"
+  },
+  {
+   "tu": 11461,
+   "den": 11522,
+   "raw": "Không phải visa nhanh — nhà đầu tư cần chờ đến lượt xét duyệt",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-5",
+   "id": "s056"
+  },
+  {
+   "tu": 11672,
+   "den": 11686,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "EB-5",
+   "id": "s057"
+  },
+  {
+   "tu": 11934,
+   "den": 11946,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "EB-5",
+   "id": "s058"
+  },
+  {
+   "tu": 12116,
+   "den": 12121,
+   "raw": "EB-1C",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "EB-1C",
+   "id": "s059"
+  },
+  {
+   "tu": 12181,
+   "den": 12183,
+   "raw": "02",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s060"
+  },
+  {
+   "tu": 12281,
+   "den": 12329,
+   "raw": "<span class=\"num\">02</span> Nhóm A · Lựa chọn 02",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s061"
+  },
+  {
+   "tu": 12409,
+   "den": 12414,
+   "raw": "EB-1C",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s062"
+  },
+  {
+   "tu": 12537,
+   "den": 12547,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s063"
+  },
+  {
+   "tu": 12581,
+   "den": 12592,
+   "raw": "Tùy mô hình",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s064"
+  },
+  {
+   "tu": 12625,
+   "den": 12635,
+   "raw": "kinh doanh",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s065"
+  },
+  {
+   "tu": 12709,
+   "den": 12717,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s066"
+  },
+  {
+   "tu": 12751,
+   "den": 12762,
+   "raw": "Thẻ xanh Mỹ",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s067"
+  },
+  {
+   "tu": 12795,
+   "den": 12804,
+   "raw": "vĩnh viễn",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s068"
+  },
+  {
+   "tu": 12878,
+   "den": 12887,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s069"
+  },
+  {
+   "tu": 12921,
+   "den": 12925,
+   "raw": "Từ 6",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s070"
+  },
+  {
+   "tu": 12958,
+   "den": 12963,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s071"
+  },
+  {
+   "tu": 13202,
+   "den": 13218,
+   "raw": "Hình thức đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s072"
+  },
+  {
+   "tu": 13234,
+   "den": 13336,
+   "raw": "Đã có công ty tại Mỹ hoạt động tối thiểu 1 năm, kinh doanh hiệu quả và có kế hoạch phát triển khả thi.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "EB-1C",
+   "id": "s073"
+  },
+  {
+   "tu": 13415,
+   "den": 13432,
+   "raw": "Đặc quyền nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s074"
+  },
+  {
+   "tu": 13651,
+   "den": 13703,
+   "raw": "Thẻ xanh cho đương đơn + vợ/chồng + con dưới 21 tuổi",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s075"
+  },
+  {
+   "tu": 13895,
+   "den": 13949,
+   "raw": "Tự do sinh sống, làm việc, học tập tại mọi bang của Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s076"
+  },
+  {
+   "tu": 14141,
+   "den": 14215,
+   "raw": "Đầy đủ phúc lợi y tế, giáo dục, an sinh như công dân Mỹ (trừ quyền bầu cử)",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s077"
+  },
+  {
+   "tu": 14407,
+   "den": 14448,
+   "raw": "Con học miễn phí trường công đến hết THPT",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s078"
+  },
+  {
+   "tu": 14640,
+   "den": 14686,
+   "raw": "Học đại học với chi phí chỉ bằng ⅓ du học sinh",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s079"
+  },
+  {
+   "tu": 14878,
+   "den": 14939,
+   "raw": "Sau 5 năm có thẻ xanh, đủ điều kiện nộp đơn nhập quốc tịch Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s080"
+  },
+  {
+   "tu": 15251,
+   "den": 15268,
+   "raw": "Hạn chế cần lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s081"
+  },
+  {
+   "tu": 15436,
+   "den": 15489,
+   "raw": "Chỉ dành cho nhà đầu tư đã sở hữu doanh nghiệp tại Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s082"
+  },
+  {
+   "tu": 15663,
+   "den": 15737,
+   "raw": "Khó chứng minh vai trò và sự cần thiết của nhà đầu tư đối với doanh nghiệp",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "EB-1C",
+   "id": "s083"
+  },
+  {
+   "tu": 15895,
+   "den": 15909,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "EB-1C",
+   "id": "s084"
+  },
+  {
+   "tu": 16162,
+   "den": 16174,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "EB-1C",
+   "id": "s085"
+  },
+  {
+   "tu": 16351,
+   "den": 16357,
+   "raw": "Nhóm B",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Nhóm B",
+   "id": "s086"
+  },
+  {
+   "tu": 16391,
+   "den": 16392,
+   "raw": "B",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s087"
+  },
+  {
+   "tu": 16516,
+   "den": 16601,
+   "raw": "<span class=\"num\" style=\"background:#fff; color:var(--red);\">B</span> Diện doanh nhân",
+   "loai": "p",
+   "lop": "reveal eyebrow",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s088"
+  },
+  {
+   "tu": 16751,
+   "den": 16837,
+   "raw": "Định cư Mỹ diện doanh nhân<br><span style=\"color:var(--gold-soft);\">(L-1A, E-2)</span>",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Nhóm B",
+   "id": "s089"
+  },
+  {
+   "tu": 16979,
+   "den": 17100,
+   "raw": "Hai chương trình visa dành cho doanh nhân sang Mỹ điều hành / vận hành kinh doanh, có thể tiến đến thẻ xanh sau lộ trình.",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Nhóm B",
+   "id": "s090"
+  },
+  {
+   "tu": 17287,
+   "den": 17291,
+   "raw": "L-1A",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s091"
+  },
+  {
+   "tu": 17314,
+   "den": 17366,
+   "raw": "NHANH NHẤT <span class=\"text-primary\">15</span> NGÀY",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s092"
+  },
+  {
+   "tu": 17646,
+   "den": 17649,
+   "raw": "E-2",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s093"
+  },
+  {
+   "tu": 17672,
+   "den": 17723,
+   "raw": "XÉT DUYỆT <span class=\"text-primary\">6</span> THÁNG",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s094"
+  },
+  {
+   "tu": 18083,
+   "den": 18087,
+   "raw": "L-1A",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "L-1A",
+   "id": "s095"
+  },
+  {
+   "tu": 18147,
+   "den": 18149,
+   "raw": "03",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s096"
+  },
+  {
+   "tu": 18247,
+   "den": 18295,
+   "raw": "<span class=\"num\">03</span> Nhóm B · Lựa chọn 03",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s097"
+  },
+  {
+   "tu": 18375,
+   "den": 18379,
+   "raw": "L-1A",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s098"
+  },
+  {
+   "tu": 18502,
+   "den": 18512,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s099"
+  },
+  {
+   "tu": 18546,
+   "den": 18557,
+   "raw": "Tùy mô hình",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s100"
+  },
+  {
+   "tu": 18590,
+   "den": 18600,
+   "raw": "kinh doanh",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s101"
+  },
+  {
+   "tu": 18674,
+   "den": 18683,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s102"
+  },
+  {
+   "tu": 18717,
+   "den": 18718,
+   "raw": "3",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s103"
+  },
+  {
+   "tu": 18751,
+   "den": 18756,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s104"
+  },
+  {
+   "tu": 18830,
+   "den": 18840,
+   "raw": "Nhanh nhất",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s105"
+  },
+  {
+   "tu": 18900,
+   "den": 18902,
+   "raw": "15",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s106"
+  },
+  {
+   "tu": 18935,
+   "den": 18939,
+   "raw": "ngày",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s107"
+  },
+  {
+   "tu": 19182,
+   "den": 19190,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s108"
+  },
+  {
+   "tu": 19238,
+   "den": 19282,
+   "raw": "Sang Mỹ điều hành công ty con &amp; làm việc",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "L-1A",
+   "id": "s109"
+  },
+  {
+   "tu": 19300,
+   "den": 19325,
+   "raw": "Cho con hưởng giáo dục Mỹ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "L-1A",
+   "id": "s110"
+  },
+  {
+   "tu": 19569,
+   "den": 19585,
+   "raw": "Hình thức đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s111"
+  },
+  {
+   "tu": 19601,
+   "den": 19698,
+   "raw": "Lập công ty con tại Mỹ, điều chuyển nhân sự cấp cao từ công ty mẹ Việt Nam sang quản lý vận hành.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "L-1A",
+   "id": "s112"
+  },
+  {
+   "tu": 19921,
+   "den": 19939,
+   "raw": "Yêu cầu về công ty",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s113"
+  },
+  {
+   "tu": 19987,
+   "den": 20056,
+   "raw": "Công ty mẹ Việt Nam: quy mô lớn, đủ năng lực tài chính đầu tư sang Mỹ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "L-1A",
+   "id": "s114"
+  },
+  {
+   "tu": 20074,
+   "den": 20165,
+   "raw": "Công ty Mỹ: là công ty con hoặc đồng sở hữu, quy mô đủ lớn để cần nhân sự cấp cao điều hành",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "L-1A",
+   "id": "s115"
+  },
+  {
+   "tu": 20438,
+   "den": 20456,
+   "raw": "Yêu cầu nhà đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s116"
+  },
+  {
+   "tu": 20504,
+   "den": 20559,
+   "raw": "Đang giữ vị trí quản lý cấp cao tại công ty mẹ Việt Nam",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "L-1A",
+   "id": "s117"
+  },
+  {
+   "tu": 20577,
+   "den": 20632,
+   "raw": "Đủ năng lực và kinh nghiệm điều hành công ty con tại Mỹ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "L-1A",
+   "id": "s118"
+  },
+  {
+   "tu": 20724,
+   "den": 20741,
+   "raw": "Đặc quyền nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s119"
+  },
+  {
+   "tu": 20960,
+   "den": 21003,
+   "raw": "Xét duyệt cực nhanh — tối thiểu chỉ 15 ngày",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s120"
+  },
+  {
+   "tu": 21195,
+   "den": 21242,
+   "raw": "Cả gia đình sinh sống, học tập, làm việc tại Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s121"
+  },
+  {
+   "tu": 21434,
+   "den": 21488,
+   "raw": "Con dưới 21 tuổi học miễn phí trường công đến hết THPT",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s122"
+  },
+  {
+   "tu": 21680,
+   "den": 21763,
+   "raw": "Sau 1 năm kinh doanh hiệu quả, có thể xin EB-1C — tiến đến thẻ xanh và quốc tịch Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s123"
+  },
+  {
+   "tu": 22075,
+   "den": 22092,
+   "raw": "Hạn chế cần lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s124"
+  },
+  {
+   "tu": 22260,
+   "den": 22321,
+   "raw": "Phải chứng minh kinh doanh hiệu quả từ năm đầu mới được ở lại",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s125"
+  },
+  {
+   "tu": 22495,
+   "den": 22571,
+   "raw": "Visa thời hạn 1-3 năm, tối đa 7 năm — gia hạn phụ thuộc hoạt động kinh doanh",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "L-1A",
+   "id": "s126"
+  },
+  {
+   "tu": 22727,
+   "den": 22741,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "L-1A",
+   "id": "s127"
+  },
+  {
+   "tu": 22983,
+   "den": 22995,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "L-1A",
+   "id": "s128"
+  },
+  {
+   "tu": 23160,
+   "den": 23163,
+   "raw": "E-2",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "E-2",
+   "id": "s129"
+  },
+  {
+   "tu": 23223,
+   "den": 23225,
+   "raw": "04",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s130"
+  },
+  {
+   "tu": 23323,
+   "den": 23371,
+   "raw": "<span class=\"num\">04</span> Nhóm B · Lựa chọn 04",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s131"
+  },
+  {
+   "tu": 23451,
+   "den": 23454,
+   "raw": "E-2",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s132"
+  },
+  {
+   "tu": 23577,
+   "den": 23587,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s133"
+  },
+  {
+   "tu": 23621,
+   "den": 23633,
+   "raw": "100–150K USD",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s134"
+  },
+  {
+   "tu": 23666,
+   "den": 23677,
+   "raw": "tùy mô hình",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s135"
+  },
+  {
+   "tu": 23751,
+   "den": 23760,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s136"
+  },
+  {
+   "tu": 23794,
+   "den": 23795,
+   "raw": "6",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s137"
+  },
+  {
+   "tu": 23828,
+   "den": 23833,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s138"
+  },
+  {
+   "tu": 23907,
+   "den": 23911,
+   "raw": "Visa",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s139"
+  },
+  {
+   "tu": 23945,
+   "den": 23950,
+   "raw": "2 – 5",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s140"
+  },
+  {
+   "tu": 23983,
+   "den": 23986,
+   "raw": "năm",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s141"
+  },
+  {
+   "tu": 24229,
+   "den": 24254,
+   "raw": "Phù hợp với gia đình muốn",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s142"
+  },
+  {
+   "tu": 24302,
+   "den": 24338,
+   "raw": "Cư trú Mỹ để kinh doanh &amp; đầu tư",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "E-2",
+   "id": "s143"
+  },
+  {
+   "tu": 24356,
+   "den": 24381,
+   "raw": "Cho con hưởng giáo dục Mỹ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "E-2",
+   "id": "s144"
+  },
+  {
+   "tu": 24399,
+   "den": 24420,
+   "raw": "KHÔNG định cư lâu dài",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "E-2",
+   "id": "s145"
+  },
+  {
+   "tu": 24438,
+   "den": 24474,
+   "raw": "Tránh bị đánh thuế thu nhập toàn cầu",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "E-2",
+   "id": "s146"
+  },
+  {
+   "tu": 24718,
+   "den": 24734,
+   "raw": "Hình thức đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s147"
+  },
+  {
+   "tu": 24750,
+   "den": 24797,
+   "raw": "Đầu tư vào doanh nghiệp mới hoặc sẵn có tại Mỹ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "E-2",
+   "id": "s148"
+  },
+  {
+   "tu": 25039,
+   "den": 25057,
+   "raw": "Điều kiện đặc biệt",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s149"
+  },
+  {
+   "tu": 25225,
+   "den": 25307,
+   "raw": "Yêu cầu có quốc tịch nước có Hiệp ước E-2 với Mỹ: Grenada, Thổ Nhĩ Kỳ, Montenegro…",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s150"
+  },
+  {
+   "tu": 25481,
+   "den": 25543,
+   "raw": "Cư trú tối thiểu 3 năm liên tiếp tại nước đó trước khi xin E-2",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s151"
+  },
+  {
+   "tu": 25630,
+   "den": 25647,
+   "raw": "Đặc quyền nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s152"
+  },
+  {
+   "tu": 25866,
+   "den": 25947,
+   "raw": "Đương đơn cùng vợ/chồng và con dưới 21 tuổi sang Mỹ làm việc, kinh doanh, học tập",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s153"
+  },
+  {
+   "tu": 26139,
+   "den": 26182,
+   "raw": "Sở hữu doanh nghiệp tại Mỹ để thu lợi nhuận",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s154"
+  },
+  {
+   "tu": 26374,
+   "den": 26423,
+   "raw": "Không bị đánh thuế thu nhập toàn cầu theo luật Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s155"
+  },
+  {
+   "tu": 26615,
+   "den": 26656,
+   "raw": "Con học miễn phí trường công đến hết THPT",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s156"
+  },
+  {
+   "tu": 26968,
+   "den": 26985,
+   "raw": "Hạn chế cần lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s157"
+  },
+  {
+   "tu": 27153,
+   "den": 27217,
+   "raw": "Bắt buộc có quốc tịch nước thuộc Hiệp ước E-2 và cư trú đủ 3 năm",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s158"
+  },
+  {
+   "tu": 27391,
+   "den": 27460,
+   "raw": "Visa thời hạn 2-5 năm — gia hạn phụ thuộc hoạt động kinh doanh tại Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "E-2",
+   "id": "s159"
+  },
+  {
+   "tu": 27616,
+   "den": 27630,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "E-2",
+   "id": "s160"
+  },
+  {
+   "tu": 27871,
+   "den": 27883,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "E-2",
+   "id": "s161"
+  },
+  {
+   "tu": 28031,
+   "den": 28038,
+   "raw": "So Sánh",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "So Sánh",
+   "id": "s162"
+  },
+  {
+   "tu": 28252,
+   "den": 28260,
+   "raw": "Tổng kết",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "So Sánh",
+   "id": "s163"
+  },
+  {
+   "tu": 28405,
+   "den": 28462,
+   "raw": "Bảng so sánh nhanh<br> các chương trình đầu tư định cư Mỹ",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "So Sánh",
+   "id": "s164"
+  },
+  {
+   "tu": 28651,
+   "den": 28663,
+   "raw": "Chương trình",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s165"
+  },
+  {
+   "tu": 28672,
+   "den": 28682,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s166"
+  },
+  {
+   "tu": 28691,
+   "den": 28699,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s167"
+  },
+  {
+   "tu": 28708,
+   "den": 28727,
+   "raw": "Thời gian xét duyệt",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s168"
+  },
+  {
+   "tu": 28736,
+   "den": 28753,
+   "raw": "Đối tượng phù hợp",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s169"
+  },
+  {
+   "tu": 28774,
+   "den": 28792,
+   "raw": "Thẻ xanh trực tiếp",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s170"
+  },
+  {
+   "tu": 28888,
+   "den": 28920,
+   "raw": "<span class=\"star\">★</span> EB-5",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s171"
+  },
+  {
+   "tu": 28944,
+   "den": 28966,
+   "raw": "800.000 USD (~19,2 tỷ)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s172"
+  },
+  {
+   "tu": 28990,
+   "den": 29001,
+   "raw": "Thẻ xanh Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s173"
+  },
+  {
+   "tu": 29025,
+   "den": 29038,
+   "raw": "1,5 – 2,5 năm",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s174"
+  },
+  {
+   "tu": 29062,
+   "den": 29133,
+   "raw": "Nhà đầu tư muốn nhận thẻ xanh trực tiếp, không cần điều hành kinh doanh",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s175"
+  },
+  {
+   "tu": 29301,
+   "den": 29303,
+   "raw": "Có",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s176"
+  },
+  {
+   "tu": 29369,
+   "den": 29402,
+   "raw": "<span class=\"star\">★</span> EB-1C",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s177"
+  },
+  {
+   "tu": 29426,
+   "den": 29448,
+   "raw": "Tùy mô hình kinh doanh",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s178"
+  },
+  {
+   "tu": 29472,
+   "den": 29483,
+   "raw": "Thẻ xanh Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s179"
+  },
+  {
+   "tu": 29507,
+   "den": 29517,
+   "raw": "Từ 6 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s180"
+  },
+  {
+   "tu": 29541,
+   "den": 29584,
+   "raw": "Nhà đầu tư đã có doanh nghiệp tại Mỹ ≥1 năm",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s181"
+  },
+  {
+   "tu": 29752,
+   "den": 29754,
+   "raw": "Có",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s182"
+  },
+  {
+   "tu": 29820,
+   "den": 29852,
+   "raw": "<span class=\"star\">★</span> L-1A",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s183"
+  },
+  {
+   "tu": 29876,
+   "den": 29898,
+   "raw": "Tùy mô hình kinh doanh",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s184"
+  },
+  {
+   "tu": 29922,
+   "den": 29948,
+   "raw": "Visa cư trú &amp; làm việc",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s185"
+  },
+  {
+   "tu": 29972,
+   "den": 30000,
+   "raw": "3 tháng (nhanh nhất 15 ngày)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s186"
+  },
+  {
+   "tu": 30024,
+   "den": 30084,
+   "raw": "Quản lý cấp cao công ty VN sang điều hành công ty con tại Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s187"
+  },
+  {
+   "tu": 30120,
+   "den": 30175,
+   "raw": "<span class=\"pill-waiting\">Gián tiếp (qua EB-1C)</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s188"
+  },
+  {
+   "tu": 30234,
+   "den": 30265,
+   "raw": "<span class=\"star\">★</span> E-2",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s189"
+  },
+  {
+   "tu": 30289,
+   "den": 30318,
+   "raw": "Tối thiểu 100.000–150.000 USD",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s190"
+  },
+  {
+   "tu": 30342,
+   "den": 30370,
+   "raw": "Visa cư trú &amp; kinh doanh",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s191"
+  },
+  {
+   "tu": 30394,
+   "den": 30401,
+   "raw": "6 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s192"
+  },
+  {
+   "tu": 30425,
+   "den": 30481,
+   "raw": "Gia đình muốn cư trú Mỹ, kinh doanh, tránh thuế toàn cầu",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s193"
+  },
+  {
+   "tu": 30517,
+   "den": 30553,
+   "raw": "<span class=\"pill-cond\">Không</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s194"
+  },
+  {
+   "tu": 30722,
+   "den": 30874,
+   "raw": "<span class=\"star\">★</span> Chương trình IMM Group tư vấn<br> &nbsp;·&nbsp; <span style=\"font-style:italic;\">← Vuốt ngang để xem đầy đủ các cột →</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "So Sánh",
+   "id": "s195"
+  },
+  {
+   "tu": 31111,
+   "den": 31116,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "So Sánh",
+   "id": "s196"
+  },
+  {
+   "tu": 31183,
+   "den": 31352,
+   "raw": "IMM Group chỉ tư vấn các chương trình doanh nhân – đầu tư (EB-5, EB-1C, L-1A, E-2). Không tư vấn diện xuất khẩu lao động, tay nghề hoặc lao động phổ thông (EB-3, H-1B…).",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "So Sánh",
+   "id": "s197"
+  },
+  {
+   "tu": 31537,
+   "den": 31551,
+   "raw": "Đăng ký tư vấn",
+   "loai": "cta",
+   "lop": "btn-primary link-to w-100",
+   "the": "a",
+   "ngu_canh": "So Sánh",
+   "id": "s198"
+  },
+  {
+   "tu": 31833,
+   "den": 31843,
+   "raw": "Vì Sao IMM",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s199"
+  },
+  {
+   "tu": 31877,
+   "den": 31880,
+   "raw": "IMM",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s200"
+  },
+  {
+   "tu": 32188,
+   "den": 32210,
+   "raw": "Vì sao chọn IMM Group?",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s201"
+  },
+  {
+   "tu": 32321,
+   "den": 32545,
+   "raw": "IMM Group — Đơn vị tư vấn đầu tư định cư tiên phong, giàu kinh nghiệm thực chiến, minh bạch, chính trực và bảo vệ lợi ích khách hàng đến cùng. <strong style=\"color:var(--gold-soft);\">Phục Vụ Bằng Giá Trị Chân Chính.</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s202"
+  },
+  {
+   "tu": 32694,
+   "den": 32718,
+   "raw": "<span class=\"n\">1</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s203"
+  },
+  {
+   "tu": 32739,
+   "den": 32795,
+   "raw": "Tiên phong với sứ mệnh \"Phục vụ bằng giá trị chân chính\"",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s204"
+  },
+  {
+   "tu": 32860,
+   "den": 32932,
+   "raw": "21+ năm tiên phong trong tư vấn đầu tư định cư tại Việt Nam (từ 01/2005)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s205"
+  },
+  {
+   "tu": 32952,
+   "den": 32994,
+   "raw": "Bộ hồ sơ EB-5 đầu tiên thành công năm 2008",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s206"
+  },
+  {
+   "tu": 33014,
+   "den": 33061,
+   "raw": "Đặt lợi ích khách hàng lên trên lợi ích công ty",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s207"
+  },
+  {
+   "tu": 33081,
+   "den": 33167,
+   "raw": "Sẵn sàng hoàn phí khi rủi ro khách quan xảy ra (chương trình thay đổi / dừng đột ngột)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s208"
+  },
+  {
+   "tu": 33187,
+   "den": 33260,
+   "raw": "Bảo mật thông tin cá nhân theo tiêu chuẩn cao nhất, ký NDA với khách hàng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s209"
+  },
+  {
+   "tu": 33401,
+   "den": 33425,
+   "raw": "<span class=\"n\">2</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s210"
+  },
+  {
+   "tu": 33446,
+   "den": 33483,
+   "raw": "Tư vấn chuyên nghiệp &amp; khách quan",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s211"
+  },
+  {
+   "tu": 33548,
+   "den": 33641,
+   "raw": "Tư duy \"Professional Consulting\" — không chốt deal nhanh, không quảng cáo \"thẻ xanh siêu tốc\"",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s212"
+  },
+  {
+   "tu": 33661,
+   "den": 33760,
+   "raw": "Danh mục chương trình đa dạng bậc nhất: Mỹ, Úc, Canada, Châu Âu, Caribbean, Thổ Nhĩ Kỳ, New Zealand",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s213"
+  },
+  {
+   "tu": 33780,
+   "den": 33851,
+   "raw": "Đơn vị Việt Nam đầu tiên hoàn chỉnh gói dịch vụ tư vấn định cư toàn cầu",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s214"
+  },
+  {
+   "tu": 33871,
+   "den": 33960,
+   "raw": "\"May đo\" giải pháp theo mục tiêu, tài chính, kinh nghiệm và nguyện vọng của từng gia đình",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s215"
+  },
+  {
+   "tu": 33980,
+   "den": 34043,
+   "raw": "Triết lý \"Ít nhưng Chất\" — chủ động sàng lọc khách hàng phù hợp",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s216"
+  },
+  {
+   "tu": 34184,
+   "den": 34208,
+   "raw": "<span class=\"n\">3</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s217"
+  },
+  {
+   "tu": 34229,
+   "den": 34275,
+   "raw": "Chuyên môn đẳng cấp quốc tế — đối tác toàn cầu",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s218"
+  },
+  {
+   "tu": 34340,
+   "den": 34411,
+   "raw": "Cố vấn độc quyền: nguyên Trưởng bộ phận xét duyệt EB-5 tại Sở Di trú Mỹ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s219"
+  },
+  {
+   "tu": 34431,
+   "den": 34505,
+   "raw": "Luật sư Mỹ xếp hạng \"AV\" — mức đánh giá cao nhất về năng lực và chính trực",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s220"
+  },
+  {
+   "tu": 34525,
+   "den": 34668,
+   "raw": "Chuyên viên đạt chứng chỉ IMC (Hội đồng Đầu tư Định cư Quốc tế) — đào tạo 6 tháng, kiểm định chống rửa tiền, bảo mật &amp; thẩm định khách hàng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s221"
+  },
+  {
+   "tu": 34688,
+   "den": 34736,
+   "raw": "Thành viên chính thức IIUSA (Hiệp hội Đầu tư Mỹ)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s222"
+  },
+  {
+   "tu": 34756,
+   "den": 34926,
+   "raw": "Đối tác chiến lược các Trung tâm vùng EB-5 uy tín: EB5 Capital (tỷ lệ chấp thuận 100%, hoàn vốn đúng hạn), CanAm Enterprises (đã hoàn trả thành công $2.5 tỷ USD vốn EB-5)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s223"
+  },
+  {
+   "tu": 35067,
+   "den": 35091,
+   "raw": "<span class=\"n\">4</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s224"
+  },
+  {
+   "tu": 35112,
+   "den": 35152,
+   "raw": "Vị thế được Chính phủ các nước công nhận",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s225"
+  },
+  {
+   "tu": 35217,
+   "den": 35373,
+   "raw": "Công ty Việt Nam đầu tiên và duy nhất được Chính phủ Grenada, St. Kitts &amp; Nevis, Dominica cấp phép tư vấn và trực tiếp thụ lý hồ sơ đầu tư lấy quốc tịch",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s226"
+  },
+  {
+   "tu": 35393,
+   "den": 35494,
+   "raw": "Xử lý hồ sơ trực tiếp với cơ quan chính phủ — loại bỏ trung gian, tối ưu thời gian, tăng tính bảo mật",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s227"
+  },
+  {
+   "tu": 35514,
+   "den": 35587,
+   "raw": "Đáp ứng tiêu chuẩn khắt khe về pháp lý, tài chính, nhân sự và kinh nghiệm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s228"
+  },
+  {
+   "tu": 35719,
+   "den": 35743,
+   "raw": "<span class=\"n\">5</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s229"
+  },
+  {
+   "tu": 35764,
+   "den": 35810,
+   "raw": "Kinh nghiệm thực chiến — minh chứng thành công",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s230"
+  },
+  {
+   "tu": 35875,
+   "den": 35917,
+   "raw": "625+ hồ sơ đầu tư định cư xử lý thành công",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s231"
+  },
+  {
+   "tu": 35937,
+   "den": 35983,
+   "raw": "2.500+ visa được cấp cho các gia đình Việt Nam",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s232"
+  },
+  {
+   "tu": 36003,
+   "den": 36134,
+   "raw": "Xử lý thành công nhiều hồ sơ phức tạp: chuyển tiền EB-5 từ 2008, khiếu kiện AAO, tái cấu trúc dự án EB-5, hồ sơ nguồn tiền phức tạp",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s233"
+  },
+  {
+   "tu": 36154,
+   "den": 36239,
+   "raw": "Đánh giá \"cực kỳ hài lòng\" từ khách hàng về sự chuyên nghiệp, chu đáo, hỗ trợ tận tâm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s234"
+  },
+  {
+   "tu": 36380,
+   "den": 36404,
+   "raw": "<span class=\"n\">6</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s235"
+  },
+  {
+   "tu": 36425,
+   "den": 36469,
+   "raw": "Vươn tầm cùng khát vọng Việt — Quỹ Be Better",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s236"
+  },
+  {
+   "tu": 36534,
+   "den": 36594,
+   "raw": "Nhà sáng lập Trần Văn Tỉnh kiến tạo Quỹ Be Better Foundation",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s237"
+  },
+  {
+   "tu": 36614,
+   "den": 36671,
+   "raw": "Cam kết đóng góp tối thiểu 51% lợi nhuận hàng năm vào Quỹ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s238"
+  },
+  {
+   "tu": 36691,
+   "den": 36763,
+   "raw": "Hỗ trợ trẻ em hoàn cảnh khó khăn đến trường và theo đuổi giấc mơ đại học",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s239"
+  },
+  {
+   "tu": 36783,
+   "den": 36849,
+   "raw": "Đã hỗ trợ 70+ học sinh, sinh viên — mục tiêu 1.000 em vào năm 2060",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s240"
+  },
+  {
+   "tu": 37016,
+   "den": 37040,
+   "raw": "<span class=\"n\">7</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s241"
+  },
+  {
+   "tu": 37061,
+   "den": 37096,
+   "raw": "Cam kết bảo mật thông tin tuyệt đối",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s242"
+  },
+  {
+   "tu": 37161,
+   "den": 37219,
+   "raw": "Ký kết Hợp đồng Bảo mật Thông tin (NDA) với mọi khách hàng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s243"
+  },
+  {
+   "tu": 37239,
+   "den": 37321,
+   "raw": "Mọi thông tin khách hàng trong truyền thông, case study đều được ẩn danh hoàn toàn",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s244"
+  },
+  {
+   "tu": 37341,
+   "den": 37390,
+   "raw": "Tuân thủ nghiêm ngặt các quy tắc bảo mật cao nhất",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s245"
+  },
+  {
+   "tu": 37570,
+   "den": 37573,
+   "raw": "21+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s246"
+  },
+  {
+   "tu": 37594,
+   "den": 37609,
+   "raw": "năm kinh nghiệm",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s247"
+  },
+  {
+   "tu": 37691,
+   "den": 37695,
+   "raw": "625+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s248"
+  },
+  {
+   "tu": 37716,
+   "den": 37732,
+   "raw": "hồ sơ thành công",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s249"
+  },
+  {
+   "tu": 37828,
+   "den": 37834,
+   "raw": "2.500+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s250"
+  },
+  {
+   "tu": 37855,
+   "den": 37868,
+   "raw": "visa được cấp",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s251"
+  },
+  {
+   "tu": 37932,
+   "den": 37933,
+   "raw": "3",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s252"
+  },
+  {
+   "tu": 37954,
+   "den": 37981,
+   "raw": "quốc gia cấp phép trực tiếp",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s253"
+  },
+  {
+   "tu": 38030,
+   "den": 38035,
+   "raw": "IIUSA",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s254"
+  },
+  {
+   "tu": 38056,
+   "den": 38077,
+   "raw": "Thành viên chính thức",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s255"
+  },
+  {
+   "tu": 38195,
+   "den": 38227,
+   "raw": "Vì sao đơn vị tư vấn quan trọng?",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s256"
+  },
+  {
+   "tu": 38273,
+   "den": 38325,
+   "raw": "EB-5 yêu cầu đơn giản nhưng hồ sơ rất nhiều chi tiết",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s257"
+  },
+  {
+   "tu": 38343,
+   "den": 38389,
+   "raw": "Xét duyệt khắt khe — đòi hỏi chuẩn bị kỹ lưỡng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s258"
+  },
+  {
+   "tu": 38407,
+   "den": 38463,
+   "raw": "Chọn dự án kỹ giúp giảm rủi ro, bảo toàn vốn 800.000 USD",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s259"
+  },
+  {
+   "tu": 38481,
+   "den": 38559,
+   "raw": "IMM Group: 21+ năm kinh nghiệm + đội ngũ chuyên nghiệp + dự án đã thẩm định kỹ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s260"
+  },
+  {
+   "tu": 38781,
+   "den": 38820,
+   "raw": "\"Phục vụ bằng những giá trị chân chính\"",
+   "loai": "p",
+   "lop": "serif-i",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s261"
+  },
+  {
+   "tu": 38934,
+   "den": 38955,
+   "raw": "— Tôn chỉ IMM Group —",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s262"
+  },
+  {
+   "tu": 39112,
+   "den": 39121,
+   "raw": "Tham Khảo",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Tham Khảo",
+   "id": "s263"
+  },
+  {
+   "tu": 39214,
+   "den": 39233,
+   "raw": "Có thể bạn quan tâm",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Tham Khảo",
+   "id": "s264"
+  },
+  {
+   "tu": 39344,
+   "den": 39384,
+   "raw": "Tìm hiểu các dịch vụ tư vấn từ IMM Group",
+   "loai": "h3",
+   "lop": "serif",
+   "the": "h3",
+   "ngu_canh": "Tham Khảo",
+   "id": "s265"
+  },
+  {
+   "tu": 39614,
+   "den": 39656,
+   "raw": "So sánh các chương trình đầu tư định cư Mỹ",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s266"
+  },
+  {
+   "tu": 39891,
+   "den": 39911,
+   "raw": "Visa định cư Mỹ EB-5",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s267"
+  },
+  {
+   "tu": 40121,
+   "den": 40132,
+   "raw": "Visa Mỹ E-2",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s268"
+  },
+  {
+   "tu": 40358,
+   "den": 40370,
+   "raw": "Visa Mỹ L-1A",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s269"
+  },
+  {
+   "tu": 40653,
+   "den": 40674,
+   "raw": "Visa định cư Mỹ EB-1C",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s270"
+  },
+  {
+   "tu": 40765,
+   "den": 40780,
+   "raw": "Hiểu về nước Mỹ",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Tham Khảo",
+   "id": "s271"
+  },
+  {
+   "tu": 40891,
+   "den": 40945,
+   "raw": "Chuyên trang IMM Group — thông tin hữu ích theo chủ đề",
+   "loai": "h3",
+   "lop": "serif",
+   "the": "h3",
+   "ngu_canh": "Tham Khảo",
+   "id": "s272"
+  },
+  {
+   "tu": 41180,
+   "den": 41196,
+   "raw": "Cuộc sống tại Mỹ",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s273"
+  },
+  {
+   "tu": 41430,
+   "den": 41437,
+   "raw": "Thuế Mỹ",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s274"
+  },
+  {
+   "tu": 41637,
+   "den": 41654,
+   "raw": "Kinh doanh tại Mỹ",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s275"
+  },
+  {
+   "tu": 41881,
+   "den": 41896,
+   "raw": "Giáo dục tại Mỹ",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s276"
+  },
+  {
+   "tu": 42136,
+   "den": 42172,
+   "raw": "Trợ cấp, phúc lợi, an sinh xã hội Mỹ",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s277"
+  },
+  {
+   "tu": 42424,
+   "den": 42463,
+   "raw": "Những người Việt thành công trên đất Mỹ",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s278"
+  },
+  {
+   "tu": 42727,
+   "den": 42770,
+   "raw": "Những câu chuyện định cư Mỹ truyền cảm hứng",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s279"
+  }
+ ]
+}
