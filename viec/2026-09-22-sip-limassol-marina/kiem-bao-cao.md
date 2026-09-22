@@ -1,15 +1,15 @@
-# CỬA 0 — 2026-09-22-sip-limassol-marina — 2026-09-22 17:09
+# CỬA 0 — 2026-09-22-sip-limassol-marina — 2026-09-22 17:13
 Kết quả: XANH · 0 lỗi chặn · 14 cảnh báo · 143/143 đoạn đã dịch
 
 ## LỖI CHẶN (phải sửa hết)
 - (không)
 
 ## CẢNH BÁO (đọc từng dòng, sửa hoặc ghi lý do vào báo cáo)
-- s001 THUẬT NGỮ «thường trú nhân Cộng Hòa Síp» gợi ý dịch là «cyprus golden visa | cyprus permanent residence | cyprus residency by investment» — bản Anh: «Cyprus real estate | Flagship project»
-- s003 THUẬT NGỮ «thường trú nhân Cộng Hòa Síp» gợi ý dịch là «cyprus golden visa | cyprus permanent residence | cyprus residency by investment» — bản Anh: «Luxury villas and apartments at the marina — a route to permanent resi»
-- s003 THUẬT NGỮ «lộ trình» gợi ý dịch là «process | timeline | pathway | roadmap» — bản Anh: «Luxury villas and apartments at the marina — a route to permanent resi»
+- s003 THUẬT NGỮ «thường trú nhân Cộng Hòa Síp» gợi ý dịch là «cyprus golden visa | cyprus permanent residence | cyprus residency by investment» — bản Anh: «Luxury villas and apartments on Limassol Marina — a route to permanent»
+- s003 THUẬT NGỮ «lộ trình» gợi ý dịch là «process | timeline | pathway | roadmap» — bản Anh: «Luxury villas and apartments on Limassol Marina — a route to permanent»
+- s005 THUẬT NGỮ «mức đầu tư tối thiểu» gợi ý dịch là «minimum investment | minimum investment amount» — bản Anh: «{1}{2}villa{/2}Prices from{/1}**€3,900,000**»
 - s015 THUẬT NGỮ «lộ trình» gợi ý dịch là «process | timeline | pathway | roadmap» — bản Anh: «The permanent residence route»
-- s035 THUẬT NGỮ «bàn giao» gợi ý dịch là «handover» — bản Anh: «The project was completed and handed over in June 2021; only a limited»
+- s035 THUẬT NGỮ «bàn giao» gợi ý dịch là «handover» — bản Anh: «The project was completed and handed over in June 2021; a limited numb»
 - s102 THUẬT NGỮ «lộ trình» gợi ý dịch là «process | timeline | pathway | roadmap» — bản Anh: «Owning a villa or an apartment at **Limassol Marina** can open the way»
 - s103 THUẬT NGỮ «lộ trình» gợi ý dịch là «process | timeline | pathway | roadmap» — bản Anh: «Your route to{br} {1}permanent residence in Cyprus{/1}»
 - s109 số 1 không thấy ở bản Anh (đã ghi #bo-qua-so)

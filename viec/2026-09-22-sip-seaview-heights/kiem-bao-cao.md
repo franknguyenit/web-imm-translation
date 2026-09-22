@@ -1,11 +1,12 @@
-# CỬA 0 — 2026-09-22-sip-seaview-heights — 2026-09-22 17:09
-Kết quả: XANH · 0 lỗi chặn · 10 cảnh báo · 141/141 đoạn đã dịch
+# CỬA 0 — 2026-09-22-sip-seaview-heights — 2026-09-22 17:12
+Kết quả: XANH · 0 lỗi chặn · 11 cảnh báo · 141/141 đoạn đã dịch
 
 ## LỖI CHẶN (phải sửa hết)
 - (không)
 
 ## CẢNH BÁO (đọc từng dòng, sửa hoặc ghi lý do vào báo cáo)
 - s015 THUẬT NGỮ «lộ trình» gợi ý dịch là «process | timeline | pathway | roadmap» — bản Anh: «The permanent residence route»
+- s081 THUẬT NGỮ «bất động sản» gợi ý dịch là «real estate | property» — bản Anh: «Cybarco — a developer of destination properties in Cyprus»
 - s100 THUẬT NGỮ «tích sản an toàn» gợi ý dịch là «store of value» — bản Anh: «**Cyprus real estate** can be more than an income-producing asset held»
 - s101 THUẬT NGỮ «lộ trình» gợi ý dịch là «process | timeline | pathway | roadmap» — bản Anh: «Your route to{br} {1}permanent residence in Cyprus{/1}»
 - s107 số 1 không thấy ở bản Anh (đã ghi #bo-qua-so)

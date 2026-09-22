@@ -1,9 +1,9 @@
 id	loai	vi	en	tm	ghi_chu	src
-s001	p	Thường trú nhân Cộng Hòa Síp | Siêu dự án	Cyprus real estate | Flagship project			acf.s001_p
+s001	p	Thường trú nhân Cộng Hòa Síp | Siêu dự án	Cyprus permanent residence | Flagship project			acf.s001_p
 s002	h1	Limassol Marina	Limassol Marina			acf.s002_h1
-s003	p	Biệt thự & căn hộ hạng sang bên bến du thuyền – Lộ trình thường trú nhân Cộng Hòa Síp	Luxury villas and apartments at the marina — a route to permanent residence in Cyprus			acf.s003_p#1
+s003	p	Biệt thự & căn hộ hạng sang bên bến du thuyền – Lộ trình thường trú nhân Cộng Hòa Síp	Luxury villas and apartments on Limassol Marina — a route to permanent residence in Cyprus			acf.s003_p#1
 s004	cta	YÊU CẦU TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s004_cta
-s005	p	{1}{2}villa{/2}Mức đầu tư tối thiểu{/1}**3.900.000 EUR**	{1}{2}villa{/2}Minimum investment{/1}**€3,900,000**	92%: {1}{2}villa{/2}Minimum investment{/1}**€480,000**		acf.s005_p#1
+s005	p	{1}{2}villa{/2}Mức đầu tư tối thiểu{/1}**3.900.000 EUR**	{1}{2}villa{/2}Prices from{/1}**€3,900,000**	92%: {1}{2}villa{/2}Minimum investment{/1}**€480,000**		acf.s005_p#1
 s006	p	{1}{2}holiday_village{/2}Tình trạng{/1}**Còn suất**	{1}{2}holiday_village{/2}Status{/1}**Units available**			acf.s006_p#1
 s007	p	{1}{2}bed{/2}Loại hình{/1}**Biệt thự & căn hộ hạng sang**	{1}{2}bed{/2}Property type{/1}**Luxury villas & apartments**			acf.s007_p#1
 s008	cta	Limassol Marina	Limassol Marina		trung:s002	acf.s008_cta
@@ -17,8 +17,8 @@ s015	cta	Lộ trình thường trú nhân	The permanent residence route	100%: Th
 s016	cta	Lợi thế thường trú nhân	Permanent residence advantages	100%: Permanent residence advantages		acf.s016_cta
 s017	img	Video giới thiệu siêu dự án Limassol Marina	Limassol Marina flagship project video			acf.s017_cta#1@alt
 s018	cta	{1}play_arrow{/1}{2}Video giới thiệu Limassol Marina{/2}	{1}play_arrow{/1}{2}Limassol Marina project video{/2}			acf.s017_cta#2
-s019	h2	Vị trí bên biển &{br} {1}trung tâm Limassol{/1}	By the sea &{br} {1}in central Limassol{/1}			acf.s018_h2#1
-s020	p	Limassol Marina {1}·{/1} Bến du thuyền Limassol {2}·{/2} Cộng Hòa Síp	Limassol Marina {1}·{/1} Limassol marina {2}·{/2} Cyprus			acf.s019_p#1
+s019	h2	Vị trí bên biển &{br} {1}trung tâm Limassol{/1}	On the seafront &{br} {1}in the heart of Limassol{/1}			acf.s018_h2#1
+s020	p	Limassol Marina {1}·{/1} Bến du thuyền Limassol {2}·{/2} Cộng Hòa Síp	Limassol Marina {1}·{/1} Limassol {2}·{/2} Cyprus			acf.s019_p#1
 s021	cta	Google Maps	Google Maps	100%: Google Maps		acf.s020_cta#1
 s022	p	Kết nối thuận tiện	Convenient access	100%: Convenient access		acf.s021_p
 s023	h3	Vị trí “kim cương” bên bến du thuyền	A prime position on the marina			acf.s022_h3
@@ -31,10 +31,10 @@ s029	p	Thuận tiện kết nối với các bến du thuyền và điểm đế
 s030	h4	Bến du thuyền quốc tế	An international marina			acf.s029_h4
 s031	p	Limassol Marina đạt Giải thưởng 5 Gold Anchor Platinum Award.	Limassol Marina holds the 5 Gold Anchor Platinum Award.			acf.s030_p
 s032	h2	Biệt thự & căn hộ hạng sang tại {1}Limassol Marina{/1}	Luxury villas & apartments at {1}Limassol Marina{/1}			acf.s031_h2#1
-s033	p	Tọa lạc ngay bến du thuyền Limassol Marina, biểu tượng sống đẳng cấp của Cộng Hòa Síp.	Set right at Limassol Marina, a landmark address in Cyprus.			acf.s032_p
+s033	p	Tọa lạc ngay bến du thuyền Limassol Marina, biểu tượng sống đẳng cấp của Cộng Hòa Síp.	Set right at Limassol Marina, a landmark of refined living in Cyprus.			acf.s032_p
 s034	p	Không gian sống bên biển hiếm có, kết hợp biệt thự, căn hộ hạng sang và bến neo du thuyền riêng.	A rare waterfront setting combining villas, luxury apartments, and private berths.			acf.s033_p
-s035	p	Dự án đã hoàn thiện và bàn giao từ tháng 6/2021; số lượng sản phẩm còn lại hạn chế.	The project was completed and handed over in June 2021; only a limited number of units remain.		"#bo-qua-so: ""tháng 6/2021"" viết thành tên tháng theo style guide mục 5"	acf.s034_p
-s036	p	Sản phẩm còn lại tại Limassol Marina tham khảo từ khoảng 3,9 triệu EUR; mức đầu tư bất động sản đủ điều kiện xét thường trú nhân Síp từ 300.000 EUR, chưa gồm VAT và chi phí liên quan.	Remaining units at Limassol Marina start at about €3.9 million as a guide; the property investment that qualifies for Cyprus permanent residence starts at €300,000, before VAT and related costs.			acf.s035_p
+s035	p	Dự án đã hoàn thiện và bàn giao từ tháng 6/2021; số lượng sản phẩm còn lại hạn chế.	The project was completed and handed over in June 2021; a limited number of units remain.		"#bo-qua-so: ""tháng 6/2021"" viết thành tên tháng theo style guide mục 5"	acf.s034_p
+s036	p	Sản phẩm còn lại tại Limassol Marina tham khảo từ khoảng 3,9 triệu EUR; mức đầu tư bất động sản đủ điều kiện xét thường trú nhân Síp từ 300.000 EUR, chưa gồm VAT và chi phí liên quan.	As a guide, remaining units at Limassol Marina start at about €3.9 million, while the property investment that qualifies for Cyprus permanent residence starts at €300,000, before VAT and related costs.			acf.s035_p
 s037	p	Nhà đầu tư và gia đình có thể nộp hồ sơ xin thường trú nhân vĩnh viễn Síp khi đáp ứng điều kiện chương trình.	You and your family can apply for permanent residence in Cyprus once you meet the program conditions.	100%: You and your family can apply for permanent residence in Cyprus once you meet the program conditions.		acf.s036_p
 s038	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s037_cta
 s039	h3	Thông tin dự án	Project information	100%: Project information		acf.s038_h3
@@ -79,16 +79,16 @@ s077	li	{1}fitness_center{/1}**Phòng gym tiêu chuẩn**	{1}fitness_center{/1}*
 s078	li	{1}support_agent{/1}**Dịch vụ lễ tân 24/7**	{1}support_agent{/1}**24/7 concierge**			acf.s077_li#1
 s079	p	Biệt thự có hồ bơi riêng, sân vườn rộng và bến neo du thuyền phía sau; căn hộ mở tầm nhìn ra biển Địa Trung Hải và khu marina.	The villas have a private pool, a large garden, and a berth at the rear; the apartments look out over the Mediterranean and the marina.			acf.s078_p
 s080	h2	Chủ đầu tư &{br} {1}đơn vị phát triển{/1}	The developer &{br} {1}its track record{/1}	100% (gắn lại thẻ {br} {1} {/1}): Developer & track record		acf.s079_h2#1
-s081	p	Cybarco - Thành viên Tập đoàn Lanitis hơn 100 năm lịch sử	Cybarco — part of the Lanitis Group, with more than 100 years of history			acf.s080_p
+s081	p	Cybarco - Thành viên Tập đoàn Lanitis hơn 100 năm lịch sử	Cybarco — part of the Lanitis Group, a business with more than 100 years of history			acf.s080_p
 s082	h3	{1}diamond{/1}Năng lực và kinh nghiệm	{1}diamond{/1}Capability and experience	100%: {1}diamond{/1}Capability and experience		acf.s081_h3#1
 s083	li	verified_user	verified_user	100%: verified_user		acf.s082_li#1
 s084	p	Cybarco được thành lập năm 1945	Cybarco was founded in 1945			acf.s083_p#1
 s085	p	trực thuộc Tập đoàn Lanitis.	as part of the Lanitis Group.			acf.s084_p
 s086	li	workspace_premium	workspace_premium			acf.s085_li#1
 s087	p	Lanitis có lịch sử từ năm 1896	Lanitis dates back to 1896			acf.s086_p#1
-s088	p	và đã phát triển qua 4 thế hệ.	and has grown across 4 generations.			acf.s087_p
+s088	p	và đã phát triển qua 4 thế hệ.	and has grown over 4 generations.			acf.s087_p
 s089	li	apartment	apartment	100%: apartment		acf.s088_li#1
-s090	p	Hoạt động trong nhiều lĩnh vực	It operates in several sectors			acf.s089_p#1
+s090	p	Hoạt động trong nhiều lĩnh vực	The group operates in several sectors			acf.s089_p#1
 s091	p	gồm xây dựng, bất động sản, du lịch, khách sạn, bến du thuyền và năng lượng.	including construction, real estate, tourism, hotels, marinas, and energy.			acf.s090_p
 s092	li	workspace_premium	workspace_premium		trung:s086	acf.s091_li#1
 s093	p	Chuyên phát triển bất động sản cao cấp	It specializes in premium real estate			acf.s092_p#1

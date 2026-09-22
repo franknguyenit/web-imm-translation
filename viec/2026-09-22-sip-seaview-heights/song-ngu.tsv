@@ -15,13 +15,13 @@ s013	cta	Nhà phát triển Cybarco	Developer Cybarco			acf.s013_cta
 s014	cta	Tiến độ dự án	Project timeline	100%: Project timeline		acf.s014_cta
 s015	cta	Lộ trình thường trú nhân	The permanent residence route	100%: The permanent residence route		acf.s015_cta
 s016	cta	Lợi thế thường trú nhân	Permanent residence advantages	100%: Permanent residence advantages		acf.s016_cta
-s017	h2	Limassol - Trái tim sầm uất{br} {1}và đáng sống bậc nhất{/1}	Limassol — a busy city{br} {1}and one of the most liveable{/1}			acf.s017_h2#1
+s017	h2	Limassol - Trái tim sầm uất{br} {1}và đáng sống bậc nhất{/1}	Limassol — a vibrant city{br} {1}and one of the most liveable{/1}			acf.s017_h2#1
 s018	p	Seaview Heights {1}·{/1} Limassol {2}·{/2} Cộng Hòa Síp	Seaview Heights {1}·{/1} Limassol {2}·{/2} Cyprus			acf.s018_p#1
 s019	cta	Google Maps	Google Maps	100%: Google Maps		acf.s019_cta#1
-s020	h3	Limassol - Trái tim sầm uất và đáng sống bậc nhất:	Limassol — a busy city and one of the most liveable:			acf.s020_h3
+s020	h3	Limassol - Trái tim sầm uất và đáng sống bậc nhất:	Limassol — a vibrant city and one of the most liveable:			acf.s020_h3
 s021	h4	Chất lượng sống	Quality of life			acf.s021_h4
-s022	p	Trung tâm quốc tế sầm uất, kết hợp giữa bề dày lịch sử và dịch vụ thương mại phát triển mạnh mẽ	A busy international center that combines deep history with a strong commercial services sector			acf.s022_p
-s023	h4	Tâm điểm kết nối	A connection point			acf.s023_h4
+s022	p	Trung tâm quốc tế sầm uất, kết hợp giữa bề dày lịch sử và dịch vụ thương mại phát triển mạnh mẽ	A thriving international hub that combines deep history with a strong commercial services sector			acf.s022_p
+s023	h4	Tâm điểm kết nối	Well connected			acf.s023_h4
 s024	p	3km đến trung tâm thành phố, cận kề các cơ sở giáo dục chất lượng cao	3 km to the city center, close to high-quality schools			acf.s024_p
 s025	h4	Hạ tầng đại lộ ven biển	The seafront promenade			acf.s025_h4
 s026	p	Nằm dọc theo tuyến đường đi bộ ven biển dài 17km sầm uất bậc nhất của thành phố, cách bãi biển chỉ 4km	Along the city's 17 km seafront promenade, and only 4 km from the beach			acf.s026_p
@@ -31,14 +31,14 @@ s029	h2	Tổ hợp Căn hộ & Biệt thự cao cấp{br} {1}giữa lòng Limass
 s030	p	Tọa lạc tại thành phố biển Limassol – trung tâm tài chính, thương mại và du lịch sầm uất bậc nhất của Cộng hòa Síp.	Set in the seaside city of Limassol, the financial, commercial, and tourism hub of Cyprus.			acf.s030_p
 s031	p	Tổ hợp căn hộ và biệt thự sang trọng, tối ưu không gian xanh và tầm nhìn rộng mở.	A complex of premium apartments and villas, designed around green space and open views.			acf.s031_p
 s032	p	Đơn vị phát triển Cybarco lâu đời và uy tín hàng đầu Cộng hòa Síp.	Developed by Cybarco, a long-established and respected developer in Cyprus.			acf.s032_p
-s033	p	Mức giá từ 320.000 EUR, hoàn toàn đáp ứng điều kiện chương trình đầu tư nhận Thường trú nhân vĩnh viễn Síp.	Prices start at €320,000, which meets the requirements of the Cyprus permanent residence by investment program.			acf.s033_p
+s033	p	Mức giá từ 320.000 EUR, hoàn toàn đáp ứng điều kiện chương trình đầu tư nhận Thường trú nhân vĩnh viễn Síp.	Prices start at €320,000, which meets the investment threshold for the Cyprus permanent residence by investment program.			acf.s033_p
 s034	p	Quy mô dự án gồm 81 căn hộ và 9 căn biệt thự	The project comprises 81 apartments and 9 villas			acf.s034_p
 s035	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s035_cta
 s036	h3	Bảng thông số dự án	Project specifications			acf.s036_h3
 s037	p	Vị trí	Location	100%: Location		acf.s037_p
 s038	p	Limassol, Cộng Hòa Síp	Limassol, Cyprus			acf.s038_p
 s039	p	Loại hình	Property type	100%: Property type		acf.s039_p
-s040	p	Căn hộ cao cấp (1 - 3 PN) và Biệt thự sang trọng (3 - 4 PN)	Premium apartments (1–3 bed) and luxury villas (3–4 bed)			acf.s040_p
+s040	p	Căn hộ cao cấp (1 - 3 PN) và Biệt thự sang trọng (3 - 4 PN)	Premium apartments (1–3 bedrooms) and luxury villas (3–4 bedrooms)			acf.s040_p
 s041	p	Quy mô dự án	Project size	100%: Project size		acf.s041_p
 s042	p	81 căn hộ và 9 căn biệt thự	81 apartments and 9 villas			acf.s042_p
 s043	p	Giá bán	Price			acf.s043_p
@@ -46,7 +46,7 @@ s044	p	Từ 320.000 EUR	From €320,000	92%: From €300,000		acf.s044_p
 s045	p	Chủ đầu tư	Developer	100%: Developer		acf.s045_p
 s046	p	Cybarco (thuộc Tập đoàn Lanitis Group)	Cybarco (part of the Lanitis Group)			acf.s046_p
 s047	p	Hiệu suất năng lượng	Energy performance			acf.s047_p
-s048	p	Đạt chứng nhận hiệu quả năng lượng Hạng A	Certified Class A for energy efficiency			acf.s048_p
+s048	p	Đạt chứng nhận hiệu quả năng lượng Hạng A	Class A energy rating (EPC)			acf.s048_p
 s049	p	Tình trạng dự án	Project status			acf.s049_p
 s050	p	Đang thi công xây dựng	Under construction			acf.s050_p
 s051	p	Bàn giao	Handover	100%: Handover		acf.s051_p
@@ -60,7 +60,7 @@ s058	p	Tiêu chuẩn tiện ích	Amenity standard	100%: Amenity standard		acf.s0
 s059	p	Đẳng cấp quốc tế tối ưu mảng xanh	International standard, with generous green space			acf.s059_p
 s060	p	landscape	landscape	100%: landscape		acf.s060_p#1
 s061	p	Tầm nhìn	Views	100%: Views		acf.s061_p
-s062	p	hướng biển và hướng thành phố toàn cảnh	panoramic sea and city views			acf.s062_p
+s062	p	hướng biển và hướng thành phố toàn cảnh	Panoramic sea and city views			acf.s062_p
 s063	p	energy_savings_leaf	energy_savings_leaf			acf.s063_p#1
 s064	p	Tiêu chuẩn tiết kiệm năng lượng Hạng A	Class A energy efficiency standard			acf.s064_p
 s065	p	location_on	location_on	100%: location_on		acf.s065_p#1
@@ -77,26 +77,26 @@ s075	li	{1}shield{/1}**An ninh 24/7**	{1}shield{/1}**24/7 security**			acf.s075_
 s076	li	{1}fitness_center{/1}**Khu vực rèn luyện ngoài trời**	{1}fitness_center{/1}**Outdoor fitness area**			acf.s076_li#1
 s077	li	{1}child_care{/1}**Sân chơi trẻ em**	{1}child_care{/1}**Children's playground**			acf.s077_li#1
 s078	li	{1}deck{/1}**Khu vực tiện ích ngoài trời**	{1}deck{/1}**Outdoor amenity areas**			acf.s078_li#1
-s079	p	Seaview Heights hướng tới một không gian sống tối ưu, kết hợp hài hòa giữa nhịp sống đô thị hiện đại và sự tự do khoáng đạt của thiên nhiên Địa Trung Hải.	Seaview Heights is designed for a well-balanced way of living, combining modern city life with the openness of the Mediterranean.			acf.s079_p
+s079	p	Seaview Heights hướng tới một không gian sống tối ưu, kết hợp hài hòa giữa nhịp sống đô thị hiện đại và sự tự do khoáng đạt của thiên nhiên Địa Trung Hải.	Seaview Heights is designed for a balanced way of life, combining modern city living with the openness of the Mediterranean.			acf.s079_p
 s080	h2	Chủ đầu tư &{br} {1}đơn vị phát triển{/1}	The developer &{br} {1}its track record{/1}	100% (gắn lại thẻ {br} {1} {/1}): Developer & track record		acf.s080_h2#1
-s081	p	Cybarco - Nhà phát triển bất động sản điểm đến hàng đầu tại Síp	Cybarco — a developer of destination real estate in Cyprus			acf.s081_p
+s081	p	Cybarco - Nhà phát triển bất động sản điểm đến hàng đầu tại Síp	Cybarco — a developer of destination properties in Cyprus			acf.s081_p
 s082	h3	{1}diamond{/1}Năng lực và kinh nghiệm	{1}diamond{/1}Capability and experience	100%: {1}diamond{/1}Capability and experience		acf.s082_h3#1
 s083	li	verified_user	verified_user	100%: verified_user		acf.s083_li#1
 s084	p	Hơn 80 năm kinh nghiệm	More than 80 years of experience	95%: More than 48 years of experience		acf.s084_p#1
 s085	p	Năng lực và kinh nghiệm	Capability and experience	86%: {1}diamond{/1}Capability and experience		acf.s085_p
 s086	li	engineering	engineering			acf.s086_li#1
-s087	p	Top 3 nhà thầu lớn nhất Cộng hòa Síp	Among the 3 largest contractors in Cyprus			acf.s087_p#1
+s087	p	Top 3 nhà thầu lớn nhất Cộng hòa Síp	One of the 3 largest contractors in Cyprus			acf.s087_p#1
 s088	p	Tổng thầu quốc tế thực hiện 40 dự án hạ tầng công trị giá hơn 140 triệu EUR cho Chính phủ Síp	An international main contractor that has delivered 40 public infrastructure projects worth more than €140 million for the Government of Cyprus			acf.s088_p
 s089	li	apartment	apartment	100%: apartment		acf.s089_li#1
 s090	p	Các dự án biểu tượng	Landmark projects			acf.s090_p#1
-s091	p	Hàng tỷ EUR giá trị siêu dự án đứng sau Limassol Marina và Trilogy Limassol Seafront	Billions of euros of flagship development behind Limassol Marina and Trilogy Limassol Seafront			acf.s091_p
+s091	p	Hàng tỷ EUR giá trị siêu dự án đứng sau Limassol Marina và Trilogy Limassol Seafront	The developer behind Limassol Marina and Trilogy Limassol Seafront, flagship projects worth billions of euros			acf.s091_p
 s092	h3	Dự án tiêu biểu	Selected projects	100%: Selected projects		acf.s092_h3
 s093	p	Seaview Heights	Seaview Heights		trung:s002	acf.s093_p#1
 s094	p	Centro Limassol	Centro Limassol			acf.s094_p#1
 s095	p	Aktea Residence 4	Aktea Residence 4			acf.s095_p#1
 s096	p	Park Residence	Park Residence			acf.s096_p#1
 s097	h2	Tiến độ dự án {1}Seaview Heights{/1}	{1}Seaview Heights{/1} project timeline			acf.s097_h2#1
-s098	p	Đang cập nhật	Being updated	89%: Details coming soon.		acf.s098_p#1
+s098	p	Đang cập nhật	Details coming soon.	89%: Details coming soon.		acf.s098_p#1
 s099	p	Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.	For current construction progress, unit availability, and project documents, please contact IMM Group.	100%: For current construction progress, unit availability, and project documents, please contact IMM Group.		acf.s099_p
 s100	p	Sở hữu **bất động sản Cộng Hòa Síp** không chỉ là một tài sản sinh lời và tích sản an toàn bằng ngoại tệ. Việc sở hữu bất động sản Seaview Heights còn mở ra đặc quyền thường trú châu Âu vô giá cho cả gia đình.	**Cyprus real estate** can be more than an income-producing asset held in euros. Owning at Seaview Heights also opens a route to permanent residence in Cyprus for your whole family.	94%: **Cyprus real estate** can be more than an income-producing asset held in euros. Owning at Elysia Blu also opens a route to permanent residence in Cyprus for your whole family.		acf.s100_p#1
 s101	h2	Lộ trình thường trú nhân{br} {1}vĩnh viễn tại Cộng Hòa Síp{/1}	Your route to{br} {1}permanent residence in Cyprus{/1}	100%: Your route to{br} {1}permanent residence in Cyprus{/1}		acf.s101_h2#1
