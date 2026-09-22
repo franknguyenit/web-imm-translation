@@ -188,6 +188,42 @@ class DonVi(unittest.TestCase):
         finally:
             shutil.rmtree(tmp)
 
+    def test_ghep_ra_ban_vi_thang_hang(self):
+        """bai-dich.vi.md phải cùng số dòng, cùng cấp heading với bai-dich.en.md — kể cả khi có đoạn bỏ."""
+        tmp = Path(tempfile.mkdtemp())
+        try:
+            dich.ghi_tsv(tmp / "song-ngu.tsv", [
+                {"id": "s001", "loai": "tieu-de", "vi": "Tiêu đề trang", "en": "Page title"},
+                {"id": "s002", "loai": "h2", "vi": "Điều kiện {1}EB-5{/1}", "en": "{1}EB-5{/1} requirements"},
+                {"id": "s003", "loai": "li", "vi": "Vốn 800.000 USD", "en": "US$800,000 capital"},
+                {"id": "s004", "loai": "li", "vi": "Tạo 10 việc làm", "en": "Creates 10 jobs"},
+                {"id": "s005", "loai": "p", "vi": "Gọi văn phòng TP.HCM", "en": "[BO]", "ghi_chu": "#bo: chỉ hợp khách Việt"},
+                {"id": "s006", "loai": "p", "vi": "Liên hệ tư vấn", "en": "Talk to an advisor"},
+            ])
+            dich.lenh_ghep([str(tmp)])
+            en = (tmp / "ban-giao" / "bai-dich.en.md").read_text().splitlines()
+            vi = (tmp / "ban-giao" / "bai-dich.vi.md").read_text().splitlines()
+            self.assertEqual(len(en), len(vi))
+            self.assertEqual(en, ["## {1}EB-5{/1} requirements".replace("{1}", "").replace("{/1}", ""),
+                                  "", "- US$800,000 capital", "- Creates 10 jobs", "", "Talk to an advisor"])
+            self.assertEqual(vi, ["## Điều kiện EB-5", "", "- Vốn 800.000 USD", "- Tạo 10 việc làm", "", "Liên hệ tư vấn"])
+        finally:
+            shutil.rmtree(tmp)
+
+    def test_ghep_chi_vi_khong_dung_ban_en(self):
+        """--chi-vi lấp bản VI cho việc cũ mà không ghi lại bản EN đã qua cửa 0."""
+        tmp = Path(tempfile.mkdtemp())
+        try:
+            dich.ghi_tsv(tmp / "song-ngu.tsv", [{"id": "s001", "loai": "p", "vi": "xin chào", "en": "hello"}])
+            (tmp / "ban-giao").mkdir()
+            (tmp / "ban-giao" / "bai-dich.en.md").write_text("đã sửa tay, không được đụng\n")
+            dich.lenh_ghep([str(tmp), "--chi-vi"])
+            self.assertEqual((tmp / "ban-giao" / "bai-dich.en.md").read_text(), "đã sửa tay, không được đụng\n")
+            self.assertEqual((tmp / "ban-giao" / "bai-dich.vi.md").read_text(), "xin chào\n")
+            self.assertFalse((tmp / "ban-giao" / "bai-dich.en.html").exists())
+        finally:
+            shutil.rmtree(tmp)
+
     def test_trung_khong_lan_tu_alt_anh(self):
         tmp = Path(tempfile.mkdtemp())
         try:

@@ -6,7 +6,8 @@ Lệnh:
          tệp .json xuất từ ACF Page Importer: [--trang <số|post_slug|post_id>] [--bo-chuyen <tên>]
   tukhoa <thư-mục-việc> "hạt 1" "hạt 2" [--thi-truong us,gb,au,ca,sg,ae]
   tygia  <thư-mục-việc>           lấy tỷ giá USD/VND, USD/EUR... ghi ty-gia.json
-  ghep   <thư-mục-việc>           dựng ban-giao/bai-dich.en.md + .html từ song-ngu.tsv (việc JSON: thêm ban-giao/<slug>.en.json)
+  ghep   <thư-mục-việc> [--chi-vi]  dựng ban-giao/bai-dich.en.md + .html + bai-dich.vi.md từ song-ngu.tsv
+         (việc JSON: thêm ban-giao/<slug>.en.json · --chi-vi: chỉ dựng lại bản VI, không đụng bản EN đã qua cửa 0)
   kiem   <thư-mục-việc>           CỬA 0 bằng máy — thoát mã 1 nếu có LỖI
   nap    <thư-mục-việc>           nạp câu đã chốt vào bộ nhớ dịch (trùng thì xoá cũ giữ mới) + xuất TMX
   kiemtn                          kiểm bảng thuật ngữ (trùng, thiếu cột)
@@ -799,38 +800,69 @@ def doc_meta(viec):
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
 
 
+class KhoiMd:
+    """Gom đoạn thành markdown. Bản VI và bản EN dùng chung lớp này nên xuống dòng giống hệt nhau."""
+
+    def __init__(self):
+        self.md, self.trong_ul = [], False
+
+    def them(self, loai, chu, anh=""):
+        if loai != "li" and self.trong_ul:
+            self.trong_ul = False; self.md.append("")
+        if re.fullmatch(r"h[1-6]", loai):
+            self.md += ["#" * int(loai[1]) + " " + chu, ""]
+        elif loai == "li":
+            self.md.append(chu if re.match(r"^\d+\.\s", chu) else "- " + chu)  # mục có sẵn số giữ dạng danh sách đánh số
+            self.trong_ul = True
+        elif loai == "img":
+            self.md += [f"![{chu}]({anh})", ""]
+        elif loai == "quote":
+            self.md += ["> " + chu, ""]
+        else:
+            self.md += [chu, ""]
+
+    def ra(self):
+        return "\n".join(self.md).strip() + "\n"
+
+
 def lenh_ghep(args):
     viec = Path(args[0]); dong = doc_tsv(viec / "song-ngu.tsv")
     la_json = doc_meta(viec).get("dang") == "acf-json"
-    md, h, trong_ul = [], [], False
+    chi_vi = "--chi-vi" in args  # lấp bản VI cho việc cũ, không ghi đè bản EN đã qua cửa 0
+    en_md, vi_md = KhoiMd(), KhoiMd()
+    h, trong_ul = [], False
     for d in dong:
         en = gon(bo_the((d["en"] or "").strip()))
         if not en or en == "[BO]" or d["loai"] == "tieu-de":  # tiêu đề trang không nằm trong thân bài
             continue
         loai = d["loai"]
+        anh = "" if la_json else d["src"]  # việc JSON: cột src là vị trí trường, không phải đường dẫn ảnh
+        en_md.them(loai, en, anh)
+        vi_md.them(loai, gon(bo_the((d["vi"] or "").strip())), anh)  # bỏ đúng đoạn bản EN bỏ ⇒ hai tệp thẳng hàng từng khối
         if loai != "li" and trong_ul:
-            h.append("</ul>"); trong_ul = False; md.append("")
+            h.append("</ul>"); trong_ul = False
         if re.fullmatch(r"h[1-6]", loai):
-            md += ["#" * int(loai[1]) + " " + en, ""]; h.append(f"<{loai}>{md_inline_html(en)}</{loai}>")
+            h.append(f"<{loai}>{md_inline_html(en)}</{loai}>")
         elif loai == "li":
-            md.append(en if re.match(r"^\d+\.\s", en) else "- " + en)  # mục có sẵn số giữ dạng danh sách đánh số
             if not trong_ul:
                 h.append("<ul>"); trong_ul = True
             h.append(f"  <li>{md_inline_html(en)}</li>")
         elif loai == "img":
-            anh = "" if la_json else d["src"]  # việc JSON: cột src là vị trí trường, không phải đường dẫn ảnh
-            md += [f"![{en}]({anh})", ""]
             h.append(f'<img src="{html.escape(anh)}" alt="{html.escape(en)}">')
         elif loai == "quote":
-            md += ["> " + en, ""]; h.append(f"<blockquote>{md_inline_html(en)}</blockquote>")
+            h.append(f"<blockquote>{md_inline_html(en)}</blockquote>")
         else:
-            md += [en, ""]; h.append(f"<p>{md_inline_html(en)}</p>")
+            h.append(f"<p>{md_inline_html(en)}</p>")
     if trong_ul:
         h.append("</ul>")
     (viec / "ban-giao").mkdir(exist_ok=True)
-    (viec / "ban-giao" / "bai-dich.en.md").write_text("\n".join(md).strip() + "\n", encoding="utf-8")
+    (viec / "ban-giao" / "bai-dich.vi.md").write_text(vi_md.ra(), encoding="utf-8")
+    if chi_vi:
+        print(f"Chỉ dựng bản VI để đối chiếu → {viec/'ban-giao'/'bai-dich.vi.md'} ({len(vi_md.md)} dòng)")
+        return
+    (viec / "ban-giao" / "bai-dich.en.md").write_text(en_md.ra(), encoding="utf-8")
     (viec / "ban-giao" / "bai-dich.en.html").write_text("\n".join(h) + "\n", encoding="utf-8")
-    print(f"Ghép xong {len(md)} dòng markdown → {viec/'ban-giao'}")
+    print(f"Ghép xong {len(en_md.md)} dòng markdown → {viec/'ban-giao'} (kèm bai-dich.vi.md để đối chiếu)")
     if la_json:
         trang, loi, canh = dung_json(viec, dong)
         if loi:
