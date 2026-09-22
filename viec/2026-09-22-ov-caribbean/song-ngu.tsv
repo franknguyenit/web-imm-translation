@@ -1,0 +1,242 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	p	Mở Đầu	Introduction	100%: Introduction		acf.s001_p
+s002	p	Mở Đầu	Introduction	100%: Introduction	trung:s001	acf.s002_p
+s003	p	IMM GROUP · EST. 2005	IMM Group · est. 2005	100%: IMM Group · est. 2005		acf.s003_p
+s004	h1	Quốc Tịch Caribbean	Caribbean Citizenship by Investment			acf.s004_h1
+s005	p	Quốc tịch thứ 2 - Đầu tư từ 200.000 USD - Tự do đi lại đến 157 quốc gia	A second citizenship · from US$200,000 · visa-free travel to 157 countries		"#bo-qua-so: nguồn viết ""thứ 2""; bản Anh dùng ""a second citizenship"" đúng cách nói bản xứ"	acf.s005_p
+s006	p	CUỘN XUỐNG	Scroll down	100%: Scroll down		acf.s006_p
+s007	p	Chương Trình	Program	100%: Program		acf.s007_p
+s008	p	Tổng quan	Overview	100%: Overview		acf.s008_p
+s009	h2	Các chương trình{br}quốc tịch Caribbean	Caribbean citizenship{br}programs			acf.s009_h2#1
+s010	p	4 chương trình cho nhà đầu tư & gia đình. Có thể chia thành 2 nhóm: đầu tư lấy quốc tịch trực tiếp (Dominica, St. Kitts & Nevis, Grenada) và diện thường trú (Curacao - cửa ngõ vào Hà Lan).	Four Caribbean citizenship by investment programs for you and your family, in two groups: direct citizenship (Dominica, St. Kitts & Nevis, Grenada) and residency (Curacao — the gateway to the Netherlands).			acf.s010_p#1
+s011	p	Nhóm A	Group A	100%: Group A		acf.s011_p
+s012	p	A	A			acf.s012_p
+s013	p	{1}A{/1} Đầu tư lấy quốc tịch	{1}A{/1} Citizenship by investment			acf.s013_p#1
+s014	h2	Đầu tư lấy quốc tịch Caribbean{br}{1}(Dominica, St. Kitts & Nevis, Grenada){/1}	Caribbean citizenship by investment{br}{1}(Dominica, St. Kitts & Nevis, Grenada){/1}			acf.s014_h2#1
+s015	p	Đầu tư (quyên góp Quỹ Chính phủ hoặc bất động sản được phê duyệt) để nhận thẳng quốc tịch & hộ chiếu cho cả gia đình - không yêu cầu cư trú.	You invest — a government fund contribution or approved real estate — and the whole family receives citizenship and passports directly, with no residence requirement.			acf.s015_p#1
+s016	p	Dominica	Dominica			acf.s016_p
+s017	p	TỪ 200.000 USD	FROM US$200,000			acf.s017_p
+s018	p	St. Kitts & Nevis	St. Kitts & Nevis			acf.s018_p#1
+s019	p	TỪ 250.000 USD	FROM US$250,000			acf.s019_p
+s020	p	Grenada	Grenada			acf.s020_p
+s021	p	TỪ 235.000 USD	FROM US$235,000			acf.s021_p
+s022	p	Dominica	Dominica		trung:s016	acf.s022_p
+s023	p	01	01			acf.s023_p
+s024	p	{1}01{/1} Nhóm A · Lựa chọn 01	{1}01{/1} Group A · Option 01	100%: {1}01{/1} Group A · Option 01		acf.s024_p#1
+s025	p	Quốc tịch Dominica	Dominica Citizenship by Investment	100%: Dominica Citizenship by Investment		acf.s025_p
+s026	p	Mức đầu tư	Investment	100%: Investment		acf.s026_p
+s027	p	Từ 200.000 USD	From US$200,000		trung:s017	acf.s027_p
+s028	p	(~5,3 tỷ)	minimum		"#bo-qua-so: bỏ ""(~5,3 tỷ)"" — chỉ nhắc lại số USD"	acf.s028_p
+s029	p	Mục đích	Purpose	100%: Purpose		acf.s029_p
+s030	p	Quốc tịch + miễn visa	Citizenship + visa-free			acf.s030_p
+s031	p	144 quốc gia	144 countries			acf.s031_p
+s032	p	Xét duyệt	Processing	100%: Processing		acf.s032_p
+s033	p	8 – 10	8 – 10			acf.s033_p
+s034	p	tháng	months	100%: months		acf.s034_p
+s035	p	Hình thức đầu tư (chọn 1)	Investment routes (choose 1)			acf.s035_p
+s036	li	Quyên góp 250.000 USD (gia đình 4 người) HOẶC 200.000 USD (đi một mình)	A US$250,000 contribution for a family of 4, or US$200,000 for a single applicant			acf.s036_li
+s037	li	Đầu tư BĐS tối thiểu 200.000 USD, duy trì 3 năm (dự án tiêu biểu: Secret Bay - resort 6 sao top 1 Caribbean, top 10 thế giới)	Real estate from US$200,000, held for 3 years (example project: Secret Bay — a 6-star resort ranked first in the Caribbean and among the world's top 10)		"#bo-qua-so: nguồn viết ""chọn 1""/""tối thiểu""; bản Anh dùng ""from"" theo cách viết mức đầu tư"	acf.s037_li
+s038	p	Thành viên đi kèm (3 thế hệ)	Family members (3 generations)			acf.s038_p
+s039	li	Vợ/chồng	Your spouse	100%: Your spouse		acf.s039_li
+s040	li	Con KHÔNG giới hạn tuổi (>28 phải độc thân, phụ thuộc)	Children of any age (those over 28 must be unmarried and financially dependent)			acf.s040_li#1
+s041	li	Cha mẹ >65 tuổi; ông bà của cả 2 vợ chồng	Parents over 65; grandparents on both sides		"#bo-qua-so: nguồn viết ""cả 2 vợ chồng""; bản Anh dùng ""on both sides"" đúng cách nói bản xứ"	acf.s041_li#1
+s042	p	Quyền lợi & ưu điểm nổi bật	Benefits and highlights			acf.s042_p#1
+s043	p	Miễn visa 143 quốc gia (gồm Schengen, châu Âu)	Visa-free access to 143 countries, including the Schengen Area and Europe			acf.s043_p
+s044	p	Không đánh thuế thu nhập toàn cầu, BĐS, thừa kế	No tax on worldwide income, property, or inheritance			acf.s044_p
+s045	p	Không yêu cầu cư trú, bằng cấp, ngoại ngữ	No residence, education, or language requirements			acf.s045_p
+s046	p	Quốc tịch thứ 2 tốt nhất 4 năm liền (2017-2020) - Financial Times	Rated the best second citizenship 4 years running, 2017–2020 — CBI Index (Financial Times)		"#bo-qua-so: nguồn viết ""quốc tịch thứ 2""; bản Anh dùng ""second citizenship"""	acf.s046_p
+s047	p	**HOÀN VỐN NHANH NHẤT:** sau 3 năm (so với 5-7 năm của chương trình khác)	**Fastest capital recovery:** after 3 years, against 5–7 years for other programs			acf.s047_p#1
+s048	p	Cho phép đa quốc tịch	Dual citizenship allowed	100%: Dual citizenship allowed		acf.s048_p
+s049	p	Hạn chế cần lưu ý	Points to consider	100%: Points to consider		acf.s049_p
+s050	p	KHÔNG xin được visa E-2 sang Mỹ	No route to the US E-2 visa			acf.s050_p
+s051	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s051_cta
+s052	cta	XEM CHI TIẾT	View details	100%: View details		acf.s052_cta
+s053	p	St. Kitts & Nevis	St. Kitts & Nevis		trung:s018	acf.s053_p
+s054	p	02	02			acf.s054_p
+s055	p	{1}02{/1} Nhóm A · Lựa chọn 02	{1}02{/1} Group A · Option 02	100%: {1}02{/1} Group A · Option 02		acf.s055_p#1
+s056	p	Quốc tịch St. Kitts & Nevis	St. Kitts and Nevis Citizenship by Investment	92%: St. Kitts and Nevis Citizenship by Investment		acf.s056_p#1
+s057	p	Mức đầu tư	Investment	100%: Investment	trung:s026	acf.s057_p
+s058	p	Từ 250.000 USD	From US$250,000		trung:s019	acf.s058_p
+s059	p	(~6,6 tỷ) · gia đình 4 người	family of 4		"#bo-qua-so: bỏ ""(~6,6 tỷ)"" — chỉ nhắc lại số USD"	acf.s059_p
+s060	p	Mục đích	Purpose	100%: Purpose	trung:s029	acf.s060_p
+s061	p	Quốc tịch + miễn visa	Citizenship + visa-free		trung:s030	acf.s061_p
+s062	p	155 quốc gia & vùng lãnh thổ	155 countries and territories			acf.s062_p#1
+s063	p	Xét duyệt	Processing	100%: Processing	trung:s032	acf.s063_p
+s064	p	10 – 12	10 – 12			acf.s064_p
+s065	p	tháng	months	100%: months	trung:s034	acf.s065_p
+s066	p	Miễn visa 155 quốc gia & vùng lãnh thổ	Visa-free access to 155 countries and territories			acf.s066_p#1
+s067	p	Gồm: Schengen, châu Âu, Anh, Hàn Quốc, Hồng Kông…	Including the Schengen Area, Europe, the UK, South Korea, and Hong Kong			acf.s067_p
+s068	p	Hình thức đầu tư (chọn 1)	Investment routes (choose 1)		trung:s035	acf.s068_p
+s069	li	Quyên góp 250.000 USD cho gia đình 4 người (không hoàn lại)	A US$250,000 contribution for a family of 4, non-refundable			acf.s069_li
+s070	li	Đầu tư BĐS tối thiểu 325.000 USD, duy trì 7 năm (dự án tiêu biểu: Park Hyatt St. Kitts - khách sạn 5 sao, hoạt động từ 2017)	Real estate from US$325,000, held for 7 years (example project: Park Hyatt St. Kitts — a 5-star hotel open since 2017)			acf.s070_li
+s071	p	Thành viên đi kèm (3 thế hệ)	Family members (3 generations)		trung:s038	acf.s071_p
+s072	li	Vợ/chồng	Your spouse	100%: Your spouse	trung:s039	acf.s072_li
+s073	li	Con dưới 30 tuổi chưa kết hôn, phụ thuộc tài chính	Children under 30 who are unmarried and financially dependent	95%: Children under 30 who are unmarried and financially dependent		acf.s073_li
+s074	li	Cha mẹ & ông bà >55 tuổi (của cả 2 vợ chồng)	Parents and grandparents over 55, on both sides		"#bo-qua-so: nguồn viết ""cả 2 vợ chồng""; bản Anh dùng ""on both sides"""	acf.s074_li#1
+s075	p	Quyền lợi & ưu điểm nổi bật	Benefits and highlights		trung:s042	acf.s075_p#1
+s076	p	**Hộ chiếu quyền lực nhất Caribbean** - top 19 thế giới (2026)	**The highest-ranked passport in the Caribbean** — 19th worldwide in 2026			acf.s076_p#1
+s077	p	Miễn visa 155 quốc gia (Schengen, Anh, Hàn Quốc, Hồng Kông…)	Visa-free access to 155 countries (Schengen, the UK, South Korea, Hong Kong…)			acf.s077_p
+s078	p	Dễ dàng xin visa Mỹ	May help when applying for a US visa			acf.s078_p
+s079	p	Không đánh thuế thu nhập toàn cầu, BĐS, thừa kế	No tax on worldwide income, property, or inheritance		trung:s044	acf.s079_p
+s080	p	Luật bảo vệ quyền riêng tư tài khoản ngân hàng nghiêm ngặt	Strict bank confidentiality laws			acf.s080_p
+s081	p	Không yêu cầu cư trú để duy trì quốc tịch; cho phép đa quốc tịch	No residence requirement to keep citizenship; dual citizenship allowed			acf.s081_p
+s082	p	Hạn chế cần lưu ý	Points to consider	100%: Points to consider	trung:s049	acf.s082_p
+s083	p	KHÔNG xin được visa E-2 sang Mỹ	No route to the US E-2 visa		trung:s050	acf.s083_p
+s084	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s051	acf.s084_cta
+s085	cta	XEM CHI TIẾT	View details	100%: View details	trung:s052	acf.s085_cta
+s086	p	Grenada	Grenada		trung:s020	acf.s086_p
+s087	p	03	03			acf.s087_p
+s088	p	{1}03{/1} Nhóm A · Lựa chọn 03	{1}03{/1} Group A · Option 03	95%: {1}03{/1} Group B · Option 03		acf.s088_p#1
+s089	p	Quốc tịch Grenada	Grenada Citizenship by Investment	100%: Grenada Citizenship by Investment		acf.s089_p
+s090	p	Mức đầu tư	Investment	100%: Investment	trung:s026	acf.s090_p
+s091	p	Từ 235.000 USD	From US$235,000		trung:s021	acf.s091_p
+s092	p	(~6,2 tỷ) · gia đình 4 người	family of 4		"#bo-qua-so: bỏ ""(~6,2 tỷ)"" — chỉ nhắc lại số USD"	acf.s092_p
+s093	p	Mục đích	Purpose	100%: Purpose	trung:s029	acf.s093_p
+s094	p	Quốc tịch + miễn visa	Citizenship + visa-free		trung:s030	acf.s094_p
+s095	p	147 quốc gia	147 countries			acf.s095_p
+s096	p	Xét duyệt	Processing	100%: Processing	trung:s032	acf.s096_p
+s097	p	13 – 15	13 – 15			acf.s097_p
+s098	p	tháng	months	100%: months	trung:s034	acf.s098_p
+s099	p	Đặc quyền	What sets it apart			acf.s099_p
+s100	p	Xin visa E-2 sang Mỹ sau 3 năm cư trú Grenada.	You can apply for a US E-2 visa after 3 years of residence in Grenada.			acf.s100_p
+s101	p	Hình thức đầu tư (chọn 1)	Investment routes (choose 1)		trung:s035	acf.s101_p
+s102	li	Trao tặng Chính phủ tối thiểu 235.000 USD (gia đình 4 người)	A government contribution from US$235,000 for a family of 4			acf.s102_li
+s103	li	Đầu tư BĐS tối thiểu 270.000 USD, duy trì 5 năm (dự án tiêu biểu: InterContinental Grenada Resort - khách sạn 5 sao)	Real estate from US$270,000, held for 5 years (example project: InterContinental Grenada Resort — a 5-star hotel)			acf.s103_li
+s104	p	Thành viên đi kèm (3 thế hệ + anh chị em)	Family members (3 generations plus siblings)			acf.s104_p
+s105	li	Vợ/chồng	Your spouse	100%: Your spouse	trung:s039	acf.s105_li
+s106	li	Con dưới 30 tuổi chưa kết hôn, phụ thuộc tài chính	Children under 30 who are unmarried and financially dependent	95%: Children under 30 who are unmarried and financially dependent	trung:s073	acf.s106_li
+s107	li	Cha mẹ (>55 tuổi, không yêu cầu phụ thuộc); ông bà của cả 2 vợ chồng	Parents over 55, with no dependency test; grandparents on both sides		"#bo-qua-so: nguồn viết ""cả 2 vợ chồng""; bản Anh dùng ""on both sides"""	acf.s107_li#1
+s108	li	Anh chị em ruột ≥18 tuổi (chưa kết hôn, phụ thuộc tài chính)	Siblings aged 18 or older, unmarried and financially dependent			acf.s108_li
+s109	p	Quyền lợi & ưu điểm nổi bật	Benefits and highlights		trung:s042	acf.s109_p#1
+s110	p	Miễn visa 147 quốc gia (Schengen, châu Âu, Anh…)	Visa-free access to 147 countries (Schengen, Europe, the UK…)			acf.s110_p
+s111	p	**ĐẶC QUYỀN:** visa E-2 Mỹ sau 3 năm cư trú Grenada	**WHAT SETS IT APART:** the US E-2 visa after 3 years of residence in Grenada			acf.s111_p#1
+s112	p	Không đánh thuế thu nhập toàn cầu; không yêu cầu cư trú để duy trì quốc tịch	No tax on worldwide income; no residence requirement to keep citizenship			acf.s112_p
+s113	p	Anh chị em ruột đi kèm KHÔNG giới hạn tuổi	Siblings can be included with no age limit			acf.s113_p
+s114	p	BĐS bán lại cho nhà đầu tư tiếp theo; cho phép đa quốc tịch	Real estate can be resold to the next investor; dual citizenship allowed			acf.s114_p
+s115	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s051	acf.s115_cta
+s116	cta	XEM CHI TIẾT	View details	100%: View details	trung:s052	acf.s116_cta
+s117	p	Nhóm B	Group B	100%: Group B		acf.s117_p
+s118	p	B	B			acf.s118_p
+s119	p	{1}B{/1} Định cư diện thường trú	{1}B{/1} Residency by investment			acf.s119_p#1
+s120	h2	Định cư Caribbean diện thường trú	Caribbean residency by investment			acf.s120_h2
+s121	p	Đầu tư lấy thẻ cư trú tại Curacao - đặc khu Caribbean của Hà Lan, với lộ trình nhập tịch Hà Lan (EU) sau 5 năm.	You invest for a residence permit in Curacao — part of the Kingdom of the Netherlands — with a route to Dutch, and therefore EU, citizenship after 5 years.			acf.s121_p
+s122	p	Curacao	Curacao			acf.s122_p
+s123	p	TỪ 280.000 USD · CỬA NGÕ HÀ LAN (EU)	FROM US$280,000 · GATEWAY TO THE NETHERLANDS (EU)			acf.s123_p
+s124	p	Curacao	Curacao		trung:s122	acf.s124_p
+s125	p	04	04			acf.s125_p
+s126	p	{1}04{/1} Nhóm B · Lựa chọn 04	{1}04{/1} Group B · Option 04	100%: {1}04{/1} Group B · Option 04		acf.s126_p#1
+s127	p	Thường trú nhân Curacao	Curacao residency		"#bo-qua-tn: Curacao cấp thẻ cư trú, 5 năm mới lên quốc tịch Hà Lan — dịch ""permanent resident"" là sai dữ kiện"	acf.s127_p
+s128	p	Cửa ngõ vào Hà Lan (EU)	The gateway to the Netherlands (EU)			acf.s128_p
+s129	p	Mức đầu tư	Investment	100%: Investment	trung:s026	acf.s129_p
+s130	p	Từ 280.000 USD	From US$280,000			acf.s130_p
+s131	p	(~7,4 tỷ)	minimum		"#bo-qua-so: bỏ ""(~7,4 tỷ)"" — chỉ nhắc lại số USD"	acf.s131_p
+s132	p	Mục đích	Purpose	100%: Purpose	trung:s029	acf.s132_p
+s133	p	Cư trú Curacao	Residence in Curacao			acf.s133_p
+s134	p	đặc khu Caribbean của Hà Lan	part of the Kingdom of the Netherlands			acf.s134_p
+s135	p	Xét duyệt	Processing	100%: Processing	trung:s032	acf.s135_p
+s136	p	3 – 6	3 – 6			acf.s136_p
+s137	p	tháng	months	100%: months	trung:s034	acf.s137_p
+s138	p	Lộ trình	The route			acf.s138_p
+s139	p	Nhập tịch Hà Lan sau 5 năm → quyền lợi công dân EU.	Dutch citizenship after 5 years → full EU citizenship rights.			acf.s139_p
+s140	p	Hình thức đầu tư (chọn 1)	Investment routes (choose 1)		trung:s035	acf.s140_p
+s141	li	BĐS tại Curacao	Real estate in Curacao			acf.s141_li
+s142	li	Kinh doanh / mua cổ phần công ty địa phương	A business, or shares in a local company			acf.s142_li
+s143	li	Công ty niêm yết trên sàn DCSX (Dutch Caribbean Securities Exchange)	A company listed on the Dutch Caribbean Securities Exchange (DCSX)			acf.s143_li
+s144	li	Kết hợp các hình thức trên	A combination of the above			acf.s144_li
+s145	p	Quyền lợi nổi bật	Key benefits			acf.s145_p
+s146	p	Cả gia đình sinh sống & đi lại Curacao	The whole family can live in and travel to Curacao			acf.s146_p#1
+s147	p	Tự do ra vào Hà Lan miễn visa	Visa-free entry to the Netherlands			acf.s147_p
+s148	p	Sau 5 năm → lộ trình quốc tịch Hà Lan; có quốc tịch Hà Lan: tự do sinh sống 27 nước EU	After 5 years → a route to Dutch citizenship; with a Dutch passport, you can live anywhere in the 27 EU countries			acf.s148_p
+s149	p	Hộ chiếu Hà Lan TOP 4 thế giới - miễn visa 188 quốc gia	The Dutch passport ranks in the world's top 4 — visa-free access to 188 countries			acf.s149_p
+s150	p	Ưu điểm	Advantages			acf.s150_p
+s151	p	Chỉ cần cư trú 1 ngày/năm để duy trì thẻ	Just 1 day a year in the country keeps the permit valid			acf.s151_p
+s152	p	Xét duyệt ngắn 3-6 tháng; đa dạng hình thức đầu tư	Processing in 3–6 months; a choice of investment routes			acf.s152_p
+s153	p	Hạn chế cần lưu ý	Points to consider	100%: Points to consider	trung:s049	acf.s153_p
+s154	p	Không nhận quốc tịch ngay (chỉ thẻ cư trú); chỉ miễn visa đến Hà Lan	You receive a residence permit, not citizenship; visa-free entry applies to the Netherlands only			acf.s154_p
+s155	p	Nhập tịch Hà Lan: cư trú 9 tháng/năm × 5 năm + thi tiếng Hà Lan	Dutch citizenship requires 9 months a year of residence over 5 years, plus a Dutch language exam			acf.s155_p
+s156	p	Di chuyển từ Việt Nam còn bất tiện; thẻ cư trú vĩnh viễn rất cao - 838.000 USD	Travel connections from Asia are limited; permanent residence costs far more, at US$838,000			acf.s156_p
+s157	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s051	acf.s157_cta
+s158	p	So Sánh	Compare	100%: Compare		acf.s158_p
+s159	p	Tổng kết	Summary	100%: Summary		acf.s159_p
+s160	h2	Bảng so sánh nhanh{br}các chương trình quốc tịch Caribbean	A quick comparison{br}of the Caribbean citizenship programs			acf.s160_h2#1
+s161	p	Chương trình	Program	100%: Program	trung:s007	acf.s161_p
+s162	p	Mức đầu tư	Investment	100%: Investment	trung:s026	acf.s162_p
+s163	p	Miễn visa	Visa-free			acf.s163_p
+s164	p	Xét duyệt	Processing	100%: Processing	trung:s032	acf.s164_p
+s165	p	Điểm nổi bật	What stands out	88%: Why investors choose this program		acf.s165_p
+s166	p	{1}★{/1} Dominica	{1}★{/1} Dominica			acf.s166_p#1
+s167	p	từ 200.000 USD (~5,3 tỷ)	from US$200,000		"#bo-qua-so: bỏ ""(~5,3 tỷ)"" — chỉ nhắc lại số USD"	acf.s167_p
+s168	p	143-144 quốc gia	143–144 countries			acf.s168_p
+s169	p	8-10 tháng	8–10 months			acf.s169_p
+s170	p	Mức thấp nhất; hoàn vốn nhanh nhất (3 năm). KHÔNG có E-2 Mỹ	Lowest entry level; fastest capital recovery, 3 years. No US E-2			acf.s170_p
+s171	p	{1}★{/1} St. Kitts & Nevis	{1}★{/1} St. Kitts & Nevis			acf.s171_p#1
+s172	p	từ 250.000 USD (~6,6 tỷ)	from US$250,000		"#bo-qua-so: bỏ ""(~6,6 tỷ)"" — chỉ nhắc lại số USD"	acf.s172_p
+s173	p	155 quốc gia & vùng lãnh thổ	155 countries and territories		trung:s062	acf.s173_p#1
+s174	p	10-12 tháng	10–12 months			acf.s174_p
+s175	p	Hộ chiếu mạnh nhất Caribbean (top 25 thế giới)	The highest-ranked passport in the Caribbean (top 25 worldwide)			acf.s175_p
+s176	p	{1}★{/1} Grenada	{1}★{/1} Grenada			acf.s176_p#1
+s177	p	từ 235.000 USD (~6,2 tỷ)	from US$235,000		"#bo-qua-so: bỏ ""(~6,2 tỷ)"" — chỉ nhắc lại số USD"	acf.s177_p
+s178	p	147 quốc gia	147 countries		trung:s095	acf.s178_p
+s179	p	13-15 tháng	13–15 months			acf.s179_p
+s180	p	Visa E-2 Mỹ; anh chị em ruột đi kèm	The US E-2 visa; siblings can be included			acf.s180_p
+s181	p	{1}★{/1} Curacao (TTN)	{1}★{/1} Curacao (residency)			acf.s181_p#1
+s182	p	từ 280.000 USD (~7,4 tỷ)	from US$280,000		"#bo-qua-so: bỏ ""(~7,4 tỷ)"" — chỉ nhắc lại số USD"	acf.s182_p
+s183	p	Miễn visa Hà Lan (thẻ cư trú)	Visa-free to the Netherlands (residence permit)			acf.s183_p
+s184	p	3-6 tháng	3–6 months	87%: 6 months		acf.s184_p
+s185	p	Cửa ngõ quốc tịch Hà Lan (EU)	The gateway to Dutch (EU) citizenship			acf.s185_p
+s186	p	← Vuốt ngang để xem đầy đủ các cột →	← Swipe to see every column →			acf.s186_p#1
+s187	p	Lưu ý	Please note	100%: Please note		acf.s187_p
+s188	p	IMM Group tư vấn các chương trình đầu tư - lấy quốc tịch / thường trú. Không tư vấn diện xuất khẩu lao động, tay nghề hoặc lao động phổ thông.	IMM Group advises on citizenship and residency by investment programs. We do not advise on overseas employment, skilled worker, or general labor migration routes.			acf.s188_p
+s189	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s051	acf.s189_cta
+s190	p	Vì Sao IMM	Why IMM	100%: Why IMM		acf.s190_p
+s191	p	IMM	IMM	100%: IMM		acf.s191_p
+s192	h2	Vì sao chọn IMM Group?	Why choose IMM Group?	100%: Why choose IMM Group?		acf.s192_h2
+s193	p	Từ năm 2005, IMM Group là đơn vị tiên phong tư vấn đầu tư định cư và quốc tịch Caribbean cho nhà đầu tư Việt Nam.	Since 2005, IMM Group has been a pioneer in advising on Caribbean citizenship and residency by investment.			acf.s193_p
+s194	p	1	1			acf.s194_p#1
+s195	h3	21+ năm kinh nghiệm	21+ years of experience	88%: Years of experience		acf.s195_h3
+s196	li	Hai thập kỷ tư vấn đầu tư định cư quốc tế	Two decades advising on investment migration			acf.s196_li
+s197	li	625+ hồ sơ đầu tư định cư xử lý thành công	625+ investment migration cases handled successfully	100%: 625+ investment migration cases handled successfully		acf.s197_li
+s198	li	2.500+ visa được cấp cho các gia đình Việt Nam	2,500+ visas granted to client families	100%: 2,500+ visas granted to client families		acf.s198_li
+s199	p	2	2			acf.s199_p#1
+s200	h3	Được chính phủ Caribbean cấp phép	An authorized agent for Caribbean governments			acf.s200_h3
+s201	li	Công ty Việt Nam đầu tiên và duy nhất được Grenada, St. Kitts & Nevis, Dominica cấp phép	The first and only Vietnamese firm appointed as an authorized agent by Grenada, St. Kitts & Nevis, and Dominica		#viet-nam-hop-le: dữ kiện về công ty — IMM Group là công ty Việt Nam được cấp phép	acf.s201_li#1
+s202	li	Trực tiếp tư vấn và thụ lý hồ sơ đầu tư lấy quốc tịch	We advise on and file citizenship by investment applications directly			acf.s202_li
+s203	li	Làm việc trực tiếp với cơ quan chính phủ, giảm trung gian và tăng bảo mật	We work directly with government agencies, removing intermediaries and keeping your information confidential			acf.s203_li
+s204	p	3	3			acf.s204_p#1
+s205	h3	Chuyên sâu chương trình CBI	Deep expertise in citizenship by investment			acf.s205_h3
+s206	li	Am hiểu chương trình quốc tịch Dominica, St. Kitts & Nevis, Grenada	We know the Dominica, St. Kitts & Nevis, and Grenada citizenship programs in detail			acf.s206_li#1
+s207	li	Tư vấn thêm chương trình thường trú Curaçao	We also advise on the Curacao residency program			acf.s207_li
+s208	li	Hỗ trợ chọn hình thức đầu tư: quyên góp Quỹ Chính phủ hoặc bất động sản được phê duyệt	We help you choose the route: a government fund contribution or approved real estate			acf.s208_li
+s209	p	4	4			acf.s209_p#1
+s210	h3	Thẩm định hồ sơ chặt chẽ	Rigorous file review			acf.s210_h3
+s211	li	Hỗ trợ chuẩn bị hồ sơ due diligence	We help prepare your due diligence file			acf.s211_li
+s212	li	Chứng minh nguồn tiền hợp pháp theo yêu cầu từng quốc gia	We document a lawful source of funds to each country's standard			acf.s212_li
+s213	li	Chuyên viên đạt chứng chỉ IMC về đầu tư định cư quốc tế	Our advisors hold Investment Migration Council (IMC) certification			acf.s213_li
+s214	p	5	5			acf.s214_p#1
+s215	h3	Cam kết đồng hành lâu dài	A long-term commitment			acf.s215_h3
+s216	li	Đặt quyền lợi khách hàng lên trước lợi ích công ty	We put your interests ahead of the firm's			acf.s216_li
+s217	li	Bảo mật thông tin khách hàng theo tiêu chuẩn cao, ký NDA khi cần	We hold client information to a high standard of confidentiality and sign an NDA where needed			acf.s217_li
+s218	li	Sẵn sàng hoàn phí khi xảy ra rủi ro khách quan theo hợp đồng	We are prepared to refund fees where risks outside your control arise, as set out in the contract			acf.s218_li
+s219	p	6	6			acf.s219_p#1
+s220	h3	Nhận và cho đi — Be Better Foundation	Giving back — the Be Better Foundation			acf.s220_h3
+s221	li	Từ 2025, IMM Group chính thức trở thành doanh nghiệp phi lợi nhuận	Since 2025, IMM Group has formally become a not-for-profit business			acf.s221_li
+s222	li	IMM Group cam kết đóng góp tối thiểu 51% lợi nhuận hằng năm vào Quỹ Be Better	IMM Group commits at least 51% of annual profit to the Be Better Foundation			acf.s222_li
+s223	li	Quỹ hỗ trợ học sinh, sinh viên khó khăn tiếp tục học tập và thay đổi tương lai	The foundation helps students facing hardship stay in school and change their future			acf.s223_li
+s224	p	21+	21+	100%: 21+		acf.s224_p
+s225	p	năm kinh nghiệm	Years of experience	100%: Years of experience		acf.s225_p
+s226	p	625+	625+	100%: 625+		acf.s226_p
+s227	p	hồ sơ thành công	Successful cases	100%: Successful cases		acf.s227_p
+s228	p	2.500+	2,500+	100%: 2,500+		acf.s228_p
+s229	p	visa được cấp	Visas granted	100%: Visas granted		acf.s229_p
+s230	p	3	3			acf.s230_p
+s231	p	quốc gia Caribbean cấp phép trực tiếp	Caribbean countries licensing us directly			acf.s231_p
+s232	p	Toàn cầu	Worldwide			acf.s232_p
+s233	p	Danh mục định cư	Program portfolio			acf.s233_p
+s234	p	"""Phục vụ bằng những giá trị chân chính"""	"""Service built on genuine values"""	"100%: ""Service built on genuine values"""		acf.s234_p
+s235	p	— Tôn chỉ IMM Group —	— The IMM Group credo —	100%: — The IMM Group promise —		acf.s235_p
+s236	p	Tham Khảo	More	100%: More		acf.s236_p
+s237	p	Có thể bạn quan tâm	You may also be interested in	100%: You may also be interested in		acf.s237_p
+s238	h3	Tìm hiểu các dịch vụ tư vấn từ IMM Group	Explore IMM Group's advisory services	100%: Explore IMM Group's advisory services		acf.s238_h3
+s239	cta	Quốc tịch Grenada	Grenada Citizenship by Investment	100%: Grenada Citizenship by Investment	trung:s089	acf.s239_cta
+s240	cta	Quốc tịch Dominica	Dominica Citizenship by Investment	100%: Dominica Citizenship by Investment	trung:s025	acf.s240_cta
+s241	cta	Quốc tịch St. Kitts and Nevis	St. Kitts and Nevis Citizenship by Investment	100%: St. Kitts and Nevis Citizenship by Investment		acf.s241_cta

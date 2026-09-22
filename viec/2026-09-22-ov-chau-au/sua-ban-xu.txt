@@ -1,0 +1,24 @@
+[s019] Invest for a residence permit or European Golden Visa, or for European citizenship. The 2 most common routes are real estate and investing in or donating to a fund.
+[s022] {1}A{/1} Residency by investment
+[s023] Residency by investment /{br}{1}the European Golden Visa{/1}
+[s050] The residence card is valid for 5 years, renewable in 5-year terms for as long as you continue to own the property
+[s071] 8–10
+[s078] Keep Stamp 4 status with a minimal residence requirement of 1 day a year
+[s099] How you invest (choose 1)
+[s110] Cyprus does not yet offer visa-free Schengen travel the way Greece, Malta, and Portugal do
+[s125] About 8–10
+[s146] From €500,000
+[s152] 12–16
+[s154] How you invest (choose 1)
+[s167] The fund route is now the main option, since Portugal has restricted the real estate route for the Golden Visa
+[s176] **Investment:** from €690,000
+[s181] **Investment:** from €450,000
+[s183] **Processing:** 6–7 months
+[s204] Spain Golden Visa
+[s221] Latvian temporary residency, travel in the Schengen Area, Switzerland, Norway, and Iceland
+[s245] no investment required
+[s254] ← Swipe to see all columns →
+[s277] We assess each case for suitability before taking it on
+[s285] In 2025, IMM Group formally became a not-for-profit business
+[s295] — The IMM Group credo —
+[s296] Related

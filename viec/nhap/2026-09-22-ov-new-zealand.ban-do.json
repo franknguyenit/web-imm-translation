@@ -1,0 +1,2046 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/web-imm-translation/viec/nhap/goc-overview/new-zealand.json",
+ "truong_json": "html_template",
+ "doan": [
+  {
+   "tu": 441,
+   "den": 447,
+   "raw": "Mở Đầu",
+   "loai": "p",
+   "lop": "section-indicator",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 2994,
+   "den": 3000,
+   "raw": "Mở Đầu",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Mở Đầu",
+   "id": "s002"
+  },
+  {
+   "tu": 3374,
+   "den": 3395,
+   "raw": "IMM GROUP · EST. 2005",
+   "loai": "p",
+   "lop": "badge badge-ghost-gold",
+   "the": "div",
+   "ngu_canh": "Mở Đầu",
+   "id": "s003"
+  },
+  {
+   "tu": 3568,
+   "den": 3594,
+   "raw": "Đầu Tư Định Cư New Zealand",
+   "loai": "h1",
+   "lop": "reveal reveal-1 serif text-gold-grad",
+   "the": "h1",
+   "ngu_canh": "Mở Đầu",
+   "id": "s004"
+  },
+  {
+   "tu": 3834,
+   "den": 3903,
+   "raw": "Hộ chiếu quyền lực — tự do đi lại 187 quốc gia. Tư vấn bởi IMM Group.",
+   "loai": "p",
+   "lop": "reveal reveal-2",
+   "the": "p",
+   "ngu_canh": "Mở Đầu",
+   "id": "s005"
+  },
+  {
+   "tu": 4354,
+   "den": 4752,
+   "raw": "<img\r\n              src=\"https://i.ytimg.com/vi/<?php echo esc_attr( $ov_nz_hero_video_id ); ?>/maxresdefault.jpg\"\r\n              alt=\"<?php echo esc_attr( $ov_nz_hero_video_title ); ?>\"\r\n              width=\"1280\" height=\"720\" loading=\"lazy\" decoding=\"async\"\r\n              onerror=\"this.onerror=null;this.src='https://i.ytimg.com/vi/<?php echo esc_js( $ov_nz_hero_video_id ); ?>/hqdefault.jpg';\">",
+   "loai": "cta",
+   "lop": "hero-video-btn",
+   "the": "button",
+   "ngu_canh": "Mở Đầu",
+   "id": "s006"
+  },
+  {
+   "tu": 5003,
+   "den": 5013,
+   "raw": "CUỘN XUỐNG",
+   "loai": "p",
+   "lop": "scroll-hint",
+   "the": "div",
+   "ngu_canh": "Mở Đầu",
+   "id": "s007"
+  },
+  {
+   "tu": 6207,
+   "den": 6216,
+   "raw": "Tổng Quan",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Tổng Quan",
+   "id": "s008"
+  },
+  {
+   "tu": 6352,
+   "den": 6361,
+   "raw": "Tổng quan",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s009"
+  },
+  {
+   "tu": 6507,
+   "den": 6546,
+   "raw": "Tổng quan về đầu tư định cư New Zealand",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Tổng Quan",
+   "id": "s010"
+  },
+  {
+   "tu": 6655,
+   "den": 6781,
+   "raw": "Hiện có 2 chương trình đầu tư định cư New Zealand đang mở nhận hồ sơ, cùng 1 chương trình đã đóng chỉ còn mang tính tham khảo.",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Tổng Quan",
+   "id": "s011"
+  },
+  {
+   "tu": 7065,
+   "den": 7085,
+   "raw": "Chương trình đang mở",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s012"
+  },
+  {
+   "tu": 7151,
+   "den": 7218,
+   "raw": "<strong>Active Investor Plus Visa</strong> — mức đầu tư 5 triệu NZD",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tổng Quan",
+   "id": "s013"
+  },
+  {
+   "tu": 7239,
+   "den": 7305,
+   "raw": "<strong>Business Investor Visa</strong> — mức đầu tư 1–2 triệu NZD",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tổng Quan",
+   "id": "s014"
+  },
+  {
+   "tu": 7543,
+   "den": 7582,
+   "raw": "Hộ chiếu New Zealand — top đầu thế giới",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s015"
+  },
+  {
+   "tu": 7636,
+   "den": 7674,
+   "raw": "Miễn visa hoặc e-visa đến 187 quốc gia",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tổng Quan",
+   "id": "s016"
+  },
+  {
+   "tu": 7695,
+   "den": 7732,
+   "raw": "Tự do đi Mỹ, Anh, Canada, Úc, châu Âu",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tổng Quan",
+   "id": "s017"
+  },
+  {
+   "tu": 7926,
+   "den": 7938,
+   "raw": "Chương Trình",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Chương Trình",
+   "id": "s018"
+  },
+  {
+   "tu": 8048,
+   "den": 8060,
+   "raw": "Chương trình",
+   "loai": "p",
+   "lop": "reveal eyebrow",
+   "the": "div",
+   "ngu_canh": "Chương Trình",
+   "id": "s019"
+  },
+  {
+   "tu": 8219,
+   "den": 8265,
+   "raw": "Các chương trình<br>đầu tư định cư New Zealand",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Chương Trình",
+   "id": "s020"
+  },
+  {
+   "tu": 8376,
+   "den": 8557,
+   "raw": "3 chương trình đầu tư định cư New Zealand: 2 chương trình đang mở (Business Investor Visa, Active Investor Plus Visa) và 1 chương trình đã đóng (Entrepreneur Work Visa — tham khảo).",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Chương Trình",
+   "id": "s021"
+  },
+  {
+   "tu": 8730,
+   "den": 8736,
+   "raw": "Nhóm A",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Nhóm A",
+   "id": "s022"
+  },
+  {
+   "tu": 8771,
+   "den": 8772,
+   "raw": "A",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s023"
+  },
+  {
+   "tu": 8894,
+   "den": 8941,
+   "raw": "<span class=\"num\">A</span> Chương trình đang mở",
+   "loai": "p",
+   "lop": "reveal eyebrow on-dark",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s024"
+  },
+  {
+   "tu": 9093,
+   "den": 9187,
+   "raw": "Chương trình đầu tư định cư<br><span style=\"color:var(--gold-soft);\">đang mở nhận hồ sơ</span>",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Nhóm A",
+   "id": "s025"
+  },
+  {
+   "tu": 9332,
+   "den": 9469,
+   "raw": "Hai chương trình đầu tư định cư New Zealand đang nhận hồ sơ, cấp quyền cư trú cho cả gia đình và lộ trình lên thường trú &amp; quốc tịch.",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Nhóm A",
+   "id": "s026"
+  },
+  {
+   "tu": 9650,
+   "den": 9675,
+   "raw": "Active Investor Plus Visa",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s027"
+  },
+  {
+   "tu": 9698,
+   "den": 9731,
+   "raw": "ĐẦU TƯ TÀI CHÍNH · TỪ 5 TRIỆU NZD",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s028"
+  },
+  {
+   "tu": 9988,
+   "den": 10010,
+   "raw": "Business Investor Visa",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s029"
+  },
+  {
+   "tu": 10033,
+   "den": 10060,
+   "raw": "DOANH NHÂN · TỪ 1 TRIỆU NZD",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s030"
+  },
+  {
+   "tu": 10425,
+   "den": 10445,
+   "raw": "Active Investor Plus",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s031"
+  },
+  {
+   "tu": 10506,
+   "den": 10508,
+   "raw": "01",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s032"
+  },
+  {
+   "tu": 10608,
+   "den": 10652,
+   "raw": "<span class=\"num\">01</span> Nhóm A · Đang mở",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s033"
+  },
+  {
+   "tu": 10734,
+   "den": 10759,
+   "raw": "Active Investor Plus Visa",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s034"
+  },
+  {
+   "tu": 10886,
+   "den": 10896,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s035"
+  },
+  {
+   "tu": 10930,
+   "den": 10940,
+   "raw": "Từ 5 triệu",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s036"
+  },
+  {
+   "tu": 10973,
+   "den": 10976,
+   "raw": "NZD",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s037"
+  },
+  {
+   "tu": 11051,
+   "den": 11059,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s038"
+  },
+  {
+   "tu": 11093,
+   "den": 11105,
+   "raw": "Quyền cư trú",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s039"
+  },
+  {
+   "tu": 11138,
+   "den": 11149,
+   "raw": "New Zealand",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s040"
+  },
+  {
+   "tu": 11224,
+   "den": 11233,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s041"
+  },
+  {
+   "tu": 11267,
+   "den": 11276,
+   "raw": "Tùy hồ sơ",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s042"
+  },
+  {
+   "tu": 11309,
+   "den": 11329,
+   "raw": "&amp; khối lượng INZ",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s043"
+  },
+  {
+   "tu": 11565,
+   "den": 11606,
+   "raw": "Hạng mục GROWTH — 5 triệu NZD (giữ 3 năm)",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s044"
+  },
+  {
+   "tu": 11656,
+   "den": 11696,
+   "raw": "Đầu tư trực tiếp doanh nghiệp tư nhân NZ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s045"
+  },
+  {
+   "tu": 11715,
+   "den": 11768,
+   "raw": "Quỹ quản lý / quỹ đầu tư mạo hiểm được NZTE phê duyệt",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s046"
+  },
+  {
+   "tu": 12010,
+   "den": 12054,
+   "raw": "Hạng mục BALANCED — 10 triệu NZD (giữ 5 năm)",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s047"
+  },
+  {
+   "tu": 12104,
+   "den": 12152,
+   "raw": "Đầu tư trực tiếp, quỹ quản lý, cổ phiếu niêm yết",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s048"
+  },
+  {
+   "tu": 12171,
+   "den": 12201,
+   "raw": "Trái phiếu, hoạt động từ thiện",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s049"
+  },
+  {
+   "tu": 12220,
+   "den": 12253,
+   "raw": "Dự án phát triển bất động sản mới",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s050"
+  },
+  {
+   "tu": 12531,
+   "den": 12548,
+   "raw": "Thành viên đi kèm",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s051"
+  },
+  {
+   "tu": 12598,
+   "den": 12608,
+   "raw": "Vợ / chồng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s052"
+  },
+  {
+   "tu": 12627,
+   "den": 12677,
+   "raw": "Con dưới 24 tuổi chưa kết hôn, phụ thuộc tài chính",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s053"
+  },
+  {
+   "tu": 12774,
+   "den": 12791,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s054"
+  },
+  {
+   "tu": 13012,
+   "den": 13055,
+   "raw": "Cấp thị thực NGAY sau khoản đầu tư đầu tiên",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s055"
+  },
+  {
+   "tu": 13248,
+   "den": 13312,
+   "raw": "Cư trú vô thời hạn, tự do ra vào 4 hoặc 6 năm đầu (tùy hạng mục)",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s056"
+  },
+  {
+   "tu": 13505,
+   "den": 13562,
+   "raw": "Y tế công miễn phí, con học miễn phí trường công đến THPT",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s057"
+  },
+  {
+   "tu": 13755,
+   "den": 13809,
+   "raw": "Sau 4 năm duy trì đầu tư → xin Permanent Resident Visa",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s058"
+  },
+  {
+   "tu": 14002,
+   "den": 14037,
+   "raw": "Sau 5 năm cư trú → xin quốc tịch NZ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s059"
+  },
+  {
+   "tu": 14354,
+   "den": 14371,
+   "raw": "Hạn chế cần lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s060"
+  },
+  {
+   "tu": 14540,
+   "den": 14580,
+   "raw": "Vốn đầu tư rất cao — kén chọn nhà đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s061"
+  },
+  {
+   "tu": 14755,
+   "den": 14805,
+   "raw": "Rủi ro tài chính cao hơn các chương trình thụ động",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s062"
+  },
+  {
+   "tu": 14963,
+   "den": 14977,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s063"
+  },
+  {
+   "tu": 15266,
+   "den": 15278,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "Active Investor Plus",
+   "id": "s064"
+  },
+  {
+   "tu": 15488,
+   "den": 15505,
+   "raw": "Business Investor",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Business Investor",
+   "id": "s065"
+  },
+  {
+   "tu": 15566,
+   "den": 15568,
+   "raw": "02",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s066"
+  },
+  {
+   "tu": 15668,
+   "den": 15712,
+   "raw": "<span class=\"num\">02</span> Nhóm A · Đang mở",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s067"
+  },
+  {
+   "tu": 15794,
+   "den": 15816,
+   "raw": "Business Investor Visa",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s068"
+  },
+  {
+   "tu": 15943,
+   "den": 15953,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s069"
+  },
+  {
+   "tu": 15987,
+   "den": 15997,
+   "raw": "Từ 1 triệu",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s070"
+  },
+  {
+   "tu": 16030,
+   "den": 16033,
+   "raw": "NZD",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s071"
+  },
+  {
+   "tu": 16108,
+   "den": 16116,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s072"
+  },
+  {
+   "tu": 16150,
+   "den": 16162,
+   "raw": "Quyền cư trú",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s073"
+  },
+  {
+   "tu": 16195,
+   "den": 16206,
+   "raw": "New Zealand",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s074"
+  },
+  {
+   "tu": 16281,
+   "den": 16295,
+   "raw": "Lên thường trú",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s075"
+  },
+  {
+   "tu": 16329,
+   "den": 16334,
+   "raw": "Từ 12",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s076"
+  },
+  {
+   "tu": 16367,
+   "den": 16389,
+   "raw": "tháng (lộ trình nhanh)",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s077"
+  },
+  {
+   "tu": 16632,
+   "den": 16649,
+   "raw": "2 lộ trình đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s078"
+  },
+  {
+   "tu": 16699,
+   "den": 16756,
+   "raw": "<strong>Lộ trình THƯỜNG:</strong> 1 triệu NZD (giữ 3 năm)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Business Investor",
+   "id": "s079"
+  },
+  {
+   "tu": 16775,
+   "den": 16834,
+   "raw": "<strong>Lộ trình NHANH:</strong> 2 triệu NZD (giữ 12 tháng)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Business Investor",
+   "id": "s080"
+  },
+  {
+   "tu": 16853,
+   "den": 16899,
+   "raw": "Mục đích: cư trú tạm thời → thường trú nhân NZ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Business Investor",
+   "id": "s081"
+  },
+  {
+   "tu": 16918,
+   "den": 16943,
+   "raw": "INZ nhận hồ sơ từ 11/2025",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Business Investor",
+   "id": "s082"
+  },
+  {
+   "tu": 17192,
+   "den": 17208,
+   "raw": "Hình thức đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s083"
+  },
+  {
+   "tu": 17258,
+   "den": 17314,
+   "raw": "Mua lại toàn bộ HOẶC sở hữu ≥25% cổ phần doanh nghiệp NZ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Business Investor",
+   "id": "s084"
+  },
+  {
+   "tu": 17333,
+   "den": 17401,
+   "raw": "Lộ trình thường: 1 triệu NZD, sau 3 năm vận hành → xin Resident Visa",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Business Investor",
+   "id": "s085"
+  },
+  {
+   "tu": 17420,
+   "den": 17490,
+   "raw": "Lộ trình nhanh: 2 triệu NZD, sau 12 tháng vận hành → xin Resident Visa",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Business Investor",
+   "id": "s086"
+  },
+  {
+   "tu": 17768,
+   "den": 17788,
+   "raw": "Yêu cầu tạo việc làm",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s087"
+  },
+  {
+   "tu": 17838,
+   "den": 17871,
+   "raw": "Duy trì 5 việc làm toàn thời gian",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Business Investor",
+   "id": "s088"
+  },
+  {
+   "tu": 17890,
+   "den": 17939,
+   "raw": "Tạo ≥1 việc làm mới cho công dân / PR New Zealand",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Business Investor",
+   "id": "s089"
+  },
+  {
+   "tu": 18036,
+   "den": 18053,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s090"
+  },
+  {
+   "tu": 18274,
+   "den": 18318,
+   "raw": "Cả gia đình cư trú, học tập, làm việc tại NZ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s091"
+  },
+  {
+   "tu": 18511,
+   "den": 18568,
+   "raw": "Y tế công miễn phí, con học miễn phí trường công đến THPT",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s092"
+  },
+  {
+   "tu": 18761,
+   "den": 18812,
+   "raw": "Thường trú sau 12 tháng (nhanh) hoặc 3 năm (thường)",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s093"
+  },
+  {
+   "tu": 19005,
+   "den": 19040,
+   "raw": "Sau 5 năm cư trú → xin quốc tịch NZ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s094"
+  },
+  {
+   "tu": 19233,
+   "den": 19279,
+   "raw": "Hộ chiếu NZ — miễn visa / e-visa 180+ quốc gia",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s095"
+  },
+  {
+   "tu": 19555,
+   "den": 19576,
+   "raw": "Ưu điểm &amp; hạn chế",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s096"
+  },
+  {
+   "tu": 19754,
+   "den": 19796,
+   "raw": "Lộ trình NHANH lên thường trú chỉ 12 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s097"
+  },
+  {
+   "tu": 19980,
+   "den": 20052,
+   "raw": "Vốn hợp lý (từ 1 triệu NZD) — thấp hơn nhiều so với Active Investor Plus",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s098"
+  },
+  {
+   "tu": 20236,
+   "den": 20335,
+   "raw": "Toàn quyền điều hành &amp; kiểm soát khoản đầu tư; phù hợp người muốn vận hành doanh nghiệp thực tế",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s099"
+  },
+  {
+   "tu": 20510,
+   "den": 20566,
+   "raw": "Phải trực tiếp điều hành — không phù hợp đầu tư thụ động",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s100"
+  },
+  {
+   "tu": 20741,
+   "den": 20787,
+   "raw": "Kết quả kinh doanh ảnh hưởng việc xét duyệt PR",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s101"
+  },
+  {
+   "tu": 20962,
+   "den": 21004,
+   "raw": "Giới hạn tuổi + yêu cầu cư trú thực tế cao",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Business Investor",
+   "id": "s102"
+  },
+  {
+   "tu": 21162,
+   "den": 21176,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "Business Investor",
+   "id": "s103"
+  },
+  {
+   "tu": 21462,
+   "den": 21474,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "Business Investor",
+   "id": "s104"
+  },
+  {
+   "tu": 27158,
+   "den": 27165,
+   "raw": "So Sánh",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "So Sánh",
+   "id": "s105"
+  },
+  {
+   "tu": 27301,
+   "den": 27309,
+   "raw": "Tổng kết",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "So Sánh",
+   "id": "s106"
+  },
+  {
+   "tu": 27455,
+   "den": 27520,
+   "raw": "Bảng so sánh nhanh<br>các chương trình đầu tư định cư New Zealand",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "So Sánh",
+   "id": "s107"
+  },
+  {
+   "tu": 27701,
+   "den": 27713,
+   "raw": "Chương trình",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s108"
+  },
+  {
+   "tu": 27722,
+   "den": 27732,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s109"
+  },
+  {
+   "tu": 27741,
+   "den": 27752,
+   "raw": "Lộ trình PR",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s110"
+  },
+  {
+   "tu": 27761,
+   "den": 27770,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s111"
+  },
+  {
+   "tu": 27791,
+   "den": 27801,
+   "raw": "Trạng thái",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s112"
+  },
+  {
+   "tu": 27872,
+   "den": 27925,
+   "raw": "<span class=\"star\">★</span> Active Investor Plus Visa",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s113"
+  },
+  {
+   "tu": 27934,
+   "den": 27992,
+   "raw": "Growth 5 triệu NZD (3 năm) / Balanced 10 triệu NZD (5 năm)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s114"
+  },
+  {
+   "tu": 28001,
+   "den": 28013,
+   "raw": "PR sau 4 năm",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s115"
+  },
+  {
+   "tu": 28022,
+   "den": 28052,
+   "raw": "Tùy hồ sơ &amp; khối lượng INZ",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s116"
+  },
+  {
+   "tu": 28073,
+   "den": 28110,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s117"
+  },
+  {
+   "tu": 28142,
+   "den": 28192,
+   "raw": "<span class=\"star\">★</span> Business Investor Visa",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s118"
+  },
+  {
+   "tu": 28201,
+   "den": 28256,
+   "raw": "1 triệu NZD (giữ 3 năm) hoặc 2 triệu NZD (giữ 12 tháng)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s119"
+  },
+  {
+   "tu": 28265,
+   "den": 28299,
+   "raw": "PR sau 12 tháng (nhanh) hoặc 3 năm",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s120"
+  },
+  {
+   "tu": 28308,
+   "den": 28333,
+   "raw": "Mở từ 11/2025 (tùy hồ sơ)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s121"
+  },
+  {
+   "tu": 28354,
+   "den": 28391,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s122"
+  },
+  {
+   "tu": 28423,
+   "den": 28445,
+   "raw": "Entrepreneur Work Visa",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s123"
+  },
+  {
+   "tu": 28454,
+   "den": 28478,
+   "raw": "từ 100.000 NZD (~1,5 tỷ)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s124"
+  },
+  {
+   "tu": 28487,
+   "den": 28512,
+   "raw": "PR sau ~4 năm (trước đây)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s125"
+  },
+  {
+   "tu": 28521,
+   "den": 28536,
+   "raw": "Đã đóng 08/2025",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s126"
+  },
+  {
+   "tu": 28557,
+   "den": 28595,
+   "raw": "<span class=\"pill-cond\">Đã đóng</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s127"
+  },
+  {
+   "tu": 28755,
+   "den": 28831,
+   "raw": "<span style=\"font-style:italic;\">← Vuốt ngang để xem đầy đủ các cột →</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "So Sánh",
+   "id": "s128"
+  },
+  {
+   "tu": 29072,
+   "den": 29093,
+   "raw": "Lưu ý phạm vi dịch vụ",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "So Sánh",
+   "id": "s129"
+  },
+  {
+   "tu": 29160,
+   "den": 29290,
+   "raw": "IMM Group chỉ tư vấn các chương trình doanh nhân – đầu tư. Không tư vấn diện xuất khẩu lao động, tay nghề hoặc lao động phổ thông.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "So Sánh",
+   "id": "s130"
+  },
+  {
+   "tu": 29440,
+   "den": 29454,
+   "raw": "Đăng ký tư vấn",
+   "loai": "cta",
+   "lop": "btn-primary w-100",
+   "the": "a",
+   "ngu_canh": "So Sánh",
+   "id": "s131"
+  },
+  {
+   "tu": 29742,
+   "den": 29752,
+   "raw": "Vì Sao IMM",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s132"
+  },
+  {
+   "tu": 29787,
+   "den": 29790,
+   "raw": "IMM",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s133"
+  },
+  {
+   "tu": 29938,
+   "den": 29954,
+   "raw": "Vì sao IMM Group",
+   "loai": "p",
+   "lop": "eyebrow on-dark",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s134"
+  },
+  {
+   "tu": 30093,
+   "den": 30115,
+   "raw": "Vì sao chọn IMM Group?",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s135"
+  },
+  {
+   "tu": 30228,
+   "den": 30452,
+   "raw": "IMM Group — Đơn vị tư vấn đầu tư định cư tiên phong, giàu kinh nghiệm thực chiến, minh bạch, chính trực và bảo vệ lợi ích khách hàng đến cùng. <strong style=\"color:var(--gold-soft);\">Phục Vụ Bằng Giá Trị Chân Chính.</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s136"
+  },
+  {
+   "tu": 30596,
+   "den": 30620,
+   "raw": "<span class=\"n\">1</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s137"
+  },
+  {
+   "tu": 30630,
+   "den": 30686,
+   "raw": "Tiên phong với sứ mệnh \"Phục vụ bằng giá trị chân chính\"",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s138"
+  },
+  {
+   "tu": 30744,
+   "den": 30816,
+   "raw": "21+ năm tiên phong trong tư vấn đầu tư định cư tại Việt Nam (từ 01/2005)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s139"
+  },
+  {
+   "tu": 30837,
+   "den": 30884,
+   "raw": "Đặt lợi ích khách hàng lên trên lợi ích công ty",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s140"
+  },
+  {
+   "tu": 30905,
+   "den": 30991,
+   "raw": "Sẵn sàng hoàn phí khi rủi ro khách quan xảy ra (chương trình thay đổi / dừng đột ngột)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s141"
+  },
+  {
+   "tu": 31012,
+   "den": 31085,
+   "raw": "Bảo mật thông tin cá nhân theo tiêu chuẩn cao nhất, ký NDA với khách hàng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s142"
+  },
+  {
+   "tu": 31220,
+   "den": 31244,
+   "raw": "<span class=\"n\">2</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s143"
+  },
+  {
+   "tu": 31254,
+   "den": 31291,
+   "raw": "Tư vấn chuyên nghiệp &amp; khách quan",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s144"
+  },
+  {
+   "tu": 31349,
+   "den": 31441,
+   "raw": "Tư duy \"Professional Consulting\" — không chốt deal nhanh, không quảng cáo \"định cư siêu tốc\"",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s145"
+  },
+  {
+   "tu": 31462,
+   "den": 31561,
+   "raw": "Danh mục chương trình đa dạng bậc nhất: New Zealand, Mỹ, Úc, Canada, Châu Âu, Caribbean, Thổ Nhĩ Kỳ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s146"
+  },
+  {
+   "tu": 31582,
+   "den": 31653,
+   "raw": "Đơn vị Việt Nam đầu tiên hoàn chỉnh gói dịch vụ tư vấn định cư toàn cầu",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s147"
+  },
+  {
+   "tu": 31674,
+   "den": 31763,
+   "raw": "\"May đo\" giải pháp theo mục tiêu, tài chính, kinh nghiệm và nguyện vọng của từng gia đình",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s148"
+  },
+  {
+   "tu": 31784,
+   "den": 31847,
+   "raw": "Triết lý \"Ít nhưng Chất\" — chủ động sàng lọc khách hàng phù hợp",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s149"
+  },
+  {
+   "tu": 31982,
+   "den": 32006,
+   "raw": "<span class=\"n\">3</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s150"
+  },
+  {
+   "tu": 32016,
+   "den": 32069,
+   "raw": "Chuyên môn đẳng cấp quốc tế — đối tác tại New Zealand",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s151"
+  },
+  {
+   "tu": 32127,
+   "den": 32241,
+   "raw": "Đội ngũ chuyên gia am hiểu sâu chương trình Business Investor Visa &amp; Active Investor Plus Visa của New Zealand",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s152"
+  },
+  {
+   "tu": 32262,
+   "den": 32415,
+   "raw": "Hợp tác cùng cố vấn di trú được cấp phép tại New Zealand (Licensed Immigration Adviser) — đảm bảo hồ sơ tuân thủ quy định của Sở Di trú New Zealand (INZ)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s153"
+  },
+  {
+   "tu": 32436,
+   "den": 32562,
+   "raw": "Am hiểu danh mục quỹ đầu tư &amp; đối tác được New Zealand Trade and Enterprise (NZTE) công nhận cho diện Active Investor Plus",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s154"
+  },
+  {
+   "tu": 32583,
+   "den": 32726,
+   "raw": "Chuyên viên đạt chứng chỉ IMC (Hội đồng Đầu tư Định cư Quốc tế) — đào tạo bài bản, kiểm định chống rửa tiền, bảo mật &amp; thẩm định khách hàng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s155"
+  },
+  {
+   "tu": 32747,
+   "den": 32844,
+   "raw": "Hỗ trợ chuyên sâu: kế hoạch kinh doanh, chứng minh nguồn vốn đầu tư &amp; lộ trình lên thường trú",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s156"
+  },
+  {
+   "tu": 32979,
+   "den": 33003,
+   "raw": "<span class=\"n\">4</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s157"
+  },
+  {
+   "tu": 33013,
+   "den": 33055,
+   "raw": "Vị thế &amp; uy tín quốc tế được công nhận",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s158"
+  },
+  {
+   "tu": 33113,
+   "den": 33323,
+   "raw": "Công ty Việt Nam đầu tiên &amp; duy nhất được Chính phủ Grenada, St. Kitts &amp; Nevis, Dominica cấp phép trực tiếp thụ lý hồ sơ đầu tư lấy quốc tịch — minh chứng cho năng lực &amp; uy tín quốc tế của IMM Group",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s159"
+  },
+  {
+   "tu": 33344,
+   "den": 33448,
+   "raw": "Xử lý hồ sơ minh bạch, trực tiếp với cơ quan di trú — loại bỏ trung gian, tối ưu thời gian &amp; bảo mật",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s160"
+  },
+  {
+   "tu": 33469,
+   "den": 33542,
+   "raw": "Đáp ứng tiêu chuẩn khắt khe về pháp lý, tài chính, nhân sự và kinh nghiệm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s161"
+  },
+  {
+   "tu": 33668,
+   "den": 33692,
+   "raw": "<span class=\"n\">5</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s162"
+  },
+  {
+   "tu": 33702,
+   "den": 33748,
+   "raw": "Kinh nghiệm thực chiến — minh chứng thành công",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s163"
+  },
+  {
+   "tu": 33806,
+   "den": 33848,
+   "raw": "625+ hồ sơ đầu tư định cư xử lý thành công",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s164"
+  },
+  {
+   "tu": 33869,
+   "den": 33915,
+   "raw": "2.500+ visa được cấp cho các gia đình Việt Nam",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s165"
+  },
+  {
+   "tu": 33936,
+   "den": 34013,
+   "raw": "Xử lý thành công nhiều hồ sơ phức tạp về nguồn tiền, tái cấu trúc, khiếu kiện",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s166"
+  },
+  {
+   "tu": 34034,
+   "den": 34119,
+   "raw": "Đánh giá \"cực kỳ hài lòng\" từ khách hàng về sự chuyên nghiệp, chu đáo, hỗ trợ tận tâm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s167"
+  },
+  {
+   "tu": 34254,
+   "den": 34278,
+   "raw": "<span class=\"n\">6</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s168"
+  },
+  {
+   "tu": 34288,
+   "den": 34332,
+   "raw": "Vươn tầm cùng khát vọng Việt — Quỹ Be Better",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s169"
+  },
+  {
+   "tu": 34390,
+   "den": 34450,
+   "raw": "Nhà sáng lập Trần Văn Tỉnh kiến tạo Quỹ Be Better Foundation",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s170"
+  },
+  {
+   "tu": 34471,
+   "den": 34528,
+   "raw": "Cam kết đóng góp tối thiểu 51% lợi nhuận hàng năm vào Quỹ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s171"
+  },
+  {
+   "tu": 34549,
+   "den": 34621,
+   "raw": "Hỗ trợ trẻ em hoàn cảnh khó khăn đến trường và theo đuổi giấc mơ đại học",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s172"
+  },
+  {
+   "tu": 34642,
+   "den": 34708,
+   "raw": "Đã hỗ trợ 70+ học sinh, sinh viên — mục tiêu 1.000 em vào năm 2060",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s173"
+  },
+  {
+   "tu": 34869,
+   "den": 34893,
+   "raw": "<span class=\"n\">7</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s174"
+  },
+  {
+   "tu": 34903,
+   "den": 34938,
+   "raw": "Cam kết bảo mật thông tin tuyệt đối",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s175"
+  },
+  {
+   "tu": 34996,
+   "den": 35054,
+   "raw": "Ký kết Hợp đồng Bảo mật Thông tin (NDA) với mọi khách hàng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s176"
+  },
+  {
+   "tu": 35075,
+   "den": 35157,
+   "raw": "Mọi thông tin khách hàng trong truyền thông, case study đều được ẩn danh hoàn toàn",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s177"
+  },
+  {
+   "tu": 35178,
+   "den": 35227,
+   "raw": "Tuân thủ nghiêm ngặt các quy tắc bảo mật cao nhất",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s178"
+  },
+  {
+   "tu": 35414,
+   "den": 35417,
+   "raw": "21+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s179"
+  },
+  {
+   "tu": 35438,
+   "den": 35453,
+   "raw": "năm kinh nghiệm",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s180"
+  },
+  {
+   "tu": 35536,
+   "den": 35540,
+   "raw": "625+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s181"
+  },
+  {
+   "tu": 35561,
+   "den": 35577,
+   "raw": "hồ sơ thành công",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s182"
+  },
+  {
+   "tu": 35674,
+   "den": 35680,
+   "raw": "2.500+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s183"
+  },
+  {
+   "tu": 35701,
+   "den": 35714,
+   "raw": "visa được cấp",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s184"
+  },
+  {
+   "tu": 35779,
+   "den": 35780,
+   "raw": "3",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s185"
+  },
+  {
+   "tu": 35801,
+   "den": 35828,
+   "raw": "quốc gia cấp phép trực tiếp",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s186"
+  },
+  {
+   "tu": 35878,
+   "den": 35886,
+   "raw": "Toàn cầu",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s187"
+  },
+  {
+   "tu": 35907,
+   "den": 35923,
+   "raw": "Danh mục định cư",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s188"
+  },
+  {
+   "tu": 36153,
+   "den": 36192,
+   "raw": "\"Phục vụ bằng những giá trị chân chính\"",
+   "loai": "p",
+   "lop": "serif-i",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s189"
+  },
+  {
+   "tu": 36307,
+   "den": 36328,
+   "raw": "— Tôn chỉ IMM Group —",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s190"
+  },
+  {
+   "tu": 36491,
+   "den": 36500,
+   "raw": "Tham Khảo",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Tham Khảo",
+   "id": "s191"
+  },
+  {
+   "tu": 36596,
+   "den": 36615,
+   "raw": "Có thể bạn quan tâm",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Tham Khảo",
+   "id": "s192"
+  },
+  {
+   "tu": 36727,
+   "den": 36767,
+   "raw": "Tìm hiểu các dịch vụ tư vấn từ IMM Group",
+   "loai": "h3",
+   "lop": "serif",
+   "the": "h3",
+   "ngu_canh": "Tham Khảo",
+   "id": "s193"
+  },
+  {
+   "tu": 37023,
+   "den": 37049,
+   "raw": "Đầu tư định cư New Zealand",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s194"
+  },
+  {
+   "tu": 37325,
+   "den": 37377,
+   "raw": "Quyền cư trú New Zealand (Active Investor Plus Visa)",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s195"
+  },
+  {
+   "tu": 37634,
+   "den": 37683,
+   "raw": "Quyền cư trú New Zealand (Business Investor Visa)",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s196"
+  },
+  {
+   "tu": 38043,
+   "den": 38125,
+   "raw": "Tổng quan Chương trình định cư New Zealand diện đầu tư (Active Investor Plus Visa)",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s197"
+  },
+  {
+   "tu": 38221,
+   "den": 38240,
+   "raw": "Hiểu về New Zealand",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Tham Khảo",
+   "id": "s198"
+  },
+  {
+   "tu": 38352,
+   "den": 38406,
+   "raw": "Chuyên trang IMM Group — thông tin hữu ích theo chủ đề",
+   "loai": "h3",
+   "lop": "serif",
+   "the": "h3",
+   "ngu_canh": "Tham Khảo",
+   "id": "s199"
+  },
+  {
+   "tu": 38652,
+   "den": 38677,
+   "raw": "Cuộc sống tại New Zealand",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s200"
+  },
+  {
+   "tu": 38914,
+   "den": 38938,
+   "raw": "Giáo dục tại New Zealand",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s201"
+  },
+  {
+   "tu": 39190,
+   "den": 39209,
+   "raw": "Văn hóa New Zealand",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s202"
+  },
+  {
+   "tu": 39419,
+   "den": 39447,
+   "raw": "Lao động / Kinh doanh tại NZ",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s203"
+  },
+  {
+   "tu": 39723,
+   "den": 39756,
+   "raw": "Trợ cấp, phúc lợi, an sinh xã hội",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s204"
+  }
+ ]
+}

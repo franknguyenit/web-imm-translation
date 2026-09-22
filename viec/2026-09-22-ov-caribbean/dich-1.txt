@@ -1,0 +1,172 @@
+[s004] Caribbean Citizenship
+[s005] A second citizenship — from US$200,000 — visa-free travel to 157 countries
+[s009] Caribbean citizenship{br}programs
+[s010] 4 programs for you and your family, in 2 groups: direct citizenship by investment (Dominica, St. Kitts & Nevis, Grenada) and residency (Curacao — the gateway to the Netherlands).
+[s012] A
+[s013] {1}A{/1} Citizenship by investment
+[s014] Caribbean citizenship by investment{br}{1}(Dominica, St. Kitts & Nevis, Grenada){/1}
+[s015] You invest — a government fund contribution or approved real estate — and the whole family receives citizenship and passports directly, with no residence requirement.
+[s016] Dominica
+[s017] FROM US$200,000
+[s018] St. Kitts & Nevis
+[s019] FROM US$250,000
+[s020] Grenada
+[s021] FROM US$235,000
+[s022] Dominica
+[s023] 01
+[s027] From US$200,000
+[s028|#bo-qua-so: bỏ "(~5,3 tỷ)" — chỉ nhắc lại số USD] non-refundable
+[s030] Citizenship + visa-free
+[s031] 144 countries
+[s033] 8 – 10
+[s035] Investment routes (choose 1)
+[s036] A US$250,000 contribution for a family of 4, or US$200,000 for a single applicant
+[s037] Real estate from US$200,000, held for 3 years (example project: Secret Bay — a 6-star resort ranked first in the Caribbean and among the world's top 10)
+[s038] Family members (3 generations)
+[s040] Children of any age (over 28 must be unmarried and dependent)
+[s041] Parents over 65; grandparents on both sides
+[s042] Benefits and highlights
+[s043] Visa-free access to 143 countries, including the Schengen Area and Europe
+[s044] No tax on worldwide income, property, or inheritance
+[s045] No residence, education, or language requirements
+[s046] Rated the best second citizenship 4 years running, 2017–2020 — Financial Times
+[s047] **FASTEST EXIT:** after 3 years, against 5–7 years for other programs
+[s050] Does NOT open the US E-2 visa
+[s053] St. Kitts & Nevis
+[s054] 02
+[s056] St. Kitts & Nevis citizenship
+[s058] From US$250,000
+[s059|#bo-qua-so: bỏ "(~6,6 tỷ)" — chỉ nhắc lại số USD] family of 4
+[s061] Citizenship + visa-free
+[s062] 155 countries and territories
+[s064] 10 – 12
+[s066] Visa-free access to 155 countries and territories
+[s067] Including the Schengen Area, Europe, the UK, South Korea, and Hong Kong
+[s068] Investment routes (choose 1)
+[s069] A US$250,000 contribution for a family of 4, non-refundable
+[s070] Real estate from US$325,000, held for 7 years (example project: Park Hyatt St. Kitts — a 5-star hotel open since 2017)
+[s071] Family members (3 generations)
+[s073] Children under 30 who are unmarried and financially dependent
+[s074] Parents and grandparents over 55, on both sides
+[s075] Benefits and highlights
+[s076] **The highest-ranked passport in the Caribbean** — 19th in the world in 2026
+[s077] Visa-free access to 155 countries (Schengen, the UK, South Korea, Hong Kong…)
+[s078] A helpful basis for US visa applications
+[s079] No tax on worldwide income, property, or inheritance
+[s080] Strong bank account privacy protections
+[s081] No residence requirement to keep citizenship; dual citizenship allowed
+[s083] Does NOT open the US E-2 visa
+[s086] Grenada
+[s087] 03
+[s088] {1}03{/1} Group A · Option 03
+[s091] From US$235,000
+[s092|#bo-qua-so: bỏ "(~6,2 tỷ)" — chỉ nhắc lại số USD] family of 4
+[s094] Citizenship + visa-free
+[s095] 147 countries
+[s097] 13 – 15
+[s099] What sets it apart
+[s100] You can apply for a US E-2 visa after 3 years of residence in Grenada.
+[s101] Investment routes (choose 1)
+[s102] A government contribution from US$235,000 for a family of 4
+[s103] Real estate from US$270,000, held for 5 years (example project: InterContinental Grenada Resort — a 5-star hotel)
+[s104] Family members (3 generations plus siblings)
+[s106] Children under 30 who are unmarried and financially dependent
+[s107] Parents over 55, with no dependency test; grandparents on both sides
+[s108] Siblings aged 18 or older, unmarried and financially dependent
+[s109] Benefits and highlights
+[s110] Visa-free access to 147 countries (Schengen, Europe, the UK…)
+[s111] **WHAT SETS IT APART:** the US E-2 visa after 3 years of residence in Grenada
+[s112] No tax on worldwide income; no residence requirement to keep citizenship
+[s113] Siblings can be included with no age limit
+[s114] Real estate can be resold to the next investor; dual citizenship allowed
+[s118] B
+[s119] {1}B{/1} Residency by investment
+[s120] Caribbean residency by investment
+[s121] You invest for a residence permit in Curacao — a Caribbean territory of the Netherlands — with a route to Dutch, and therefore EU, citizenship after 5 years.
+[s122] Curacao
+[s123] FROM US$280,000 · GATEWAY TO THE NETHERLANDS (EU)
+[s124] Curacao
+[s125] 04
+[s127] Curacao residency
+[s128] The gateway to the Netherlands (EU)
+[s130] From US$280,000
+[s131|#bo-qua-so: bỏ "(~7,4 tỷ)" — chỉ nhắc lại số USD] to invest
+[s133] Residence in Curacao
+[s134] a Caribbean territory of the Netherlands
+[s136] 3 – 6
+[s138] The route
+[s139] Dutch citizenship after 5 years → full EU citizenship rights.
+[s140] Investment routes (choose 1)
+[s141] Real estate in Curacao
+[s142] A business, or shares in a local company
+[s143] A company listed on the Dutch Caribbean Securities Exchange (DCSX)
+[s144] A combination of the above
+[s145] Key benefits
+[s146] The whole family can live in and travel to Curacao
+[s147] Visa-free entry to the Netherlands
+[s148] After 5 years → a route to Dutch citizenship; with a Dutch passport, you can live anywhere in the 27 EU countries
+[s149] The Dutch passport ranks in the world's top 4 — visa-free access to 188 countries
+[s150] Advantages
+[s151] Only 1 day a year in the country to keep the permit
+[s152] Processing in 3–6 months; a choice of investment routes
+[s154] No citizenship at the outset, only a residence permit; visa-free entry to the Netherlands only
+[s155] Dutch citizenship requires 9 months a year of residence over 5 years, plus a Dutch language exam
+[s156] Getting there from Asia is still awkward; permanent residence costs a great deal more — US$838,000
+[s160] A quick comparison{br}of the Caribbean citizenship programs
+[s163] Visa-free
+[s165] What stands out
+[s166] {1}★{/1} Dominica
+[s167|#bo-qua-so: bỏ "(~5,3 tỷ)" — chỉ nhắc lại số USD] from US$200,000
+[s168] 143–144 countries
+[s169] 8–10 months
+[s170] Lowest entry level; fastest exit, after 3 years. NO US E-2
+[s171] {1}★{/1} St. Kitts & Nevis
+[s172|#bo-qua-so: bỏ "(~6,6 tỷ)" — chỉ nhắc lại số USD] from US$250,000
+[s173] 155 countries and territories
+[s174] 10–12 months
+[s175] The highest-ranked passport in the Caribbean (top 25 worldwide)
+[s176] {1}★{/1} Grenada
+[s177|#bo-qua-so: bỏ "(~6,2 tỷ)" — chỉ nhắc lại số USD] from US$235,000
+[s178] 147 countries
+[s179] 13–15 months
+[s180] The US E-2 visa; siblings can be included
+[s181] {1}★{/1} Curacao (residency)
+[s182|#bo-qua-so: bỏ "(~7,4 tỷ)" — chỉ nhắc lại số USD] from US$280,000
+[s183] Visa-free to the Netherlands (residence permit)
+[s184] 3–6 months
+[s185] The gateway to Dutch (EU) citizenship
+[s186] ← Swipe to see every column →
+[s188] IMM Group advises on citizenship and residency by investment programs. We do not advise on labor export, skilled worker, or general labor routes.
+[s193] Since 2005, IMM Group has been a pioneer in advising on Caribbean citizenship and residency by investment.
+[s194] 1
+[s195] 21+ years of experience
+[s196] Two decades advising on investment migration
+[s199] 2
+[s200] Licensed by Caribbean governments
+[s201|#viet-nam-hop-le: dữ kiện về công ty — IMM Group là công ty Việt Nam được cấp phép] The first and only Vietnamese firm licensed by Grenada, St. Kitts & Nevis, and Dominica
+[s202] We advise on and file citizenship by investment applications directly
+[s203] We work directly with government agencies, cutting out intermediaries and tightening confidentiality
+[s204] 3
+[s205] Deep expertise in CBI programs
+[s206] We know the Dominica, St. Kitts & Nevis, and Grenada citizenship programs in detail
+[s207] We also advise on the Curaçao residency program
+[s208] We help you choose the route: a government fund contribution or approved real estate
+[s209] 4
+[s210] Rigorous file review
+[s211] We help prepare your due diligence file
+[s212] We document a lawful source of funds to each country's standard
+[s213] Our advisers hold the IMC certification in investment migration
+[s214] 5
+[s215] A long-term commitment
+[s216] We put your interests ahead of the firm's
+[s217] We hold client information to a high standard of confidentiality and sign an NDA where needed
+[s218] We refund fees where risks outside your control arise, as set out in the contract
+[s219] 6
+[s220] Giving back — the Be Better Foundation
+[s221] Since 2025, IMM Group has formally become a not-for-profit business
+[s222] IMM Group commits at least 51% of annual profit to the Be Better Foundation
+[s223] The foundation helps students in difficulty stay in school and change their future
+[s230] 3
+[s231] Caribbean countries licensing us directly
+[s232] Worldwide
+[s233] Immigration portfolio

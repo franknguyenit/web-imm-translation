@@ -1,0 +1,205 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	p	Mở Đầu	Introduction	100%: Introduction		acf.s001_p
+s002	p	Mở Đầu	Introduction	100%: Introduction	trung:s001	acf.s002_p
+s003	p	IMM GROUP · EST. 2005	IMM Group · est. 2005	100%: IMM Group · est. 2005		acf.s003_p
+s004	h1	Đầu Tư Định Cư New Zealand	New Zealand Investor Visa	100%: New Zealand investment immigration		acf.s004_h1
+s005	p	Hộ chiếu quyền lực — tự do đi lại 187 quốc gia. Tư vấn bởi IMM Group.	The New Zealand investor visa · visa-free or eVisa access to 187 countries · advised by IMM Group			acf.s005_p
+s006	cta	"/maxresdefault.jpg"" alt=""<?php echo esc_attr( $ov_nz_hero_video_title ); ?>"" width=""1280"" height=""720"" loading=""lazy"" decoding=""async"" onerror=""this.onerror=null;this.src='https://i.ytimg.com/vi/<?php echo esc_js( $ov_nz_hero_video_id ); ?>/hqdefault.jpg';"">"	[BO]		#bo: không phải chữ — là thẻ <img> mang thuộc tính PHP (alt, onerror) mà bộ rút bắt nhầm	acf.s006_cta#1
+s007	p	CUỘN XUỐNG	Scroll down	100%: Scroll down		acf.s007_p
+s008	p	Tổng Quan	Overview	100%: Overview		acf.s008_p
+s009	p	Tổng quan	Overview	100%: Overview	trung:s008	acf.s009_p
+s010	h2	Tổng quan về đầu tư định cư New Zealand	An overview of New Zealand investment immigration			acf.s010_h2
+s011	p	Hiện có 2 chương trình đầu tư định cư New Zealand đang mở nhận hồ sơ, cùng 1 chương trình đã đóng chỉ còn mang tính tham khảo.	There are 2 New Zealand investor visa programs open to applications, plus 1 that has closed and is kept here for reference.			acf.s011_p
+s012	p	Chương trình đang mở	Programs now open			acf.s012_p
+s013	li	**Active Investor Plus Visa** — mức đầu tư 5 triệu NZD	**Active Investor Plus Visa** — from NZ$5 million			acf.s013_li#1
+s014	li	**Business Investor Visa** — mức đầu tư 1–2 triệu NZD	**Business Investor Visa** — NZ$1–2 million			acf.s014_li#1
+s015	p	Hộ chiếu New Zealand — top đầu thế giới	The New Zealand passport — among the world's strongest			acf.s015_p
+s016	li	Miễn visa hoặc e-visa đến 187 quốc gia	Visa-free or eVisa access to 187 countries			acf.s016_li
+s017	li	Tự do đi Mỹ, Anh, Canada, Úc, châu Âu	Travel freely to the United States, the United Kingdom, Canada, Australia, and Europe			acf.s017_li
+s018	p	Chương Trình	Program	100%: Program		acf.s018_p
+s019	p	Chương trình	Program	100%: Program	trung:s018	acf.s019_p
+s020	h2	Các chương trình{br}đầu tư định cư New Zealand	New Zealand{br}investor visa programs			acf.s020_h2#1
+s021	p	3 chương trình đầu tư định cư New Zealand: 2 chương trình đang mở (Business Investor Visa, Active Investor Plus Visa) và 1 chương trình đã đóng (Entrepreneur Work Visa — tham khảo).	Three New Zealand investor visa programs: 2 open to applications (Business Investor Visa, Active Investor Plus Visa) and 1 closed (Entrepreneur Work Visa — kept for reference).		"#bo-qua-so: mở câu bằng chữ số nên viết ""Three"" theo style guide mục 5"	acf.s021_p
+s022	p	Nhóm A	Group A	100%: Group A		acf.s022_p
+s023	p	A	A			acf.s023_p
+s024	p	{1}A{/1} Chương trình đang mở	{1}A{/1} Programs now open			acf.s024_p#1
+s025	h2	Chương trình đầu tư định cư{br}{1}đang mở nhận hồ sơ{/1}	Investor visa programs{br}{1}open to applications{/1}			acf.s025_h2#1
+s026	p	Hai chương trình đầu tư định cư New Zealand đang nhận hồ sơ, cấp quyền cư trú cho cả gia đình và lộ trình lên thường trú & quốc tịch.	Two New Zealand investor visa programs are open to applications. Both give the whole family residence, with a route to permanent residence and citizenship.			acf.s026_p#1
+s027	p	Active Investor Plus Visa	Active Investor Plus Visa			acf.s027_p
+s028	p	ĐẦU TƯ TÀI CHÍNH · TỪ 5 TRIỆU NZD	Financial investment · from NZ$5 million			acf.s028_p
+s029	p	Business Investor Visa	Business Investor Visa			acf.s029_p
+s030	p	DOANH NHÂN · TỪ 1 TRIỆU NZD	Entrepreneur · from NZ$1 million			acf.s030_p
+s031	p	Active Investor Plus	Active Investor Plus			acf.s031_p
+s032	p	01	01			acf.s032_p
+s033	p	{1}01{/1} Nhóm A · Đang mở	{1}01{/1} Group A · Open			acf.s033_p#1
+s034	p	Active Investor Plus Visa	Active Investor Plus Visa		trung:s027	acf.s034_p
+s035	p	Mức đầu tư	Investment	100%: Investment		acf.s035_p
+s036	p	Từ 5 triệu	From 5 million			acf.s036_p
+s037	p	NZD	NZD			acf.s037_p
+s038	p	Mục đích	Purpose	100%: Purpose		acf.s038_p
+s039	p	Quyền cư trú	Residence			acf.s039_p
+s040	p	New Zealand	New Zealand			acf.s040_p
+s041	p	Xét duyệt	Processing	100%: Processing		acf.s041_p
+s042	p	Tùy hồ sơ	Case by case			acf.s042_p
+s043	p	& khối lượng INZ	& INZ workload			acf.s043_p#1
+s044	p	Hạng mục GROWTH — 5 triệu NZD (giữ 3 năm)	Growth category — NZ$5 million, held for 3 years			acf.s044_p
+s045	li	Đầu tư trực tiếp doanh nghiệp tư nhân NZ	Direct investment in New Zealand private companies			acf.s045_li
+s046	li	Quỹ quản lý / quỹ đầu tư mạo hiểm được NZTE phê duyệt	Managed funds and venture capital funds approved by NZTE			acf.s046_li
+s047	p	Hạng mục BALANCED — 10 triệu NZD (giữ 5 năm)	Balanced category — NZ$10 million, held for 5 years			acf.s047_p
+s048	li	Đầu tư trực tiếp, quỹ quản lý, cổ phiếu niêm yết	Direct investment, managed funds, listed shares			acf.s048_li
+s049	li	Trái phiếu, hoạt động từ thiện	Bonds and philanthropic giving			acf.s049_li
+s050	li	Dự án phát triển bất động sản mới	New property development projects			acf.s050_li
+s051	p	Thành viên đi kèm	Family members you can include	97%: Which family members can be included?		acf.s051_p
+s052	li	Vợ / chồng	Spouse	88%: Your spouse		acf.s052_li
+s053	li	Con dưới 24 tuổi chưa kết hôn, phụ thuộc tài chính	Children under 24, unmarried and financially dependent	91%: Children under 30 who are unmarried and financially dependent		acf.s053_li
+s054	p	Quyền lợi nổi bật	Key benefits			acf.s054_p
+s055	p	Cấp thị thực NGAY sau khoản đầu tư đầu tiên	Your resident visa is issued once you have made the first investment			acf.s055_p
+s056	p	Cư trú vô thời hạn, tự do ra vào 4 hoặc 6 năm đầu (tùy hạng mục)	Indefinite residence, with unrestricted travel for the first 4 or 6 years, depending on the category			acf.s056_p
+s057	p	Y tế công miễn phí, con học miễn phí trường công đến THPT	Free public healthcare and free public schooling for your children through the end of secondary school			acf.s057_p
+s058	p	Sau 4 năm duy trì đầu tư → xin Permanent Resident Visa	After 4 years of maintaining the investment, you can apply for a Permanent Resident Visa			acf.s058_p
+s059	p	Sau 5 năm cư trú → xin quốc tịch NZ	After 5 years of residence, you can apply for New Zealand citizenship			acf.s059_p
+s060	p	Hạn chế cần lưu ý	Points to consider	100%: Points to consider		acf.s060_p
+s061	p	Vốn đầu tư rất cao — kén chọn nhà đầu tư	A very high investment threshold — it suits few investors			acf.s061_p
+s062	p	Rủi ro tài chính cao hơn các chương trình thụ động	Higher financial risk than passive programs			acf.s062_p
+s063	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s063_cta
+s064	cta	XEM CHI TIẾT	View details	100%: View details		acf.s064_cta
+s065	p	Business Investor	Business Investor			acf.s065_p
+s066	p	02	02			acf.s066_p
+s067	p	{1}02{/1} Nhóm A · Đang mở	{1}02{/1} Group A · Open			acf.s067_p#1
+s068	p	Business Investor Visa	Business Investor Visa		trung:s029	acf.s068_p
+s069	p	Mức đầu tư	Investment	100%: Investment	trung:s035	acf.s069_p
+s070	p	Từ 1 triệu	From 1 million			acf.s070_p
+s071	p	NZD	NZD		trung:s037	acf.s071_p
+s072	p	Mục đích	Purpose	100%: Purpose	trung:s038	acf.s072_p
+s073	p	Quyền cư trú	Residence		trung:s039	acf.s073_p
+s074	p	New Zealand	New Zealand		trung:s040	acf.s074_p
+s075	p	Lên thường trú	Time to PR			acf.s075_p
+s076	p	Từ 12	From 12			acf.s076_p
+s077	p	tháng (lộ trình nhanh)	months (fast route)			acf.s077_p
+s078	p	2 lộ trình đầu tư	2 investment routes			acf.s078_p
+s079	li	**Lộ trình THƯỜNG:** 1 triệu NZD (giữ 3 năm)	**Standard route:** NZ$1 million, held for 3 years			acf.s079_li#1
+s080	li	**Lộ trình NHANH:** 2 triệu NZD (giữ 12 tháng)	**Fast route:** NZ$2 million, held for 12 months			acf.s080_li#1
+s081	li	Mục đích: cư trú tạm thời → thường trú nhân NZ	Purpose: temporary residence leading to New Zealand permanent residence			acf.s081_li
+s082	li	INZ nhận hồ sơ từ 11/2025	INZ has accepted applications since November 2025		"#bo-qua-so: ""11/2025"" viết thành tên tháng theo style guide mục 5"	acf.s082_li
+s083	p	Hình thức đầu tư	How you invest	100%: How you invest		acf.s083_p
+s084	li	Mua lại toàn bộ HOẶC sở hữu ≥25% cổ phần doanh nghiệp NZ	Buy a New Zealand business outright, or hold at least 25% of its shares			acf.s084_li
+s085	li	Lộ trình thường: 1 triệu NZD, sau 3 năm vận hành → xin Resident Visa	Standard route: NZ$1 million; after 3 years running the business, you apply for a Resident Visa			acf.s085_li
+s086	li	Lộ trình nhanh: 2 triệu NZD, sau 12 tháng vận hành → xin Resident Visa	Fast route: NZ$2 million; after 12 months running the business, you apply for a Resident Visa			acf.s086_li
+s087	p	Yêu cầu tạo việc làm	Job creation requirements			acf.s087_p
+s088	li	Duy trì 5 việc làm toàn thời gian	Maintain 5 full-time jobs			acf.s088_li
+s089	li	Tạo ≥1 việc làm mới cho công dân / PR New Zealand	Create at least 1 new job for a New Zealand citizen or permanent resident			acf.s089_li
+s090	p	Quyền lợi nổi bật	Key benefits		trung:s054	acf.s090_p
+s091	p	Cả gia đình cư trú, học tập, làm việc tại NZ	The whole family can live, study, and work in New Zealand			acf.s091_p
+s092	p	Y tế công miễn phí, con học miễn phí trường công đến THPT	Free public healthcare and free public schooling for your children through the end of secondary school		trung:s057	acf.s092_p
+s093	p	Thường trú sau 12 tháng (nhanh) hoặc 3 năm (thường)	Permanent residence after 12 months on the fast route, or 3 years on the standard route			acf.s093_p
+s094	p	Sau 5 năm cư trú → xin quốc tịch NZ	After 5 years of residence, you can apply for New Zealand citizenship		trung:s059	acf.s094_p
+s095	p	Hộ chiếu NZ — miễn visa / e-visa 180+ quốc gia	The New Zealand passport — visa-free or eVisa access to 180+ countries			acf.s095_p
+s096	p	Ưu điểm & hạn chế	Strengths and limitations			acf.s096_p#1
+s097	p	Lộ trình NHANH lên thường trú chỉ 12 tháng	The fast route reaches permanent residence in just 12 months			acf.s097_p
+s098	p	Vốn hợp lý (từ 1 triệu NZD) — thấp hơn nhiều so với Active Investor Plus	A reasonable entry level, from NZ$1 million — far below Active Investor Plus			acf.s098_p
+s099	p	Toàn quyền điều hành & kiểm soát khoản đầu tư; phù hợp người muốn vận hành doanh nghiệp thực tế	Full control over running the business and the investment; it suits people who want to operate a real business			acf.s099_p#1
+s100	p	Phải trực tiếp điều hành — không phù hợp đầu tư thụ động	You have to run the business yourself — it does not suit passive investment			acf.s100_p
+s101	p	Kết quả kinh doanh ảnh hưởng việc xét duyệt PR	How the business performs affects the permanent residence decision			acf.s101_p
+s102	p	Giới hạn tuổi + yêu cầu cư trú thực tế cao	An age limit and a demanding physical presence requirement			acf.s102_p
+s103	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s063	acf.s103_cta
+s104	cta	XEM CHI TIẾT	View details	100%: View details	trung:s064	acf.s104_cta
+s105	p	So Sánh	Compare	100%: Compare		acf.s105_p
+s106	p	Tổng kết	Summary	100%: Summary		acf.s106_p
+s107	h2	Bảng so sánh nhanh{br}các chương trình đầu tư định cư New Zealand	A quick comparison{br}of New Zealand investor visa programs	88%: A quick comparison{br} of U.S. investment immigration programs		acf.s107_h2#1
+s108	p	Chương trình	Program	100%: Program	trung:s018	acf.s108_p
+s109	p	Mức đầu tư	Investment	100%: Investment	trung:s035	acf.s109_p
+s110	p	Lộ trình PR	Route to PR			acf.s110_p
+s111	p	Xét duyệt	Processing	100%: Processing	trung:s041	acf.s111_p
+s112	p	Trạng thái	Status			acf.s112_p
+s113	p	{1}★{/1} Active Investor Plus Visa	{1}★{/1} Active Investor Plus Visa			acf.s113_p#1
+s114	p	Growth 5 triệu NZD (3 năm) / Balanced 10 triệu NZD (5 năm)	Growth NZ$5 million, 3 years / Balanced NZ$10 million, 5 years			acf.s114_p
+s115	p	PR sau 4 năm	PR after 4 years			acf.s115_p
+s116	p	Tùy hồ sơ & khối lượng INZ	Case by case & INZ workload			acf.s116_p#1
+s117	p	Đang mở	Open			acf.s117_p#1
+s118	p	{1}★{/1} Business Investor Visa	{1}★{/1} Business Investor Visa			acf.s118_p#1
+s119	p	1 triệu NZD (giữ 3 năm) hoặc 2 triệu NZD (giữ 12 tháng)	NZ$1 million held for 3 years, or NZ$2 million held for 12 months			acf.s119_p
+s120	p	PR sau 12 tháng (nhanh) hoặc 3 năm	PR after 12 months (fast) or 3 years			acf.s120_p
+s121	p	Mở từ 11/2025 (tùy hồ sơ)	Open since November 2025 (case by case)		"#bo-qua-so: ""11/2025"" viết thành tên tháng theo style guide mục 5"	acf.s121_p
+s122	p	Đang mở	Open		trung:s117	acf.s122_p#1
+s123	p	Entrepreneur Work Visa	Entrepreneur Work Visa			acf.s123_p
+s124	p	từ 100.000 NZD (~1,5 tỷ)	from NZ$100,000		#bo-qua-so: bỏ quy đổi VND theo style guide mục 5	acf.s124_p
+s125	p	PR sau ~4 năm (trước đây)	PR after about 4 years (previously)			acf.s125_p
+s126	p	Đã đóng 08/2025	Closed August 2025		"#bo-qua-so: ""08/2025"" viết thành tên tháng theo style guide mục 5"	acf.s126_p
+s127	p	Đã đóng	Closed			acf.s127_p#1
+s128	p	← Vuốt ngang để xem đầy đủ các cột →	← Swipe to see all columns →			acf.s128_p#1
+s129	p	Lưu ý phạm vi dịch vụ	A note on the scope of our services			acf.s129_p
+s130	p	IMM Group chỉ tư vấn các chương trình doanh nhân – đầu tư. Không tư vấn diện xuất khẩu lao động, tay nghề hoặc lao động phổ thông.	IMM Group advises only on entrepreneur and investor programs. We do not advise on overseas employment, skilled worker, or general labor migration routes.	86%: IMM Group advises only on business and investment programs (EB-5, EB-1C, L-1A, E-2). We do not advise on overseas employment, skilled worker or general labor routes (EB-3, H-1B and similar).		acf.s130_p
+s131	cta	Đăng ký tư vấn	Book a consultation	100%: Book a consultation	trung:s063	acf.s131_cta
+s132	p	Vì Sao IMM	Why IMM	100%: Why IMM		acf.s132_p
+s133	p	IMM	IMM	100%: IMM		acf.s133_p
+s134	p	Vì sao IMM Group	Why IMM Group			acf.s134_p
+s135	h2	Vì sao chọn IMM Group?	Why choose IMM Group?	100%: Why choose IMM Group?		acf.s135_h2
+s136	p	IMM Group — Đơn vị tư vấn đầu tư định cư tiên phong, giàu kinh nghiệm thực chiến, minh bạch, chính trực và bảo vệ lợi ích khách hàng đến cùng. **Phục Vụ Bằng Giá Trị Chân Chính.**	IMM Group is a pioneering investment migration advisory firm with deep hands-on experience, built on transparency, integrity and an unwavering commitment to our clients' interests. **Service built on genuine values.**	100%: IMM Group is a pioneering investment migration advisory firm with deep hands-on experience, built on transparency, integrity and an unwavering commitment to our clients' interests. **Service built on genuine values.**		acf.s136_p#1
+s137	p	1	1			acf.s137_p#1
+s138	h3	"Tiên phong với sứ mệnh ""Phục vụ bằng giá trị chân chính"""	A pioneer with a mission: service built on genuine values	100%: A pioneer with a mission: service built on genuine values		acf.s138_h3
+s139	li	21+ năm tiên phong trong tư vấn đầu tư định cư tại Việt Nam (từ 01/2005)	21+ years pioneering investment migration advice in Vietnam (since January 2005)	100%: 21+ years pioneering investment migration advice in Vietnam (since January 2005)		acf.s139_li
+s140	li	Đặt lợi ích khách hàng lên trên lợi ích công ty	We put client interests ahead of our own	100%: We put client interests ahead of our own		acf.s140_li
+s141	li	Sẵn sàng hoàn phí khi rủi ro khách quan xảy ra (chương trình thay đổi / dừng đột ngột)	We are prepared to refund our service fee if events outside your control occur — for example a program being changed or suspended without notice	100%: We refund our service fee if events outside your control occur — for example a program being changed or suspended without notice		acf.s141_li
+s142	li	Bảo mật thông tin cá nhân theo tiêu chuẩn cao nhất, ký NDA với khách hàng	Personal data protected to the highest standards, with a non-disclosure agreement (NDA) signed with every client	100%: Personal data protected to the highest standards, with a non-disclosure agreement (NDA) signed with every client		acf.s142_li
+s143	p	2	2			acf.s143_p#1
+s144	h3	Tư vấn chuyên nghiệp & khách quan	Professional, objective advice	100%: Professional, objective advice		acf.s144_h3#1
+s145	li	"Tư duy ""Professional Consulting"" — không chốt deal nhanh, không quảng cáo ""định cư siêu tốc"""	"A professional consulting mindset — no rushed deals, no advertising of ""ultra-fast"" immigration"	"94%: A professional consulting mindset — no rushed deals, no marketing of ""express green cards"""		acf.s145_li
+s146	li	Danh mục chương trình đa dạng bậc nhất: New Zealand, Mỹ, Úc, Canada, Châu Âu, Caribbean, Thổ Nhĩ Kỳ	One of the broadest program portfolios in the market: New Zealand, the United States, Australia, Canada, Europe, the Caribbean, and Türkiye	86%: One of the broadest program portfolios: the United States, Australia, Canada, Europe, the Caribbean, Türkiye and New Zealand		acf.s146_li
+s147	li	Đơn vị Việt Nam đầu tiên hoàn chỉnh gói dịch vụ tư vấn định cư toàn cầu	The first firm in Vietnam to offer a complete global residency advisory service	100%: The first firm in Vietnam to offer a complete global residency advisory service		acf.s147_li
+s148	li	"""May đo"" giải pháp theo mục tiêu, tài chính, kinh nghiệm và nguyện vọng của từng gia đình"	Solutions tailored to each family's goals, finances, experience and wishes	100%: Solutions tailored to each family's goals, finances, experience and wishes		acf.s148_li
+s149	li	"Triết lý ""Ít nhưng Chất"" — chủ động sàng lọc khách hàng phù hợp"	"A ""fewer, better"" philosophy — we take on only the clients we are genuinely right for"	"100%: A ""fewer, better"" philosophy — we take on only the clients we are genuinely right for"		acf.s149_li
+s150	p	3	3			acf.s150_p#1
+s151	h3	Chuyên môn đẳng cấp quốc tế — đối tác tại New Zealand	International-standard expertise, with partners in New Zealand			acf.s151_h3
+s152	li	Đội ngũ chuyên gia am hiểu sâu chương trình Business Investor Visa & Active Investor Plus Visa của New Zealand	Specialists with deep knowledge of New Zealand's Business Investor Visa and Active Investor Plus Visa			acf.s152_li#1
+s153	li	Hợp tác cùng cố vấn di trú được cấp phép tại New Zealand (Licensed Immigration Adviser) — đảm bảo hồ sơ tuân thủ quy định của Sở Di trú New Zealand (INZ)	We work with a Licensed Immigration Adviser in New Zealand, so your application is prepared to meet Immigration New Zealand (INZ) requirements			acf.s153_li
+s154	li	Am hiểu danh mục quỹ đầu tư & đối tác được New Zealand Trade and Enterprise (NZTE) công nhận cho diện Active Investor Plus	We know the investment funds and partners recognized by New Zealand Trade and Enterprise (NZTE) for the Active Investor Plus category			acf.s154_li#1
+s155	li	Chuyên viên đạt chứng chỉ IMC (Hội đồng Đầu tư Định cư Quốc tế) — đào tạo bài bản, kiểm định chống rửa tiền, bảo mật & thẩm định khách hàng	Our advisors hold Investment Migration Council (IMC) certification — formal training in anti-money-laundering checks, confidentiality, and client due diligence	96%: Advisors certified by the Investment Migration Council (IMC) — 6 months of training and assessment in anti-money-laundering, confidentiality and client due diligence		acf.s155_li#1
+s156	li	Hỗ trợ chuyên sâu: kế hoạch kinh doanh, chứng minh nguồn vốn đầu tư & lộ trình lên thường trú	In-depth support with your business plan, your source of funds evidence, and the route to permanent residence			acf.s156_li#1
+s157	p	4	4			acf.s157_p#1
+s158	h3	Vị thế & uy tín quốc tế được công nhận	Recognized international standing			acf.s158_h3#1
+s159	li	Công ty Việt Nam đầu tiên & duy nhất được Chính phủ Grenada, St. Kitts & Nevis, Dominica cấp phép trực tiếp thụ lý hồ sơ đầu tư lấy quốc tịch — minh chứng cho năng lực & uy tín quốc tế của IMM Group	The first and only Vietnamese firm appointed by the governments of Grenada, St. Kitts and Nevis, and Dominica to handle citizenship by investment files directly — evidence of IMM Group's capability and international standing			acf.s159_li#1
+s160	li	Xử lý hồ sơ minh bạch, trực tiếp với cơ quan di trú — loại bỏ trung gian, tối ưu thời gian & bảo mật	Files handled transparently and directly with immigration authorities — no intermediaries, less time lost, and better confidentiality			acf.s160_li#1
+s161	li	Đáp ứng tiêu chuẩn khắt khe về pháp lý, tài chính, nhân sự và kinh nghiệm	We meet demanding standards for legal standing, finances, staffing and experience	100%: We meet demanding standards for legal standing, finances, staffing and experience		acf.s161_li
+s162	p	5	5			acf.s162_p#1
+s163	h3	Kinh nghiệm thực chiến — minh chứng thành công	Hands-on experience, with results to show	100%: Hands-on experience, with results to show		acf.s163_h3
+s164	li	625+ hồ sơ đầu tư định cư xử lý thành công	625+ investment migration cases handled successfully	100%: 625+ investment migration cases handled successfully		acf.s164_li
+s165	li	2.500+ visa được cấp cho các gia đình Việt Nam	2,500+ visas granted to client families	100%: 2,500+ visas granted to client families		acf.s165_li
+s166	li	Xử lý thành công nhiều hồ sơ phức tạp về nguồn tiền, tái cấu trúc, khiếu kiện	A record of complex cases handled successfully — source of funds, restructuring, and appeals			acf.s166_li
+s167	li	"Đánh giá ""cực kỳ hài lòng"" từ khách hàng về sự chuyên nghiệp, chu đáo, hỗ trợ tận tâm"	"Clients consistently describe themselves as ""extremely satisfied"" with our professionalism, care and dedicated support"	"100%: Clients consistently describe themselves as ""extremely satisfied"" with our professionalism, care and dedicated support"		acf.s167_li
+s168	p	6	6			acf.s168_p#1
+s169	h3	Vươn tầm cùng khát vọng Việt — Quỹ Be Better	Growing with Vietnam's ambitions — the Be Better Foundation	100%: Growing with Vietnam's ambitions — the Be Better Foundation		acf.s169_h3
+s170	li	Nhà sáng lập Trần Văn Tỉnh kiến tạo Quỹ Be Better Foundation	Founder Tran Van Tinh created the Be Better Foundation	100%: Founder Tran Van Tinh created the Be Better Foundation		acf.s170_li
+s171	li	Cam kết đóng góp tối thiểu 51% lợi nhuận hàng năm vào Quỹ	A commitment to contribute at least 51% of annual profits to the foundation	100%: A commitment to contribute at least 51% of annual profits to the foundation		acf.s171_li
+s172	li	Hỗ trợ trẻ em hoàn cảnh khó khăn đến trường và theo đuổi giấc mơ đại học	Helping children from difficult circumstances stay in school and reach university	100%: Helping children from difficult circumstances stay in school and reach university		acf.s172_li
+s173	li	Đã hỗ trợ 70+ học sinh, sinh viên — mục tiêu 1.000 em vào năm 2060	70+ students supported so far — with a goal of 1,000 by 2060	100%: 70+ students supported so far — with a goal of 1,000 by 2060		acf.s173_li
+s174	p	7	7			acf.s174_p#1
+s175	h3	Cam kết bảo mật thông tin tuyệt đối	An absolute commitment to confidentiality	100%: An absolute commitment to confidentiality		acf.s175_h3
+s176	li	Ký kết Hợp đồng Bảo mật Thông tin (NDA) với mọi khách hàng	A non-disclosure agreement signed with every client	100%: A non-disclosure agreement signed with every client		acf.s176_li
+s177	li	Mọi thông tin khách hàng trong truyền thông, case study đều được ẩn danh hoàn toàn	Client information in our communications and case studies is fully anonymized	100%: Client information in our communications and case studies is fully anonymized		acf.s177_li
+s178	li	Tuân thủ nghiêm ngặt các quy tắc bảo mật cao nhất	Strict compliance with the highest confidentiality standards	100%: Strict compliance with the highest confidentiality standards		acf.s178_li
+s179	p	21+	21+	100%: 21+		acf.s179_p
+s180	p	năm kinh nghiệm	Years of experience	100%: Years of experience		acf.s180_p
+s181	p	625+	625+	100%: 625+		acf.s181_p
+s182	p	hồ sơ thành công	Successful cases	100%: Successful cases		acf.s182_p
+s183	p	2.500+	2,500+	100%: 2,500+		acf.s183_p
+s184	p	visa được cấp	Visas granted	100%: Visas granted		acf.s184_p
+s185	p	3	3			acf.s185_p
+s186	p	quốc gia cấp phép trực tiếp	Countries licensing us directly	100%: Countries licensing us directly		acf.s186_p
+s187	p	Toàn cầu	Worldwide			acf.s187_p
+s188	p	Danh mục định cư	Program portfolio			acf.s188_p
+s189	p	"""Phục vụ bằng những giá trị chân chính"""	"""Service built on genuine values"""	"100%: ""Service built on genuine values"""		acf.s189_p
+s190	p	— Tôn chỉ IMM Group —	— The IMM Group credo —	100%: — The IMM Group promise —		acf.s190_p
+s191	p	Tham Khảo	More	100%: More		acf.s191_p
+s192	p	Có thể bạn quan tâm	You may also be interested in	100%: You may also be interested in		acf.s192_p
+s193	h3	Tìm hiểu các dịch vụ tư vấn từ IMM Group	Explore IMM Group's advisory services	100%: Explore IMM Group's advisory services		acf.s193_h3
+s194	cta	Đầu tư định cư New Zealand	New Zealand investor visa	100%: New Zealand investment immigration	trung:s004	acf.s194_cta
+s195	cta	Quyền cư trú New Zealand (Active Investor Plus Visa)	New Zealand residency (Active Investor Plus Visa)			acf.s195_cta
+s196	cta	Quyền cư trú New Zealand (Business Investor Visa)	New Zealand residency (Business Investor Visa)			acf.s196_cta
+s197	cta	Tổng quan Chương trình định cư New Zealand diện đầu tư (Active Investor Plus Visa)	An overview of New Zealand investment immigration (Active Investor Plus Visa)			acf.s197_cta
+s198	p	Hiểu về New Zealand	Understanding New Zealand			acf.s198_p
+s199	h3	Chuyên trang IMM Group — thông tin hữu ích theo chủ đề	IMM Group topic hubs — useful information by subject	100%: IMM Group topic hubs — useful information by subject		acf.s199_h3
+s200	cta	Cuộc sống tại New Zealand	Life in New Zealand			acf.s200_cta
+s201	cta	Giáo dục tại New Zealand	Education in New Zealand			acf.s201_cta
+s202	cta	Văn hóa New Zealand	New Zealand culture			acf.s202_cta
+s203	cta	Lao động / Kinh doanh tại NZ	Working and doing business in New Zealand	88%: Working and doing business in Malta		acf.s203_cta
+s204	cta	Trợ cấp, phúc lợi, an sinh xã hội	Benefits, welfare, and social security	95%: Welfare, benefits and Social Security in the U.S.		acf.s204_cta

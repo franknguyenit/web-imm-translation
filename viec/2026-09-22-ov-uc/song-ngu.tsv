@@ -1,0 +1,353 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	p	Hành Trình	Journey	100%: Journey		acf.s001_p
+s002	p	Mở Đầu	Introduction	100%: Introduction		acf.s002_p
+s003	p	IMM GROUP · EST. 2005	IMM Group · est. 2005	100%: IMM Group · est. 2005		acf.s003_p
+s004	p	Diện Doanh nhân & Đầu tư	Business & investor visas			acf.s004_p#1
+s005	h1	Đầu Tư {br}Định Cư Úc	Australia{br}Investment Visa	100% (gắn lại thẻ {br}): Australia investment immigration		acf.s005_h1#1
+s006	p	Lộ trình định cư Úc diện doanh nhân và đầu tư cho cả gia đình	The Australia investment visa: business and investor routes to residence for your whole family			acf.s006_p
+s007	p	Cuộn để khám phá	Scroll to explore			acf.s007_p
+s008	p	Lưu Ý Quan Trọng	Important notice			acf.s008_p
+s009	p	Lưu ý quan trọng cho nhà đầu tư	An important notice for investors			acf.s009_p
+s010	h2	Úc đã {1}tạm dừng nhận hồ sơ{/1}{br}đầu tư định cư từ 7/2024	Australia {1}paused new applications{/1}{br}to its investment visas in July 2024		#bo-qua-so: ngày 7/2024 viết thành July 2024	acf.s010_h2#1
+s011	p	Chương trình đầu tư định cư Úc diện 188 hiện đã tạm dừng nhận hồ sơ mới. IMM Group tư vấn lộ trình phù hợp theo tình trạng chương trình và hồ sơ thực tế của từng gia đình.	Australia's Business Innovation and Investment (subclass 188) visas are not accepting new applications. IMM Group advises on the route that fits your family, based on where each program stands and on your own circumstances.			acf.s011_p
+s012	p	{1}!{/1} Vì sao nội dung này vẫn hữu ích	{1}!{/1} Why this page is still useful			acf.s012_p#1
+s013	p	Nội dung dưới đây giúp nhà đầu tư nắm tổng quan các diện 188A, 188B, 188C để so sánh khi chương trình mở lại hoặc khi cân nhắc phương án thay thế.	What follows gives you an overview of the 188A, 188B and 188C streams, so you can compare them if the program reopens, or weigh the alternatives.			acf.s013_p
+s014	cta	Tư vấn chương trình thay thế	Discuss alternative programs			acf.s014_cta
+s015	p	Tổng Quan	Overview	100%: Overview		acf.s015_p
+s016	p	Tổng quan	Overview	100%: Overview	trung:s015	acf.s016_p
+s017	h2	Đầu tư định cư Úc là gì?	What is the Australia investment visa?			acf.s017_h2
+s018	li	Lộ trình dành cho doanh nhân và nhà đầu tư muốn lấy quyền cư trú Úc thông qua kinh doanh hoặc đầu tư.	A route for business owners and investors who want Australian residence through a business or an investment.			acf.s018_li
+s019	li	Gia đình có thể đi cùng hồ sơ, sinh sống, học tập và làm việc tại Úc theo thời hạn visa.	Your family can be included on the application and can live, study and work in Australia for the life of the visa.			acf.s019_li
+s020	li	Lộ trình phổ biến: Visa tạm trú 188 → Thường trú 888 → Quốc tịch Úc khi đáp ứng điều kiện.	The usual route: the temporary 188 visa, then permanent residence on the 888 visa, then Australian citizenship once you meet the conditions.			acf.s020_li
+s021	li	Mỗi diện phù hợp với năng lực tài chính, kinh nghiệm quản lý và mục tiêu định cư khác nhau.	Each stream suits a different level of capital, management experience and migration goal.			acf.s021_li
+s022	p	Yêu cầu chung	Common requirements			acf.s022_p
+s023	p	Tổng tài sản tối thiểu	Minimum total assets			acf.s023_p
+s024	p	1,25 triệu AUD {1}(~21 tỷ){/1}	A$1.25 million {1}minimum{/1}		#bo-qua-so: bo quy doi VND (~21 ty)	acf.s024_p#1
+s025	p	Kinh nghiệm	Experience			acf.s025_p
+s026	p	Quản lý kinh doanh hoặc đầu tư thành công	A successful record in business management or investing			acf.s026_p
+s027	p	Mức đầu tư	Investment	100%: Investment		acf.s027_p
+s028	p	300.000 – 5 triệu AUD {1}tùy chương trình{/1}	A$300,000 – A$5 million {1}depending on the stream{/1}			acf.s028_p#1
+s029	p	Các Diện 188	The 188 streams			acf.s029_p
+s030	p	188	188			acf.s030_p
+s031	p	{1}188{/1} Diện doanh nhân & đầu tư	{1}188{/1} Business & investor streams			acf.s031_p#1
+s032	h2	Các diện đầu tư định cư Úc{br}{1}(188A · 188B · 188C){/1}	Australia investment visa streams{br}{1}(188A · 188B · 188C){/1}			acf.s032_h2#1
+s033	p	Có 3 diện chính, phù hợp với mục tiêu, năng lực tài chính và mô hình đầu tư khác nhau. Lộ trình chung: Visa tạm trú 188 → Thường trú 888 (sau ≥ 3 năm) → Quốc tịch Úc.	Three main streams, each suited to a different goal, level of capital and investment model. The common route: the temporary 188 visa, then permanent residence on the 888 visa after at least 3 years, then Australian citizenship.		"#bo-qua-so: so 3 dau cau viet bang chu ""Three"""	acf.s033_p
+s034	p	188A	188A			acf.s034_p
+s035	p	DOANH NHÂN · TỪ 300.000 AUD	Entrepreneur · from A$300,000			acf.s035_p
+s036	p	188B	188B			acf.s036_p
+s037	p	GÓP QUỸ · 2,5 TRIỆU AUD	Fund investment · A$2.5 million			acf.s037_p
+s038	p	188C	188C			acf.s038_p
+s039	p	GÓP QUỸ · 5 TRIỆU AUD	Fund investment · A$5 million			acf.s039_p
+s040	p	So Sánh Nhanh	Quick comparison			acf.s040_p
+s041	p	So sánh nhanh	Quick comparison		trung:s040	acf.s041_p
+s042	h2	Bảng so sánh{br}{1}188A / 188B / 188C{/1}	Comparison table{br}{1}188A / 188B / 188C{/1}			acf.s042_h2#1
+s043	p	Tiêu chí	Criteria			acf.s043_p
+s044	p	188A	188A		trung:s034	acf.s044_p
+s045	p	188B	188B		trung:s036	acf.s045_p
+s046	p	188C	188C		trung:s038	acf.s046_p
+s047	p	Mức đầu tư	Investment	100%: Investment	trung:s027	acf.s047_p
+s048	p	Từ 300.000 AUD	From A$300,000	85%: From US$200,000		acf.s048_p
+s049	p	2,5 triệu AUD	A$2.5 million			acf.s049_p
+s050	p	5 triệu AUD	A$5 million			acf.s050_p
+s051	p	Thời gian xét duyệt	Processing time	100%: Processing time		acf.s051_p
+s052	p	30 – 35 tháng	30–35 months			acf.s052_p
+s053	p	30 – 35 tháng	30–35 months		trung:s052	acf.s053_p
+s054	p	9 – 12 tháng	9–12 months			acf.s054_p
+s055	p	Độ tuổi	Age			acf.s055_p
+s056	p	< 55	Under 55			acf.s056_p#1
+s057	p	< 55	Under 55		trung:s056	acf.s057_p#1
+s058	p	Không giới hạn	No limit			acf.s058_p
+s059	p	Điểm di trú	Points test			acf.s059_p
+s060	p	≥ 65	65 or more			acf.s060_p
+s061	p	≥ 65	65 or more		trung:s060	acf.s061_p
+s062	p	Không yêu cầu	Not required			acf.s062_p
+s063	p	Kinh nghiệm KD	Business experience			acf.s063_p
+s064	p	Bắt buộc	Required			acf.s064_p#1
+s065	p	Bắt buộc	Required		trung:s064	acf.s065_p#1
+s066	p	Không yêu cầu	Not required		trung:s062	acf.s066_p#1
+s067	p	Hình thức	How you invest			acf.s067_p
+s068	p	Vận hành doanh nghiệp	Run a business			acf.s068_p
+s069	p	Góp quỹ đầu tư	Invest in a fund			acf.s069_p
+s070	p	Góp quỹ đầu tư	Invest in a fund		trung:s069	acf.s070_p
+s071	p	Cư trú để lên PR	Residence needed			acf.s071_p
+s072	p	≥ 1 năm / 3 năm	1+ year in 3			acf.s072_p
+s073	p	≥ 2 năm cộng dồn	2+ years in total			acf.s073_p
+s074	p	Chính ≥ 40 ngày/năm hoặc vợ/chồng ≥ 180 ngày/năm	Main applicant 40+ days/yr; spouse 180+ days/yr			acf.s074_p
+s075	p	← Vuốt ngang để xem đầy đủ các cột →	← Swipe to see every column →	100%: ← Swipe to see every column →		acf.s075_p#1
+s076	p	188A	188A		trung:s034	acf.s076_p
+s077	p	A	A			acf.s077_p
+s078	p	{1}A{/1} Diện đầu tư · 188A	{1}A{/1} Investment visa · 188A			acf.s078_p#1
+s079	p	188A	188A		trung:s034	acf.s079_p
+s080	p	Doanh nhân đổi mới	Business Innovation			acf.s080_p
+s081	p	Mức đầu tư	Investment	100%: Investment	trung:s027	acf.s081_p
+s082	p	Từ 300.000 AUD	From A$300,000	85%: From US$200,000	trung:s048	acf.s082_p
+s083	p	(~5 tỷ)	minimum	87%: minimum	#bo-qua-so: bo quy doi VND (~5 ty)	acf.s083_p
+s084	p	Mục đích	Purpose	100%: Purpose		acf.s084_p
+s085	p	Thường trú	Permanent residence			acf.s085_p
+s086	p	& quốc tịch	& citizenship			acf.s086_p#1
+s087	p	Xét duyệt	Processing	100%: Processing		acf.s087_p
+s088	p	30 – 35	30–35			acf.s088_p
+s089	p	tháng	months	100%: months		acf.s089_p
+s090	p	Mục đích chương trình	What the program is for			acf.s090_p
+s091	li	Lấy visa tạm trú Úc (thời hạn 5 năm)	A temporary Australian visa, valid for 5 years			acf.s091_li
+s092	li	Lên thường trú nhân khi thỏa điều kiện kinh doanh tại Úc	Permanent residence once you meet the business conditions in Australia			acf.s092_li
+s093	li	Có lộ trình lên quốc tịch Úc	A path to Australian citizenship	88%: A path to citizenship		acf.s093_li
+s094	p	Hình thức đầu tư	How you invest	100%: How you invest		acf.s094_p
+s095	p	Thành lập mới hoặc mua lại và quản lý vận hành doanh nghiệp tại Úc.	Start a new business, or buy an existing one, and run it yourself in Australia.			acf.s095_p
+s096	p	Điều kiện đương đơn	Applicant requirements	100%: Applicant requirements		acf.s096_p
+s097	li	Dưới 55 tuổi, đạt ≥ 65 điểm trong Thang điểm Di trú Úc	Under 55, with a score of at least 65 on Australia's migration points test			acf.s097_li
+s098	li	Là chủ doanh nghiệp / cổ đông có tham gia quản lý; kinh doanh thành công tại Việt Nam	A business owner or a shareholder involved in management, with a successful business in your home country			acf.s098_li
+s099	li	Tổng tài sản ≥ 1,25 triệu AUD (~21 tỷ đồng)	Total assets of at least A$1.25 million		#bo-qua-so: bo quy doi VND (~21 ty dong)	acf.s099_li
+s100	li	Được 1 tỉnh bang Úc bảo lãnh	Nomination by an Australian state or territory		"#bo-qua-so: ""1 tinh bang"" viet thanh ""an Australian state or territory"""	acf.s100_li
+s101	p	Điều kiện doanh nghiệp	Company requirements	100%: Company requirements		acf.s101_p
+s102	li	Sở hữu ≥ 30% vốn, trực tiếp điều hành ≥ 3 năm	At least 30% of the business, with at least 3 years running it directly			acf.s102_li
+s103	li	2 trong 4 năm tài chính gần nhất, doanh thu công ty ≥ 750.000 AUD (~12,6 tỷ)/năm	In 2 of the past 4 financial years, company turnover of at least A$750,000 a year		#bo-qua-so: bo quy doi VND (~12,6 ty)	acf.s103_li
+s104	p	Lộ trình lên thường trú 888A	The route to permanent residence on the 888A			acf.s104_p
+s105	li	Điều hành doanh nghiệp Úc, sở hữu ≥ 30% vốn; đầu tư từ 300.000 AUD (tùy bang)	Run the Australian business and hold at least 30% of it; invest from A$300,000, depending on the state			acf.s105_li
+s106	li	Doanh nghiệp hoạt động ≥ 2 năm; ≥ 1 năm doanh thu 300.000 AUD	The business trading for at least 2 years, with turnover of A$300,000 in at least 1 of them			acf.s106_li
+s107	li	Đạt 2/3: tài sản ròng DN ≥ 300.000 AUD · tài sản cá nhân + DN ≥ 600.000 AUD · tạo ≥ 2 việc làm toàn thời gian	Meet 2 of these 3: net business assets of at least A$300,000 · combined personal and business assets of at least A$600,000 · at least 2 full-time jobs created			acf.s107_li
+s108	li	Cư trú ≥ 1 năm trong 3 năm trước khi nộp	At least 1 year of residence in the 3 years before you apply			acf.s108_li
+s109	li	Đương đơn chính hoặc vợ/chồng (visa 188A) đều có thể đứng đơn	Either the main applicant or the spouse on the 188A visa can be the applicant			acf.s109_li
+s110	p	Quyền lợi nổi bật	Key benefits	100%: Key benefits		acf.s110_p
+s111	p	Cả gia đình (vợ/chồng, con dưới 23 tuổi) tạm trú, sinh sống - làm việc - học tập tại Úc	The whole family — spouse and children under 23 — holds temporary residence and can live, work and study in Australia			acf.s111_p
+s112	p	Con học miễn phí trường công đến hết THPT	Free public schooling for your children through high school	100%: Free public schooling for your children through high school		acf.s112_p
+s113	p	Đủ điều kiện, xin thường trú 888A: hưởng phúc lợi y tế, giáo dục, an sinh (trừ bầu cử)	Once you qualify, you apply for permanent residence on the 888A, with access to healthcare, education and social security, except the right to vote			acf.s113_p
+s114	p	Sau ~4 năm cư trú (gồm 1 năm thường trú), có thể xét quốc tịch, miễn visa tới 187 nước	After about 4 years of residence, including 1 year as a permanent resident, you can be considered for citizenship, with visa-free access to 187 countries			acf.s114_p
+s115	p	Lưu ý	Please note	100%: Please note		acf.s115_p
+s116	p	Cần trực tiếp điều hành doanh nghiệp tại Úc	You have to run the Australian business yourself			acf.s116_p
+s117	p	Phải dành thời gian cư trú và vận hành kinh doanh thực tế	It requires genuine time living in Australia and running the business			acf.s117_p
+s118	p	Phù hợp với doanh nhân có kinh nghiệm quản lý doanh nghiệp	It suits business owners with genuine management experience			acf.s118_p
+s119	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s119_cta
+s120	cta	XEM CHI TIẾT	View details	100%: View details		acf.s120_cta
+s121	p	188B	188B		trung:s036	acf.s121_p
+s122	p	B	B			acf.s122_p
+s123	p	{1}B{/1} Diện đầu tư · 188B	{1}B{/1} Investment visa · 188B			acf.s123_p#1
+s124	p	188B	188B		trung:s036	acf.s124_p
+s125	p	Đầu tư	Investor			acf.s125_p
+s126	p	Mức đầu tư	Investment	100%: Investment	trung:s027	acf.s126_p
+s127	p	2,5 triệu AUD	A$2.5 million		trung:s049	acf.s127_p
+s128	p	(~42 tỷ)	minimum		#bo-qua-so: bo quy doi VND (~42 ty)	acf.s128_p
+s129	p	Mục đích	Purpose	100%: Purpose	trung:s084	acf.s129_p
+s130	p	Thường trú	Permanent residence		trung:s085	acf.s130_p
+s131	p	& quốc tịch	& citizenship		trung:s086	acf.s131_p#1
+s132	p	Xét duyệt	Processing	100%: Processing	trung:s087	acf.s132_p
+s133	p	30 – 35	30–35		trung:s088	acf.s133_p
+s134	p	tháng	months	100%: months	trung:s089	acf.s134_p
+s135	p	Mục đích chương trình	What the program is for		trung:s090	acf.s135_p
+s136	li	Lấy visa tạm trú Úc (thời hạn 5 năm)	A temporary Australian visa, valid for 5 years		trung:s091	acf.s136_li
+s137	li	Lên thường trú nhân sớm nhất sau 3 năm duy trì khoản đầu tư	Permanent residence after a minimum of 3 years holding the investment			acf.s137_li
+s138	li	Có lộ trình lên quốc tịch Úc	A path to Australian citizenship	88%: A path to citizenship	trung:s093	acf.s138_li
+s139	p	Điều kiện đương đơn	Applicant requirements	100%: Applicant requirements	trung:s096	acf.s139_p
+s140	li	Dưới 55 tuổi, đạt ≥ 65 điểm trong Thang điểm Di trú Úc	Under 55, with a score of at least 65 on Australia's migration points test		trung:s097	acf.s140_li
+s141	li	Có kinh nghiệm kinh doanh / đầu tư, năng lực tài chính cao	Experience in business or investing, and substantial financial capacity			acf.s141_li
+s142	li	Tổng tài sản ≥ 2,5 triệu AUD (~43,8 tỷ đồng)	Total assets of at least A$2.5 million		#bo-qua-so: bo quy doi VND (~43,8 ty dong)	acf.s142_li
+s143	li	Được 1 tỉnh bang Úc bảo lãnh	Nomination by an Australian state or territory		"trung:s100 #bo-qua-so: ""1 tinh bang"" viet thanh ""an Australian state or territory"""	acf.s143_li
+s144	p	Kinh nghiệm KD / đầu tư	Business or investment experience			acf.s144_p
+s145	li	Sở hữu ≥ 10% vốn DN đang hoạt động & điều hành tối thiểu 3 năm, HOẶC	Hold at least 10% of an operating business and run it for at least 3 years, OR			acf.s145_li#1
+s146	li	Chứng minh đang vận hành khoản đầu tư ~2,5 triệu AUD có phát sinh lợi nhuận tối thiểu 3 năm	Show that you have managed an investment of about A$2.5 million that produced a return over at least 3 years			acf.s146_li
+s147	p	Cơ cấu đầu tư — tối thiểu 2,5 triệu AUD	Investment structure — a minimum of A$2.5 million			acf.s147_p
+s148	li	≥ 500.000 AUD — Quỹ đầu tư mạo hiểm & cổ phần tư nhân	At least A$500,000 — venture capital and private equity funds			acf.s148_li#1
+s149	li	≥ 750.000 AUD — Quỹ công ty mới / đang phát triển trên sàn Úc	At least A$750,000 — funds holding emerging and growth companies listed in Australia			acf.s149_li
+s150	li	≥ 1,25 triệu AUD — Quỹ đầu tư cân bằng	At least A$1.25 million — balanced investment funds			acf.s150_li
+s151	li	Giữ khoản đầu tư ≥ 3 năm, đến khi được cấp 888B	Hold the investment for at least 3 years, until the 888B is granted			acf.s151_li
+s152	p	Lộ trình lên thường trú 888B	The route to permanent residence on the 888B			acf.s152_p
+s153	li	Giữ nguyên khoản đầu tư đến khi được cấp 888B	Keep the investment in place until the 888B is granted			acf.s153_li
+s154	li	Cư trú ≥ 2 năm cộng dồn trước khi nộp	At least 2 years of residence in total before you apply			acf.s154_li
+s155	li	Đương đơn chính hoặc vợ/chồng đều có thể đứng đơn	Either the main applicant or the spouse can be the applicant			acf.s155_li
+s156	p	Quyền lợi nổi bật	Key benefits	100%: Key benefits	trung:s110	acf.s156_p
+s157	p	Cả gia đình tạm trú, sinh sống - làm việc - học tập tại Úc	The whole family holds temporary residence and can live, work and study in Australia			acf.s157_p
+s158	p	Con cái học miễn phí trường công đến hết THPT	Free public schooling for your children through high school	95%: Free public schooling for your children through high school		acf.s158_p
+s159	p	Nhận lãi từ quỹ đầu tư (theo thực tế)	You receive the returns the fund actually generates			acf.s159_p
+s160	p	Đủ điều kiện, xin thường trú 888B và xét quốc tịch sau ~4 năm cư trú	Once you qualify, you apply for permanent residence on the 888B, and can be considered for citizenship after about 4 years of residence			acf.s160_p
+s161	p	Lưu ý	Please note	100%: Please note	trung:s115	acf.s161_p
+s162	p	Cần duy trì khoản đầu tư trong thời gian dài	The investment has to be held for a long period			acf.s162_p
+s163	p	Cần cư trú tối thiểu 2 năm cộng dồn trước khi nộp hồ sơ 888B	At least 2 years of residence in total are needed before you file the 888B			acf.s163_p
+s164	p	Phù hợp với nhà đầu tư có năng lực tài chính cao và không muốn trực tiếp điều hành doanh nghiệp	It suits investors with substantial capital who do not want to run a business themselves			acf.s164_p
+s165	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s119	acf.s165_cta
+s166	cta	XEM CHI TIẾT	View details	100%: View details	trung:s120	acf.s166_cta
+s167	p	188C	188C		trung:s038	acf.s167_p
+s168	p	C	C			acf.s168_p
+s169	p	{1}C{/1} Diện đầu tư · 188C	{1}C{/1} Investment visa · 188C			acf.s169_p#1
+s170	p	188C	188C		trung:s038	acf.s170_p
+s171	p	Đầu tư trọng yếu	Significant Investor			acf.s171_p
+s172	p	Mức đầu tư	Investment	100%: Investment	trung:s027	acf.s172_p
+s173	p	5 triệu AUD	A$5 million		trung:s050	acf.s173_p
+s174	p	(~84 tỷ)	minimum		#bo-qua-so: bo quy doi VND (~84 ty)	acf.s174_p
+s175	p	Lãi suất	Return			acf.s175_p
+s176	p	8 – 10%	8–10%	92%: 8 – 10		acf.s176_p
+s177	p	/năm (TB)	a year (average, not guaranteed)			acf.s177_p
+s178	p	Xét duyệt	Processing	100%: Processing	trung:s087	acf.s178_p
+s179	p	9 – 12	9–12			acf.s179_p
+s180	p	tháng	months	100%: months	trung:s089	acf.s180_p
+s181	p	Mục đích chương trình	What the program is for		trung:s090	acf.s181_p
+s182	li	Lấy visa tạm trú Úc (thời hạn 5 năm)	A temporary Australian visa, valid for 5 years		trung:s091	acf.s182_li
+s183	li	Lên thường trú nhân sớm nhất sau 3 năm duy trì khoản đầu tư	Permanent residence after a minimum of 3 years holding the investment		trung:s137	acf.s183_li
+s184	li	Có lộ trình lên quốc tịch Úc	A path to Australian citizenship	88%: A path to citizenship	trung:s093	acf.s184_li
+s185	p	Điều kiện đương đơn	Applicant requirements	100%: Applicant requirements	trung:s096	acf.s185_p
+s186	li	Có năng lực tài chính rất lớn	Very substantial financial capacity			acf.s186_li
+s187	li	Tổng giá trị tài sản đạt tối thiểu 5 triệu AUD (~84 tỷ đồng)	Total assets of at least A$5 million		#bo-qua-so: bo quy doi VND (~84 ty dong)	acf.s187_li
+s188	li	Được 1 trong các tỉnh bang Úc bảo lãnh	Nomination by an Australian state or territory		"#bo-qua-so: ""1 trong cac tinh bang"" viet thanh ""one of Australia's states or territories"""	acf.s188_li
+s189	li	Không yêu cầu kinh nghiệm kinh doanh	No business experience required	91%: No business experience required		acf.s189_li
+s190	p	Cơ cấu đầu tư — 5 triệu AUD	Investment structure — A$5 million			acf.s190_p
+s191	li	≥ 1 triệu AUD — Quỹ đầu tư mạo hiểm & cổ phần tư nhân	At least A$1 million — venture capital and private equity funds			acf.s191_li#1
+s192	li	≥ 1,5 triệu AUD — Quỹ công ty mới / đang phát triển trên sàn Úc	At least A$1.5 million — funds holding emerging and growth companies listed in Australia			acf.s192_li
+s193	li	≥ 2,5 triệu AUD — Quỹ đầu tư cân bằng	At least A$2.5 million — balanced investment funds			acf.s193_li
+s194	li	Giữ khoản đầu tư ≥ 3 năm, đến khi được cấp 888C	Hold the investment for at least 3 years, until the 888C is granted			acf.s194_li
+s195	p	Điều kiện lên thường trú 888C	Requirements for permanent residence on the 888C			acf.s195_p
+s196	li	Giữ nguyên khoản đầu tư đến khi được cấp 888C	Keep the investment in place until the 888C is granted			acf.s196_li
+s197	li	Lưu trú ≥ 40 ngày/năm với đương đơn chính 188C; hoặc ≥ 180 ngày/năm với vợ/chồng đi kèm	At least 40 days a year in Australia for the 188C main applicant, or at least 180 days a year for the accompanying spouse			acf.s197_li
+s198	li	Đương đơn chính hoặc vợ/chồng đều có thể đứng đơn	Either the main applicant or the spouse can be the applicant		trung:s155	acf.s198_li
+s199	p	Quyền lợi nổi bật	Key benefits	100%: Key benefits	trung:s110	acf.s199_p
+s200	p	Cả gia đình tạm trú, sinh sống - làm việc - học tập tại Úc	The whole family holds temporary residence and can live, work and study in Australia		trung:s157	acf.s200_p
+s201	p	Con cái học miễn phí trường công đến hết THPT	Free public schooling for your children through high school	95%: Free public schooling for your children through high school	trung:s158	acf.s201_p
+s202	p	Nhận lãi từ quỹ đầu tư (theo thực tế)	You receive the returns the fund actually generates		trung:s159	acf.s202_p
+s203	p	Đủ điều kiện, xin thường trú 888C và xét quốc tịch sau ~4 năm cư trú	Once you qualify, you apply for permanent residence on the 888C, and can be considered for citizenship after about 4 years of residence			acf.s203_p
+s204	p	Lưu ý	Please note	100%: Please note	trung:s115	acf.s204_p
+s205	p	Mức đầu tư cao	A high capital requirement			acf.s205_p
+s206	p	Cần duy trì khoản đầu tư đến khi được cấp 888C	The investment has to be held until the 888C is granted			acf.s206_p
+s207	p	Phù hợp với nhà đầu tư có năng lực tài chính lớn, ưu tiên lộ trình đầu tư thụ động	It suits investors with substantial capital who prefer a passive investment route			acf.s207_p
+s208	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s119	acf.s208_cta
+s209	cta	XEM CHI TIẾT	View details	100%: View details	trung:s120	acf.s209_cta
+s210	p	Lộ Trình	The route	100%: The route		acf.s210_p
+s211	p	Lộ trình	The route	100%: The route	trung:s210	acf.s211_p
+s212	h2	Từ tạm trú đến quốc tịch Úc	From temporary residence to Australian citizenship			acf.s212_h2
+s213	p	4 cột mốc rõ ràng cho cả gia đình — từ visa 188 đến quốc tịch Úc.	Four clear milestones for your family — from the 188 visa to Australian citizenship.		"#bo-qua-so: so 4 dau cau viet bang chu ""Four"""	acf.s213_p
+s214	p	1	1			acf.s214_p
+s215	p	Visa 188A / 188B / 188C	Visa 188A / 188B / 188C			acf.s215_p
+s216	h3	Tạm trú	Temporary residence			acf.s216_h3
+s217	li	Cả gia đình (đương đơn + vợ/chồng + con phụ thuộc < 23 tuổi) sang Úc sinh sống, làm việc, học tập trong thời hạn visa (5 năm)	The whole family — the applicant, spouse and dependent children under 23 — moves to Australia to live, work and study for the 5-year life of the visa			acf.s217_li#1
+s218	li	Con học miễn phí tại trường công đến hết THPT	Free public schooling for your children through high school	95%: Free public schooling for your children through high school		acf.s218_li
+s219	p	2	2			acf.s219_p
+s220	p	Giữ visa 188 ≥ 3 năm	Hold the 188 visa for at least 3 years			acf.s220_p
+s221	h3	Thực hiện đầu tư / kinh doanh	Carry out the investment or run the business			acf.s221_h3
+s222	li	**188A:** điều hành doanh nghiệp tại Úc ≥ 2 năm liên tục; doanh thu ≥ 300.000 AUD trong 12 tháng gần nhất; cư trú ≥ 1 năm trong 3 năm trước khi nộp 888A	**188A:** run the Australian business continuously for at least 2 years; turnover of at least A$300,000 over the most recent 12 months; at least 1 year of residence in the 3 years before you file the 888A			acf.s222_li#1
+s223	li	**188B:** giữ nguyên khoản đầu tư 2,5 triệu AUD đến khi được cấp 888B; cư trú ≥ 2 năm cộng dồn	**188B:** keep the A$2.5 million investment in place until the 888B is granted; at least 2 years of residence in total			acf.s223_li#1
+s224	li	**188C:** giữ nguyên khoản đầu tư 5 triệu AUD; đương đơn chính cư trú ≥ 40 ngày/năm HOẶC vợ/chồng đi kèm ≥ 180 ngày/năm	**188C:** keep the A$5 million investment in place; the main applicant spends at least 40 days a year in Australia, OR the accompanying spouse at least 180 days a year			acf.s224_li#1
+s225	p	3	3			acf.s225_p
+s226	p	Visa 888A / 888B / 888C	Visa 888A / 888B / 888C			acf.s226_p
+s227	h3	Thường trú vĩnh viễn	Permanent residence			acf.s227_h3
+s228	li	Đủ điều kiện đầu tư/kinh doanh & cư trú → cả gia đình xin thường trú vĩnh viễn (sớm nhất sau 3 năm giữ visa 188)	Meet the investment or business conditions and the residence conditions, and the whole family applies for permanent residence — at the earliest after 3 years on the 188 visa			acf.s228_li#1
+s229	li	Hưởng đầy đủ Medicare, giáo dục, an sinh xã hội như công dân Úc (trừ quyền bầu cử)	Full access to Medicare, education and social security on the same basis as Australian citizens, except the right to vote			acf.s229_li
+s230	li	Thẻ thường trú gia hạn mỗi 5 năm	The permanent residence card is renewed every 5 years			acf.s230_li
+s231	p	4	4			acf.s231_p
+s232	p	Quốc tịch Úc	Australian citizenship			acf.s232_p
+s233	h3	Quốc tịch Úc	Australian citizenship		trung:s232	acf.s233_h3
+s234	li	Cư trú hợp pháp ≥ 4 năm, trong đó 12 tháng gần nhất là thường trú nhân (visa 888)	At least 4 years of lawful residence, with the most recent 12 months as a permanent resident on the 888 visa			acf.s234_li
+s235	li	Vắng mặt khỏi Úc ≤ 12 tháng trong 4 năm; riêng 12 tháng cuối không vắng quá 90 ngày	No more than 12 months outside Australia across those 4 years, and no more than 90 days away in the final 12 months			acf.s235_li
+s236	li	Khi có quốc tịch: đầy đủ quyền công dân + miễn thị thực đến 187 nước	With citizenship: full civic rights, plus visa-free access to 187 countries			acf.s236_li
+s237	p	Chương Trình Khác	Other programs			acf.s237_p
+s238	h2	Các lộ trình định cư Úc nổi bật	Other notable routes to Australia			acf.s238_h2
+s239	p	Tổng quan nhanh để lựa chọn hướng đi phù hợp	A quick overview to help you find the right direction			acf.s239_p
+s240	p	CHƯƠNG TRÌNH	Program	100%: Program		acf.s240_p
+s241	p	Visa 189	Visa 189			acf.s241_p
+s242	p	Tay nghề độc lập	Skilled Independent			acf.s242_p
+s243	p	Visa 489	Visa 489			acf.s243_p
+s244	p	Tay nghề vùng miền	Skilled Regional			acf.s244_p
+s245	p	Visa 858	Visa 858			acf.s245_p
+s246	p	Tài năng xuất sắc	Distinguished Talent			acf.s246_p
+s247	p	Visa 457	Visa 457			acf.s247_p
+s248	p	Làm việc tạm thời	Temporary Work			acf.s248_p
+s249	p	Diện Bảo lãnh	Family sponsorship			acf.s249_p
+s250	p	Bảo lãnh thân nhân	Sponsored by a relative			acf.s250_p
+s251	p	Diện Du học	Student route			acf.s251_p
+s252	p	Du học → định cư	Study, then residence			acf.s252_p
+s253	p	Trạng thái	Status			acf.s253_p
+s254	p	Đang mở	Open			acf.s254_p#1
+s255	p	Ngừng nhận HS	Closed to new files			acf.s255_p#1
+s256	p	Nhanh nhất	Fastest	100%: Fastest		acf.s256_p#1
+s257	p	Đã đóng	Closed			acf.s257_p#1
+s258	p	Đang mở	Open		trung:s254	acf.s258_p#1
+s259	p	Lộ trình dài	Long-term route	85%: A long-term route		acf.s259_p#1
+s260	p	Mục tiêu	Goal			acf.s260_p
+s261	p	Thường trú nhân Úc cho lao động tay nghề cao	Australian permanent residence for highly skilled workers			acf.s261_p
+s262	p	Tạm trú vùng miền và xin thường trú khi đủ điều kiện	Regional temporary residence, then permanent residence once you qualify			acf.s262_p
+s263	p	Thường trú nhân Úc cho cá nhân có thành tích quốc tế nổi bật	Australian permanent residence for people with an outstanding international record			acf.s263_p
+s264	p	Tạm trú cho lao động được công ty Úc bảo lãnh	Temporary residence for workers sponsored by an Australian employer			acf.s264_p
+s265	p	Thường trú nhân Úc thông qua thân nhân tại Úc	Australian permanent residence through a relative in Australia			acf.s265_p
+s266	p	Ở lại Úc làm việc hoặc xin thường trú sau tốt nghiệp	After you graduate, stay to work or apply for permanent residence			acf.s266_p
+s267	p	Thời gian xét duyệt	Processing time	100%: Processing time	trung:s051	acf.s267_p
+s268	p	11 – 21 tháng	11–21 months			acf.s268_p
+s269	p	15 – 19 tháng	15–19 months			acf.s269_p
+s270	p	3 – 4 tháng	3–4 months			acf.s270_p
+s271	p	6 – 12 tháng	6–12 months			acf.s271_p
+s272	p	12 tháng – vài năm	12 months to several years			acf.s272_p
+s273	p	Vài tháng – nhiều năm	Several months to several years			acf.s273_p
+s274	p	Lưu ý	Please note	100%: Please note	trung:s115	acf.s274_p
+s275	p	Dưới 45 tuổi, ngành nghề giới hạn, cạnh tranh cao	Under 45, a limited occupation list, and strong competition			acf.s275_p#1
+s276	p	Đã ngừng nhận hồ sơ mới từ cuối 2019	Closed to new applications since late 2019			acf.s276_p#1
+s277	p	Chỉ dành cho nhóm tài năng đặc biệt	Only for a narrow group of exceptional talent			acf.s277_p#1
+s278	p	Chương trình đã đóng cửa	The program has closed			acf.s278_p#1
+s279	p	Bắt buộc có thân nhân đủ điều kiện bảo lãnh tại Úc	You must have a relative in Australia who is eligible to sponsor you			acf.s279_p#1
+s280	p	Cần đáp ứng điều kiện visa sau tốt nghiệp, việc làm, tỉnh bang hoặc ngành nghề	You have to meet post-study visa, employment, state or occupation requirements			acf.s280_p#1
+s281	p	← Vuốt ngang để xem đầy đủ các chương trình →	← Swipe to see every program →	86%: ← Swipe to see every column →		acf.s281_p#1
+s282	p	Lưu ý	Please note	100%: Please note	trung:s115	acf.s282_p
+s283	p	Ngoài diện đầu tư, nhà đầu tư có thể tham khảo thêm các diện tay nghề, tài năng, bảo lãnh và du học. Các nhóm này **không thuộc trọng tâm tư vấn đầu tư định cư** của IMM Group.	Beyond the investor streams, there are skilled, talent, family sponsorship and student routes. These **fall outside IMM Group's investment migration practice**.			acf.s283_p#1
+s284	p	Vì Sao IMM	Why IMM	100%: Why IMM		acf.s284_p
+s285	p	IMM	IMM	100%: IMM		acf.s285_p
+s286	p	Vì sao IMM Group	Why IMM Group			acf.s286_p
+s287	h2	Vì sao chọn IMM Group?	Why choose IMM Group?	100%: Why choose IMM Group?		acf.s287_h2
+s288	p	Từ năm 2005, IMM Group là đơn vị tiên phong tư vấn đầu tư định cư Úc, Mỹ, Canada, châu Âu cho doanh nhân Việt Nam. **Phục Vụ Bằng Giá Trị Chân Chính.**	Since 2005, IMM Group has been a pioneer in advising on investment migration to Australia, the United States, Canada and Europe. **Service built on genuine values.**			acf.s288_p#1
+s289	p	1	1			acf.s289_p#1
+s290	h3	21+ năm kinh nghiệm	21+ years of experience	100%: 21+ years of experience		acf.s290_h3
+s291	li	Hai thập kỷ tư vấn đầu tư định cư quốc tế	Two decades advising on investment migration	100%: Two decades advising on investment migration		acf.s291_li
+s292	li	Hàng trăm gia đình Việt đã đồng hành cùng IMM trên hành trình định cư Úc, Mỹ, Canada, châu Âu	Hundreds of families have worked with IMM on their move to Australia, the United States, Canada and Europe			acf.s292_li
+s293	p	2	2			acf.s293_p#1
+s294	h3	Đội ngũ luật sư & cố vấn quốc tế	International lawyers and advisors			acf.s294_h3#1
+s295	li	Hợp tác với luật sư Úc và công ty di trú quốc tế	We work with Australian lawyers and international migration firms			acf.s295_li
+s296	li	Chuyên viên tư vấn, xử lý hồ sơ đạt chứng chỉ IMC	Our advisors and case handlers hold Investment Migration Council (IMC) certification			acf.s296_li
+s297	p	3	3			acf.s297_p#1
+s298	h3	Chuyên sâu thị trường Úc	Deep expertise in the Australian market			acf.s298_h3
+s299	li	Am hiểu yêu cầu của từng tỉnh bang Úc	We know what each Australian state and territory requires			acf.s299_li
+s300	li	Tư vấn quỹ đầu tư được chấp thuận và lộ trình lên 888, quốc tịch	Advice on complying investment funds and on the route to the 888 visa and citizenship			acf.s300_li
+s301	li	Đề xuất diện 188 theo hoàn cảnh từng gia đình	A 188 stream recommended for each family's circumstances			acf.s301_li
+s302	p	4	4			acf.s302_p#1
+s303	h3	Mạng lưới đối tác tại Úc	A partner network in Australia			acf.s303_h3
+s304	li	Kết nối với quỹ đầu tư hợp pháp tại Úc	Connections to complying investment funds in Australia			acf.s304_li
+s305	li	Phối hợp với tỉnh bang bảo lãnh, công ty di trú và luật sư	We coordinate with nominating states and territories, migration firms and lawyers			acf.s305_li
+s306	li	Hỗ trợ hồ sơ từ thẩm định ban đầu đến khi hoàn tất lộ trình	Support from the first assessment through to the end of the route			acf.s306_li
+s307	p	5	5			acf.s307_p#1
+s308	h3	Cam kết đồng hành lâu dài	A long-term commitment	100%: A long-term commitment		acf.s308_h3
+s309	li	Đặt quyền lợi khách hàng lên trước lợi ích công ty	We put your interests ahead of the firm's	100%: We put your interests ahead of the firm's		acf.s309_li
+s310	li	Bảo mật thông tin khách hàng theo tiêu chuẩn cao	We hold client information to a high standard of confidentiality	85%: We hold client information to a high standard of confidentiality and sign an NDA where needed		acf.s310_li
+s311	li	Sẵn sàng hoàn phí khi xảy ra rủi ro khách quan theo hợp đồng	We are prepared to refund fees where risks outside your control arise, as set out in the contract	100%: We are prepared to refund fees where risks outside your control arise, as set out in the contract		acf.s311_li
+s312	p	6	6			acf.s312_p#1
+s313	h3	Nhận và cho đi — Quỹ Be Better	Giving back — the Be Better Foundation			acf.s313_h3
+s314	li	Từ 2025, IMM Group chính thức trở thành doanh nghiệp phi lợi nhuận	Since 2025, IMM Group has formally become a not-for-profit business	100%: Since 2025, IMM Group has formally become a not-for-profit business		acf.s314_li
+s315	li	Cam kết đóng góp trên 50% lợi nhuận hằng năm vào Quỹ Be Better	A commitment to contribute more than 50% of annual profit to the Be Better Foundation			acf.s315_li
+s316	li	Quỹ hỗ trợ học sinh, sinh viên khó khăn tiếp tục học tập và thay đổi tương lai	The foundation helps students facing hardship stay in school and change their future	100%: The foundation helps students facing hardship stay in school and change their future		acf.s316_li
+s317	p	21+	21+	100%: 21+		acf.s317_p
+s318	p	năm kinh nghiệm	Years of experience	100%: Years of experience		acf.s318_p
+s319	p	2005	2005	100%: 2005		acf.s319_p
+s320	p	tiên phong từ	Pioneering since	86%: Pioneer		acf.s320_p
+s321	p	50%+	50%+			acf.s321_p
+s322	p	lợi nhuận vào Quỹ Be Better	To the Be Better Foundation			acf.s322_p
+s323	p	IMC	IMC			acf.s323_p
+s324	p	chứng chỉ chuyên viên	Advisor certification			acf.s324_p
+s325	p	4	4			acf.s325_p
+s326	p	thị trường: Úc · Mỹ · Canada · Âu	Markets: Australia · U.S. · Canada · Europe			acf.s326_p
+s327	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s119	acf.s327_cta
+s328	p	"""Phục vụ bằng những giá trị chân chính"""	"""Service built on genuine values"""	"100%: ""Service built on genuine values"""		acf.s328_p
+s329	p	— Tôn chỉ IMM Group —	— The IMM Group credo —	100%: — The IMM Group promise —		acf.s329_p
+s330	p	Tham Khảo	More	100%: More		acf.s330_p
+s331	p	Có thể bạn quan tâm	You may also be interested in	100%: You may also be interested in		acf.s331_p
+s332	h3	Tìm hiểu các dịch vụ tư vấn từ IMM Group	Explore IMM Group's advisory services	100%: Explore IMM Group's advisory services		acf.s332_h3
+s333	cta	Đầu tư định cư Úc	Australia investment immigration	100%: Australia investment immigration		acf.s333_cta
+s334	cta	Visa Úc diện National Innovation Visa (NIV)	Australia National Innovation Visa (NIV)			acf.s334_cta
+s335	cta	Visa Úc diện doanh nhân 188A	Australia business visa 188A			acf.s335_cta
+s336	cta	Visa Úc diện doanh nhân 888A	Australia business visa 888A			acf.s336_cta
+s337	cta	Visa Úc diện đầu tư 188B	Australia investor visa 188B			acf.s337_cta
+s338	cta	Visa Úc diện đầu tư 888B	Australia investor visa 888B			acf.s338_cta
+s339	cta	Visa Úc diện đầu tư trọng yếu 188C	Australia significant investor visa 188C			acf.s339_cta
+s340	cta	Visa Úc diện đầu tư trọng yếu 888C	Australia significant investor visa 888C			acf.s340_cta
+s341	cta	Bất động sản Úc	Australian real estate			acf.s341_cta
+s342	cta	Tất cả dịch vụ IMM Group	All IMM Group services			acf.s342_cta
+s343	p	Hiểu về nước Úc	Understanding Australia	86%: Understanding America		acf.s343_p
+s344	h3	Chuyên trang tổng hợp thông tin hữu ích theo chủ đề	IMM Group topic hubs — useful information by subject	85%: IMM Group topic hubs — useful information by subject		acf.s344_h3
+s345	cta	Cuộc sống tại Úc	Living in Australia	87%: Living in the U.S.		acf.s345_cta
+s346	cta	Thuế Úc	Australian taxes			acf.s346_cta
+s347	cta	Kinh doanh tại Úc	Doing business in Australia	88%: Doing business in the U.S.		acf.s347_cta
+s348	cta	Giáo dục tại Úc	Education in Australia	86%: Education in the U.S.		acf.s348_cta
+s349	cta	Trợ cấp, phúc lợi, an sinh xã hội Úc	Welfare, benefits and social security in Australia	94%: Welfare, benefits and Social Security in the U.S.		acf.s349_cta
+s350	cta	Du lịch Úc	Travel in Australia			acf.s350_cta
+s351	cta	Những người Việt thành công trên đất Úc	Immigrant success stories in Australia	94%: Immigrant success stories in the U.S.		acf.s351_cta
+s352	cta	Những câu chuyện định cư Úc truyền cảm hứng	Inspiring Australian immigration journeys	95%: Inspiring U.S. immigration journeys		acf.s352_cta

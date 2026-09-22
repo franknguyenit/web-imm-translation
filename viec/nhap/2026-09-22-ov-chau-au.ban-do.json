@@ -1,0 +1,3056 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/web-imm-translation/viec/nhap/goc-overview/chau-au.json",
+ "truong_json": "html_template",
+ "doan": [
+  {
+   "tu": 138,
+   "den": 144,
+   "raw": "Mở Đầu",
+   "loai": "p",
+   "lop": "section-indicator",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 2594,
+   "den": 2600,
+   "raw": "Mở Đầu",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Mở Đầu",
+   "id": "s002"
+  },
+  {
+   "tu": 2974,
+   "den": 2995,
+   "raw": "IMM GROUP · EST. 2005",
+   "loai": "p",
+   "lop": "badge badge-ghost-gold",
+   "the": "div",
+   "ngu_canh": "Mở Đầu",
+   "id": "s003"
+  },
+  {
+   "tu": 3169,
+   "den": 3208,
+   "raw": "Quốc Tịch &amp; Thường Trú Nhân Châu Âu",
+   "loai": "h1",
+   "lop": "reveal reveal-1 serif text-gold-grad",
+   "the": "h1",
+   "ngu_canh": "Mở Đầu",
+   "id": "s004"
+  },
+  {
+   "tu": 3461,
+   "den": 3537,
+   "raw": "Đầu tư lấy quyền cư trú, Golden Visa hoặc quốc tịch châu Âu cho cả gia đình.",
+   "loai": "p",
+   "lop": "reveal reveal-2",
+   "the": "p",
+   "ngu_canh": "Mở Đầu",
+   "id": "s005"
+  },
+  {
+   "tu": 4409,
+   "den": 4419,
+   "raw": "CUỘN XUỐNG",
+   "loai": "p",
+   "lop": "scroll-hint",
+   "the": "div",
+   "ngu_canh": "Mở Đầu",
+   "id": "s006"
+  },
+  {
+   "tu": 5560,
+   "den": 5569,
+   "raw": "Tổng Quan",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Tổng Quan",
+   "id": "s007"
+  },
+  {
+   "tu": 5598,
+   "den": 5600,
+   "raw": "01",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s008"
+  },
+  {
+   "tu": 5740,
+   "den": 5777,
+   "raw": "<span class=\"num\">01</span> Tổng quan",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s009"
+  },
+  {
+   "tu": 5913,
+   "den": 5951,
+   "raw": "Tổng quan về đầu tư<br>định cư châu Âu",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Tổng Quan",
+   "id": "s010"
+  },
+  {
+   "tu": 6262,
+   "den": 6291,
+   "raw": "Đầu tư định cư châu Âu là gì?",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s011"
+  },
+  {
+   "tu": 6345,
+   "den": 6413,
+   "raw": "Lấy quyền cư trú/Golden Visa hoặc quốc tịch châu Âu thông qua đầu tư",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tổng Quan",
+   "id": "s012"
+  },
+  {
+   "tu": 6434,
+   "den": 6505,
+   "raw": "Gia đình có cơ hội sinh sống, học tập, kinh doanh tại quốc gia tham gia",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tổng Quan",
+   "id": "s013"
+  },
+  {
+   "tu": 6526,
+   "den": 6583,
+   "raw": "Nhiều chương trình cho phép đi lại Schengen theo quy định",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tổng Quan",
+   "id": "s014"
+  },
+  {
+   "tu": 6604,
+   "den": 6689,
+   "raw": "Có thể hướng đến quốc tịch châu Âu nếu đáp ứng điều kiện cư trú, ngôn ngữ và hội nhập",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tổng Quan",
+   "id": "s015"
+  },
+  {
+   "tu": 6891,
+   "den": 6903,
+   "raw": "Chương Trình",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Chương Trình",
+   "id": "s016"
+  },
+  {
+   "tu": 7013,
+   "den": 7053,
+   "raw": "<span class=\"num\">02</span> Chương trình",
+   "loai": "p",
+   "lop": "reveal eyebrow",
+   "the": "div",
+   "ngu_canh": "Chương Trình",
+   "id": "s017"
+  },
+  {
+   "tu": 7212,
+   "den": 7263,
+   "raw": "Các chương trình đầu tư<br>định cư châu Âu phổ biến",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Chương Trình",
+   "id": "s018"
+  },
+  {
+   "tu": 7391,
+   "den": 7542,
+   "raw": "Đầu tư lấy thẻ thường trú/Golden Visa hoặc quốc tịch châu Âu. Trong đó có 2 hình thức đầu tư phổ biến: đầu tư bất động sản và đầu tư/quyên góp qua quỹ.",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Chương Trình",
+   "id": "s019"
+  },
+  {
+   "tu": 7715,
+   "den": 7721,
+   "raw": "Nhóm A",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Nhóm A",
+   "id": "s020"
+  },
+  {
+   "tu": 7756,
+   "den": 7757,
+   "raw": "A",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s021"
+  },
+  {
+   "tu": 7900,
+   "den": 7948,
+   "raw": "<span class=\"num\">A</span> Đầu tư lấy thường trú",
+   "loai": "p",
+   "lop": "reveal eyebrow on-dark",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s022"
+  },
+  {
+   "tu": 8104,
+   "den": 8195,
+   "raw": "Đầu tư lấy thường trú /<br><span style=\"color:var(--gold-soft);\">Golden Visa châu Âu</span>",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Nhóm A",
+   "id": "s023"
+  },
+  {
+   "tu": 8346,
+   "den": 8513,
+   "raw": "Đầu tư vào bất động sản hoặc quỹ tài chính để lấy quyền cư trú / thường trú tại một nước châu Âu cho cả gia đình, đi lại khối Schengen và có lộ trình lên quốc tịch EU.",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Nhóm A",
+   "id": "s024"
+  },
+  {
+   "tu": 8721,
+   "den": 8727,
+   "raw": "Hy Lạp",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s025"
+  },
+  {
+   "tu": 8750,
+   "den": 8764,
+   "raw": "TỪ 250.000 EUR",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s026"
+  },
+  {
+   "tu": 9025,
+   "den": 9032,
+   "raw": "Ireland",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s027"
+  },
+  {
+   "tu": 9055,
+   "den": 9069,
+   "raw": "TỪ 400.000 EUR",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s028"
+  },
+  {
+   "tu": 9326,
+   "den": 9338,
+   "raw": "Cộng Hoà Síp",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s029"
+  },
+  {
+   "tu": 9361,
+   "den": 9375,
+   "raw": "TỪ 300.000 EUR",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s030"
+  },
+  {
+   "tu": 9634,
+   "den": 9639,
+   "raw": "Malta",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s031"
+  },
+  {
+   "tu": 9662,
+   "den": 9676,
+   "raw": "TỪ 375.000 EUR",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s032"
+  },
+  {
+   "tu": 9933,
+   "den": 9943,
+   "raw": "Bồ Đào Nha",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s033"
+  },
+  {
+   "tu": 9966,
+   "den": 9980,
+   "raw": "TỪ 500.000 EUR",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s034"
+  },
+  {
+   "tu": 10642,
+   "den": 10648,
+   "raw": "Hy Lạp",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Hy Lạp",
+   "id": "s035"
+  },
+  {
+   "tu": 10709,
+   "den": 10711,
+   "raw": "01",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s036"
+  },
+  {
+   "tu": 10811,
+   "den": 10859,
+   "raw": "<span class=\"num\">01</span> Nhóm A · Lựa chọn 01",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s037"
+  },
+  {
+   "tu": 10941,
+   "den": 10963,
+   "raw": "Thường trú nhân Hy Lạp",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s038"
+  },
+  {
+   "tu": 11088,
+   "den": 11098,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s039"
+  },
+  {
+   "tu": 11132,
+   "den": 11146,
+   "raw": "Từ 250.000 EUR",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s040"
+  },
+  {
+   "tu": 11179,
+   "den": 11193,
+   "raw": "(~6,5 tỷ đồng)",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s041"
+  },
+  {
+   "tu": 11268,
+   "den": 11276,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s042"
+  },
+  {
+   "tu": 11310,
+   "den": 11323,
+   "raw": "Cư trú Hy Lạp",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s043"
+  },
+  {
+   "tu": 11356,
+   "den": 11391,
+   "raw": "sở hữu BĐS châu Âu, đi lại Schengen",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s044"
+  },
+  {
+   "tu": 11466,
+   "den": 11475,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s045"
+  },
+  {
+   "tu": 11509,
+   "den": 11518,
+   "raw": "Khoảng 12",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s046"
+  },
+  {
+   "tu": 11551,
+   "den": 11556,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s047"
+  },
+  {
+   "tu": 11797,
+   "den": 11813,
+   "raw": "Hình thức đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s048"
+  },
+  {
+   "tu": 11863,
+   "den": 11895,
+   "raw": "Đầu tư bất động sản đủ điều kiện",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Hy Lạp",
+   "id": "s049"
+  },
+  {
+   "tu": 11914,
+   "den": 11980,
+   "raw": "Thẻ cư trú có thời hạn 5 năm, gia hạn 5 năm/lần nếu còn sở hữu BĐS",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Hy Lạp",
+   "id": "s050"
+  },
+  {
+   "tu": 12075,
+   "den": 12092,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s051"
+  },
+  {
+   "tu": 12313,
+   "den": 12367,
+   "raw": "Tự do sinh sống, đầu tư kinh doanh, học tập tại Hy Lạp",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s052"
+  },
+  {
+   "tu": 12560,
+   "den": 12614,
+   "raw": "Đi lại 29 nước Schengen theo quy định lưu trú ngắn hạn",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s053"
+  },
+  {
+   "tu": 12807,
+   "den": 12860,
+   "raw": "Gia đình gồm vợ/chồng, con tới 21 tuổi, bố mẹ hai bên",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s054"
+  },
+  {
+   "tu": 13053,
+   "den": 13098,
+   "raw": "Không yêu cầu cư trú tối thiểu để duy trì thẻ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s055"
+  },
+  {
+   "tu": 13413,
+   "den": 13430,
+   "raw": "Hạn chế cần lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s056"
+  },
+  {
+   "tu": 13599,
+   "den": 13649,
+   "raw": "Muốn nhập tịch cần sống tại Hy Lạp tối thiểu 7 năm",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s057"
+  },
+  {
+   "tu": 13824,
+   "den": 13879,
+   "raw": "Cần đáp ứng điều kiện cư trú, ngôn ngữ theo luật Hy Lạp",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Hy Lạp",
+   "id": "s058"
+  },
+  {
+   "tu": 14035,
+   "den": 14049,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "Hy Lạp",
+   "id": "s059"
+  },
+  {
+   "tu": 14320,
+   "den": 14332,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "Hy Lạp",
+   "id": "s060"
+  },
+  {
+   "tu": 14515,
+   "den": 14522,
+   "raw": "Ireland",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Ireland",
+   "id": "s061"
+  },
+  {
+   "tu": 14583,
+   "den": 14585,
+   "raw": "02",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s062"
+  },
+  {
+   "tu": 14685,
+   "den": 14733,
+   "raw": "<span class=\"num\">02</span> Nhóm A · Lựa chọn 02",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s063"
+  },
+  {
+   "tu": 14815,
+   "den": 14838,
+   "raw": "Thường trú nhân Ireland",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s064"
+  },
+  {
+   "tu": 14963,
+   "den": 14973,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s065"
+  },
+  {
+   "tu": 15007,
+   "den": 15021,
+   "raw": "Từ 400.000 EUR",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s066"
+  },
+  {
+   "tu": 15135,
+   "den": 15143,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s067"
+  },
+  {
+   "tu": 15177,
+   "den": 15191,
+   "raw": "Cư trú Ireland",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s068"
+  },
+  {
+   "tu": 15224,
+   "den": 15273,
+   "raw": "lộ trình quốc tịch EU, quyền lợi đặc biệt tại Anh",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s069"
+  },
+  {
+   "tu": 15348,
+   "den": 15357,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s070"
+  },
+  {
+   "tu": 15391,
+   "den": 15397,
+   "raw": "8 – 10",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s071"
+  },
+  {
+   "tu": 15430,
+   "den": 15435,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s072"
+  },
+  {
+   "tu": 15676,
+   "den": 15692,
+   "raw": "Hình thức đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s073"
+  },
+  {
+   "tu": 15742,
+   "den": 15793,
+   "raw": "Trao tặng 400.000 EUR vào dự án xã hội đủ điều kiện",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Ireland",
+   "id": "s074"
+  },
+  {
+   "tu": 15812,
+   "den": 15885,
+   "raw": "Hoặc đầu tư 1.000.000 EUR vào doanh nghiệp/dự án đủ điều kiện trong 3 năm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Ireland",
+   "id": "s075"
+  },
+  {
+   "tu": 15980,
+   "den": 15997,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s076"
+  },
+  {
+   "tu": 16218,
+   "den": 16260,
+   "raw": "Chỉ chuyển vốn sau khi có chấp thuận sơ bộ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s077"
+  },
+  {
+   "tu": 16453,
+   "den": 16504,
+   "raw": "Duy trì Stamp 4 với yêu cầu cư trú thấp: 1 ngày/năm",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s078"
+  },
+  {
+   "tu": 16697,
+   "den": 16750,
+   "raw": "Sau 5 năm định cư Ireland, có thể nộp hồ sơ nhập tịch",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s079"
+  },
+  {
+   "tu": 16943,
+   "den": 17018,
+   "raw": "Khi có quốc tịch Ireland, được tự do sinh sống, làm việc tại EU và Anh Quốc",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s080"
+  },
+  {
+   "tu": 17333,
+   "den": 17350,
+   "raw": "Hạn chế cần lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s081"
+  },
+  {
+   "tu": 17519,
+   "den": 17568,
+   "raw": "Ireland IIP đã ngừng nhận hồ sơ mới từ 15/02/2023",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s082"
+  },
+  {
+   "tu": 17743,
+   "den": 17818,
+   "raw": "Chỉ còn các suất trao tặng hợp lệ từ dự án đủ điều kiện trước thời điểm này",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Ireland",
+   "id": "s083"
+  },
+  {
+   "tu": 17974,
+   "den": 17988,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "Ireland",
+   "id": "s084"
+  },
+  {
+   "tu": 18260,
+   "den": 18272,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "Ireland",
+   "id": "s085"
+  },
+  {
+   "tu": 18454,
+   "den": 18466,
+   "raw": "Cộng Hoà Síp",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s086"
+  },
+  {
+   "tu": 18527,
+   "den": 18529,
+   "raw": "03",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s087"
+  },
+  {
+   "tu": 18629,
+   "den": 18677,
+   "raw": "<span class=\"num\">03</span> Nhóm A · Lựa chọn 03",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s088"
+  },
+  {
+   "tu": 18759,
+   "den": 18787,
+   "raw": "Thường trú nhân Cộng Hoà Síp",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s089"
+  },
+  {
+   "tu": 18912,
+   "den": 18922,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s090"
+  },
+  {
+   "tu": 18956,
+   "den": 18970,
+   "raw": "Từ 300.000 EUR",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s091"
+  },
+  {
+   "tu": 19003,
+   "den": 19017,
+   "raw": "(~8,4 tỷ đồng)",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s092"
+  },
+  {
+   "tu": 19092,
+   "den": 19100,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s093"
+  },
+  {
+   "tu": 19134,
+   "den": 19156,
+   "raw": "Cư trú lâu dài tại Síp",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s094"
+  },
+  {
+   "tu": 19189,
+   "den": 19211,
+   "raw": "hướng đến quốc tịch EU",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s095"
+  },
+  {
+   "tu": 19286,
+   "den": 19295,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s096"
+  },
+  {
+   "tu": 19329,
+   "den": 19338,
+   "raw": "Khoảng 12",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s097"
+  },
+  {
+   "tu": 19371,
+   "den": 19376,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s098"
+  },
+  {
+   "tu": 19617,
+   "den": 19642,
+   "raw": "Hình thức đầu tư (chọn 1)",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s099"
+  },
+  {
+   "tu": 19692,
+   "den": 19724,
+   "raw": "Mua nhà/căn hộ mới từ chủ đầu tư",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s100"
+  },
+  {
+   "tu": 19743,
+   "den": 19761,
+   "raw": "Mua BĐS thương mại",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s101"
+  },
+  {
+   "tu": 19780,
+   "den": 19807,
+   "raw": "Góp vốn vào công ty tại Síp",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s102"
+  },
+  {
+   "tu": 19826,
+   "den": 19855,
+   "raw": "Đầu tư vào quỹ đầu tư của Síp",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s103"
+  },
+  {
+   "tu": 19950,
+   "den": 19967,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s104"
+  },
+  {
+   "tu": 20188,
+   "den": 20232,
+   "raw": "Tự do sinh sống, học tập, kinh doanh tại Síp",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s105"
+  },
+  {
+   "tu": 20425,
+   "den": 20454,
+   "raw": "Không cần trao tặng Chính phủ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s106"
+  },
+  {
+   "tu": 20647,
+   "den": 20700,
+   "raw": "Không yêu cầu ngoại ngữ, học vấn, kinh nghiệm quản lý",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s107"
+  },
+  {
+   "tu": 20893,
+   "den": 20951,
+   "raw": "Chỉ cần sang Síp 1 lần trong 2 năm để duy trì quyền cư trú",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s108"
+  },
+  {
+   "tu": 21266,
+   "den": 21271,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s109"
+  },
+  {
+   "tu": 21440,
+   "den": 21516,
+   "raw": "Síp chưa phải lựa chọn đi lại Schengen miễn visa như Hy Lạp/Malta/Bồ Đào Nha",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s110"
+  },
+  {
+   "tu": 21691,
+   "den": 21774,
+   "raw": "Khi nhập tịch Síp, có thể sinh sống tại 27 nước EU và đi lại 180 nước theo quy định",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s111"
+  },
+  {
+   "tu": 21930,
+   "den": 21944,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s112"
+  },
+  {
+   "tu": 22228,
+   "den": 22240,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "Cộng Hoà Síp",
+   "id": "s113"
+  },
+  {
+   "tu": 22419,
+   "den": 22424,
+   "raw": "Malta",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Malta",
+   "id": "s114"
+  },
+  {
+   "tu": 22485,
+   "den": 22487,
+   "raw": "04",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s115"
+  },
+  {
+   "tu": 22587,
+   "den": 22635,
+   "raw": "<span class=\"num\">04</span> Nhóm A · Lựa chọn 04",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s116"
+  },
+  {
+   "tu": 22717,
+   "den": 22738,
+   "raw": "Thường trú nhân Malta",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s117"
+  },
+  {
+   "tu": 22863,
+   "den": 22873,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s118"
+  },
+  {
+   "tu": 22907,
+   "den": 22921,
+   "raw": "Từ 375.000 EUR",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s119"
+  },
+  {
+   "tu": 22954,
+   "den": 22969,
+   "raw": "(~11,3 tỷ đồng)",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s120"
+  },
+  {
+   "tu": 23044,
+   "den": 23052,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s121"
+  },
+  {
+   "tu": 23086,
+   "den": 23098,
+   "raw": "Cư trú Malta",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s122"
+  },
+  {
+   "tu": 23131,
+   "den": 23155,
+   "raw": "+ tự do 29 nước Schengen",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s123"
+  },
+  {
+   "tu": 23230,
+   "den": 23239,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s124"
+  },
+  {
+   "tu": 23273,
+   "den": 23286,
+   "raw": "Khoảng 8 – 10",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s125"
+  },
+  {
+   "tu": 23319,
+   "den": 23324,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s126"
+  },
+  {
+   "tu": 23565,
+   "den": 23581,
+   "raw": "Hình thức đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s127"
+  },
+  {
+   "tu": 23631,
+   "den": 23699,
+   "raw": "Mua BĐS tối thiểu 375.000 EUR hoặc thuê BĐS tối thiểu 14.000 EUR/năm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Malta",
+   "id": "s128"
+  },
+  {
+   "tu": 23718,
+   "den": 23760,
+   "raw": "Duy trì BĐS hoặc hợp đồng thuê trong 5 năm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Malta",
+   "id": "s129"
+  },
+  {
+   "tu": 23779,
+   "den": 23849,
+   "raw": "Đóng góp Chính phủ, phí hành chính và quyên góp từ thiện theo quy định",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Malta",
+   "id": "s130"
+  },
+  {
+   "tu": 23944,
+   "den": 23961,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s131"
+  },
+  {
+   "tu": 24182,
+   "den": 24208,
+   "raw": "Cư trú vĩnh viễn tại Malta",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s132"
+  },
+  {
+   "tu": 24401,
+   "den": 24438,
+   "raw": "Đi lại 29 nước Schengen trong 90 ngày",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s133"
+  },
+  {
+   "tu": 24631,
+   "den": 24673,
+   "raw": "Gia đình nhiều thế hệ có thể đi cùng hồ sơ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s134"
+  },
+  {
+   "tu": 24866,
+   "den": 24908,
+   "raw": "Không yêu cầu cư trú để duy trì thường trú",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s135"
+  },
+  {
+   "tu": 25223,
+   "den": 25228,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s136"
+  },
+  {
+   "tu": 25397,
+   "den": 25467,
+   "raw": "Sau 5 năm, có thể bán BĐS hoặc dừng thuê mà không ảnh hưởng thường trú",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s137"
+  },
+  {
+   "tu": 25642,
+   "den": 25705,
+   "raw": "Muốn xin quốc tịch cần đáp ứng điều kiện cư trú theo luật Malta",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Malta",
+   "id": "s138"
+  },
+  {
+   "tu": 25864,
+   "den": 25878,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "Malta",
+   "id": "s139"
+  },
+  {
+   "tu": 26148,
+   "den": 26160,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "Malta",
+   "id": "s140"
+  },
+  {
+   "tu": 26352,
+   "den": 26362,
+   "raw": "Bồ Đào Nha",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s141"
+  },
+  {
+   "tu": 26423,
+   "den": 26425,
+   "raw": "05",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s142"
+  },
+  {
+   "tu": 26525,
+   "den": 26573,
+   "raw": "<span class=\"num\">05</span> Nhóm A · Lựa chọn 05",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s143"
+  },
+  {
+   "tu": 26655,
+   "den": 26681,
+   "raw": "Thường trú nhân Bồ Đào Nha",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s144"
+  },
+  {
+   "tu": 26806,
+   "den": 26816,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s145"
+  },
+  {
+   "tu": 26850,
+   "den": 26871,
+   "raw": "Tối thiểu 500.000 EUR",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s146"
+  },
+  {
+   "tu": 26904,
+   "den": 26919,
+   "raw": "(~15,3 tỷ đồng)",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s147"
+  },
+  {
+   "tu": 26994,
+   "den": 27002,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s148"
+  },
+  {
+   "tu": 27036,
+   "den": 27053,
+   "raw": "Cư trú Bồ Đào Nha",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s149"
+  },
+  {
+   "tu": 27086,
+   "den": 27124,
+   "raw": "đi lại Schengen, lộ trình quốc tịch EU",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s150"
+  },
+  {
+   "tu": 27199,
+   "den": 27208,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s151"
+  },
+  {
+   "tu": 27242,
+   "den": 27249,
+   "raw": "12 – 16",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s152"
+  },
+  {
+   "tu": 27282,
+   "den": 27287,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s153"
+  },
+  {
+   "tu": 27528,
+   "den": 27553,
+   "raw": "Hình thức đầu tư (chọn 1)",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s154"
+  },
+  {
+   "tu": 27603,
+   "den": 27666,
+   "raw": "Quỹ đầu tư ≥500.000 EUR, ≥5 năm, 60% vào công ty thương mại BĐN",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s155"
+  },
+  {
+   "tu": 27685,
+   "den": 27717,
+   "raw": "Nghiên cứu khoa học ≥500.000 EUR",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s156"
+  },
+  {
+   "tu": 27736,
+   "den": 27783,
+   "raw": "Trao tặng văn hóa ≥250.000 EUR (không hoàn lại)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s157"
+  },
+  {
+   "tu": 27802,
+   "den": 27886,
+   "raw": "Lập công ty thương mại ≥500.000 EUR + 5 việc làm; hoặc lập công ty mới + 10 việc làm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s158"
+  },
+  {
+   "tu": 27905,
+   "den": 27961,
+   "raw": "Đầu tư bất động sản ≥280.000 EUR (đã đóng từ 07/10/2023)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s159"
+  },
+  {
+   "tu": 28056,
+   "den": 28073,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s160"
+  },
+  {
+   "tu": 28294,
+   "den": 28349,
+   "raw": "Cả gia đình sinh sống, làm việc, học tập tại Bồ Đào Nha",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s161"
+  },
+  {
+   "tu": 28542,
+   "den": 28596,
+   "raw": "Đi lại 29 nước Schengen theo quy định lưu trú ngắn hạn",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s162"
+  },
+  {
+   "tu": 28789,
+   "den": 28841,
+   "raw": "Có thể xin quốc tịch sau 5 năm nếu đáp ứng điều kiện",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s163"
+  },
+  {
+   "tu": 29034,
+   "den": 29116,
+   "raw": "Khi có quốc tịch, được sinh sống tại các nước EU và có thể xét lộ trình E-2 vào Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s164"
+  },
+  {
+   "tu": 29431,
+   "den": 29436,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s165"
+  },
+  {
+   "tu": 29605,
+   "den": 29681,
+   "raw": "Chỉ cần có mặt tại Bồ Đào Nha 14 ngày trong mỗi 2 năm để duy trì Golden Visa",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s166"
+  },
+  {
+   "tu": 29856,
+   "den": 29946,
+   "raw": "Hình thức đầu tư quỹ là lựa chọn chính trong bối cảnh Bồ Đào Nha siết kênh BĐS Golden Visa",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s167"
+  },
+  {
+   "tu": 30104,
+   "den": 30118,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s168"
+  },
+  {
+   "tu": 30393,
+   "den": 30405,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "Bồ Đào Nha",
+   "id": "s169"
+  },
+  {
+   "tu": 34454,
+   "den": 34460,
+   "raw": "Nhóm B",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Nhóm B",
+   "id": "s170"
+  },
+  {
+   "tu": 34495,
+   "den": 34496,
+   "raw": "B",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s171"
+  },
+  {
+   "tu": 34648,
+   "den": 34738,
+   "raw": "<span class=\"num\" style=\"background:#fff; color:var(--red);\">B</span> Đầu tư lấy quốc tịch",
+   "loai": "p",
+   "lop": "reveal eyebrow",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s172"
+  },
+  {
+   "tu": 34874,
+   "den": 34902,
+   "raw": "Đầu tư lấy quốc tịch châu Âu",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Nhóm B",
+   "id": "s173"
+  },
+  {
+   "tu": 35129,
+   "den": 35144,
+   "raw": "Quốc tịch Malta",
+   "loai": "p",
+   "lop": "prog-card-name",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s174"
+  },
+  {
+   "tu": 35162,
+   "den": 35214,
+   "raw": "<span class=\"st st-closed\">ĐÃ ĐÓNG từ 07/2025</span>",
+   "loai": "p",
+   "lop": "prog-card-head",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s175"
+  },
+  {
+   "tu": 35283,
+   "den": 35332,
+   "raw": "<b>Mức đầu tư:</b> từ 690.000 EUR (~19,5 tỷ đồng)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Nhóm B",
+   "id": "s176"
+  },
+  {
+   "tu": 35353,
+   "den": 35412,
+   "raw": "<b>Mục đích:</b> lấy quốc tịch Malta, trở thành công dân EU",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Nhóm B",
+   "id": "s177"
+  },
+  {
+   "tu": 35433,
+   "den": 35462,
+   "raw": "<b>Xét duyệt:</b> từ 18 tháng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Nhóm B",
+   "id": "s178"
+  },
+  {
+   "tu": 35622,
+   "den": 35642,
+   "raw": "Quốc tịch Montenegro",
+   "loai": "p",
+   "lop": "prog-card-name",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s179"
+  },
+  {
+   "tu": 35660,
+   "den": 35703,
+   "raw": "<span class=\"st st-closed\">TẠM NGƯNG</span>",
+   "loai": "p",
+   "lop": "prog-card-head",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s180"
+  },
+  {
+   "tu": 35772,
+   "den": 35821,
+   "raw": "<b>Mức đầu tư:</b> từ 450.000 EUR (~11,5 tỷ đồng)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Nhóm B",
+   "id": "s181"
+  },
+  {
+   "tu": 35842,
+   "den": 35889,
+   "raw": "<b>Mục đích:</b> lấy thẳng quốc tịch Montenegro",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Nhóm B",
+   "id": "s182"
+  },
+  {
+   "tu": 35910,
+   "den": 35939,
+   "raw": "<b>Xét duyệt:</b> 6 – 7 tháng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Nhóm B",
+   "id": "s183"
+  },
+  {
+   "tu": 36129,
+   "den": 36135,
+   "raw": "Nhóm C",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Nhóm C",
+   "id": "s184"
+  },
+  {
+   "tu": 36164,
+   "den": 36165,
+   "raw": "C",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Nhóm C",
+   "id": "s185"
+  },
+  {
+   "tu": 36305,
+   "den": 36349,
+   "raw": "<span class=\"num\">C</span> Chương trình khác",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Nhóm C",
+   "id": "s186"
+  },
+  {
+   "tu": 36485,
+   "den": 36532,
+   "raw": "Các chương trình đầu tư<br>định cư châu Âu khác",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Nhóm C",
+   "id": "s187"
+  },
+  {
+   "tu": 36643,
+   "den": 36662,
+   "raw": "Thông tin tham khảo",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Nhóm C",
+   "id": "s188"
+  },
+  {
+   "tu": 36883,
+   "den": 36895,
+   "raw": "Chương trình",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "Nhóm C",
+   "id": "s189"
+  },
+  {
+   "tu": 36904,
+   "den": 36914,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "Nhóm C",
+   "id": "s190"
+  },
+  {
+   "tu": 36923,
+   "den": 36931,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "Nhóm C",
+   "id": "s191"
+  },
+  {
+   "tu": 36940,
+   "den": 36949,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "Nhóm C",
+   "id": "s192"
+  },
+  {
+   "tu": 36970,
+   "den": 36980,
+   "raw": "Trạng thái",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "th",
+   "ngu_canh": "Nhóm C",
+   "id": "s193"
+  },
+  {
+   "tu": 37051,
+   "den": 37075,
+   "raw": "Thường trú nhân Bulgaria",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s194"
+  },
+  {
+   "tu": 37084,
+   "den": 37115,
+   "raw": "từ 1.000.000 BGN (~512.000 EUR)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s195"
+  },
+  {
+   "tu": 37124,
+   "den": 37178,
+   "raw": "Thường trú vĩnh viễn Bulgaria, đi lại 29 nước Schengen",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s196"
+  },
+  {
+   "tu": 37187,
+   "den": 37201,
+   "raw": "khoảng 3 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s197"
+  },
+  {
+   "tu": 37222,
+   "den": 37259,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s198"
+  },
+  {
+   "tu": 37291,
+   "den": 37314,
+   "raw": "Thường trú nhân Hungary",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s199"
+  },
+  {
+   "tu": 37323,
+   "den": 37337,
+   "raw": "từ 250.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s200"
+  },
+  {
+   "tu": 37346,
+   "den": 37385,
+   "raw": "Cư trú Hungary, đi lại 29 nước Schengen",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s201"
+  },
+  {
+   "tu": 37394,
+   "den": 37410,
+   "raw": "khoảng 3–6 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s202"
+  },
+  {
+   "tu": 37431,
+   "den": 37468,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s203"
+  },
+  {
+   "tu": 37500,
+   "den": 37511,
+   "raw": "Tây Ban Nha",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s204"
+  },
+  {
+   "tu": 37520,
+   "den": 37534,
+   "raw": "từ 500.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s205"
+  },
+  {
+   "tu": 37543,
+   "den": 37587,
+   "raw": "Tạm trú Tây Ban Nha, đi lại 29 nước Schengen",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s206"
+  },
+  {
+   "tu": 37596,
+   "den": 37612,
+   "raw": "khoảng 6–8 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s207"
+  },
+  {
+   "tu": 37633,
+   "den": 37685,
+   "raw": "<span class=\"pill-cond\">Đã đóng cửa (04/2025)</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s208"
+  },
+  {
+   "tu": 37717,
+   "den": 37736,
+   "raw": "Thường trú nhân Đức",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s209"
+  },
+  {
+   "tu": 37745,
+   "den": 37769,
+   "raw": "không yêu cầu mức cụ thể",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s210"
+  },
+  {
+   "tu": 37778,
+   "den": 37846,
+   "raw": "Tạm trú kinh doanh tại Đức, hướng đến thường trú Đức và quốc tịch EU",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s211"
+  },
+  {
+   "tu": 37855,
+   "den": 37870,
+   "raw": "khoảng 6–8 tuần",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s212"
+  },
+  {
+   "tu": 37891,
+   "den": 37928,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s213"
+  },
+  {
+   "tu": 37960,
+   "den": 37980,
+   "raw": "Thường trú nhân Pháp",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s214"
+  },
+  {
+   "tu": 37989,
+   "den": 38035,
+   "raw": "từ 30.000 EUR (công ty) – 300.000 EUR (đầu tư)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s215"
+  },
+  {
+   "tu": 38044,
+   "den": 38100,
+   "raw": "Thường trú Pháp, đi lại Schengen, hướng đến quốc tịch EU",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s216"
+  },
+  {
+   "tu": 38109,
+   "den": 38122,
+   "raw": "trong 1 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s217"
+  },
+  {
+   "tu": 38143,
+   "den": 38180,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s218"
+  },
+  {
+   "tu": 38212,
+   "den": 38233,
+   "raw": "Đầu tư định cư Latvia",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s219"
+  },
+  {
+   "tu": 38242,
+   "den": 38255,
+   "raw": "từ 50.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s220"
+  },
+  {
+   "tu": 38264,
+   "den": 38324,
+   "raw": "Thẻ tạm trú Latvia, đi lại Schengen, Thụy Sĩ, Na Uy, Iceland",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s221"
+  },
+  {
+   "tu": 38333,
+   "den": 38350,
+   "raw": "khoảng 30–90 ngày",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s222"
+  },
+  {
+   "tu": 38371,
+   "den": 38408,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s223"
+  },
+  {
+   "tu": 38440,
+   "den": 38481,
+   "raw": "Quyền cư trú Anh — Innovator Founder Visa",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s224"
+  },
+  {
+   "tu": 38490,
+   "den": 38514,
+   "raw": "không yêu cầu mức cụ thể",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s225"
+  },
+  {
+   "tu": 38523,
+   "den": 38574,
+   "raw": "Cư trú Anh diện khởi nghiệp, lộ trình quốc tịch Anh",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s226"
+  },
+  {
+   "tu": 38583,
+   "den": 38600,
+   "raw": "trong vòng 3 tuần",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s227"
+  },
+  {
+   "tu": 38621,
+   "den": 38658,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s228"
+  },
+  {
+   "tu": 38690,
+   "den": 38722,
+   "raw": "Quyền cư trú Anh — Investor Visa",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s229"
+  },
+  {
+   "tu": 38731,
+   "den": 38755,
+   "raw": "từ 2 – 10 triệu Bảng Anh",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s230"
+  },
+  {
+   "tu": 38764,
+   "den": 38798,
+   "raw": "Cư trú Anh, lộ trình quốc tịch Anh",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s231"
+  },
+  {
+   "tu": 38807,
+   "den": 38824,
+   "raw": "trong vòng 8 tuần",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s232"
+  },
+  {
+   "tu": 38845,
+   "den": 38882,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s233"
+  },
+  {
+   "tu": 38914,
+   "den": 38939,
+   "raw": "Quyền cư trú Hungary (cũ)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s234"
+  },
+  {
+   "tu": 38948,
+   "den": 38959,
+   "raw": "300.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s235"
+  },
+  {
+   "tu": 38968,
+   "den": 39007,
+   "raw": "Cư trú Hungary, đi lại 29 nước Schengen",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s236"
+  },
+  {
+   "tu": 39016,
+   "den": 39032,
+   "raw": "khoảng 3–6 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s237"
+  },
+  {
+   "tu": 39053,
+   "den": 39105,
+   "raw": "<span class=\"pill-cond\">Đã đóng cửa (03/2017)</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s238"
+  },
+  {
+   "tu": 39137,
+   "den": 39167,
+   "raw": "Quyền cư trú Ý — Investor Visa",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s239"
+  },
+  {
+   "tu": 39176,
+   "den": 39204,
+   "raw": "từ 500.000 EUR – 2 triệu EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s240"
+  },
+  {
+   "tu": 39213,
+   "den": 39244,
+   "raw": "Cư trú Ý, lộ trình quốc tịch EU",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s241"
+  },
+  {
+   "tu": 39253,
+   "den": 39269,
+   "raw": "khoảng 2–3 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s242"
+  },
+  {
+   "tu": 39290,
+   "den": 39327,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s243"
+  },
+  {
+   "tu": 39359,
+   "den": 39399,
+   "raw": "Quyền cư trú Ý — Elective Residence Visa",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s244"
+  },
+  {
+   "tu": 39408,
+   "den": 39428,
+   "raw": "không yêu cầu đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s245"
+  },
+  {
+   "tu": 39437,
+   "den": 39497,
+   "raw": "Cư trú Ý bằng nguồn thu nhập thụ động, lộ trình quốc tịch EU",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s246"
+  },
+  {
+   "tu": 39506,
+   "den": 39522,
+   "raw": "khoảng 2–3 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s247"
+  },
+  {
+   "tu": 39543,
+   "den": 39580,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s248"
+  },
+  {
+   "tu": 39612,
+   "den": 39637,
+   "raw": "Quốc tịch North Macedonia",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s249"
+  },
+  {
+   "tu": 39646,
+   "den": 39670,
+   "raw": "từ 200.000 – 400.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s250"
+  },
+  {
+   "tu": 39679,
+   "den": 39708,
+   "raw": "Lấy quốc tịch North Macedonia",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s251"
+  },
+  {
+   "tu": 39717,
+   "den": 39733,
+   "raw": "khoảng 2–5 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s252"
+  },
+  {
+   "tu": 39754,
+   "den": 39791,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Nhóm C",
+   "id": "s253"
+  },
+  {
+   "tu": 39951,
+   "den": 40027,
+   "raw": "<span style=\"font-style:italic;\">← Vuốt ngang để xem đầy đủ các cột →</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Nhóm C",
+   "id": "s254"
+  },
+  {
+   "tu": 40199,
+   "den": 40209,
+   "raw": "Vì Sao IMM",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s255"
+  },
+  {
+   "tu": 40244,
+   "den": 40247,
+   "raw": "IMM",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s256"
+  },
+  {
+   "tu": 40459,
+   "den": 40481,
+   "raw": "Vì sao chọn IMM Group?",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s257"
+  },
+  {
+   "tu": 40594,
+   "den": 40708,
+   "raw": "Từ năm 2005, IMM Group là đơn vị tiên phong tư vấn đầu tư định cư châu Âu, Mỹ, Úc, Canada cho doanh nhân Việt Nam.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s258"
+  },
+  {
+   "tu": 40893,
+   "den": 40917,
+   "raw": "<span class=\"n\">1</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s259"
+  },
+  {
+   "tu": 40927,
+   "den": 40946,
+   "raw": "21+ năm kinh nghiệm",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s260"
+  },
+  {
+   "tu": 41004,
+   "den": 41045,
+   "raw": "Hai thập kỷ tư vấn đầu tư định cư quốc tế",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s261"
+  },
+  {
+   "tu": 41066,
+   "den": 41108,
+   "raw": "625+ hồ sơ đầu tư định cư xử lý thành công",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s262"
+  },
+  {
+   "tu": 41129,
+   "den": 41175,
+   "raw": "2.500+ visa được cấp cho các gia đình Việt Nam",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s263"
+  },
+  {
+   "tu": 41308,
+   "den": 41332,
+   "raw": "<span class=\"n\">2</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s264"
+  },
+  {
+   "tu": 41342,
+   "den": 41373,
+   "raw": "Chuyên sâu chương trình châu Âu",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s265"
+  },
+  {
+   "tu": 41431,
+   "den": 41488,
+   "raw": "Am hiểu các chương trình Golden Visa và quốc tịch châu Âu",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s266"
+  },
+  {
+   "tu": 41509,
+   "den": 41585,
+   "raw": "Tư vấn theo mục tiêu cư trú, giáo dục, đi lại và quốc tịch của từng gia đình",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s267"
+  },
+  {
+   "tu": 41606,
+   "den": 41676,
+   "raw": "Hỗ trợ lựa chọn chương trình phù hợp với tài chính và kế hoạch dài hạn",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s268"
+  },
+  {
+   "tu": 41809,
+   "den": 41833,
+   "raw": "<span class=\"n\">3</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s269"
+  },
+  {
+   "tu": 41843,
+   "den": 41869,
+   "raw": "Đội ngũ chuyên môn quốc tế",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s270"
+  },
+  {
+   "tu": 41927,
+   "den": 41982,
+   "raw": "Chuyên viên đạt chứng chỉ IMC về đầu tư định cư quốc tế",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s271"
+  },
+  {
+   "tu": 42003,
+   "den": 42066,
+   "raw": "Được đào tạo về chống rửa tiền, bảo mật và thẩm định khách hàng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s272"
+  },
+  {
+   "tu": 42087,
+   "den": 42146,
+   "raw": "Hợp tác với công ty di trú và luật sư tại châu Âu, toàn cầu",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s273"
+  },
+  {
+   "tu": 42279,
+   "den": 42303,
+   "raw": "<span class=\"n\">4</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s274"
+  },
+  {
+   "tu": 42313,
+   "den": 42330,
+   "raw": "Tư vấn khách quan",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s275"
+  },
+  {
+   "tu": 42388,
+   "den": 42454,
+   "raw": "Phân tích rõ quyền lợi, điều kiện và hạn chế của từng chương trình",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s276"
+  },
+  {
+   "tu": 42475,
+   "den": 42527,
+   "raw": "Chủ động sàng lọc hồ sơ phù hợp trước khi triển khai",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s277"
+  },
+  {
+   "tu": 42651,
+   "den": 42675,
+   "raw": "<span class=\"n\">5</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s278"
+  },
+  {
+   "tu": 42685,
+   "den": 42710,
+   "raw": "Cam kết đồng hành lâu dài",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s279"
+  },
+  {
+   "tu": 42768,
+   "den": 42818,
+   "raw": "Đặt quyền lợi khách hàng lên trước lợi ích công ty",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s280"
+  },
+  {
+   "tu": 42839,
+   "den": 42903,
+   "raw": "Bảo mật thông tin khách hàng theo tiêu chuẩn cao, ký NDA khi cần",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s281"
+  },
+  {
+   "tu": 42924,
+   "den": 42984,
+   "raw": "Sẵn sàng hoàn phí khi xảy ra rủi ro khách quan theo hợp đồng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s282"
+  },
+  {
+   "tu": 43117,
+   "den": 43141,
+   "raw": "<span class=\"n\">6</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s283"
+  },
+  {
+   "tu": 43151,
+   "den": 43188,
+   "raw": "Nhận và cho đi — Be Better Foundation",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s284"
+  },
+  {
+   "tu": 43246,
+   "den": 43312,
+   "raw": "Từ 2025, IMM Group chính thức trở thành doanh nghiệp phi lợi nhuận",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s285"
+  },
+  {
+   "tu": 43333,
+   "den": 43410,
+   "raw": "IMM Group cam kết đóng góp tối thiểu 51% lợi nhuận hằng năm vào Quỹ Be Better",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s286"
+  },
+  {
+   "tu": 43431,
+   "den": 43509,
+   "raw": "Quỹ hỗ trợ học sinh, sinh viên khó khăn tiếp tục học tập và thay đổi tương lai",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s287"
+  },
+  {
+   "tu": 43720,
+   "den": 43723,
+   "raw": "21+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s288"
+  },
+  {
+   "tu": 43744,
+   "den": 43759,
+   "raw": "năm kinh nghiệm",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s289"
+  },
+  {
+   "tu": 43842,
+   "den": 43846,
+   "raw": "625+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s290"
+  },
+  {
+   "tu": 43867,
+   "den": 43883,
+   "raw": "hồ sơ thành công",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s291"
+  },
+  {
+   "tu": 43980,
+   "den": 43986,
+   "raw": "2.500+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s292"
+  },
+  {
+   "tu": 44007,
+   "den": 44020,
+   "raw": "visa được cấp",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s293"
+  },
+  {
+   "tu": 44250,
+   "den": 44289,
+   "raw": "\"Phục vụ bằng những giá trị chân chính\"",
+   "loai": "p",
+   "lop": "serif-i",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s294"
+  },
+  {
+   "tu": 44404,
+   "den": 44425,
+   "raw": "— Tôn chỉ IMM Group —",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s295"
+  },
+  {
+   "tu": 44588,
+   "den": 44597,
+   "raw": "Tham Khảo",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Tham Khảo",
+   "id": "s296"
+  },
+  {
+   "tu": 44688,
+   "den": 44707,
+   "raw": "Có thể bạn quan tâm",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Tham Khảo",
+   "id": "s297"
+  },
+  {
+   "tu": 44819,
+   "den": 44859,
+   "raw": "Tìm hiểu các dịch vụ tư vấn từ IMM Group",
+   "loai": "h3",
+   "lop": "serif",
+   "the": "h3",
+   "ngu_canh": "Tham Khảo",
+   "id": "s298"
+  },
+  {
+   "tu": 45188,
+   "den": 45211,
+   "raw": "Thường trú nhân Ireland",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s299"
+  },
+  {
+   "tu": 45507,
+   "den": 45529,
+   "raw": "Thường trú nhân Hy Lạp",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s300"
+  },
+  {
+   "tu": 45838,
+   "den": 45875,
+   "raw": "Thường trú nhân Cộng Hòa Síp (Cyprus)",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s301"
+  },
+  {
+   "tu": 46170,
+   "den": 46192,
+   "raw": "Thường trú nhân Latvia",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s302"
+  },
+  {
+   "tu": 46487,
+   "den": 46508,
+   "raw": "Thường trú nhân Malta",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s303"
+  },
+  {
+   "tu": 46808,
+   "den": 46834,
+   "raw": "Thường trú nhân Bồ Đào Nha",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s304"
+  },
+  {
+   "tu": 47180,
+   "den": 47203,
+   "raw": "Thường trú nhân Hungary",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s305"
+  }
+ ]
+}

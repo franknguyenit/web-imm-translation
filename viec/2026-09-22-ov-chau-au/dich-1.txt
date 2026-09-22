@@ -1,0 +1,202 @@
+[s004] European Golden Visa and Citizenship
+[s005] Invest for residency, a European Golden Visa, or European citizenship for your whole family.
+[s008] 01
+[s009] {1}01{/1} Overview
+[s010] An overview of European{br}residency by investment
+[s011] What is European residency by investment?
+[s012] Obtain residency, a European Golden Visa, or European citizenship through investment
+[s013] Your family can live, study, and do business in the country that runs the program
+[s014] Many programs allow travel within the Schengen Area under the applicable rules
+[s015] You can work toward European citizenship if you meet the residence, language, and integration conditions
+[s017] {1}02{/1} Programs
+[s018] The main European residency{br}by investment programs
+[s019] Invest for a residence permit, a European Golden Visa, or European citizenship. The 2 most common routes are real estate, and investing in or donating through a fund.
+[s021] A
+[s022] {1}A{/1} Investing for residency
+[s023] Investing for residency /{br}{1}the European Golden Visa{/1}
+[s024] Invest in real estate or in a financial fund to obtain residency for your whole family in a European country, with travel across the Schengen Area and a route toward EU citizenship.
+[s025] Greece
+[s026] From €250,000
+[s027] Ireland
+[s028] From €400,000
+[s029] Cyprus
+[s030] From €300,000
+[s031] Malta
+[s032] From €375,000
+[s033] Portugal
+[s034] From €500,000
+[s035] Greece
+[s036] 01
+[s040] From €250,000
+[s041|#bo-qua-so: ô này chỉ là quy đổi VND của con số EUR ngay trên, bỏ theo style guide mục 5] minimum
+[s043] Greek residency
+[s044] European property ownership, Schengen travel
+[s046] About 12
+[s050] The card is valid for 5 years and is renewable in 5-year periods for as long as you continue to own the property
+[s052] Live, invest in a business, and study in Greece
+[s053] Travel across the 29 Schengen countries under the short-stay rules
+[s054] The application covers your spouse, children up to 21, and the parents of both spouses
+[s055] No minimum stay is required to keep the permit
+[s057] Naturalization requires at least 7 years of living in Greece
+[s058] You must meet the residence and language conditions set by Greek law
+[s061] Ireland
+[s062] 02
+[s064] Ireland Golden Visa
+[s066] From €400,000
+[s068] Irish residency
+[s069] a route to EU citizenship, with special rights in the UK
+[s074] A €400,000 endowment to a qualifying social project
+[s075] Or a €1,000,000 investment in a qualifying business or project, held for 3 years
+[s077] You transfer the funds only after pre-approval
+[s078] Keep Stamp 4 status with a light residence requirement: 1 day a year
+[s079] After 5 years of residence in Ireland, you can apply for naturalization
+[s080] With Irish citizenship, you can live and work freely across the EU and in the United Kingdom
+[s083] Only endowment places from projects that qualified before that date remain
+[s086] Cyprus
+[s087] 03
+[s089] Cyprus Golden Visa
+[s091] From €300,000
+[s092|#bo-qua-so: ô này chỉ là quy đổi VND của con số EUR ngay trên, bỏ theo style guide mục 5] minimum
+[s094] Long-term residency in Cyprus
+[s095] working toward EU citizenship
+[s097] About 12
+[s100] Buy a new house or apartment from the developer
+[s101] Buy commercial real estate
+[s102] Invest in the share capital of a Cypriot company
+[s103] Invest in a Cypriot investment fund
+[s105] Live, study, and run a business in Cyprus
+[s106] No government donation is required
+[s107] No language, education, or management experience requirements
+[s108|#bo-qua-so: "1 lần" viết thành "once" cho tự nhiên] You need to visit Cyprus once every 2 years to keep your residency
+[s110] Cyprus is not yet a Schengen visa-free option in the way Greece, Malta, and Portugal are
+[s111] With Cypriot citizenship you can live in the 27 EU countries and travel to 180 countries under the applicable rules
+[s114] Malta
+[s115] 04
+[s116] {1}04{/1} Group A · Option 04
+[s119] From €375,000
+[s120|#bo-qua-so: ô này chỉ là quy đổi VND của con số EUR ngay trên, bỏ theo style guide mục 5] minimum
+[s122] Maltese residency
+[s123] + free travel in the 29 Schengen countries
+[s125] About 8 – 10
+[s128] Buy property worth at least €375,000, or lease property for at least €14,000 a year
+[s129] Hold the property or the lease for at least 5 years
+[s130] A government contribution, administrative fees, and a charitable donation, as required
+[s132] Permanent residence in Malta
+[s133] Travel across the 29 Schengen countries for up to 90 days
+[s134] A multigenerational family can be included in one application
+[s135] No minimum stay is required to keep your permanent residence
+[s137] After 5 years you may sell the property or end the lease without affecting your permanent residence
+[s138] Citizenship requires meeting the residence conditions set by Maltese law
+[s141] Portugal
+[s142] 05
+[s143] {1}05{/1} Group A · Option 05
+[s146] At least €500,000
+[s147|#bo-qua-so: ô này chỉ là quy đổi VND của con số EUR ngay trên, bỏ theo style guide mục 5] minimum
+[s149] Portuguese residency
+[s150] Schengen travel, a route to EU citizenship
+[s152] 12 – 16
+[s155] An investment fund: €500,000 or more, held for at least 5 years, with 60% invested in Portuguese commercial companies
+[s156] Scientific research: €500,000 or more
+[s157] A cultural donation: €250,000 or more, non-refundable
+[s158] Forming a commercial company: €500,000 or more plus 5 jobs; or forming a new company plus 10 jobs
+[s159|#bo-qua-so: ngày "07/10/2023" viết theo lối Mỹ nên mất chữ số 10] Real estate: €280,000 or more — closed since October 7, 2023
+[s161] Your whole family can live, work, and study in Portugal
+[s162] Travel across the 29 Schengen countries under the short-stay rules
+[s163] You can apply for citizenship after 5 years if you meet the conditions
+[s164] With citizenship you can live in EU countries, and you may be able to explore the US E-2 route
+[s166] You need to spend just 14 days in Portugal every 2 years to keep your Golden Visa
+[s167] The fund route is now the main option, since Portugal has tightened the real estate channel for the Golden Visa
+[s171] B
+[s172] {1}B{/1} Citizenship by investment
+[s173] European citizenship by investment
+[s174] Malta Citizenship by Investment
+[s175|#bo-qua-so: "07/2025" viết thành tên tháng theo style guide mục 5] Closed since July 2025
+[s176|#bo-qua-so: bỏ quy đổi VND theo style guide mục 5] **Investment level:** from €690,000
+[s177] **Purpose:** Maltese citizenship, and EU citizenship with it
+[s178] **Processing:** from 18 months
+[s180] Suspended
+[s181|#bo-qua-so: bỏ quy đổi VND theo style guide mục 5] **Investment level:** from €450,000
+[s182] **Purpose:** Montenegrin citizenship directly
+[s183] **Processing:** 6 – 7 months
+[s184] Group C
+[s185] C
+[s186] {1}C{/1} Other programs
+[s187] Other European residency{br}by investment programs
+[s188] For reference
+[s193] Status
+[s194] Bulgaria Golden Visa
+[s195] from BGN 1,000,000 (about €512,000)
+[s196] Bulgarian permanent residence, travel across the 29 Schengen countries
+[s197] about 3 months
+[s198] Open
+[s200] from €250,000
+[s201] Hungarian residency, travel across the 29 Schengen countries
+[s202] about 3–6 months
+[s203] Open
+[s204] Spain
+[s205] from €500,000
+[s206] Spanish temporary residency, travel across the 29 Schengen countries
+[s207] about 6–8 months
+[s208|#bo-qua-so: "04/2025" viết thành tên tháng theo style guide mục 5] Closed (April 2025)
+[s209|#bo-qua-tn: Đức không có chương trình Golden Visa và giấy phép này là thẻ cư trú kinh doanh, không phải thường trú] Germany residency by investment
+[s210] no set minimum
+[s211] German business residency, working toward German permanent residence and EU citizenship
+[s212] about 6–8 weeks
+[s213] Open
+[s214|#bo-qua-tn: Pháp không có chương trình Golden Visa; đây là thẻ cư trú diện lập công ty/đầu tư, không phải thường trú] France residency by investment
+[s215] from €30,000 (company) to €300,000 (investment)
+[s216] French residency, Schengen travel, working toward EU citizenship
+[s217] within 1 month
+[s218] Open
+[s220] from €50,000
+[s221] A Latvian temporary residence permit, with travel in the Schengen Area, Switzerland, Norway, and Iceland
+[s222] about 30–90 days
+[s223] Open
+[s224] UK residency — Innovator Founder visa
+[s225] no set minimum
+[s226] UK residency through a start-up, with a route to British citizenship
+[s227] within 3 weeks
+[s228] Open
+[s229] UK residency — Investor visa
+[s230] from £2 million to £10 million
+[s231] UK residency, with a route to British citizenship
+[s232] within 8 weeks
+[s233] Open
+[s234] Hungary residency (former program)
+[s235] €300,000
+[s236] Hungarian residency, travel across the 29 Schengen countries
+[s237] about 3–6 months
+[s238|#bo-qua-so: "03/2017" viết thành tên tháng theo style guide mục 5] Closed (March 2017)
+[s239] Italy residency — Investor visa
+[s240] from €500,000 to €2 million
+[s241] Italian residency, with a route to EU citizenship
+[s242] about 2–3 months
+[s243] Open
+[s244] Italy residency — Elective Residence visa
+[s246] Italian residency on passive income, with a route to EU citizenship
+[s247] about 2–3 months
+[s248] Open
+[s249] North Macedonia Citizenship by Investment
+[s250] from €200,000 to €400,000
+[s251] North Macedonian citizenship
+[s252] about 2–5 months
+[s253] Open
+[s258] Since 2005, IMM Group has been a pioneer in advising entrepreneurs on residency by investment in Europe, the United States, Australia, and Canada.
+[s259] 1
+[s264] 2
+[s265] Deep expertise in European programs
+[s266] We know the European Golden Visa and citizenship programs in detail
+[s267] Advice shaped around each family's goals for residency, education, travel, and citizenship
+[s268] Help choosing the program that fits your finances and your long-term plans
+[s269] 3
+[s270] An internationally certified team
+[s272] Trained in anti-money-laundering checks, confidentiality, and client due diligence
+[s273] We work with immigration firms and lawyers in Europe and worldwide
+[s274] 4
+[s275] Objective advice
+[s276] A clear analysis of each program's benefits, conditions, and limitations
+[s277] We screen files for suitability before we take them on
+[s278] 5
+[s283] 6
+[s299] Ireland Golden Visa
+[s302] Latvia Golden Visa

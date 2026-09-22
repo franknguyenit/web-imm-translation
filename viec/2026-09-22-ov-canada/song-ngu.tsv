@@ -1,0 +1,374 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	p	Mở Đầu	Introduction	100%: Introduction		acf.s001_p
+s002	p	Mở Đầu	Introduction	100%: Introduction	trung:s001	acf.s002_p
+s003	p	IMM GROUP · EST. 2005	IMM Group · est. 2005	100%: IMM Group · est. 2005		acf.s003_p
+s004	h1	Đầu Tư{br}Định Cư Canada	Canada Investor Visa{br}Programs	100% (gắn lại thẻ {br}): Canada investment immigration		acf.s004_h1#1
+s005	p	Lộ trình lấy thường trú nhân (PR) Canada diện doanh nhân & đầu tư	Canada investor visa and entrepreneur routes to Canadian permanent residence (PR).			acf.s005_p#1
+s006	p	CUỘN XUỐNG	Scroll down	100%: Scroll down		acf.s006_p
+s007	p	Tổng Quan	Overview	100%: Overview		acf.s007_p
+s008	p	Tổng quan	Overview	100%: Overview	trung:s007	acf.s008_p
+s009	h2	Đầu tư định cư Canada là gì?	What is Canada investment immigration?	85%: Canada investment immigration		acf.s009_h2
+s010	p	Lộ trình dành cho chủ doanh nghiệp, quản lý cấp cao hoặc nhà đầu tư muốn lấy quyền cư trú Canada thông qua kinh doanh.	A route for business owners, senior managers, and investors who want Canadian residence through business.			acf.s010_p
+s011	p	Nhà đầu tư sẽ thành lập, mua lại hoặc vận hành doanh nghiệp tại một tỉnh bang Canada.	You establish, acquire, or operate a business in a Canadian province.			acf.s011_p
+s012	p	Khi đáp ứng điều kiện của tỉnh bang, nhà đầu tư có thể tiến đến thường trú nhân Canada.	Once you meet the province's conditions, you can move toward Canadian permanent residence.			acf.s012_p
+s013	p	Mỗi chương trình phù hợp với năng lực tài chính, kinh nghiệm quản lý, trình độ tiếng Anh và kế hoạch định cư khác nhau.	Each program suits a different financial capacity, management background, English level, and settlement plan.			acf.s013_p
+s014	p	Chương Trình	Program	100%: Program		acf.s014_p
+s015	p	Chương trình	Program	100%: Program	trung:s014	acf.s015_p
+s016	h2	Các chương trình{br}đầu tư định cư Canada	Canada investment immigration{br}programs	88%: U.S. investment immigration{br}programs		acf.s016_h2#1
+s017	p	Các chương trình có thể chia thành 2 nhóm chính: định cư diện doanh nhân tỉnh bang và định cư diện khởi nghiệp Start-Up Visa.	The programs fall into 2 main groups: provincial entrepreneur streams and the Start-Up Visa (SUV) for founders.			acf.s017_p
+s018	p	Nhóm A	Group A	100%: Group A		acf.s018_p
+s019	p	A	A			acf.s019_p
+s020	p	{1}A{/1} Doanh nhân tỉnh bang	{1}A{/1} Provincial entrepreneur			acf.s020_p#1
+s021	h2	Đầu tư định cư diện{br}{1}doanh nhân tỉnh bang{/1}	Investment immigration through{br}{1}provincial entrepreneur streams{/1}			acf.s021_h2#1
+s022	p	Đầu tư thành lập / mua lại và vận hành doanh nghiệp tại một tỉnh bang Canada để lấy quyền cư trú, tiến tới thường trú nhân (PR) cho cả gia đình.	You invest to start or acquire a business and operate it in a Canadian province, securing residence and a route to permanent residence (PR) for your whole family.			acf.s022_p
+s023	p	PEI	PEI			acf.s023_p
+s024	p	Từ 150.000 CAD	From C$150,000			acf.s024_p
+s025	p	British Columbia	British Columbia			acf.s025_p
+s026	p	Từ 200.000 CAD	From C$200,000	85%: From US$200,000		acf.s026_p
+s027	p	New Brunswick	New Brunswick			acf.s027_p
+s028	p	Từ 150.000 CAD	From C$150,000		trung:s024	acf.s028_p
+s029	p	Manitoba	Manitoba			acf.s029_p
+s030	p	Từ 150.000 CAD	From C$150,000		trung:s024	acf.s030_p
+s031	p	Nova Scotia	Nova Scotia			acf.s031_p
+s032	p	Từ 100.000 CAD	From C$100,000			acf.s032_p
+s033	p	PEI	PEI		trung:s023	acf.s033_p
+s034	p	01	01			acf.s034_p
+s035	p	{1}01{/1} Nhóm A · Lựa chọn 01	{1}01{/1} Group A · Option 01	100%: {1}01{/1} Group A · Option 01		acf.s035_p#1
+s036	p	PEI — Đảo Hoàng Tử Edward	PEI — Prince Edward Island			acf.s036_p
+s037	p	Mức đầu tư	Investment	100%: Investment		acf.s037_p
+s038	p	Từ 150.000	From 150,000			acf.s038_p
+s039	p	CAD	CAD			acf.s039_p
+s040	p	Mục đích	Purpose	100%: Purpose		acf.s040_p
+s041	p	Quyền cư trú	Residence in			acf.s041_p
+s042	p	Canada	Canada			acf.s042_p
+s043	p	Xét duyệt	Processing	100%: Processing		acf.s043_p
+s044	p	12 – 15	12 – 15	85%: 13 – 15		acf.s044_p
+s045	p	tháng	months	100%: months		acf.s045_p
+s046	p	Yêu cầu đương đơn	Applicant requirements	97%: What are the requirements for the main applicant?		acf.s046_p
+s047	li	Từ 21–59 tuổi	Aged 21–59			acf.s047_li
+s048	li	Là chủ doanh nghiệp hoặc quản lý cấp cao tối thiểu 3 năm trong 5 năm gần nhất	At least 3 years as a business owner or senior manager within the past 5 years			acf.s048_li
+s049	li	Tốt nghiệp THPT	High school graduation			acf.s049_li
+s050	li	Tiếng Anh tương đương IELTS General 4.0	English equivalent to IELTS General Training 4.0			acf.s050_li
+s051	li	Tổng tài sản tối thiểu 600.000 CAD	Net worth of at least C$600,000			acf.s051_li
+s052	p	Yêu cầu đầu tư	Investment requirements	100%: Investment requirements		acf.s052_p
+s053	li	Thành lập hoặc mua lại doanh nghiệp tại PEI	Establish or acquire a business in PEI			acf.s053_li
+s054	li	Có kế hoạch kinh doanh khả thi, mang lại lợi ích kinh tế cho tỉnh bang	A viable business plan that brings economic benefit to the province			acf.s054_li
+s055	li	Vận hành doanh nghiệp tại PEI tối thiểu 12 tháng	Operate the business in PEI for at least 12 months			acf.s055_li
+s056	p	Quyền lợi nổi bật	Key benefits	100%: Key benefits		acf.s056_p
+s057	p	Vợ/chồng và con dưới 22 tuổi có thể đi cùng hồ sơ	Your spouse and children under 22 can be included in the application			acf.s057_p
+s058	p	Con học miễn phí đến hết THPT	Free schooling for your children through the end of high school			acf.s058_p
+s059	p	Khi có PR, con học đại học theo mức học phí dành cho người bản xứ	Once you hold PR, your children pay domestic tuition rates at university			acf.s059_p
+s060	p	Sau 5 năm có PR, có thể nộp đơn xin quốc tịch Canada nếu đủ điều kiện	After 5 years of PR, you can apply for Canadian citizenship if you qualify			acf.s060_p
+s061	p	Lưu ý	Please note	100%: Please note		acf.s061_p
+s062	p	Cần cư trú thật tại PEI	You must genuinely reside in PEI			acf.s062_p
+s063	p	Cần trực tiếp vận hành doanh nghiệp	You must run the business yourself			acf.s063_p
+s064	p	Tiếng Anh là điều kiện bắt buộc khi nộp hồ sơ	English is required at the time of application			acf.s064_p
+s065	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s065_cta
+s066	cta	XEM CHI TIẾT	View details	100%: View details		acf.s066_cta
+s067	p	British Columbia	British Columbia		trung:s025	acf.s067_p
+s068	p	02	02			acf.s068_p
+s069	p	{1}02{/1} Nhóm A · Lựa chọn 02	{1}02{/1} Group A · Option 02	100%: {1}02{/1} Group A · Option 02		acf.s069_p#1
+s070	p	British Columbia (BC)	British Columbia (BC)			acf.s070_p
+s071	p	Mức đầu tư	Investment	100%: Investment	trung:s037	acf.s071_p
+s072	p	Từ 200.000	From 200,000			acf.s072_p
+s073	p	CAD	CAD		trung:s039	acf.s073_p
+s074	p	Mục đích	Purpose	100%: Purpose	trung:s040	acf.s074_p
+s075	p	Quyền cư trú	Residence in		trung:s041	acf.s075_p
+s076	p	Canada	Canada		trung:s042	acf.s076_p
+s077	p	Xét duyệt	Processing	100%: Processing	trung:s043	acf.s077_p
+s078	p	12 – 15	12 – 15	85%: 13 – 15	trung:s044	acf.s078_p
+s079	p	tháng	months	100%: months	trung:s045	acf.s079_p
+s080	p	Yêu cầu đương đơn	Applicant requirements	97%: What are the requirements for the main applicant?	trung:s046	acf.s080_p
+s081	li	Chủ doanh nghiệp tối thiểu 3 năm, sở hữu ít nhất 10% vốn; hoặc quản lý cấp cao tối thiểu 4 năm trong 10 năm gần nhất	At least 3 years as a business owner holding at least 10% equity, or at least 4 years as a senior manager within the past 10 years			acf.s081_li
+s082	li	Học vấn tối thiểu 1 năm sau THPT	At least 1 year of post-secondary education			acf.s082_li
+s083	li	Tiếng Anh tương đương IELTS General 4.0	English equivalent to IELTS General Training 4.0		trung:s050	acf.s083_li
+s084	li	Tổng tài sản tối thiểu 600.000 CAD	Net worth of at least C$600,000		trung:s051	acf.s084_li
+s085	li	Đạt yêu cầu lý lịch an ninh và sức khỏe	Meets background security and medical requirements	100%: Meets background security and medical requirements		acf.s085_li
+s086	p	Yêu cầu đầu tư	Investment requirements	100%: Investment requirements	trung:s052	acf.s086_p
+s087	li	Đầu tư tối thiểu 200.000 CAD	An investment of at least C$200,000	85%: An investment of at least US$325,000		acf.s087_li
+s088	li	Có kế hoạch kinh doanh khả thi tại British Columbia	A viable business plan for British Columbia			acf.s088_li
+s089	p	Quyền lợi nổi bật	Key benefits	100%: Key benefits	trung:s056	acf.s089_p
+s090	p	Vợ/chồng và con dưới 22 tuổi có thể đi cùng hồ sơ	Your spouse and children under 22 can be included in the application		trung:s057	acf.s090_p
+s091	p	Được sinh sống tại các thành phố thuộc tỉnh bang BC	You can live in cities across British Columbia			acf.s091_p
+s092	p	Sau 5 năm có PR, có thể nộp đơn xin quốc tịch Canada nếu đủ điều kiện	After 5 years of PR, you can apply for Canadian citizenship if you qualify		trung:s060	acf.s092_p
+s093	p	Lưu ý	Please note	100%: Please note	trung:s061	acf.s093_p
+s094	p	Cần cư trú thật tại BC	You must genuinely reside in BC			acf.s094_p
+s095	p	Cần trực tiếp vận hành doanh nghiệp	You must run the business yourself		trung:s063	acf.s095_p
+s096	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s065	acf.s096_cta
+s097	cta	XEM CHI TIẾT	View details	100%: View details	trung:s066	acf.s097_cta
+s098	p	New Brunswick	New Brunswick		trung:s027	acf.s098_p
+s099	p	03	03			acf.s099_p
+s100	p	{1}03{/1} Nhóm A · Lựa chọn 03	{1}03{/1} Group A · Option 03	100%: {1}03{/1} Group A · Option 03		acf.s100_p#1
+s101	p	New Brunswick	New Brunswick		trung:s027	acf.s101_p
+s102	p	Mức đầu tư	Investment	100%: Investment	trung:s037	acf.s102_p
+s103	p	Từ 150.000	From 150,000		trung:s038	acf.s103_p
+s104	p	CAD	CAD		trung:s039	acf.s104_p
+s105	p	Mục đích	Purpose	100%: Purpose	trung:s040	acf.s105_p
+s106	p	Quyền cư trú	Residence in		trung:s041	acf.s106_p
+s107	p	Canada	Canada		trung:s042	acf.s107_p
+s108	p	Xét duyệt	Processing	100%: Processing	trung:s043	acf.s108_p
+s109	p	12 – 15	12 – 15	85%: 13 – 15	trung:s044	acf.s109_p
+s110	p	tháng	months	100%: months	trung:s045	acf.s110_p
+s111	p	Yêu cầu đương đơn	Applicant requirements	97%: What are the requirements for the main applicant?	trung:s046	acf.s111_p
+s112	li	Từ 19–59 tuổi	Aged 19–59			acf.s112_li
+s113	li	Chủ doanh nghiệp hoặc quản lý cấp cao tối thiểu 2 năm trong 5 năm gần nhất	At least 2 years as a business owner or senior manager within the past 5 years			acf.s113_li
+s114	li	Tốt nghiệp THPT trở lên	High school graduation or higher			acf.s114_li
+s115	li	Tiếng Anh tương đương IELTS General 4.0	English equivalent to IELTS General Training 4.0		trung:s050	acf.s115_li
+s116	li	Tài sản tối thiểu 500.000 CAD, hoặc 300.000 CAD nếu đầu tư nông nghiệp	Net worth of at least C$500,000, or C$300,000 for an agricultural investment			acf.s116_li
+s117	li	Đạt tối thiểu 65 điểm theo thang điểm di trú	A score of at least 65 points on the immigration points grid			acf.s117_li
+s118	p	Yêu cầu đầu tư	Investment requirements	100%: Investment requirements	trung:s052	acf.s118_p
+s119	li	Đầu tư tối thiểu 150.000 CAD	An investment of at least C$150,000	85%: An investment of at least US$325,000		acf.s119_li
+s120	li	Có kế hoạch kinh doanh khả thi	A viable business plan	88%: There is a viable business plan for the U.S.		acf.s120_li
+s121	li	Vận hành doanh nghiệp tối thiểu 6 tháng để xin thư đề cử tỉnh bang	Operate the business for at least 6 months to apply for the provincial nomination			acf.s121_li
+s122	p	Quyền lợi nổi bật	Key benefits	100%: Key benefits	trung:s056	acf.s122_p
+s123	p	Vợ/chồng và con dưới 22 tuổi có thể đi cùng hồ sơ	Your spouse and children under 22 can be included in the application		trung:s057	acf.s123_p
+s124	p	Được tiếp cận phúc lợi y tế, giáo dục, an sinh theo quy định	Access to healthcare, education, and social benefits under the applicable rules			acf.s124_p
+s125	p	Có lộ trình tiến đến PR và quốc tịch Canada nếu đủ điều kiện	A route to PR and Canadian citizenship if you qualify			acf.s125_p
+s126	p	Lưu ý	Please note	100%: Please note	trung:s061	acf.s126_p
+s127	p	Cần cư trú thật tại New Brunswick	You must genuinely reside in New Brunswick			acf.s127_p
+s128	p	Cần trực tiếp vận hành doanh nghiệp	You must run the business yourself		trung:s063	acf.s128_p
+s129	p	Tiếng Anh IELTS 4.0 là điều kiện bắt buộc khi nộp hồ sơ	IELTS 4.0 English is required at the time of application			acf.s129_p
+s130	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s065	acf.s130_cta
+s131	cta	XEM CHI TIẾT	View details	100%: View details	trung:s066	acf.s131_cta
+s132	p	Manitoba	Manitoba		trung:s029	acf.s132_p
+s133	p	04	04			acf.s133_p
+s134	p	{1}04{/1} Nhóm A · Lựa chọn 04	{1}04{/1} Group A · Option 04	95%: {1}04{/1} Group B · Option 04		acf.s134_p#1
+s135	p	Manitoba	Manitoba		trung:s029	acf.s135_p
+s136	p	Mức đầu tư	Investment	100%: Investment	trung:s037	acf.s136_p
+s137	p	Từ 150.000	From 150,000		trung:s038	acf.s137_p
+s138	p	CAD	CAD		trung:s039	acf.s138_p
+s139	p	Mục đích	Purpose	100%: Purpose	trung:s040	acf.s139_p
+s140	p	Quyền cư trú	Residence in		trung:s041	acf.s140_p
+s141	p	Canada	Canada		trung:s042	acf.s141_p
+s142	p	Xét duyệt	Processing	100%: Processing	trung:s043	acf.s142_p
+s143	p	12 – 15	12 – 15	85%: 13 – 15	trung:s044	acf.s143_p
+s144	p	tháng	months	100%: months	trung:s045	acf.s144_p
+s145	p	Yêu cầu đương đơn	Applicant requirements	97%: What are the requirements for the main applicant?	trung:s046	acf.s145_p
+s146	li	Chủ doanh nghiệp hoặc quản lý cấp cao tối thiểu 3 năm trong 5 năm gần nhất	At least 3 years as a business owner or senior manager within the past 5 years			acf.s146_li
+s147	li	Tốt nghiệp THPT	High school graduation		trung:s049	acf.s147_li
+s148	li	Tiếng Anh tương đương IELTS General 5.0	English equivalent to IELTS General Training 5.0			acf.s148_li
+s149	p	Yêu cầu đầu tư	Investment requirements	100%: Investment requirements	trung:s052	acf.s149_p
+s150	li	Đầu tư 250.000 CAD nếu kinh doanh tại khu vực trung tâm Manitoba	C$250,000 if the business is in Manitoba's central region			acf.s150_li
+s151	li	Đầu tư 150.000 CAD nếu kinh doanh ngoài khu vực trung tâm	C$150,000 if the business is outside the central region			acf.s151_li
+s152	li	Có kế hoạch kinh doanh khả thi	A viable business plan	88%: There is a viable business plan for the U.S.	trung:s120	acf.s152_li
+s153	p	Quyền lợi nổi bật	Key benefits	100%: Key benefits	trung:s056	acf.s153_p
+s154	p	Vợ/chồng và con dưới 22 tuổi có thể đi cùng hồ sơ	Your spouse and children under 22 can be included in the application		trung:s057	acf.s154_p
+s155	p	Có lộ trình tiến đến thường trú nhân Canada	A route to Canadian permanent residence			acf.s155_p
+s156	p	Sau 5 năm có PR, có thể nộp đơn xin quốc tịch Canada nếu đủ điều kiện	After 5 years of PR, you can apply for Canadian citizenship if you qualify		trung:s060	acf.s156_p
+s157	p	Lưu ý	Please note	100%: Please note	trung:s061	acf.s157_p
+s158	p	Cần cư trú thật tại Manitoba	You must genuinely reside in Manitoba			acf.s158_p
+s159	p	Cần trực tiếp vận hành doanh nghiệp	You must run the business yourself		trung:s063	acf.s159_p
+s160	p	Tiếng Anh IELTS 5.0 là điều kiện bắt buộc khi nộp hồ sơ	IELTS 5.0 English is required at the time of application			acf.s160_p
+s161	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s065	acf.s161_cta
+s162	cta	XEM CHI TIẾT	View details	100%: View details	trung:s066	acf.s162_cta
+s163	p	Nova Scotia	Nova Scotia		trung:s031	acf.s163_p
+s164	p	05	05			acf.s164_p
+s165	p	{1}05{/1} Nhóm A · Lựa chọn 05	{1}05{/1} Group A · Option 05	91%: {1}01{/1} Group A · Option 01		acf.s165_p#1
+s166	p	Nova Scotia	Nova Scotia		trung:s031	acf.s166_p
+s167	p	Mức đầu tư thấp nhất	Lowest investment			acf.s167_p
+s168	p	Mức đầu tư	Investment	100%: Investment	trung:s037	acf.s168_p
+s169	p	Từ 100.000	From 100,000			acf.s169_p
+s170	p	CAD	CAD		trung:s039	acf.s170_p
+s171	p	Mục đích	Purpose	100%: Purpose	trung:s040	acf.s171_p
+s172	p	Quyền cư trú	Residence in		trung:s041	acf.s172_p
+s173	p	Canada	Canada		trung:s042	acf.s173_p
+s174	p	Xét duyệt	Processing	100%: Processing	trung:s043	acf.s174_p
+s175	p	12 – 15	12 – 15	85%: 13 – 15	trung:s044	acf.s175_p
+s176	p	tháng	months	100%: months	trung:s045	acf.s176_p
+s177	p	Yêu cầu đương đơn	Applicant requirements	97%: What are the requirements for the main applicant?	trung:s046	acf.s177_p
+s178	li	Từ 21 tuổi trở lên	Aged 21 or older	94%: Aged 18 or older		acf.s178_li
+s179	li	Chủ doanh nghiệp tối thiểu 3 năm hoặc quản lý cấp cao tối thiểu 5 năm trong 10 năm gần nhất	At least 3 years as a business owner, or at least 5 years as a senior manager, within the past 10 years			acf.s179_li
+s180	li	Tốt nghiệp THPT trở lên	High school graduation or higher		trung:s114	acf.s180_li
+s181	li	Tiếng Anh tương đương IELTS General 5.0	English equivalent to IELTS General Training 5.0		trung:s148	acf.s181_li
+s182	p	Yêu cầu đầu tư	Investment requirements	100%: Investment requirements	trung:s052	acf.s182_p
+s183	li	Trong Halifax: tài sản 600.000 CAD, đầu tư 150.000 CAD	In Halifax: net worth of C$600,000 and an investment of C$150,000			acf.s183_li
+s184	li	Ngoài Halifax: tài sản 400.000 CAD, đầu tư 100.000 CAD	Outside Halifax: net worth of C$400,000 and an investment of C$100,000			acf.s184_li
+s185	li	Vận hành doanh nghiệp tối thiểu 12 tháng để đủ điều kiện xin PR	Operate the business for at least 12 months to qualify for PR			acf.s185_li
+s186	p	Quyền lợi nổi bật	Key benefits	100%: Key benefits	trung:s056	acf.s186_p
+s187	p	Vợ/chồng và con dưới 22 tuổi có thể đi cùng hồ sơ	Your spouse and children under 22 can be included in the application		trung:s057	acf.s187_p
+s188	p	Được tiếp cận y tế công và giáo dục theo quy định	Access to public healthcare and education under the applicable rules			acf.s188_p
+s189	p	Có lộ trình tiến đến thường trú nhân Canada	A route to Canadian permanent residence		trung:s155	acf.s189_p
+s190	p	Lưu ý	Please note	100%: Please note	trung:s061	acf.s190_p
+s191	p	Cần cư trú thật tại Nova Scotia	You must genuinely reside in Nova Scotia			acf.s191_p
+s192	p	Cần trực tiếp vận hành doanh nghiệp	You must run the business yourself		trung:s063	acf.s192_p
+s193	p	Tiếng Anh IELTS 5.0 là điều kiện bắt buộc khi nộp hồ sơ	IELTS 5.0 English is required at the time of application		trung:s160	acf.s193_p
+s194	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s065	acf.s194_cta
+s195	cta	XEM CHI TIẾT	View details	100%: View details	trung:s066	acf.s195_cta
+s196	p	Nhóm B	Group B	100%: Group B		acf.s196_p
+s197	p	B	B			acf.s197_p
+s198	p	{1}B{/1} Khởi nghiệp	{1}B{/1} Start-up			acf.s198_p#1
+s199	h2	Định cư Canada diện khởi nghiệp{br}{1}(Start-Up Visa){/1}	Canadian immigration for founders{br}{1}(Start-Up Visa){/1}			acf.s199_h2#1
+s200	p	Chương trình cấp thẳng thường trú nhân (PR) cho doanh nhân có ý tưởng khởi nghiệp được tổ chức chỉ định bảo trợ.	A program that grants permanent residence (PR) directly to entrepreneurs whose start-up idea is backed by a designated organization.			acf.s200_p
+s201	p	*Lưu ý: chương trình đã ngưng nhận hồ sơ mới từ 01/01/2026.	*Please note: the program stopped accepting new applications on January 1, 2026.		#bo-qua-so: ngày 01/01/2026 viết theo kiểu Mỹ January 1, 2026	acf.s201_p
+s202	p	Start-Up Visa	Start-Up Visa			acf.s202_p
+s203	p	06	06			acf.s203_p
+s204	p	{1}06{/1} Nhóm B · Lựa chọn 06	{1}06{/1} Group B · Option 06	91%: {1}03{/1} Group B · Option 03		acf.s204_p#1
+s205	p	Start-Up Visa	Start-Up Visa		trung:s202	acf.s205_p
+s206	p	Đã đóng cửa	Closed			acf.s206_p#1
+s207	p	Mục đích	Purpose	100%: Purpose	trung:s040	acf.s207_p
+s208	p	PR Canada	Canadian PR			acf.s208_p
+s209	p	qua khởi nghiệp	through a start-up			acf.s209_p
+s210	p	Yêu cầu	Requirement			acf.s210_p
+s211	p	Mở DN mới	New business			acf.s211_p
+s212	p	tại Canada	in Canada			acf.s212_p
+s213	p	Xét duyệt	Processing	100%: Processing	trung:s043	acf.s213_p
+s214	p	30 – 34	30 – 34			acf.s214_p
+s215	p	tháng	months	100%: months	trung:s045	acf.s215_p
+s216	p	Trạng thái chương trình	Program status	100%: Program status		acf.s216_p
+s217	p	Ngừng nhận WP mới từ 19/12/2025, ngừng nhận PR mới từ 01/01/2026	New work permit applications closed on December 19, 2025; new PR applications closed on January 1, 2026		#bo-qua-so: hai mốc ngày 19/12/2025 và 01/01/2026 viết theo kiểu Mỹ	acf.s217_p
+s218	p	Yêu cầu đương đơn	Applicant requirements	97%: What are the requirements for the main applicant?	trung:s046	acf.s218_p
+s219	li	Tiếng Anh tương đương IELTS General 5.0	English equivalent to IELTS General Training 5.0		trung:s148	acf.s219_li
+s220	li	Có ý tưởng kinh doanh sáng tạo hoặc kinh nghiệm liên quan	An innovative business idea or relevant experience			acf.s220_li
+s221	li	Chứng minh tài chính theo quy định	Proof of funds as required			acf.s221_li
+s222	p	Yêu cầu công ty khởi nghiệp	Start-up company requirements			acf.s222_p
+s223	li	Được tổ chức chỉ định bởi Chính phủ Canada bảo trợ	Backed by an organization designated by the Government of Canada			acf.s223_li
+s224	li	Đương đơn và tổ chức bảo trợ sở hữu tối thiểu 50% quyền biểu quyết	You and the designated organization together hold at least 50% of the voting rights			acf.s224_li
+s225	li	Đương đơn tham gia liên tục vào quá trình phát triển ý tưởng	You take an active, ongoing part in developing the business idea			acf.s225_li
+s226	li	Hoạt động kinh doanh chủ yếu tại Canada	The business operates mainly in Canada			acf.s226_li
+s227	p	Quyền lợi trước đây	Former benefits			acf.s227_p
+s228	p	Cả gia đình có thể lấy PR ngay nếu hồ sơ được chấp thuận	The whole family could receive PR directly once the application was approved			acf.s228_p
+s229	p	Con học miễn phí đến hết THPT	Free schooling for your children through the end of high school		trung:s058	acf.s229_p
+s230	p	Có thể nộp đơn xin quốc tịch Canada khi đủ điều kiện	You could apply for Canadian citizenship once you qualified			acf.s230_p
+s231	p	Lưu ý	Please note	100%: Please note	trung:s061	acf.s231_p
+s232	p	Chương trình đã đóng cửa	The program is closed			acf.s232_p
+s233	cta	Tư vấn chương trình thay thế	Discuss alternative programs			acf.s233_cta
+s234	p	So Sánh	Compare	100%: Compare		acf.s234_p
+s235	p	Tổng kết	Summary	100%: Summary		acf.s235_p
+s236	h2	Bảng so sánh nhanh{br}các chương trình đầu tư định cư Canada	A quick comparison{br}of Canada investment immigration programs	92%: A quick comparison{br} of U.S. investment immigration programs		acf.s236_h2#1
+s237	p	Chương trình	Program	100%: Program	trung:s014	acf.s237_p
+s238	p	Mức đầu tư tối thiểu	Minimum investment	100%: The minimum investment		acf.s238_p
+s239	p	Tổng tài sản tối thiểu	Minimum net worth			acf.s239_p
+s240	p	Kinh nghiệm điều hành	Management experience			acf.s240_p
+s241	p	Tiếng Anh	English			acf.s241_p
+s242	p	Trạng thái	Status			acf.s242_p
+s243	p	{1}★{/1} PEI	{1}★{/1} PEI			acf.s243_p#1
+s244	p	từ 150.000 CAD	From C$150,000		trung:s024	acf.s244_p
+s245	p	600.000 CAD	C$600,000			acf.s245_p
+s246	p	từ 3 năm{1}chủ sở hữu, trong 5 năm gần nhất{/1}	3+ years{1}as owner, within the past 5 years{/1}			acf.s246_p#1
+s247	p	IELTS 4.0	IELTS 4.0			acf.s247_p
+s248	p	Đang mở	Open			acf.s248_p#1
+s249	p	{1}★{/1} British Columbia (BC)	{1}★{/1} British Columbia (BC)			acf.s249_p#1
+s250	p	từ 200.000 CAD	From C$200,000	85%: From US$200,000	trung:s026	acf.s250_p
+s251	p	600.000 CAD	C$600,000		trung:s245	acf.s251_p
+s252	p	từ 3 năm{1}chủ sở hữu, trong 10 năm gần nhất{/1}	3+ years{1}as owner, within the past 10 years{/1}			acf.s252_p#1
+s253	p	IELTS 4.0	IELTS 4.0		trung:s247	acf.s253_p
+s254	p	Đang mở	Open		trung:s248	acf.s254_p#1
+s255	p	{1}★{/1} Nova Scotia	{1}★{/1} Nova Scotia			acf.s255_p#1
+s256	p	từ 150.000 CAD{1}tại Halifax{/1}	From C$150,000{1}in Halifax{/1}			acf.s256_p#1
+s257	p	600.000 CAD	C$600,000		trung:s245	acf.s257_p
+s258	p	từ 3 năm{1}chủ sở hữu, trong 10 năm gần nhất{/1}	3+ years{1}as owner, within the past 10 years{/1}		trung:s252	acf.s258_p#1
+s259	p	IELTS 5.0	IELTS 5.0			acf.s259_p
+s260	p	Đang mở	Open		trung:s248	acf.s260_p#1
+s261	p	{1}★{/1} New Brunswick	{1}★{/1} New Brunswick			acf.s261_p#1
+s262	p	từ 150.000 CAD	From C$150,000		trung:s024	acf.s262_p
+s263	p	500.000 CAD	C$500,000			acf.s263_p
+s264	p	từ 2 năm{1}chủ sở hữu, trong 5 năm gần nhất{/1}	2+ years{1}as owner, within the past 5 years{/1}			acf.s264_p#1
+s265	p	IELTS 4.0	IELTS 4.0		trung:s247	acf.s265_p
+s266	p	Đang mở	Open		trung:s248	acf.s266_p#1
+s267	p	{1}★{/1} Manitoba	{1}★{/1} Manitoba			acf.s267_p#1
+s268	p	từ 150.000 CAD	From C$150,000		trung:s024	acf.s268_p
+s269	p	500.000 CAD	C$500,000		trung:s263	acf.s269_p
+s270	p	từ 3 năm{1}chủ sở hữu, trong 5 năm gần nhất{/1}	3+ years{1}as owner, within the past 5 years{/1}		trung:s246	acf.s270_p#1
+s271	p	IELTS 5.0	IELTS 5.0		trung:s259	acf.s271_p
+s272	p	Đang mở	Open		trung:s248	acf.s272_p#1
+s273	p	Saskatchewan	Saskatchewan			acf.s273_p
+s274	p	từ 200.000 CAD	From C$200,000	85%: From US$200,000	trung:s026	acf.s274_p
+s275	p	500.000 CAD	C$500,000		trung:s263	acf.s275_p
+s276	p	từ 3 năm{1}chủ sở hữu, trong 10 năm gần nhất{/1}	3+ years{1}as owner, within the past 10 years{/1}		trung:s252	acf.s276_p#1
+s277	p	Đã đóng cửa	Closed		trung:s206	acf.s277_p#1
+s278	p	Ontario	Ontario			acf.s278_p
+s279	p	từ 200.000 CAD	From C$200,000	85%: From US$200,000	trung:s026	acf.s279_p
+s280	p	400.000 CAD	C$400,000			acf.s280_p
+s281	p	từ 2 năm{1}chủ sở hữu, trong 5 năm gần nhất{/1}	2+ years{1}as owner, within the past 5 years{/1}		trung:s264	acf.s281_p#1
+s282	p	IELTS 4.0{1}khi xin PR{/1}	IELTS 4.0{1}at the PR stage{/1}			acf.s282_p#1
+s283	p	Đã đóng cửa	Closed		trung:s206	acf.s283_p#1
+s284	p	Start-Up Visa	Start-Up Visa		trung:s202	acf.s284_p
+s285	p	Theo dự án	Project-based			acf.s285_p
+s286	p	Không yêu cầu	Not required			acf.s286_p#1
+s287	p	Không yêu cầu	Not required		trung:s286	acf.s287_p#1
+s288	p	IELTS 5.0	IELTS 5.0		trung:s259	acf.s288_p
+s289	p	Đã đóng cửa	Closed		trung:s206	acf.s289_p#1
+s290	p	← Vuốt ngang để xem đầy đủ các cột →	← Swipe to see every column →	100%: ← Swipe to see every column →		acf.s290_p#1
+s291	p	Lưu ý phạm vi dịch vụ	A note on our scope of service			acf.s291_p
+s292	p	IMM Group chỉ tư vấn các chương trình doanh nhân – đầu tư (Doanh nhân tỉnh bang & Start-Up Visa). Không tư vấn diện xuất khẩu lao động hoặc lao động phổ thông.	IMM Group advises only on entrepreneur and investor programs (provincial entrepreneur streams and the Start-Up Visa). We do not advise on overseas employment or general labor migration routes.			acf.s292_p#1
+s293	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s065	acf.s293_cta
+s294	p	Tham Khảo	More	100%: More		acf.s294_p
+s295	h2	Các lựa chọn định cư Canada khác	Other Canadian immigration options			acf.s295_h2
+s296	p	Thông tin tham khảo — các chương trình đã đóng cửa, không trình bày như chương trình đang mở hồ sơ mới.	For reference only — these programs are closed to new applications.			acf.s296_p
+s297	p	Saskatchewan{1/}{2}Đã đóng cửa{/2}	Saskatchewan{1/}{2}Closed{/2}			acf.s297_p#1
+s298	li	Mức đầu tư: từ 200.000 CAD	Investment: from C$200,000			acf.s298_li
+s299	li	Mục đích: quyền cư trú Canada	Purpose: residence in Canada			acf.s299_li
+s300	li	Xét duyệt: 12–15 tháng	Processing: 12–15 months			acf.s300_li
+s301	p	Ontario{1/}{2}Đã đóng cửa{/2}	Ontario{1/}{2}Closed{/2}			acf.s301_p#1
+s302	li	Mức đầu tư: từ 200.000 CAD	Investment: from C$200,000		trung:s298	acf.s302_li
+s303	li	Mục đích: quyền cư trú Canada	Purpose: residence in Canada		trung:s299	acf.s303_li
+s304	li	Xét duyệt: 18–20 tháng	Processing: 18–20 months			acf.s304_li
+s305	p	Vì Sao IMM	Why IMM	100%: Why IMM		acf.s305_p
+s306	p	IMM	IMM	100%: IMM		acf.s306_p
+s307	p	Vì sao IMM Group	Why IMM Group			acf.s307_p
+s308	h2	Vì sao chọn IMM Group?	Why choose IMM Group?	100%: Why choose IMM Group?		acf.s308_h2
+s309	p	Từ năm 2005, IMM Group là đơn vị tiên phong tư vấn đầu tư định cư Mỹ, Úc, Canada, châu Âu cho doanh nhân Việt Nam. **Phục Vụ Bằng Giá Trị Chân Chính.**	Since 2005, IMM Group has been a pioneer in advising entrepreneurs on investment immigration to the United States, Australia, Canada, and Europe. **Service built on genuine values.**			acf.s309_p#1
+s310	p	1	1			acf.s310_p#1
+s311	h3	21+ năm kinh nghiệm	21+ years of experience	100%: 21+ years of experience		acf.s311_h3
+s312	li	Hai thập kỷ tư vấn đầu tư định cư quốc tế	Two decades advising on investment migration	100%: Two decades advising on investment migration		acf.s312_li
+s313	li	625+ hồ sơ đầu tư định cư xử lý thành công	625+ investment migration cases handled successfully	100%: 625+ investment migration cases handled successfully		acf.s313_li
+s314	li	2.500+ visa được cấp cho các gia đình Việt Nam	2,500+ visas granted to client families	100%: 2,500+ visas granted to client families		acf.s314_li
+s315	p	2	2			acf.s315_p#1
+s316	h3	Đội ngũ luật sư & cố vấn Canada	Canadian lawyers and advisors			acf.s316_h3#1
+s317	li	Hợp tác với luật sư và chuyên viên di trú Canada được cấp phép RCIC	We work with Canadian immigration lawyers and RCIC-licensed consultants			acf.s317_li
+s318	li	Đảm bảo hồ sơ tuân thủ quy định liên bang và từng tỉnh bang	Ensuring your file meets both federal and provincial requirements			acf.s318_li
+s319	li	Chuyên viên tư vấn, xử lý hồ sơ đạt chứng chỉ IMC về đầu tư định cư quốc tế	Our advisors and case handlers hold Investment Migration Council (IMC) certification			acf.s319_li
+s320	p	3	3			acf.s320_p#1
+s321	h3	Chuyên sâu chương trình Canada	Deep expertise in Canadian programs	87%: Deep expertise in citizenship by investment		acf.s321_h3
+s322	li	Am hiểu hệ thống đề cử tỉnh bang PNP diện doanh nhân	A thorough knowledge of the Provincial Nominee Program (PNP) entrepreneur streams			acf.s322_li
+s323	li	Tư vấn chuyên sâu chương trình Start-Up Visa	In-depth advice on the Start-Up Visa program			acf.s323_li
+s324	li	Hỗ trợ kế hoạch kinh doanh, chứng minh tài chính, thư đề cử tỉnh bang và chuẩn bị phỏng vấn	Support with your business plan, proof of funds, provincial nomination letter, and interview preparation			acf.s324_li
+s325	p	4	4			acf.s325_p#1
+s326	h3	Tư vấn khách quan theo từng gia đình	Impartial advice, family by family			acf.s326_h3
+s327	li	May đo giải pháp theo mục tiêu, tài chính, kinh nghiệm và nguyện vọng của từng gia đình	Solutions tailored to each family's goals, finances, experience and wishes	98%: Solutions tailored to each family's goals, finances, experience and wishes		acf.s327_li
+s328	li	Chủ động sàng lọc hồ sơ phù hợp trước khi triển khai	We screen each case for fit before we take it on			acf.s328_li
+s329	p	5	5			acf.s329_p#1
+s330	h3	Cam kết đồng hành lâu dài	A long-term commitment	100%: A long-term commitment		acf.s330_h3
+s331	li	Đặt quyền lợi khách hàng lên trước lợi ích công ty	We put your interests ahead of the firm's	100%: We put your interests ahead of the firm's		acf.s331_li
+s332	li	Bảo mật thông tin khách hàng theo tiêu chuẩn cao, ký NDA khi cần	We hold client information to a high standard of confidentiality and sign an NDA where needed	100%: We hold client information to a high standard of confidentiality and sign an NDA where needed		acf.s332_li
+s333	li	Sẵn sàng hoàn phí khi xảy ra rủi ro khách quan theo hợp đồng	We are prepared to refund fees where risks outside your control arise, as set out in the contract	100%: We are prepared to refund fees where risks outside your control arise, as set out in the contract		acf.s333_li
+s334	p	6	6			acf.s334_p#1
+s335	h3	Quỹ Be Better — Nhận và cho đi	The Be Better Foundation — receiving and giving back			acf.s335_h3
+s336	li	Từ 2025, IMM Group chính thức trở thành doanh nghiệp phi lợi nhuận	Since 2025, IMM Group has formally become a not-for-profit business	100%: Since 2025, IMM Group has formally become a not-for-profit business		acf.s336_li
+s337	li	IMM Group cam kết đóng góp trên 50% lợi nhuận hằng năm vào Quỹ Be Better	IMM Group commits more than 50% of annual profit to the Be Better Foundation	91%: IMM Group commits at least 51% of annual profit to the Be Better Foundation		acf.s337_li
+s338	li	Quỹ hỗ trợ học sinh, sinh viên khó khăn tiếp tục học tập và thay đổi tương lai	The foundation helps students facing hardship stay in school and change their future	100%: The foundation helps students facing hardship stay in school and change their future		acf.s338_li
+s339	p	21+	21+	100%: 21+		acf.s339_p
+s340	p	năm kinh nghiệm	Years of experience	100%: Years of experience		acf.s340_p
+s341	p	625+	625+	100%: 625+		acf.s341_p
+s342	p	hồ sơ thành công	Successful cases	100%: Successful cases		acf.s342_p
+s343	p	2.500+	2,500+	100%: 2,500+		acf.s343_p
+s344	p	visa được cấp	Visas granted	100%: Visas granted		acf.s344_p
+s345	p	RCIC	RCIC			acf.s345_p
+s346	p	Luật sư di trú Canada cấp phép	Regulated Canadian consultants			acf.s346_p
+s347	p	IMC	IMC			acf.s347_p
+s348	p	Chứng chỉ đầu tư định cư quốc tế	International investment migration certification			acf.s348_p
+s349	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s065	acf.s349_cta
+s350	p	"""Phục vụ bằng những giá trị chân chính"""	"""Service built on genuine values"""	"100%: ""Service built on genuine values"""		acf.s350_p
+s351	p	— Tôn chỉ IMM Group —	— The IMM Group credo —	100%: — The IMM Group promise —		acf.s351_p
+s352	p	Liên Kết	Links			acf.s352_p
+s353	p	Có thể bạn quan tâm	You may also be interested in	100%: You may also be interested in		acf.s353_p
+s354	h3	Tìm hiểu các dịch vụ tư vấn từ IMM Group	Explore IMM Group's advisory services	100%: Explore IMM Group's advisory services		acf.s354_h3
+s355	cta	So sánh các chương trình đầu tư định cư Canada	Compare Canada investment immigration programs	90%: Compare U.S. investment immigration programs		acf.s355_cta
+s356	cta	Đảo Hoàng Tử Edward (PEI)	Prince Edward Island (PEI)			acf.s356_cta
+s357	cta	Bang Ontario	Ontario			acf.s357_cta
+s358	cta	Bang British Columbia	British Columbia			acf.s358_cta
+s359	cta	Bang New Brunswick	New Brunswick			acf.s359_cta
+s360	cta	Bang Saskatchewan	Saskatchewan			acf.s360_cta
+s361	cta	Bang Manitoba	Manitoba			acf.s361_cta
+s362	cta	Bang Nova Scotia	Nova Scotia			acf.s362_cta
+s363	p	Hiểu về Canada	Understanding Canada			acf.s363_p
+s364	h3	Chuyên trang IMM Group — thông tin hữu ích theo chủ đề	IMM Group topic hubs — useful information by subject	100%: IMM Group topic hubs — useful information by subject		acf.s364_h3
+s365	cta	Cuộc sống tại Canada	Life in Canada	87%: Living in Grenada		acf.s365_cta
+s366	cta	Giáo dục tại Canada	Education in Canada	87%: Education in Grenada		acf.s366_cta
+s367	cta	Văn hóa Canada	Canadian culture			acf.s367_cta
+s368	cta	Lao động / Kinh doanh tại Canada	Working and doing business in Canada	88%: Working and doing business in Malta		acf.s368_cta
+s369	cta	Trợ cấp, phúc lợi, an sinh xã hội Canada	Benefits, welfare, and social security in Canada	89%: Welfare, benefits and Social Security in the U.S.		acf.s369_cta
+s370	cta	Du lịch Canada	Travel in Canada			acf.s370_cta
+s371	cta	Y tế tại Canada	Healthcare in Canada			acf.s371_cta
+s372	cta	Bất động sản Canada	Real estate in Canada			acf.s372_cta
+s373	cta	Những câu chuyện định cư Canada truyền cảm hứng	Inspiring Canadian immigration stories	92%: Inspiring Irish immigration journeys		acf.s373_cta

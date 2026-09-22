@@ -1,0 +1,2416 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/web-imm-translation/viec/nhap/goc-overview/caribbean.json",
+ "truong_json": "html_template",
+ "doan": [
+  {
+   "tu": 138,
+   "den": 144,
+   "raw": "Mở Đầu",
+   "loai": "p",
+   "lop": "section-indicator",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 271,
+   "den": 277,
+   "raw": "Mở Đầu",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Mở Đầu",
+   "id": "s002"
+  },
+  {
+   "tu": 613,
+   "den": 634,
+   "raw": "IMM GROUP · EST. 2005",
+   "loai": "p",
+   "lop": "badge badge-ghost-gold",
+   "the": "div",
+   "ngu_canh": "Mở Đầu",
+   "id": "s003"
+  },
+  {
+   "tu": 799,
+   "den": 818,
+   "raw": "Quốc Tịch Caribbean",
+   "loai": "h1",
+   "lop": "reveal reveal-1 serif text-gold-grad",
+   "the": "h1",
+   "ngu_canh": "Mở Đầu",
+   "id": "s004"
+  },
+  {
+   "tu": 1068,
+   "den": 1139,
+   "raw": "Quốc tịch thứ 2 - Đầu tư từ 200.000 USD - Tự do đi lại đến 157 quốc gia",
+   "loai": "p",
+   "lop": "reveal reveal-2",
+   "the": "p",
+   "ngu_canh": "Mở Đầu",
+   "id": "s005"
+  },
+  {
+   "tu": 1190,
+   "den": 1200,
+   "raw": "CUỘN XUỐNG",
+   "loai": "p",
+   "lop": "scroll-hint",
+   "the": "div",
+   "ngu_canh": "Mở Đầu",
+   "id": "s006"
+  },
+  {
+   "tu": 3048,
+   "den": 3060,
+   "raw": "Chương Trình",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Chương Trình",
+   "id": "s007"
+  },
+  {
+   "tu": 3170,
+   "den": 3179,
+   "raw": "Tổng quan",
+   "loai": "p",
+   "lop": "reveal eyebrow",
+   "the": "div",
+   "ngu_canh": "Chương Trình",
+   "id": "s008"
+  },
+  {
+   "tu": 3338,
+   "den": 3377,
+   "raw": "Các chương trình<br>quốc tịch Caribbean",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Chương Trình",
+   "id": "s009"
+  },
+  {
+   "tu": 3505,
+   "den": 3701,
+   "raw": "4 chương trình cho nhà đầu tư &amp; gia đình. Có thể chia thành 2 nhóm: đầu tư lấy quốc tịch trực tiếp (Dominica, St. Kitts &amp; Nevis, Grenada) và diện thường trú (Curacao - cửa ngõ vào Hà Lan).",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Chương Trình",
+   "id": "s010"
+  },
+  {
+   "tu": 3874,
+   "den": 3880,
+   "raw": "Nhóm A",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Nhóm A",
+   "id": "s011"
+  },
+  {
+   "tu": 3915,
+   "den": 3916,
+   "raw": "A",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s012"
+  },
+  {
+   "tu": 4038,
+   "den": 4085,
+   "raw": "<span class=\"num\">A</span> Đầu tư lấy quốc tịch",
+   "loai": "p",
+   "lop": "reveal eyebrow on-dark",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s013"
+  },
+  {
+   "tu": 4237,
+   "den": 4358,
+   "raw": "Đầu tư lấy quốc tịch Caribbean<br><span style=\"color:var(--gold-soft);\">(Dominica, St. Kitts &amp; Nevis, Grenada)</span>",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Nhóm A",
+   "id": "s014"
+  },
+  {
+   "tu": 4503,
+   "den": 4647,
+   "raw": "Đầu tư (quyên góp Quỹ Chính phủ hoặc bất động sản được phê duyệt) để nhận thẳng quốc tịch &amp; hộ chiếu cho cả gia đình - không yêu cầu cư trú.",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Nhóm A",
+   "id": "s015"
+  },
+  {
+   "tu": 4843,
+   "den": 4851,
+   "raw": "Dominica",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s016"
+  },
+  {
+   "tu": 4874,
+   "den": 4888,
+   "raw": "TỪ 200.000 USD",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s017"
+  },
+  {
+   "tu": 5177,
+   "den": 5198,
+   "raw": "St. Kitts &amp; Nevis",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s018"
+  },
+  {
+   "tu": 5221,
+   "den": 5235,
+   "raw": "TỪ 250.000 USD",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s019"
+  },
+  {
+   "tu": 5550,
+   "den": 5557,
+   "raw": "Grenada",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s020"
+  },
+  {
+   "tu": 5580,
+   "den": 5594,
+   "raw": "TỪ 235.000 USD",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s021"
+  },
+  {
+   "tu": 5971,
+   "den": 5979,
+   "raw": "Dominica",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Dominica",
+   "id": "s022"
+  },
+  {
+   "tu": 6040,
+   "den": 6042,
+   "raw": "01",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s023"
+  },
+  {
+   "tu": 6144,
+   "den": 6192,
+   "raw": "<span class=\"num\">01</span> Nhóm A · Lựa chọn 01",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s024"
+  },
+  {
+   "tu": 6274,
+   "den": 6292,
+   "raw": "Quốc tịch Dominica",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s025"
+  },
+  {
+   "tu": 6419,
+   "den": 6429,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s026"
+  },
+  {
+   "tu": 6463,
+   "den": 6477,
+   "raw": "Từ 200.000 USD",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s027"
+  },
+  {
+   "tu": 6510,
+   "den": 6519,
+   "raw": "(~5,3 tỷ)",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s028"
+  },
+  {
+   "tu": 6594,
+   "den": 6602,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s029"
+  },
+  {
+   "tu": 6636,
+   "den": 6657,
+   "raw": "Quốc tịch + miễn visa",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s030"
+  },
+  {
+   "tu": 6690,
+   "den": 6702,
+   "raw": "144 quốc gia",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s031"
+  },
+  {
+   "tu": 6777,
+   "den": 6786,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s032"
+  },
+  {
+   "tu": 6820,
+   "den": 6826,
+   "raw": "8 – 10",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s033"
+  },
+  {
+   "tu": 6859,
+   "den": 6864,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s034"
+  },
+  {
+   "tu": 7107,
+   "den": 7132,
+   "raw": "Hình thức đầu tư (chọn 1)",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s035"
+  },
+  {
+   "tu": 7182,
+   "den": 7253,
+   "raw": "Quyên góp 250.000 USD (gia đình 4 người) HOẶC 200.000 USD (đi một mình)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Dominica",
+   "id": "s036"
+  },
+  {
+   "tu": 7272,
+   "den": 7397,
+   "raw": "Đầu tư BĐS tối thiểu 200.000 USD, duy trì 3 năm (dự án tiêu biểu: Secret Bay - resort 6 sao top 1 Caribbean, top 10 thế giới)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Dominica",
+   "id": "s037"
+  },
+  {
+   "tu": 7675,
+   "den": 7703,
+   "raw": "Thành viên đi kèm (3 thế hệ)",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s038"
+  },
+  {
+   "tu": 7753,
+   "den": 7761,
+   "raw": "Vợ/chồng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Dominica",
+   "id": "s039"
+  },
+  {
+   "tu": 7780,
+   "den": 7837,
+   "raw": "Con KHÔNG giới hạn tuổi (&gt;28 phải độc thân, phụ thuộc)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Dominica",
+   "id": "s040"
+  },
+  {
+   "tu": 7856,
+   "den": 7900,
+   "raw": "Cha mẹ &gt;65 tuổi; ông bà của cả 2 vợ chồng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Dominica",
+   "id": "s041"
+  },
+  {
+   "tu": 7997,
+   "den": 8028,
+   "raw": "Quyền lợi &amp; ưu điểm nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s042"
+  },
+  {
+   "tu": 8249,
+   "den": 8295,
+   "raw": "Miễn visa 143 quốc gia (gồm Schengen, châu Âu)",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s043"
+  },
+  {
+   "tu": 8488,
+   "den": 8535,
+   "raw": "Không đánh thuế thu nhập toàn cầu, BĐS, thừa kế",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s044"
+  },
+  {
+   "tu": 8728,
+   "den": 8769,
+   "raw": "Không yêu cầu cư trú, bằng cấp, ngoại ngữ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s045"
+  },
+  {
+   "tu": 8962,
+   "den": 9027,
+   "raw": "Quốc tịch thứ 2 tốt nhất 4 năm liền (2017-2020) - Financial Times",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s046"
+  },
+  {
+   "tu": 9220,
+   "den": 9306,
+   "raw": "<strong>HOÀN VỐN NHANH NHẤT:</strong> sau 3 năm (so với 5-7 năm của chương trình khác)",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s047"
+  },
+  {
+   "tu": 9499,
+   "den": 9520,
+   "raw": "Cho phép đa quốc tịch",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s048"
+  },
+  {
+   "tu": 9837,
+   "den": 9854,
+   "raw": "Hạn chế cần lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s049"
+  },
+  {
+   "tu": 10023,
+   "den": 10054,
+   "raw": "KHÔNG xin được visa E-2 sang Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Dominica",
+   "id": "s050"
+  },
+  {
+   "tu": 10210,
+   "den": 10224,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "Dominica",
+   "id": "s051"
+  },
+  {
+   "tu": 10478,
+   "den": 10490,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "Dominica",
+   "id": "s052"
+  },
+  {
+   "tu": 10704,
+   "den": 10721,
+   "raw": "St. Kitts & Nevis",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s053"
+  },
+  {
+   "tu": 10782,
+   "den": 10784,
+   "raw": "02",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s054"
+  },
+  {
+   "tu": 10886,
+   "den": 10934,
+   "raw": "<span class=\"num\">02</span> Nhóm A · Lựa chọn 02",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s055"
+  },
+  {
+   "tu": 11016,
+   "den": 11047,
+   "raw": "Quốc tịch St. Kitts &amp; Nevis",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s056"
+  },
+  {
+   "tu": 11174,
+   "den": 11184,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s057"
+  },
+  {
+   "tu": 11218,
+   "den": 11232,
+   "raw": "Từ 250.000 USD",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s058"
+  },
+  {
+   "tu": 11265,
+   "den": 11293,
+   "raw": "(~6,6 tỷ) · gia đình 4 người",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s059"
+  },
+  {
+   "tu": 11368,
+   "den": 11376,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s060"
+  },
+  {
+   "tu": 11410,
+   "den": 11431,
+   "raw": "Quốc tịch + miễn visa",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s061"
+  },
+  {
+   "tu": 11464,
+   "den": 11496,
+   "raw": "155 quốc gia &amp; vùng lãnh thổ",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s062"
+  },
+  {
+   "tu": 11571,
+   "den": 11580,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s063"
+  },
+  {
+   "tu": 11614,
+   "den": 11621,
+   "raw": "10 – 12",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s064"
+  },
+  {
+   "tu": 11654,
+   "den": 11659,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s065"
+  },
+  {
+   "tu": 11906,
+   "den": 11948,
+   "raw": "Miễn visa 155 quốc gia &amp; vùng lãnh thổ",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s066"
+  },
+  {
+   "tu": 11965,
+   "den": 12014,
+   "raw": "Gồm: Schengen, châu Âu, Anh, Hàn Quốc, Hồng Kông…",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s067"
+  },
+  {
+   "tu": 12249,
+   "den": 12274,
+   "raw": "Hình thức đầu tư (chọn 1)",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s068"
+  },
+  {
+   "tu": 12324,
+   "den": 12383,
+   "raw": "Quyên góp 250.000 USD cho gia đình 4 người (không hoàn lại)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s069"
+  },
+  {
+   "tu": 12402,
+   "den": 12526,
+   "raw": "Đầu tư BĐS tối thiểu 325.000 USD, duy trì 7 năm (dự án tiêu biểu: Park Hyatt St. Kitts - khách sạn 5 sao, hoạt động từ 2017)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s070"
+  },
+  {
+   "tu": 12804,
+   "den": 12832,
+   "raw": "Thành viên đi kèm (3 thế hệ)",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s071"
+  },
+  {
+   "tu": 12882,
+   "den": 12890,
+   "raw": "Vợ/chồng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s072"
+  },
+  {
+   "tu": 12909,
+   "den": 12959,
+   "raw": "Con dưới 30 tuổi chưa kết hôn, phụ thuộc tài chính",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s073"
+  },
+  {
+   "tu": 12978,
+   "den": 13029,
+   "raw": "Cha mẹ &amp; ông bà &gt;55 tuổi (của cả 2 vợ chồng)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s074"
+  },
+  {
+   "tu": 13126,
+   "den": 13157,
+   "raw": "Quyền lợi &amp; ưu điểm nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s075"
+  },
+  {
+   "tu": 13378,
+   "den": 13453,
+   "raw": "<strong>Hộ chiếu quyền lực nhất Caribbean</strong> - top 19 thế giới (2026)",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s076"
+  },
+  {
+   "tu": 13646,
+   "den": 13706,
+   "raw": "Miễn visa 155 quốc gia (Schengen, Anh, Hàn Quốc, Hồng Kông…)",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s077"
+  },
+  {
+   "tu": 13899,
+   "den": 13918,
+   "raw": "Dễ dàng xin visa Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s078"
+  },
+  {
+   "tu": 14111,
+   "den": 14158,
+   "raw": "Không đánh thuế thu nhập toàn cầu, BĐS, thừa kế",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s079"
+  },
+  {
+   "tu": 14351,
+   "den": 14409,
+   "raw": "Luật bảo vệ quyền riêng tư tài khoản ngân hàng nghiêm ngặt",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s080"
+  },
+  {
+   "tu": 14602,
+   "den": 14666,
+   "raw": "Không yêu cầu cư trú để duy trì quốc tịch; cho phép đa quốc tịch",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s081"
+  },
+  {
+   "tu": 14983,
+   "den": 15000,
+   "raw": "Hạn chế cần lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s082"
+  },
+  {
+   "tu": 15169,
+   "den": 15200,
+   "raw": "KHÔNG xin được visa E-2 sang Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s083"
+  },
+  {
+   "tu": 15353,
+   "den": 15367,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s084"
+  },
+  {
+   "tu": 15631,
+   "den": 15643,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "St. Kitts & Nevis",
+   "id": "s085"
+  },
+  {
+   "tu": 15830,
+   "den": 15837,
+   "raw": "Grenada",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Grenada",
+   "id": "s086"
+  },
+  {
+   "tu": 15898,
+   "den": 15900,
+   "raw": "03",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s087"
+  },
+  {
+   "tu": 16002,
+   "den": 16050,
+   "raw": "<span class=\"num\">03</span> Nhóm A · Lựa chọn 03",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s088"
+  },
+  {
+   "tu": 16132,
+   "den": 16149,
+   "raw": "Quốc tịch Grenada",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s089"
+  },
+  {
+   "tu": 16276,
+   "den": 16286,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s090"
+  },
+  {
+   "tu": 16320,
+   "den": 16334,
+   "raw": "Từ 235.000 USD",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s091"
+  },
+  {
+   "tu": 16367,
+   "den": 16395,
+   "raw": "(~6,2 tỷ) · gia đình 4 người",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s092"
+  },
+  {
+   "tu": 16470,
+   "den": 16478,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s093"
+  },
+  {
+   "tu": 16512,
+   "den": 16533,
+   "raw": "Quốc tịch + miễn visa",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s094"
+  },
+  {
+   "tu": 16566,
+   "den": 16578,
+   "raw": "147 quốc gia",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s095"
+  },
+  {
+   "tu": 16653,
+   "den": 16662,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s096"
+  },
+  {
+   "tu": 16696,
+   "den": 16703,
+   "raw": "13 – 15",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s097"
+  },
+  {
+   "tu": 16736,
+   "den": 16741,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s098"
+  },
+  {
+   "tu": 17046,
+   "den": 17055,
+   "raw": "Đặc quyền",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s099"
+  },
+  {
+   "tu": 17072,
+   "den": 17118,
+   "raw": "Xin visa E-2 sang Mỹ sau 3 năm cư trú Grenada.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Grenada",
+   "id": "s100"
+  },
+  {
+   "tu": 17353,
+   "den": 17378,
+   "raw": "Hình thức đầu tư (chọn 1)",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s101"
+  },
+  {
+   "tu": 17428,
+   "den": 17488,
+   "raw": "Trao tặng Chính phủ tối thiểu 235.000 USD (gia đình 4 người)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Grenada",
+   "id": "s102"
+  },
+  {
+   "tu": 17507,
+   "den": 17623,
+   "raw": "Đầu tư BĐS tối thiểu 270.000 USD, duy trì 5 năm (dự án tiêu biểu: InterContinental Grenada Resort - khách sạn 5 sao)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Grenada",
+   "id": "s103"
+  },
+  {
+   "tu": 17901,
+   "den": 17942,
+   "raw": "Thành viên đi kèm (3 thế hệ + anh chị em)",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s104"
+  },
+  {
+   "tu": 17992,
+   "den": 18000,
+   "raw": "Vợ/chồng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Grenada",
+   "id": "s105"
+  },
+  {
+   "tu": 18019,
+   "den": 18069,
+   "raw": "Con dưới 30 tuổi chưa kết hôn, phụ thuộc tài chính",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Grenada",
+   "id": "s106"
+  },
+  {
+   "tu": 18088,
+   "den": 18159,
+   "raw": "Cha mẹ (&gt;55 tuổi, không yêu cầu phụ thuộc); ông bà của cả 2 vợ chồng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Grenada",
+   "id": "s107"
+  },
+  {
+   "tu": 18178,
+   "den": 18238,
+   "raw": "Anh chị em ruột ≥18 tuổi (chưa kết hôn, phụ thuộc tài chính)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Grenada",
+   "id": "s108"
+  },
+  {
+   "tu": 18335,
+   "den": 18366,
+   "raw": "Quyền lợi &amp; ưu điểm nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s109"
+  },
+  {
+   "tu": 18587,
+   "den": 18635,
+   "raw": "Miễn visa 147 quốc gia (Schengen, châu Âu, Anh…)",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s110"
+  },
+  {
+   "tu": 18828,
+   "den": 18892,
+   "raw": "<strong>ĐẶC QUYỀN:</strong> visa E-2 Mỹ sau 3 năm cư trú Grenada",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s111"
+  },
+  {
+   "tu": 19085,
+   "den": 19161,
+   "raw": "Không đánh thuế thu nhập toàn cầu; không yêu cầu cư trú để duy trì quốc tịch",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s112"
+  },
+  {
+   "tu": 19354,
+   "den": 19396,
+   "raw": "Anh chị em ruột đi kèm KHÔNG giới hạn tuổi",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s113"
+  },
+  {
+   "tu": 19589,
+   "den": 19648,
+   "raw": "BĐS bán lại cho nhà đầu tư tiếp theo; cho phép đa quốc tịch",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Grenada",
+   "id": "s114"
+  },
+  {
+   "tu": 19820,
+   "den": 19834,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "Grenada",
+   "id": "s115"
+  },
+  {
+   "tu": 20087,
+   "den": 20099,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "Grenada",
+   "id": "s116"
+  },
+  {
+   "tu": 20283,
+   "den": 20289,
+   "raw": "Nhóm B",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Nhóm B",
+   "id": "s117"
+  },
+  {
+   "tu": 20324,
+   "den": 20325,
+   "raw": "B",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s118"
+  },
+  {
+   "tu": 20451,
+   "den": 20544,
+   "raw": "<span class=\"num\" style=\"background:#fff; color:var(--red);\">B</span> Định cư diện thường trú",
+   "loai": "p",
+   "lop": "reveal eyebrow",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s119"
+  },
+  {
+   "tu": 20698,
+   "den": 20731,
+   "raw": "Định cư Caribbean diện thường trú",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Nhóm B",
+   "id": "s120"
+  },
+  {
+   "tu": 20876,
+   "den": 20987,
+   "raw": "Đầu tư lấy thẻ cư trú tại Curacao - đặc khu Caribbean của Hà Lan, với lộ trình nhập tịch Hà Lan (EU) sau 5 năm.",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Nhóm B",
+   "id": "s121"
+  },
+  {
+   "tu": 21208,
+   "den": 21215,
+   "raw": "Curacao",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s122"
+  },
+  {
+   "tu": 21238,
+   "den": 21274,
+   "raw": "TỪ 280.000 USD · CỬA NGÕ HÀ LAN (EU)",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s123"
+  },
+  {
+   "tu": 21636,
+   "den": 21643,
+   "raw": "Curacao",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Curacao",
+   "id": "s124"
+  },
+  {
+   "tu": 21704,
+   "den": 21706,
+   "raw": "04",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s125"
+  },
+  {
+   "tu": 21808,
+   "den": 21856,
+   "raw": "<span class=\"num\">04</span> Nhóm B · Lựa chọn 04",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s126"
+  },
+  {
+   "tu": 21938,
+   "den": 21961,
+   "raw": "Thường trú nhân Curacao",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s127"
+  },
+  {
+   "tu": 21998,
+   "den": 22021,
+   "raw": "Cửa ngõ vào Hà Lan (EU)",
+   "loai": "p",
+   "lop": "program-sub",
+   "the": "p",
+   "ngu_canh": "Curacao",
+   "id": "s128"
+  },
+  {
+   "tu": 22146,
+   "den": 22156,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s129"
+  },
+  {
+   "tu": 22190,
+   "den": 22204,
+   "raw": "Từ 280.000 USD",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s130"
+  },
+  {
+   "tu": 22237,
+   "den": 22246,
+   "raw": "(~7,4 tỷ)",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s131"
+  },
+  {
+   "tu": 22321,
+   "den": 22329,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s132"
+  },
+  {
+   "tu": 22363,
+   "den": 22377,
+   "raw": "Cư trú Curacao",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s133"
+  },
+  {
+   "tu": 22410,
+   "den": 22438,
+   "raw": "đặc khu Caribbean của Hà Lan",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s134"
+  },
+  {
+   "tu": 22513,
+   "den": 22522,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s135"
+  },
+  {
+   "tu": 22556,
+   "den": 22561,
+   "raw": "3 – 6",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s136"
+  },
+  {
+   "tu": 22594,
+   "den": 22599,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s137"
+  },
+  {
+   "tu": 22887,
+   "den": 22895,
+   "raw": "Lộ trình",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s138"
+  },
+  {
+   "tu": 22912,
+   "den": 22963,
+   "raw": "Nhập tịch Hà Lan sau 5 năm → quyền lợi công dân EU.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Curacao",
+   "id": "s139"
+  },
+  {
+   "tu": 23198,
+   "den": 23223,
+   "raw": "Hình thức đầu tư (chọn 1)",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s140"
+  },
+  {
+   "tu": 23273,
+   "den": 23288,
+   "raw": "BĐS tại Curacao",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Curacao",
+   "id": "s141"
+  },
+  {
+   "tu": 23307,
+   "den": 23350,
+   "raw": "Kinh doanh / mua cổ phần công ty địa phương",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Curacao",
+   "id": "s142"
+  },
+  {
+   "tu": 23369,
+   "den": 23437,
+   "raw": "Công ty niêm yết trên sàn DCSX (Dutch Caribbean Securities Exchange)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Curacao",
+   "id": "s143"
+  },
+  {
+   "tu": 23456,
+   "den": 23482,
+   "raw": "Kết hợp các hình thức trên",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Curacao",
+   "id": "s144"
+  },
+  {
+   "tu": 23579,
+   "den": 23596,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s145"
+  },
+  {
+   "tu": 23817,
+   "den": 23859,
+   "raw": "Cả gia đình sinh sống &amp; đi lại Curacao",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s146"
+  },
+  {
+   "tu": 24052,
+   "den": 24081,
+   "raw": "Tự do ra vào Hà Lan miễn visa",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s147"
+  },
+  {
+   "tu": 24274,
+   "den": 24360,
+   "raw": "Sau 5 năm → lộ trình quốc tịch Hà Lan; có quốc tịch Hà Lan: tự do sinh sống 27 nước EU",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s148"
+  },
+  {
+   "tu": 24553,
+   "den": 24608,
+   "raw": "Hộ chiếu Hà Lan TOP 4 thế giới - miễn visa 188 quốc gia",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s149"
+  },
+  {
+   "tu": 24908,
+   "den": 24915,
+   "raw": "Ưu điểm",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s150"
+  },
+  {
+   "tu": 25087,
+   "den": 25127,
+   "raw": "Chỉ cần cư trú 1 ngày/năm để duy trì thẻ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s151"
+  },
+  {
+   "tu": 25305,
+   "den": 25355,
+   "raw": "Xét duyệt ngắn 3-6 tháng; đa dạng hình thức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s152"
+  },
+  {
+   "tu": 25658,
+   "den": 25675,
+   "raw": "Hạn chế cần lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s153"
+  },
+  {
+   "tu": 25844,
+   "den": 25912,
+   "raw": "Không nhận quốc tịch ngay (chỉ thẻ cư trú); chỉ miễn visa đến Hà Lan",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s154"
+  },
+  {
+   "tu": 26087,
+   "den": 26150,
+   "raw": "Nhập tịch Hà Lan: cư trú 9 tháng/năm × 5 năm + thi tiếng Hà Lan",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s155"
+  },
+  {
+   "tu": 26325,
+   "den": 26403,
+   "raw": "Di chuyển từ Việt Nam còn bất tiện; thẻ cư trú vĩnh viễn rất cao - 838.000 USD",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Curacao",
+   "id": "s156"
+  },
+  {
+   "tu": 26534,
+   "den": 26548,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "reveal reveal-5 btn-primary link-to shown",
+   "the": "a",
+   "ngu_canh": "Curacao",
+   "id": "s157"
+  },
+  {
+   "tu": 26810,
+   "den": 26817,
+   "raw": "So Sánh",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "So Sánh",
+   "id": "s158"
+  },
+  {
+   "tu": 26953,
+   "den": 26961,
+   "raw": "Tổng kết",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "So Sánh",
+   "id": "s159"
+  },
+  {
+   "tu": 27107,
+   "den": 27165,
+   "raw": "Bảng so sánh nhanh<br>các chương trình quốc tịch Caribbean",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "So Sánh",
+   "id": "s160"
+  },
+  {
+   "tu": 27362,
+   "den": 27374,
+   "raw": "Chương trình",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s161"
+  },
+  {
+   "tu": 27383,
+   "den": 27393,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s162"
+  },
+  {
+   "tu": 27402,
+   "den": 27411,
+   "raw": "Miễn visa",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s163"
+  },
+  {
+   "tu": 27420,
+   "den": 27429,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s164"
+  },
+  {
+   "tu": 27438,
+   "den": 27450,
+   "raw": "Điểm nổi bật",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s165"
+  },
+  {
+   "tu": 27551,
+   "den": 27587,
+   "raw": "<span class=\"star\">★</span> Dominica",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s166"
+  },
+  {
+   "tu": 27612,
+   "den": 27636,
+   "raw": "từ 200.000 USD (~5,3 tỷ)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s167"
+  },
+  {
+   "tu": 27661,
+   "den": 27677,
+   "raw": "143-144 quốc gia",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s168"
+  },
+  {
+   "tu": 27702,
+   "den": 27712,
+   "raw": "8-10 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s169"
+  },
+  {
+   "tu": 27737,
+   "den": 27796,
+   "raw": "Mức thấp nhất; hoàn vốn nhanh nhất (3 năm). KHÔNG có E-2 Mỹ",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s170"
+  },
+  {
+   "tu": 27858,
+   "den": 27907,
+   "raw": "<span class=\"star\">★</span> St. Kitts &amp; Nevis",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s171"
+  },
+  {
+   "tu": 27932,
+   "den": 27956,
+   "raw": "từ 250.000 USD (~6,6 tỷ)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s172"
+  },
+  {
+   "tu": 27981,
+   "den": 28013,
+   "raw": "155 quốc gia &amp; vùng lãnh thổ",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s173"
+  },
+  {
+   "tu": 28038,
+   "den": 28049,
+   "raw": "10-12 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s174"
+  },
+  {
+   "tu": 28074,
+   "den": 28120,
+   "raw": "Hộ chiếu mạnh nhất Caribbean (top 25 thế giới)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s175"
+  },
+  {
+   "tu": 28182,
+   "den": 28217,
+   "raw": "<span class=\"star\">★</span> Grenada",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s176"
+  },
+  {
+   "tu": 28242,
+   "den": 28266,
+   "raw": "từ 235.000 USD (~6,2 tỷ)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s177"
+  },
+  {
+   "tu": 28291,
+   "den": 28303,
+   "raw": "147 quốc gia",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s178"
+  },
+  {
+   "tu": 28328,
+   "den": 28339,
+   "raw": "13-15 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s179"
+  },
+  {
+   "tu": 28364,
+   "den": 28399,
+   "raw": "Visa E-2 Mỹ; anh chị em ruột đi kèm",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s180"
+  },
+  {
+   "tu": 28461,
+   "den": 28502,
+   "raw": "<span class=\"star\">★</span> Curacao (TTN)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s181"
+  },
+  {
+   "tu": 28527,
+   "den": 28551,
+   "raw": "từ 280.000 USD (~7,4 tỷ)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s182"
+  },
+  {
+   "tu": 28576,
+   "den": 28605,
+   "raw": "Miễn visa Hà Lan (thẻ cư trú)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s183"
+  },
+  {
+   "tu": 28630,
+   "den": 28639,
+   "raw": "3-6 tháng",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s184"
+  },
+  {
+   "tu": 28664,
+   "den": 28693,
+   "raw": "Cửa ngõ quốc tịch Hà Lan (EU)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s185"
+  },
+  {
+   "tu": 28867,
+   "den": 28943,
+   "raw": "<span style=\"font-style:italic;\">← Vuốt ngang để xem đầy đủ các cột →</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "So Sánh",
+   "id": "s186"
+  },
+  {
+   "tu": 29184,
+   "den": 29189,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "So Sánh",
+   "id": "s187"
+  },
+  {
+   "tu": 29256,
+   "den": 29398,
+   "raw": "IMM Group tư vấn các chương trình đầu tư - lấy quốc tịch / thường trú. Không tư vấn diện xuất khẩu lao động, tay nghề hoặc lao động phổ thông.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "So Sánh",
+   "id": "s188"
+  },
+  {
+   "tu": 29593,
+   "den": 29607,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary w-100 link-to shown",
+   "the": "a",
+   "ngu_canh": "So Sánh",
+   "id": "s189"
+  },
+  {
+   "tu": 29900,
+   "den": 29910,
+   "raw": "Vì Sao IMM",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s190"
+  },
+  {
+   "tu": 29945,
+   "den": 29948,
+   "raw": "IMM",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s191"
+  },
+  {
+   "tu": 30160,
+   "den": 30182,
+   "raw": "Vì sao chọn IMM Group?",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s192"
+  },
+  {
+   "tu": 30295,
+   "den": 30408,
+   "raw": "Từ năm 2005, IMM Group là đơn vị tiên phong tư vấn đầu tư định cư và quốc tịch Caribbean cho nhà đầu tư Việt Nam.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s193"
+  },
+  {
+   "tu": 30564,
+   "den": 30588,
+   "raw": "<span class=\"n\">1</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s194"
+  },
+  {
+   "tu": 30610,
+   "den": 30629,
+   "raw": "21+ năm kinh nghiệm",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s195"
+  },
+  {
+   "tu": 30697,
+   "den": 30738,
+   "raw": "Hai thập kỷ tư vấn đầu tư định cư quốc tế",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s196"
+  },
+  {
+   "tu": 30759,
+   "den": 30801,
+   "raw": "625+ hồ sơ đầu tư định cư xử lý thành công",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s197"
+  },
+  {
+   "tu": 30822,
+   "den": 30868,
+   "raw": "2.500+ visa được cấp cho các gia đình Việt Nam",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s198"
+  },
+  {
+   "tu": 31015,
+   "den": 31039,
+   "raw": "<span class=\"n\">2</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s199"
+  },
+  {
+   "tu": 31061,
+   "den": 31094,
+   "raw": "Được chính phủ Caribbean cấp phép",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s200"
+  },
+  {
+   "tu": 31162,
+   "den": 31254,
+   "raw": "Công ty Việt Nam đầu tiên và duy nhất được Grenada, St. Kitts &amp; Nevis, Dominica cấp phép",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s201"
+  },
+  {
+   "tu": 31275,
+   "den": 31328,
+   "raw": "Trực tiếp tư vấn và thụ lý hồ sơ đầu tư lấy quốc tịch",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s202"
+  },
+  {
+   "tu": 31349,
+   "den": 31422,
+   "raw": "Làm việc trực tiếp với cơ quan chính phủ, giảm trung gian và tăng bảo mật",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s203"
+  },
+  {
+   "tu": 31569,
+   "den": 31593,
+   "raw": "<span class=\"n\">3</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s204"
+  },
+  {
+   "tu": 31615,
+   "den": 31642,
+   "raw": "Chuyên sâu chương trình CBI",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s205"
+  },
+  {
+   "tu": 31710,
+   "den": 31781,
+   "raw": "Am hiểu chương trình quốc tịch Dominica, St. Kitts &amp; Nevis, Grenada",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s206"
+  },
+  {
+   "tu": 31802,
+   "den": 31845,
+   "raw": "Tư vấn thêm chương trình thường trú Curaçao",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s207"
+  },
+  {
+   "tu": 31866,
+   "den": 31952,
+   "raw": "Hỗ trợ chọn hình thức đầu tư: quyên góp Quỹ Chính phủ hoặc bất động sản được phê duyệt",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s208"
+  },
+  {
+   "tu": 32099,
+   "den": 32123,
+   "raw": "<span class=\"n\">4</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s209"
+  },
+  {
+   "tu": 32145,
+   "den": 32169,
+   "raw": "Thẩm định hồ sơ chặt chẽ",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s210"
+  },
+  {
+   "tu": 32237,
+   "den": 32272,
+   "raw": "Hỗ trợ chuẩn bị hồ sơ due diligence",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s211"
+  },
+  {
+   "tu": 32293,
+   "den": 32350,
+   "raw": "Chứng minh nguồn tiền hợp pháp theo yêu cầu từng quốc gia",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s212"
+  },
+  {
+   "tu": 32371,
+   "den": 32426,
+   "raw": "Chuyên viên đạt chứng chỉ IMC về đầu tư định cư quốc tế",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s213"
+  },
+  {
+   "tu": 32564,
+   "den": 32588,
+   "raw": "<span class=\"n\">5</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s214"
+  },
+  {
+   "tu": 32610,
+   "den": 32635,
+   "raw": "Cam kết đồng hành lâu dài",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s215"
+  },
+  {
+   "tu": 32703,
+   "den": 32753,
+   "raw": "Đặt quyền lợi khách hàng lên trước lợi ích công ty",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s216"
+  },
+  {
+   "tu": 32774,
+   "den": 32838,
+   "raw": "Bảo mật thông tin khách hàng theo tiêu chuẩn cao, ký NDA khi cần",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s217"
+  },
+  {
+   "tu": 32859,
+   "den": 32919,
+   "raw": "Sẵn sàng hoàn phí khi xảy ra rủi ro khách quan theo hợp đồng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s218"
+  },
+  {
+   "tu": 33066,
+   "den": 33090,
+   "raw": "<span class=\"n\">6</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s219"
+  },
+  {
+   "tu": 33112,
+   "den": 33149,
+   "raw": "Nhận và cho đi — Be Better Foundation",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s220"
+  },
+  {
+   "tu": 33217,
+   "den": 33283,
+   "raw": "Từ 2025, IMM Group chính thức trở thành doanh nghiệp phi lợi nhuận",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s221"
+  },
+  {
+   "tu": 33304,
+   "den": 33381,
+   "raw": "IMM Group cam kết đóng góp tối thiểu 51% lợi nhuận hằng năm vào Quỹ Be Better",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s222"
+  },
+  {
+   "tu": 33402,
+   "den": 33480,
+   "raw": "Quỹ hỗ trợ học sinh, sinh viên khó khăn tiếp tục học tập và thay đổi tương lai",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s223"
+  },
+  {
+   "tu": 33667,
+   "den": 33670,
+   "raw": "21+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s224"
+  },
+  {
+   "tu": 33691,
+   "den": 33706,
+   "raw": "năm kinh nghiệm",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s225"
+  },
+  {
+   "tu": 33789,
+   "den": 33793,
+   "raw": "625+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s226"
+  },
+  {
+   "tu": 33814,
+   "den": 33830,
+   "raw": "hồ sơ thành công",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s227"
+  },
+  {
+   "tu": 33927,
+   "den": 33933,
+   "raw": "2.500+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s228"
+  },
+  {
+   "tu": 33954,
+   "den": 33967,
+   "raw": "visa được cấp",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s229"
+  },
+  {
+   "tu": 34032,
+   "den": 34033,
+   "raw": "3",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s230"
+  },
+  {
+   "tu": 34054,
+   "den": 34091,
+   "raw": "quốc gia Caribbean cấp phép trực tiếp",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s231"
+  },
+  {
+   "tu": 34141,
+   "den": 34149,
+   "raw": "Toàn cầu",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s232"
+  },
+  {
+   "tu": 34170,
+   "den": 34186,
+   "raw": "Danh mục định cư",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s233"
+  },
+  {
+   "tu": 34415,
+   "den": 34454,
+   "raw": "\"Phục vụ bằng những giá trị chân chính\"",
+   "loai": "p",
+   "lop": "serif-i",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s234"
+  },
+  {
+   "tu": 34569,
+   "den": 34590,
+   "raw": "— Tôn chỉ IMM Group —",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s235"
+  },
+  {
+   "tu": 34753,
+   "den": 34762,
+   "raw": "Tham Khảo",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Tham Khảo",
+   "id": "s236"
+  },
+  {
+   "tu": 34853,
+   "den": 34872,
+   "raw": "Có thể bạn quan tâm",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Tham Khảo",
+   "id": "s237"
+  },
+  {
+   "tu": 34984,
+   "den": 35024,
+   "raw": "Tìm hiểu các dịch vụ tư vấn từ IMM Group",
+   "loai": "h3",
+   "lop": "serif",
+   "the": "h3",
+   "ngu_canh": "Tham Khảo",
+   "id": "s238"
+  },
+  {
+   "tu": 35334,
+   "den": 35351,
+   "raw": "Quốc tịch Grenada",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s239"
+  },
+  {
+   "tu": 35630,
+   "den": 35648,
+   "raw": "Quốc tịch Dominica",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s240"
+  },
+  {
+   "tu": 35963,
+   "den": 35992,
+   "raw": "Quốc tịch St. Kitts and Nevis",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s241"
+  }
+ ]
+}

@@ -1,0 +1,3736 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/web-imm-translation/viec/nhap/goc-overview/canada.json",
+ "truong_json": "html_template",
+ "doan": [
+  {
+   "tu": 138,
+   "den": 144,
+   "raw": "Mở Đầu",
+   "loai": "p",
+   "lop": "section-indicator",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 271,
+   "den": 277,
+   "raw": "Mở Đầu",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Mở Đầu",
+   "id": "s002"
+  },
+  {
+   "tu": 613,
+   "den": 634,
+   "raw": "IMM GROUP · EST. 2005",
+   "loai": "p",
+   "lop": "badge badge-ghost-gold",
+   "the": "div",
+   "ngu_canh": "Mở Đầu",
+   "id": "s003"
+  },
+  {
+   "tu": 799,
+   "den": 823,
+   "raw": "Đầu Tư<br>Định Cư Canada",
+   "loai": "h1",
+   "lop": "reveal reveal-1 serif text-gold-grad",
+   "the": "h1",
+   "ngu_canh": "Mở Đầu",
+   "id": "s004"
+  },
+  {
+   "tu": 1055,
+   "den": 1124,
+   "raw": "Lộ trình lấy thường trú nhân (PR) Canada diện doanh nhân &amp; đầu tư",
+   "loai": "p",
+   "lop": "reveal reveal-2",
+   "the": "p",
+   "ngu_canh": "Mở Đầu",
+   "id": "s005"
+  },
+  {
+   "tu": 1175,
+   "den": 1185,
+   "raw": "CUỘN XUỐNG",
+   "loai": "p",
+   "lop": "scroll-hint",
+   "the": "div",
+   "ngu_canh": "Mở Đầu",
+   "id": "s006"
+  },
+  {
+   "tu": 1441,
+   "den": 1450,
+   "raw": "Tổng Quan",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Tổng Quan",
+   "id": "s007"
+  },
+  {
+   "tu": 1590,
+   "den": 1599,
+   "raw": "Tổng quan",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s008"
+  },
+  {
+   "tu": 1745,
+   "den": 1773,
+   "raw": "Đầu tư định cư Canada là gì?",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Tổng Quan",
+   "id": "s009"
+  },
+  {
+   "tu": 2044,
+   "den": 2162,
+   "raw": "Lộ trình dành cho chủ doanh nghiệp, quản lý cấp cao hoặc nhà đầu tư muốn lấy quyền cư trú Canada thông qua kinh doanh.",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s010"
+  },
+  {
+   "tu": 2353,
+   "den": 2438,
+   "raw": "Nhà đầu tư sẽ thành lập, mua lại hoặc vận hành doanh nghiệp tại một tỉnh bang Canada.",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s011"
+  },
+  {
+   "tu": 2629,
+   "den": 2716,
+   "raw": "Khi đáp ứng điều kiện của tỉnh bang, nhà đầu tư có thể tiến đến thường trú nhân Canada.",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s012"
+  },
+  {
+   "tu": 2907,
+   "den": 3026,
+   "raw": "Mỗi chương trình phù hợp với năng lực tài chính, kinh nghiệm quản lý, trình độ tiếng Anh và kế hoạch định cư khác nhau.",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s013"
+  },
+  {
+   "tu": 3198,
+   "den": 3210,
+   "raw": "Chương Trình",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Chương Trình",
+   "id": "s014"
+  },
+  {
+   "tu": 3320,
+   "den": 3332,
+   "raw": "Chương trình",
+   "loai": "p",
+   "lop": "reveal eyebrow",
+   "the": "div",
+   "ngu_canh": "Chương Trình",
+   "id": "s015"
+  },
+  {
+   "tu": 3491,
+   "den": 3532,
+   "raw": "Các chương trình<br>đầu tư định cư Canada",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Chương Trình",
+   "id": "s016"
+  },
+  {
+   "tu": 3643,
+   "den": 3768,
+   "raw": "Các chương trình có thể chia thành 2 nhóm chính: định cư diện doanh nhân tỉnh bang và định cư diện khởi nghiệp Start-Up Visa.",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Chương Trình",
+   "id": "s017"
+  },
+  {
+   "tu": 3941,
+   "den": 3947,
+   "raw": "Nhóm A",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Nhóm A",
+   "id": "s018"
+  },
+  {
+   "tu": 3982,
+   "den": 3983,
+   "raw": "A",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s019"
+  },
+  {
+   "tu": 4105,
+   "den": 4152,
+   "raw": "<span class=\"num\">A</span> Doanh nhân tỉnh bang",
+   "loai": "p",
+   "lop": "reveal eyebrow on-dark",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s020"
+  },
+  {
+   "tu": 4304,
+   "den": 4392,
+   "raw": "Đầu tư định cư diện<br><span style=\"color:var(--gold-soft);\">doanh nhân tỉnh bang</span>",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Nhóm A",
+   "id": "s021"
+  },
+  {
+   "tu": 4537,
+   "den": 4681,
+   "raw": "Đầu tư thành lập / mua lại và vận hành doanh nghiệp tại một tỉnh bang Canada để lấy quyền cư trú, tiến tới thường trú nhân (PR) cho cả gia đình.",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Nhóm A",
+   "id": "s022"
+  },
+  {
+   "tu": 4862,
+   "den": 4865,
+   "raw": "PEI",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s023"
+  },
+  {
+   "tu": 4888,
+   "den": 4902,
+   "raw": "Từ 150.000 CAD",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s024"
+  },
+  {
+   "tu": 5158,
+   "den": 5174,
+   "raw": "British Columbia",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s025"
+  },
+  {
+   "tu": 5197,
+   "den": 5211,
+   "raw": "Từ 200.000 CAD",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s026"
+  },
+  {
+   "tu": 5467,
+   "den": 5480,
+   "raw": "New Brunswick",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s027"
+  },
+  {
+   "tu": 5503,
+   "den": 5517,
+   "raw": "Từ 150.000 CAD",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s028"
+  },
+  {
+   "tu": 5779,
+   "den": 5787,
+   "raw": "Manitoba",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s029"
+  },
+  {
+   "tu": 5810,
+   "den": 5824,
+   "raw": "Từ 150.000 CAD",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s030"
+  },
+  {
+   "tu": 6114,
+   "den": 6125,
+   "raw": "Nova Scotia",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s031"
+  },
+  {
+   "tu": 6148,
+   "den": 6162,
+   "raw": "Từ 100.000 CAD",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Nhóm A",
+   "id": "s032"
+  },
+  {
+   "tu": 6516,
+   "den": 6519,
+   "raw": "PEI",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "PEI",
+   "id": "s033"
+  },
+  {
+   "tu": 6580,
+   "den": 6582,
+   "raw": "01",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s034"
+  },
+  {
+   "tu": 6682,
+   "den": 6730,
+   "raw": "<span class=\"num\">01</span> Nhóm A · Lựa chọn 01",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s035"
+  },
+  {
+   "tu": 6810,
+   "den": 6835,
+   "raw": "PEI — Đảo Hoàng Tử Edward",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s036"
+  },
+  {
+   "tu": 6962,
+   "den": 6972,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s037"
+  },
+  {
+   "tu": 7006,
+   "den": 7016,
+   "raw": "Từ 150.000",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s038"
+  },
+  {
+   "tu": 7049,
+   "den": 7052,
+   "raw": "CAD",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s039"
+  },
+  {
+   "tu": 7127,
+   "den": 7135,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s040"
+  },
+  {
+   "tu": 7169,
+   "den": 7181,
+   "raw": "Quyền cư trú",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s041"
+  },
+  {
+   "tu": 7214,
+   "den": 7220,
+   "raw": "Canada",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s042"
+  },
+  {
+   "tu": 7295,
+   "den": 7304,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s043"
+  },
+  {
+   "tu": 7338,
+   "den": 7345,
+   "raw": "12 – 15",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s044"
+  },
+  {
+   "tu": 7378,
+   "den": 7383,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s045"
+  },
+  {
+   "tu": 7655,
+   "den": 7672,
+   "raw": "Yêu cầu đương đơn",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s046"
+  },
+  {
+   "tu": 7722,
+   "den": 7735,
+   "raw": "Từ 21–59 tuổi",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "PEI",
+   "id": "s047"
+  },
+  {
+   "tu": 7754,
+   "den": 7831,
+   "raw": "Là chủ doanh nghiệp hoặc quản lý cấp cao tối thiểu 3 năm trong 5 năm gần nhất",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "PEI",
+   "id": "s048"
+  },
+  {
+   "tu": 7850,
+   "den": 7865,
+   "raw": "Tốt nghiệp THPT",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "PEI",
+   "id": "s049"
+  },
+  {
+   "tu": 7884,
+   "den": 7923,
+   "raw": "Tiếng Anh tương đương IELTS General 4.0",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "PEI",
+   "id": "s050"
+  },
+  {
+   "tu": 7942,
+   "den": 7976,
+   "raw": "Tổng tài sản tối thiểu 600.000 CAD",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "PEI",
+   "id": "s051"
+  },
+  {
+   "tu": 8225,
+   "den": 8239,
+   "raw": "Yêu cầu đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s052"
+  },
+  {
+   "tu": 8289,
+   "den": 8332,
+   "raw": "Thành lập hoặc mua lại doanh nghiệp tại PEI",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "PEI",
+   "id": "s053"
+  },
+  {
+   "tu": 8351,
+   "den": 8421,
+   "raw": "Có kế hoạch kinh doanh khả thi, mang lại lợi ích kinh tế cho tỉnh bang",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "PEI",
+   "id": "s054"
+  },
+  {
+   "tu": 8440,
+   "den": 8488,
+   "raw": "Vận hành doanh nghiệp tại PEI tối thiểu 12 tháng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "PEI",
+   "id": "s055"
+  },
+  {
+   "tu": 8585,
+   "den": 8602,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s056"
+  },
+  {
+   "tu": 8823,
+   "den": 8872,
+   "raw": "Vợ/chồng và con dưới 22 tuổi có thể đi cùng hồ sơ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s057"
+  },
+  {
+   "tu": 9065,
+   "den": 9094,
+   "raw": "Con học miễn phí đến hết THPT",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s058"
+  },
+  {
+   "tu": 9287,
+   "den": 9352,
+   "raw": "Khi có PR, con học đại học theo mức học phí dành cho người bản xứ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s059"
+  },
+  {
+   "tu": 9545,
+   "den": 9614,
+   "raw": "Sau 5 năm có PR, có thể nộp đơn xin quốc tịch Canada nếu đủ điều kiện",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s060"
+  },
+  {
+   "tu": 9875,
+   "den": 9880,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s061"
+  },
+  {
+   "tu": 10049,
+   "den": 10072,
+   "raw": "Cần cư trú thật tại PEI",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s062"
+  },
+  {
+   "tu": 10247,
+   "den": 10282,
+   "raw": "Cần trực tiếp vận hành doanh nghiệp",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s063"
+  },
+  {
+   "tu": 10457,
+   "den": 10502,
+   "raw": "Tiếng Anh là điều kiện bắt buộc khi nộp hồ sơ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "PEI",
+   "id": "s064"
+  },
+  {
+   "tu": 10658,
+   "den": 10672,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "PEI",
+   "id": "s065"
+  },
+  {
+   "tu": 10944,
+   "den": 10956,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "PEI",
+   "id": "s066"
+  },
+  {
+   "tu": 11149,
+   "den": 11165,
+   "raw": "British Columbia",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "British Columbia",
+   "id": "s067"
+  },
+  {
+   "tu": 11226,
+   "den": 11228,
+   "raw": "02",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s068"
+  },
+  {
+   "tu": 11328,
+   "den": 11376,
+   "raw": "<span class=\"num\">02</span> Nhóm A · Lựa chọn 02",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s069"
+  },
+  {
+   "tu": 11456,
+   "den": 11477,
+   "raw": "British Columbia (BC)",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s070"
+  },
+  {
+   "tu": 11604,
+   "den": 11614,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s071"
+  },
+  {
+   "tu": 11648,
+   "den": 11658,
+   "raw": "Từ 200.000",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s072"
+  },
+  {
+   "tu": 11691,
+   "den": 11694,
+   "raw": "CAD",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s073"
+  },
+  {
+   "tu": 11769,
+   "den": 11777,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s074"
+  },
+  {
+   "tu": 11811,
+   "den": 11823,
+   "raw": "Quyền cư trú",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s075"
+  },
+  {
+   "tu": 11856,
+   "den": 11862,
+   "raw": "Canada",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s076"
+  },
+  {
+   "tu": 11937,
+   "den": 11946,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s077"
+  },
+  {
+   "tu": 11980,
+   "den": 11987,
+   "raw": "12 – 15",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s078"
+  },
+  {
+   "tu": 12020,
+   "den": 12025,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s079"
+  },
+  {
+   "tu": 12297,
+   "den": 12314,
+   "raw": "Yêu cầu đương đơn",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s080"
+  },
+  {
+   "tu": 12364,
+   "den": 12480,
+   "raw": "Chủ doanh nghiệp tối thiểu 3 năm, sở hữu ít nhất 10% vốn; hoặc quản lý cấp cao tối thiểu 4 năm trong 10 năm gần nhất",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "British Columbia",
+   "id": "s081"
+  },
+  {
+   "tu": 12499,
+   "den": 12531,
+   "raw": "Học vấn tối thiểu 1 năm sau THPT",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "British Columbia",
+   "id": "s082"
+  },
+  {
+   "tu": 12550,
+   "den": 12589,
+   "raw": "Tiếng Anh tương đương IELTS General 4.0",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "British Columbia",
+   "id": "s083"
+  },
+  {
+   "tu": 12608,
+   "den": 12642,
+   "raw": "Tổng tài sản tối thiểu 600.000 CAD",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "British Columbia",
+   "id": "s084"
+  },
+  {
+   "tu": 12661,
+   "den": 12700,
+   "raw": "Đạt yêu cầu lý lịch an ninh và sức khỏe",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "British Columbia",
+   "id": "s085"
+  },
+  {
+   "tu": 12949,
+   "den": 12963,
+   "raw": "Yêu cầu đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s086"
+  },
+  {
+   "tu": 13013,
+   "den": 13041,
+   "raw": "Đầu tư tối thiểu 200.000 CAD",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "British Columbia",
+   "id": "s087"
+  },
+  {
+   "tu": 13060,
+   "den": 13111,
+   "raw": "Có kế hoạch kinh doanh khả thi tại British Columbia",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "British Columbia",
+   "id": "s088"
+  },
+  {
+   "tu": 13208,
+   "den": 13225,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s089"
+  },
+  {
+   "tu": 13446,
+   "den": 13495,
+   "raw": "Vợ/chồng và con dưới 22 tuổi có thể đi cùng hồ sơ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s090"
+  },
+  {
+   "tu": 13688,
+   "den": 13739,
+   "raw": "Được sinh sống tại các thành phố thuộc tỉnh bang BC",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s091"
+  },
+  {
+   "tu": 13932,
+   "den": 14001,
+   "raw": "Sau 5 năm có PR, có thể nộp đơn xin quốc tịch Canada nếu đủ điều kiện",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s092"
+  },
+  {
+   "tu": 14262,
+   "den": 14267,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s093"
+  },
+  {
+   "tu": 14436,
+   "den": 14458,
+   "raw": "Cần cư trú thật tại BC",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s094"
+  },
+  {
+   "tu": 14633,
+   "den": 14668,
+   "raw": "Cần trực tiếp vận hành doanh nghiệp",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "British Columbia",
+   "id": "s095"
+  },
+  {
+   "tu": 14826,
+   "den": 14840,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "British Columbia",
+   "id": "s096"
+  },
+  {
+   "tu": 15112,
+   "den": 15124,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "British Columbia",
+   "id": "s097"
+  },
+  {
+   "tu": 15324,
+   "den": 15337,
+   "raw": "New Brunswick",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "New Brunswick",
+   "id": "s098"
+  },
+  {
+   "tu": 15398,
+   "den": 15400,
+   "raw": "03",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s099"
+  },
+  {
+   "tu": 15500,
+   "den": 15548,
+   "raw": "<span class=\"num\">03</span> Nhóm A · Lựa chọn 03",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s100"
+  },
+  {
+   "tu": 15628,
+   "den": 15641,
+   "raw": "New Brunswick",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s101"
+  },
+  {
+   "tu": 15768,
+   "den": 15778,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s102"
+  },
+  {
+   "tu": 15812,
+   "den": 15822,
+   "raw": "Từ 150.000",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s103"
+  },
+  {
+   "tu": 15855,
+   "den": 15858,
+   "raw": "CAD",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s104"
+  },
+  {
+   "tu": 15933,
+   "den": 15941,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s105"
+  },
+  {
+   "tu": 15975,
+   "den": 15987,
+   "raw": "Quyền cư trú",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s106"
+  },
+  {
+   "tu": 16020,
+   "den": 16026,
+   "raw": "Canada",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s107"
+  },
+  {
+   "tu": 16101,
+   "den": 16110,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s108"
+  },
+  {
+   "tu": 16144,
+   "den": 16151,
+   "raw": "12 – 15",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s109"
+  },
+  {
+   "tu": 16184,
+   "den": 16189,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s110"
+  },
+  {
+   "tu": 16461,
+   "den": 16478,
+   "raw": "Yêu cầu đương đơn",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s111"
+  },
+  {
+   "tu": 16528,
+   "den": 16541,
+   "raw": "Từ 19–59 tuổi",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "New Brunswick",
+   "id": "s112"
+  },
+  {
+   "tu": 16560,
+   "den": 16634,
+   "raw": "Chủ doanh nghiệp hoặc quản lý cấp cao tối thiểu 2 năm trong 5 năm gần nhất",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "New Brunswick",
+   "id": "s113"
+  },
+  {
+   "tu": 16653,
+   "den": 16676,
+   "raw": "Tốt nghiệp THPT trở lên",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "New Brunswick",
+   "id": "s114"
+  },
+  {
+   "tu": 16695,
+   "den": 16734,
+   "raw": "Tiếng Anh tương đương IELTS General 4.0",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "New Brunswick",
+   "id": "s115"
+  },
+  {
+   "tu": 16753,
+   "den": 16823,
+   "raw": "Tài sản tối thiểu 500.000 CAD, hoặc 300.000 CAD nếu đầu tư nông nghiệp",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "New Brunswick",
+   "id": "s116"
+  },
+  {
+   "tu": 16842,
+   "den": 16886,
+   "raw": "Đạt tối thiểu 65 điểm theo thang điểm di trú",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "New Brunswick",
+   "id": "s117"
+  },
+  {
+   "tu": 17135,
+   "den": 17149,
+   "raw": "Yêu cầu đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s118"
+  },
+  {
+   "tu": 17199,
+   "den": 17227,
+   "raw": "Đầu tư tối thiểu 150.000 CAD",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "New Brunswick",
+   "id": "s119"
+  },
+  {
+   "tu": 17246,
+   "den": 17276,
+   "raw": "Có kế hoạch kinh doanh khả thi",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "New Brunswick",
+   "id": "s120"
+  },
+  {
+   "tu": 17295,
+   "den": 17361,
+   "raw": "Vận hành doanh nghiệp tối thiểu 6 tháng để xin thư đề cử tỉnh bang",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "New Brunswick",
+   "id": "s121"
+  },
+  {
+   "tu": 17458,
+   "den": 17475,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s122"
+  },
+  {
+   "tu": 17696,
+   "den": 17745,
+   "raw": "Vợ/chồng và con dưới 22 tuổi có thể đi cùng hồ sơ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s123"
+  },
+  {
+   "tu": 17938,
+   "den": 17998,
+   "raw": "Được tiếp cận phúc lợi y tế, giáo dục, an sinh theo quy định",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s124"
+  },
+  {
+   "tu": 18191,
+   "den": 18251,
+   "raw": "Có lộ trình tiến đến PR và quốc tịch Canada nếu đủ điều kiện",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s125"
+  },
+  {
+   "tu": 18512,
+   "den": 18517,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s126"
+  },
+  {
+   "tu": 18686,
+   "den": 18719,
+   "raw": "Cần cư trú thật tại New Brunswick",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s127"
+  },
+  {
+   "tu": 18894,
+   "den": 18929,
+   "raw": "Cần trực tiếp vận hành doanh nghiệp",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s128"
+  },
+  {
+   "tu": 19104,
+   "den": 19159,
+   "raw": "Tiếng Anh IELTS 4.0 là điều kiện bắt buộc khi nộp hồ sơ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "New Brunswick",
+   "id": "s129"
+  },
+  {
+   "tu": 19315,
+   "den": 19329,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "New Brunswick",
+   "id": "s130"
+  },
+  {
+   "tu": 19607,
+   "den": 19619,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "New Brunswick",
+   "id": "s131"
+  },
+  {
+   "tu": 19828,
+   "den": 19836,
+   "raw": "Manitoba",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Manitoba",
+   "id": "s132"
+  },
+  {
+   "tu": 19897,
+   "den": 19899,
+   "raw": "04",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s133"
+  },
+  {
+   "tu": 19999,
+   "den": 20047,
+   "raw": "<span class=\"num\">04</span> Nhóm A · Lựa chọn 04",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s134"
+  },
+  {
+   "tu": 20127,
+   "den": 20135,
+   "raw": "Manitoba",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s135"
+  },
+  {
+   "tu": 20262,
+   "den": 20272,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s136"
+  },
+  {
+   "tu": 20306,
+   "den": 20316,
+   "raw": "Từ 150.000",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s137"
+  },
+  {
+   "tu": 20349,
+   "den": 20352,
+   "raw": "CAD",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s138"
+  },
+  {
+   "tu": 20427,
+   "den": 20435,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s139"
+  },
+  {
+   "tu": 20469,
+   "den": 20481,
+   "raw": "Quyền cư trú",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s140"
+  },
+  {
+   "tu": 20514,
+   "den": 20520,
+   "raw": "Canada",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s141"
+  },
+  {
+   "tu": 20595,
+   "den": 20604,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s142"
+  },
+  {
+   "tu": 20638,
+   "den": 20645,
+   "raw": "12 – 15",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s143"
+  },
+  {
+   "tu": 20678,
+   "den": 20683,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s144"
+  },
+  {
+   "tu": 20955,
+   "den": 20972,
+   "raw": "Yêu cầu đương đơn",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s145"
+  },
+  {
+   "tu": 21022,
+   "den": 21096,
+   "raw": "Chủ doanh nghiệp hoặc quản lý cấp cao tối thiểu 3 năm trong 5 năm gần nhất",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Manitoba",
+   "id": "s146"
+  },
+  {
+   "tu": 21115,
+   "den": 21130,
+   "raw": "Tốt nghiệp THPT",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Manitoba",
+   "id": "s147"
+  },
+  {
+   "tu": 21149,
+   "den": 21188,
+   "raw": "Tiếng Anh tương đương IELTS General 5.0",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Manitoba",
+   "id": "s148"
+  },
+  {
+   "tu": 21437,
+   "den": 21451,
+   "raw": "Yêu cầu đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s149"
+  },
+  {
+   "tu": 21501,
+   "den": 21565,
+   "raw": "Đầu tư 250.000 CAD nếu kinh doanh tại khu vực trung tâm Manitoba",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Manitoba",
+   "id": "s150"
+  },
+  {
+   "tu": 21584,
+   "den": 21641,
+   "raw": "Đầu tư 150.000 CAD nếu kinh doanh ngoài khu vực trung tâm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Manitoba",
+   "id": "s151"
+  },
+  {
+   "tu": 21660,
+   "den": 21690,
+   "raw": "Có kế hoạch kinh doanh khả thi",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Manitoba",
+   "id": "s152"
+  },
+  {
+   "tu": 21787,
+   "den": 21804,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s153"
+  },
+  {
+   "tu": 22025,
+   "den": 22074,
+   "raw": "Vợ/chồng và con dưới 22 tuổi có thể đi cùng hồ sơ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s154"
+  },
+  {
+   "tu": 22267,
+   "den": 22310,
+   "raw": "Có lộ trình tiến đến thường trú nhân Canada",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s155"
+  },
+  {
+   "tu": 22503,
+   "den": 22572,
+   "raw": "Sau 5 năm có PR, có thể nộp đơn xin quốc tịch Canada nếu đủ điều kiện",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s156"
+  },
+  {
+   "tu": 22833,
+   "den": 22838,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s157"
+  },
+  {
+   "tu": 23007,
+   "den": 23035,
+   "raw": "Cần cư trú thật tại Manitoba",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s158"
+  },
+  {
+   "tu": 23210,
+   "den": 23245,
+   "raw": "Cần trực tiếp vận hành doanh nghiệp",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s159"
+  },
+  {
+   "tu": 23420,
+   "den": 23475,
+   "raw": "Tiếng Anh IELTS 5.0 là điều kiện bắt buộc khi nộp hồ sơ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Manitoba",
+   "id": "s160"
+  },
+  {
+   "tu": 23633,
+   "den": 23647,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "Manitoba",
+   "id": "s161"
+  },
+  {
+   "tu": 23913,
+   "den": 23925,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "Manitoba",
+   "id": "s162"
+  },
+  {
+   "tu": 24131,
+   "den": 24142,
+   "raw": "Nova Scotia",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Nova Scotia",
+   "id": "s163"
+  },
+  {
+   "tu": 24203,
+   "den": 24205,
+   "raw": "05",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s164"
+  },
+  {
+   "tu": 24305,
+   "den": 24353,
+   "raw": "<span class=\"num\">05</span> Nhóm A · Lựa chọn 05",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s165"
+  },
+  {
+   "tu": 24433,
+   "den": 24444,
+   "raw": "Nova Scotia",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s166"
+  },
+  {
+   "tu": 24481,
+   "den": 24501,
+   "raw": "Mức đầu tư thấp nhất",
+   "loai": "p",
+   "lop": "program-sub",
+   "the": "p",
+   "ngu_canh": "Nova Scotia",
+   "id": "s167"
+  },
+  {
+   "tu": 24626,
+   "den": 24636,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s168"
+  },
+  {
+   "tu": 24670,
+   "den": 24680,
+   "raw": "Từ 100.000",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s169"
+  },
+  {
+   "tu": 24713,
+   "den": 24716,
+   "raw": "CAD",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s170"
+  },
+  {
+   "tu": 24791,
+   "den": 24799,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s171"
+  },
+  {
+   "tu": 24833,
+   "den": 24845,
+   "raw": "Quyền cư trú",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s172"
+  },
+  {
+   "tu": 24878,
+   "den": 24884,
+   "raw": "Canada",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s173"
+  },
+  {
+   "tu": 24959,
+   "den": 24968,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s174"
+  },
+  {
+   "tu": 25002,
+   "den": 25009,
+   "raw": "12 – 15",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s175"
+  },
+  {
+   "tu": 25042,
+   "den": 25047,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s176"
+  },
+  {
+   "tu": 25319,
+   "den": 25336,
+   "raw": "Yêu cầu đương đơn",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s177"
+  },
+  {
+   "tu": 25386,
+   "den": 25404,
+   "raw": "Từ 21 tuổi trở lên",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Nova Scotia",
+   "id": "s178"
+  },
+  {
+   "tu": 25423,
+   "den": 25514,
+   "raw": "Chủ doanh nghiệp tối thiểu 3 năm hoặc quản lý cấp cao tối thiểu 5 năm trong 10 năm gần nhất",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Nova Scotia",
+   "id": "s179"
+  },
+  {
+   "tu": 25533,
+   "den": 25556,
+   "raw": "Tốt nghiệp THPT trở lên",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Nova Scotia",
+   "id": "s180"
+  },
+  {
+   "tu": 25575,
+   "den": 25614,
+   "raw": "Tiếng Anh tương đương IELTS General 5.0",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Nova Scotia",
+   "id": "s181"
+  },
+  {
+   "tu": 25863,
+   "den": 25877,
+   "raw": "Yêu cầu đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s182"
+  },
+  {
+   "tu": 25927,
+   "den": 25981,
+   "raw": "Trong Halifax: tài sản 600.000 CAD, đầu tư 150.000 CAD",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Nova Scotia",
+   "id": "s183"
+  },
+  {
+   "tu": 26000,
+   "den": 26054,
+   "raw": "Ngoài Halifax: tài sản 400.000 CAD, đầu tư 100.000 CAD",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Nova Scotia",
+   "id": "s184"
+  },
+  {
+   "tu": 26073,
+   "den": 26136,
+   "raw": "Vận hành doanh nghiệp tối thiểu 12 tháng để đủ điều kiện xin PR",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Nova Scotia",
+   "id": "s185"
+  },
+  {
+   "tu": 26233,
+   "den": 26250,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s186"
+  },
+  {
+   "tu": 26471,
+   "den": 26520,
+   "raw": "Vợ/chồng và con dưới 22 tuổi có thể đi cùng hồ sơ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s187"
+  },
+  {
+   "tu": 26713,
+   "den": 26762,
+   "raw": "Được tiếp cận y tế công và giáo dục theo quy định",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s188"
+  },
+  {
+   "tu": 26955,
+   "den": 26998,
+   "raw": "Có lộ trình tiến đến thường trú nhân Canada",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s189"
+  },
+  {
+   "tu": 27259,
+   "den": 27264,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s190"
+  },
+  {
+   "tu": 27433,
+   "den": 27464,
+   "raw": "Cần cư trú thật tại Nova Scotia",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s191"
+  },
+  {
+   "tu": 27639,
+   "den": 27674,
+   "raw": "Cần trực tiếp vận hành doanh nghiệp",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s192"
+  },
+  {
+   "tu": 27849,
+   "den": 27904,
+   "raw": "Tiếng Anh IELTS 5.0 là điều kiện bắt buộc khi nộp hồ sơ",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Nova Scotia",
+   "id": "s193"
+  },
+  {
+   "tu": 28062,
+   "den": 28076,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "Nova Scotia",
+   "id": "s194"
+  },
+  {
+   "tu": 28346,
+   "den": 28358,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "Nova Scotia",
+   "id": "s195"
+  },
+  {
+   "tu": 28540,
+   "den": 28546,
+   "raw": "Nhóm B",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Nhóm B",
+   "id": "s196"
+  },
+  {
+   "tu": 28581,
+   "den": 28582,
+   "raw": "B",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s197"
+  },
+  {
+   "tu": 28708,
+   "den": 28789,
+   "raw": "<span class=\"num\" style=\"background:#fff; color:var(--red);\">B</span> Khởi nghiệp",
+   "loai": "p",
+   "lop": "reveal eyebrow",
+   "the": "div",
+   "ngu_canh": "Nhóm B",
+   "id": "s198"
+  },
+  {
+   "tu": 28941,
+   "den": 29036,
+   "raw": "Định cư Canada diện khởi nghiệp<br><span style=\"color:var(--gold-soft);\">(Start-Up Visa)</span>",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Nhóm B",
+   "id": "s199"
+  },
+  {
+   "tu": 29181,
+   "den": 29293,
+   "raw": "Chương trình cấp thẳng thường trú nhân (PR) cho doanh nhân có ý tưởng khởi nghiệp được tổ chức chỉ định bảo trợ.",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Nhóm B",
+   "id": "s200"
+  },
+  {
+   "tu": 29416,
+   "den": 29475,
+   "raw": "*Lưu ý: chương trình đã ngưng nhận hồ sơ mới từ 01/01/2026.",
+   "loai": "p",
+   "lop": "reveal reveal-1 serif-i",
+   "the": "p",
+   "ngu_canh": "Nhóm B",
+   "id": "s201"
+  },
+  {
+   "tu": 29669,
+   "den": 29682,
+   "raw": "Start-Up Visa",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s202"
+  },
+  {
+   "tu": 29743,
+   "den": 29745,
+   "raw": "06",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s203"
+  },
+  {
+   "tu": 29845,
+   "den": 29893,
+   "raw": "<span class=\"num\">06</span> Nhóm B · Lựa chọn 06",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s204"
+  },
+  {
+   "tu": 29974,
+   "den": 29987,
+   "raw": "Start-Up Visa",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s205"
+  },
+  {
+   "tu": 30031,
+   "den": 30082,
+   "raw": "<span class=\"st-badge st-closed\">Đã đóng cửa</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s206"
+  },
+  {
+   "tu": 30209,
+   "den": 30217,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s207"
+  },
+  {
+   "tu": 30251,
+   "den": 30260,
+   "raw": "PR Canada",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s208"
+  },
+  {
+   "tu": 30293,
+   "den": 30308,
+   "raw": "qua khởi nghiệp",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s209"
+  },
+  {
+   "tu": 30383,
+   "den": 30390,
+   "raw": "Yêu cầu",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s210"
+  },
+  {
+   "tu": 30424,
+   "den": 30433,
+   "raw": "Mở DN mới",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s211"
+  },
+  {
+   "tu": 30466,
+   "den": 30476,
+   "raw": "tại Canada",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s212"
+  },
+  {
+   "tu": 30551,
+   "den": 30560,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s213"
+  },
+  {
+   "tu": 30594,
+   "den": 30601,
+   "raw": "30 – 34",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s214"
+  },
+  {
+   "tu": 30634,
+   "den": 30639,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s215"
+  },
+  {
+   "tu": 30886,
+   "den": 30909,
+   "raw": "Trạng thái chương trình",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s216"
+  },
+  {
+   "tu": 31078,
+   "den": 31142,
+   "raw": "Ngừng nhận WP mới từ 19/12/2025, ngừng nhận PR mới từ 01/01/2026",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s217"
+  },
+  {
+   "tu": 31414,
+   "den": 31431,
+   "raw": "Yêu cầu đương đơn",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s218"
+  },
+  {
+   "tu": 31481,
+   "den": 31520,
+   "raw": "Tiếng Anh tương đương IELTS General 5.0",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s219"
+  },
+  {
+   "tu": 31539,
+   "den": 31596,
+   "raw": "Có ý tưởng kinh doanh sáng tạo hoặc kinh nghiệm liên quan",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s220"
+  },
+  {
+   "tu": 31615,
+   "den": 31649,
+   "raw": "Chứng minh tài chính theo quy định",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s221"
+  },
+  {
+   "tu": 31898,
+   "den": 31925,
+   "raw": "Yêu cầu công ty khởi nghiệp",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s222"
+  },
+  {
+   "tu": 31975,
+   "den": 32025,
+   "raw": "Được tổ chức chỉ định bởi Chính phủ Canada bảo trợ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s223"
+  },
+  {
+   "tu": 32044,
+   "den": 32110,
+   "raw": "Đương đơn và tổ chức bảo trợ sở hữu tối thiểu 50% quyền biểu quyết",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s224"
+  },
+  {
+   "tu": 32129,
+   "den": 32189,
+   "raw": "Đương đơn tham gia liên tục vào quá trình phát triển ý tưởng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s225"
+  },
+  {
+   "tu": 32208,
+   "den": 32247,
+   "raw": "Hoạt động kinh doanh chủ yếu tại Canada",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s226"
+  },
+  {
+   "tu": 32344,
+   "den": 32363,
+   "raw": "Quyền lợi trước đây",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s227"
+  },
+  {
+   "tu": 32584,
+   "den": 32640,
+   "raw": "Cả gia đình có thể lấy PR ngay nếu hồ sơ được chấp thuận",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s228"
+  },
+  {
+   "tu": 32833,
+   "den": 32862,
+   "raw": "Con học miễn phí đến hết THPT",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s229"
+  },
+  {
+   "tu": 33055,
+   "den": 33107,
+   "raw": "Có thể nộp đơn xin quốc tịch Canada khi đủ điều kiện",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s230"
+  },
+  {
+   "tu": 33368,
+   "den": 33373,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s231"
+  },
+  {
+   "tu": 33542,
+   "den": 33566,
+   "raw": "Chương trình đã đóng cửa",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s232"
+  },
+  {
+   "tu": 33678,
+   "den": 33706,
+   "raw": "Tư vấn chương trình thay thế",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "Start-Up Visa",
+   "id": "s233"
+  },
+  {
+   "tu": 33972,
+   "den": 33979,
+   "raw": "So Sánh",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "So Sánh",
+   "id": "s234"
+  },
+  {
+   "tu": 34115,
+   "den": 34123,
+   "raw": "Tổng kết",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "So Sánh",
+   "id": "s235"
+  },
+  {
+   "tu": 34269,
+   "den": 34329,
+   "raw": "Bảng so sánh nhanh<br>các chương trình đầu tư định cư Canada",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "So Sánh",
+   "id": "s236"
+  },
+  {
+   "tu": 34522,
+   "den": 34534,
+   "raw": "Chương trình",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s237"
+  },
+  {
+   "tu": 34555,
+   "den": 34575,
+   "raw": "Mức đầu tư tối thiểu",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s238"
+  },
+  {
+   "tu": 34596,
+   "den": 34618,
+   "raw": "Tổng tài sản tối thiểu",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s239"
+  },
+  {
+   "tu": 34639,
+   "den": 34660,
+   "raw": "Kinh nghiệm điều hành",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s240"
+  },
+  {
+   "tu": 34681,
+   "den": 34690,
+   "raw": "Tiếng Anh",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s241"
+  },
+  {
+   "tu": 34711,
+   "den": 34721,
+   "raw": "Trạng thái",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "th",
+   "ngu_canh": "So Sánh",
+   "id": "s242"
+  },
+  {
+   "tu": 34792,
+   "den": 34823,
+   "raw": "<span class=\"star\">★</span> PEI",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s243"
+  },
+  {
+   "tu": 34844,
+   "den": 34858,
+   "raw": "từ 150.000 CAD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s244"
+  },
+  {
+   "tu": 34879,
+   "den": 34890,
+   "raw": "600.000 CAD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s245"
+  },
+  {
+   "tu": 34911,
+   "den": 34981,
+   "raw": "từ 3 năm<span class=\"cell-sub\">chủ sở hữu, trong 5 năm gần nhất</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s246"
+  },
+  {
+   "tu": 35002,
+   "den": 35011,
+   "raw": "IELTS 4.0",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s247"
+  },
+  {
+   "tu": 35032,
+   "den": 35069,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s248"
+  },
+  {
+   "tu": 35101,
+   "den": 35150,
+   "raw": "<span class=\"star\">★</span> British Columbia (BC)",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s249"
+  },
+  {
+   "tu": 35171,
+   "den": 35185,
+   "raw": "từ 200.000 CAD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s250"
+  },
+  {
+   "tu": 35206,
+   "den": 35217,
+   "raw": "600.000 CAD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s251"
+  },
+  {
+   "tu": 35238,
+   "den": 35309,
+   "raw": "từ 3 năm<span class=\"cell-sub\">chủ sở hữu, trong 10 năm gần nhất</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s252"
+  },
+  {
+   "tu": 35330,
+   "den": 35339,
+   "raw": "IELTS 4.0",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s253"
+  },
+  {
+   "tu": 35360,
+   "den": 35397,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s254"
+  },
+  {
+   "tu": 35429,
+   "den": 35468,
+   "raw": "<span class=\"star\">★</span> Nova Scotia",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s255"
+  },
+  {
+   "tu": 35489,
+   "den": 35544,
+   "raw": "từ 150.000 CAD<span class=\"cell-sub\">tại Halifax</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s256"
+  },
+  {
+   "tu": 35565,
+   "den": 35576,
+   "raw": "600.000 CAD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s257"
+  },
+  {
+   "tu": 35597,
+   "den": 35668,
+   "raw": "từ 3 năm<span class=\"cell-sub\">chủ sở hữu, trong 10 năm gần nhất</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s258"
+  },
+  {
+   "tu": 35689,
+   "den": 35698,
+   "raw": "IELTS 5.0",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s259"
+  },
+  {
+   "tu": 35719,
+   "den": 35756,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s260"
+  },
+  {
+   "tu": 35788,
+   "den": 35829,
+   "raw": "<span class=\"star\">★</span> New Brunswick",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s261"
+  },
+  {
+   "tu": 35850,
+   "den": 35864,
+   "raw": "từ 150.000 CAD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s262"
+  },
+  {
+   "tu": 35885,
+   "den": 35896,
+   "raw": "500.000 CAD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s263"
+  },
+  {
+   "tu": 35917,
+   "den": 35987,
+   "raw": "từ 2 năm<span class=\"cell-sub\">chủ sở hữu, trong 5 năm gần nhất</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s264"
+  },
+  {
+   "tu": 36008,
+   "den": 36017,
+   "raw": "IELTS 4.0",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s265"
+  },
+  {
+   "tu": 36038,
+   "den": 36075,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s266"
+  },
+  {
+   "tu": 36107,
+   "den": 36143,
+   "raw": "<span class=\"star\">★</span> Manitoba",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s267"
+  },
+  {
+   "tu": 36164,
+   "den": 36178,
+   "raw": "từ 150.000 CAD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s268"
+  },
+  {
+   "tu": 36199,
+   "den": 36210,
+   "raw": "500.000 CAD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s269"
+  },
+  {
+   "tu": 36231,
+   "den": 36301,
+   "raw": "từ 3 năm<span class=\"cell-sub\">chủ sở hữu, trong 5 năm gần nhất</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s270"
+  },
+  {
+   "tu": 36322,
+   "den": 36331,
+   "raw": "IELTS 5.0",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s271"
+  },
+  {
+   "tu": 36352,
+   "den": 36389,
+   "raw": "<span class=\"pill-yes\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s272"
+  },
+  {
+   "tu": 36421,
+   "den": 36433,
+   "raw": "Saskatchewan",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s273"
+  },
+  {
+   "tu": 36454,
+   "den": 36468,
+   "raw": "từ 200.000 CAD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s274"
+  },
+  {
+   "tu": 36489,
+   "den": 36500,
+   "raw": "500.000 CAD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s275"
+  },
+  {
+   "tu": 36521,
+   "den": 36592,
+   "raw": "từ 3 năm<span class=\"cell-sub\">chủ sở hữu, trong 10 năm gần nhất</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s276"
+  },
+  {
+   "tu": 36635,
+   "den": 36677,
+   "raw": "<span class=\"pill-cond\">Đã đóng cửa</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s277"
+  },
+  {
+   "tu": 36709,
+   "den": 36716,
+   "raw": "Ontario",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s278"
+  },
+  {
+   "tu": 36737,
+   "den": 36751,
+   "raw": "từ 200.000 CAD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s279"
+  },
+  {
+   "tu": 36772,
+   "den": 36783,
+   "raw": "400.000 CAD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s280"
+  },
+  {
+   "tu": 36804,
+   "den": 36874,
+   "raw": "từ 2 năm<span class=\"cell-sub\">chủ sở hữu, trong 5 năm gần nhất</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s281"
+  },
+  {
+   "tu": 36895,
+   "den": 36944,
+   "raw": "IELTS 4.0<span class=\"cell-sub\">khi xin PR</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s282"
+  },
+  {
+   "tu": 36965,
+   "den": 37007,
+   "raw": "<span class=\"pill-cond\">Đã đóng cửa</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s283"
+  },
+  {
+   "tu": 37039,
+   "den": 37052,
+   "raw": "Start-Up Visa",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s284"
+  },
+  {
+   "tu": 37073,
+   "den": 37083,
+   "raw": "Theo dự án",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s285"
+  },
+  {
+   "tu": 37104,
+   "den": 37146,
+   "raw": "<span class=\"pill-no\">Không yêu cầu</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s286"
+  },
+  {
+   "tu": 37167,
+   "den": 37209,
+   "raw": "<span class=\"pill-no\">Không yêu cầu</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s287"
+  },
+  {
+   "tu": 37230,
+   "den": 37239,
+   "raw": "IELTS 5.0",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s288"
+  },
+  {
+   "tu": 37260,
+   "den": 37302,
+   "raw": "<span class=\"pill-cond\">Đã đóng cửa</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh",
+   "id": "s289"
+  },
+  {
+   "tu": 37462,
+   "den": 37538,
+   "raw": "<span style=\"font-style:italic;\">← Vuốt ngang để xem đầy đủ các cột →</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "So Sánh",
+   "id": "s290"
+  },
+  {
+   "tu": 37779,
+   "den": 37800,
+   "raw": "Lưu ý phạm vi dịch vụ",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "So Sánh",
+   "id": "s291"
+  },
+  {
+   "tu": 37867,
+   "den": 38030,
+   "raw": "IMM Group chỉ tư vấn các chương trình doanh nhân – đầu tư (Doanh nhân tỉnh bang &amp; Start-Up Visa). Không tư vấn diện xuất khẩu lao động hoặc lao động phổ thông.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "So Sánh",
+   "id": "s292"
+  },
+  {
+   "tu": 38225,
+   "den": 38239,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary w-100 link-to shown",
+   "the": "a",
+   "ngu_canh": "So Sánh",
+   "id": "s293"
+  },
+  {
+   "tu": 38530,
+   "den": 38539,
+   "raw": "Tham Khảo",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Tham Khảo",
+   "id": "s294"
+  },
+  {
+   "tu": 38733,
+   "den": 38765,
+   "raw": "Các lựa chọn định cư Canada khác",
+   "loai": "h2",
+   "lop": "orn-title",
+   "the": "h2",
+   "ngu_canh": "Tham Khảo",
+   "id": "s295"
+  },
+  {
+   "tu": 38921,
+   "den": 39024,
+   "raw": "Thông tin tham khảo — các chương trình đã đóng cửa, không trình bày như chương trình đang mở hồ sơ mới.",
+   "loai": "p",
+   "lop": "orn-sub",
+   "the": "p",
+   "ngu_canh": "Tham Khảo",
+   "id": "s296"
+  },
+  {
+   "tu": 39371,
+   "den": 39441,
+   "raw": "Saskatchewan</span><span class=\"st-badge st-closed\">Đã đóng cửa</span>",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Tham Khảo",
+   "id": "s297"
+  },
+  {
+   "tu": 39495,
+   "den": 39521,
+   "raw": "Mức đầu tư: từ 200.000 CAD",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tham Khảo",
+   "id": "s298"
+  },
+  {
+   "tu": 39542,
+   "den": 39571,
+   "raw": "Mục đích: quyền cư trú Canada",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tham Khảo",
+   "id": "s299"
+  },
+  {
+   "tu": 39592,
+   "den": 39614,
+   "raw": "Xét duyệt: 12–15 tháng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tham Khảo",
+   "id": "s300"
+  },
+  {
+   "tu": 39938,
+   "den": 40003,
+   "raw": "Ontario</span><span class=\"st-badge st-closed\">Đã đóng cửa</span>",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Tham Khảo",
+   "id": "s301"
+  },
+  {
+   "tu": 40057,
+   "den": 40083,
+   "raw": "Mức đầu tư: từ 200.000 CAD",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tham Khảo",
+   "id": "s302"
+  },
+  {
+   "tu": 40104,
+   "den": 40133,
+   "raw": "Mục đích: quyền cư trú Canada",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tham Khảo",
+   "id": "s303"
+  },
+  {
+   "tu": 40154,
+   "den": 40176,
+   "raw": "Xét duyệt: 18–20 tháng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tham Khảo",
+   "id": "s304"
+  },
+  {
+   "tu": 40378,
+   "den": 40388,
+   "raw": "Vì Sao IMM",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s305"
+  },
+  {
+   "tu": 40423,
+   "den": 40426,
+   "raw": "IMM",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s306"
+  },
+  {
+   "tu": 40574,
+   "den": 40590,
+   "raw": "Vì sao IMM Group",
+   "loai": "p",
+   "lop": "eyebrow on-dark",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s307"
+  },
+  {
+   "tu": 40729,
+   "den": 40751,
+   "raw": "Vì sao chọn IMM Group?",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s308"
+  },
+  {
+   "tu": 40864,
+   "den": 41060,
+   "raw": "Từ năm 2005, IMM Group là đơn vị tiên phong tư vấn đầu tư định cư Mỹ, Úc, Canada, châu Âu cho doanh nhân Việt Nam. <strong style=\"color:var(--gold-soft);\">Phục Vụ Bằng Giá Trị Chân Chính.</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s309"
+  },
+  {
+   "tu": 41204,
+   "den": 41228,
+   "raw": "<span class=\"n\">1</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s310"
+  },
+  {
+   "tu": 41238,
+   "den": 41257,
+   "raw": "21+ năm kinh nghiệm",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s311"
+  },
+  {
+   "tu": 41315,
+   "den": 41356,
+   "raw": "Hai thập kỷ tư vấn đầu tư định cư quốc tế",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s312"
+  },
+  {
+   "tu": 41377,
+   "den": 41419,
+   "raw": "625+ hồ sơ đầu tư định cư xử lý thành công",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s313"
+  },
+  {
+   "tu": 41440,
+   "den": 41486,
+   "raw": "2.500+ visa được cấp cho các gia đình Việt Nam",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s314"
+  },
+  {
+   "tu": 41621,
+   "den": 41645,
+   "raw": "<span class=\"n\">2</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s315"
+  },
+  {
+   "tu": 41655,
+   "den": 41690,
+   "raw": "Đội ngũ luật sư &amp; cố vấn Canada",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s316"
+  },
+  {
+   "tu": 41748,
+   "den": 41815,
+   "raw": "Hợp tác với luật sư và chuyên viên di trú Canada được cấp phép RCIC",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s317"
+  },
+  {
+   "tu": 41836,
+   "den": 41895,
+   "raw": "Đảm bảo hồ sơ tuân thủ quy định liên bang và từng tỉnh bang",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s318"
+  },
+  {
+   "tu": 41916,
+   "den": 41991,
+   "raw": "Chuyên viên tư vấn, xử lý hồ sơ đạt chứng chỉ IMC về đầu tư định cư quốc tế",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s319"
+  },
+  {
+   "tu": 42126,
+   "den": 42150,
+   "raw": "<span class=\"n\">3</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s320"
+  },
+  {
+   "tu": 42160,
+   "den": 42190,
+   "raw": "Chuyên sâu chương trình Canada",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s321"
+  },
+  {
+   "tu": 42248,
+   "den": 42300,
+   "raw": "Am hiểu hệ thống đề cử tỉnh bang PNP diện doanh nhân",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s322"
+  },
+  {
+   "tu": 42321,
+   "den": 42365,
+   "raw": "Tư vấn chuyên sâu chương trình Start-Up Visa",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s323"
+  },
+  {
+   "tu": 42386,
+   "den": 42477,
+   "raw": "Hỗ trợ kế hoạch kinh doanh, chứng minh tài chính, thư đề cử tỉnh bang và chuẩn bị phỏng vấn",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s324"
+  },
+  {
+   "tu": 42612,
+   "den": 42636,
+   "raw": "<span class=\"n\">4</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s325"
+  },
+  {
+   "tu": 42646,
+   "den": 42682,
+   "raw": "Tư vấn khách quan theo từng gia đình",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s326"
+  },
+  {
+   "tu": 42740,
+   "den": 42827,
+   "raw": "May đo giải pháp theo mục tiêu, tài chính, kinh nghiệm và nguyện vọng của từng gia đình",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s327"
+  },
+  {
+   "tu": 42848,
+   "den": 42900,
+   "raw": "Chủ động sàng lọc hồ sơ phù hợp trước khi triển khai",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s328"
+  },
+  {
+   "tu": 43026,
+   "den": 43050,
+   "raw": "<span class=\"n\">5</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s329"
+  },
+  {
+   "tu": 43060,
+   "den": 43085,
+   "raw": "Cam kết đồng hành lâu dài",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s330"
+  },
+  {
+   "tu": 43143,
+   "den": 43193,
+   "raw": "Đặt quyền lợi khách hàng lên trước lợi ích công ty",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s331"
+  },
+  {
+   "tu": 43214,
+   "den": 43278,
+   "raw": "Bảo mật thông tin khách hàng theo tiêu chuẩn cao, ký NDA khi cần",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s332"
+  },
+  {
+   "tu": 43299,
+   "den": 43359,
+   "raw": "Sẵn sàng hoàn phí khi xảy ra rủi ro khách quan theo hợp đồng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s333"
+  },
+  {
+   "tu": 43494,
+   "den": 43518,
+   "raw": "<span class=\"n\">6</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s334"
+  },
+  {
+   "tu": 43528,
+   "den": 43558,
+   "raw": "Quỹ Be Better — Nhận và cho đi",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s335"
+  },
+  {
+   "tu": 43616,
+   "den": 43682,
+   "raw": "Từ 2025, IMM Group chính thức trở thành doanh nghiệp phi lợi nhuận",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s336"
+  },
+  {
+   "tu": 43703,
+   "den": 43775,
+   "raw": "IMM Group cam kết đóng góp trên 50% lợi nhuận hằng năm vào Quỹ Be Better",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s337"
+  },
+  {
+   "tu": 43796,
+   "den": 43874,
+   "raw": "Quỹ hỗ trợ học sinh, sinh viên khó khăn tiếp tục học tập và thay đổi tương lai",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s338"
+  },
+  {
+   "tu": 44061,
+   "den": 44064,
+   "raw": "21+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s339"
+  },
+  {
+   "tu": 44085,
+   "den": 44100,
+   "raw": "năm kinh nghiệm",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s340"
+  },
+  {
+   "tu": 44183,
+   "den": 44187,
+   "raw": "625+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s341"
+  },
+  {
+   "tu": 44208,
+   "den": 44224,
+   "raw": "hồ sơ thành công",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s342"
+  },
+  {
+   "tu": 44321,
+   "den": 44327,
+   "raw": "2.500+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s343"
+  },
+  {
+   "tu": 44348,
+   "den": 44361,
+   "raw": "visa được cấp",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s344"
+  },
+  {
+   "tu": 44411,
+   "den": 44415,
+   "raw": "RCIC",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s345"
+  },
+  {
+   "tu": 44436,
+   "den": 44466,
+   "raw": "Luật sư di trú Canada cấp phép",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s346"
+  },
+  {
+   "tu": 44516,
+   "den": 44519,
+   "raw": "IMC",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s347"
+  },
+  {
+   "tu": 44540,
+   "den": 44572,
+   "raw": "Chứng chỉ đầu tư định cư quốc tế",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s348"
+  },
+  {
+   "tu": 44788,
+   "den": 44802,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary w-100 link-to shown",
+   "the": "a",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s349"
+  },
+  {
+   "tu": 45134,
+   "den": 45173,
+   "raw": "\"Phục vụ bằng những giá trị chân chính\"",
+   "loai": "p",
+   "lop": "serif-i",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s350"
+  },
+  {
+   "tu": 45289,
+   "den": 45310,
+   "raw": "— Tôn chỉ IMM Group —",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s351"
+  },
+  {
+   "tu": 45473,
+   "den": 45481,
+   "raw": "Liên Kết",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Liên Kết",
+   "id": "s352"
+  },
+  {
+   "tu": 45577,
+   "den": 45596,
+   "raw": "Có thể bạn quan tâm",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Liên Kết",
+   "id": "s353"
+  },
+  {
+   "tu": 45708,
+   "den": 45748,
+   "raw": "Tìm hiểu các dịch vụ tư vấn từ IMM Group",
+   "loai": "h3",
+   "lop": "serif",
+   "the": "h3",
+   "ngu_canh": "Liên Kết",
+   "id": "s354"
+  },
+  {
+   "tu": 46010,
+   "den": 46056,
+   "raw": "So sánh các chương trình đầu tư định cư Canada",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s355"
+  },
+  {
+   "tu": 46353,
+   "den": 46378,
+   "raw": "Đảo Hoàng Tử Edward (PEI)",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s356"
+  },
+  {
+   "tu": 46659,
+   "den": 46671,
+   "raw": "Bang Ontario",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s357"
+  },
+  {
+   "tu": 46974,
+   "den": 46995,
+   "raw": "Bang British Columbia",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s358"
+  },
+  {
+   "tu": 47298,
+   "den": 47316,
+   "raw": "Bang New Brunswick",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s359"
+  },
+  {
+   "tu": 47612,
+   "den": 47629,
+   "raw": "Bang Saskatchewan",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s360"
+  },
+  {
+   "tu": 47920,
+   "den": 47933,
+   "raw": "Bang Manitoba",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s361"
+  },
+  {
+   "tu": 48228,
+   "den": 48244,
+   "raw": "Bang Nova Scotia",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s362"
+  },
+  {
+   "tu": 48340,
+   "den": 48354,
+   "raw": "Hiểu về Canada",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Liên Kết",
+   "id": "s363"
+  },
+  {
+   "tu": 48466,
+   "den": 48520,
+   "raw": "Chuyên trang IMM Group — thông tin hữu ích theo chủ đề",
+   "loai": "h3",
+   "lop": "serif",
+   "the": "h3",
+   "ngu_canh": "Liên Kết",
+   "id": "s364"
+  },
+  {
+   "tu": 48756,
+   "den": 48776,
+   "raw": "Cuộc sống tại Canada",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s365"
+  },
+  {
+   "tu": 49003,
+   "den": 49022,
+   "raw": "Giáo dục tại Canada",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s366"
+  },
+  {
+   "tu": 49264,
+   "den": 49278,
+   "raw": "Văn hóa Canada",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s367"
+  },
+  {
+   "tu": 49478,
+   "den": 49510,
+   "raw": "Lao động / Kinh doanh tại Canada",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s368"
+  },
+  {
+   "tu": 49750,
+   "den": 49790,
+   "raw": "Trợ cấp, phúc lợi, an sinh xã hội Canada",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s369"
+  },
+  {
+   "tu": 50047,
+   "den": 50061,
+   "raw": "Du lịch Canada",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s370"
+  },
+  {
+   "tu": 50289,
+   "den": 50304,
+   "raw": "Y tế tại Canada",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s371"
+  },
+  {
+   "tu": 50519,
+   "den": 50538,
+   "raw": "Bất động sản Canada",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s372"
+  },
+  {
+   "tu": 50802,
+   "den": 50849,
+   "raw": "Những câu chuyện định cư Canada truyền cảm hứng",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Liên Kết",
+   "id": "s373"
+  }
+ ]
+}

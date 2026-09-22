@@ -1,0 +1,3526 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/web-imm-translation/viec/nhap/goc-overview/uc.json",
+ "truong_json": "html_template",
+ "doan": [
+  {
+   "tu": 138,
+   "den": 148,
+   "raw": "Hành Trình",
+   "loai": "p",
+   "lop": "section-indicator",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 275,
+   "den": 281,
+   "raw": "Mở Đầu",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Mở Đầu",
+   "id": "s002"
+  },
+  {
+   "tu": 617,
+   "den": 638,
+   "raw": "IMM GROUP · EST. 2005",
+   "loai": "p",
+   "lop": "badge badge-ghost-gold",
+   "the": "div",
+   "ngu_canh": "Mở Đầu",
+   "id": "s003"
+  },
+  {
+   "tu": 749,
+   "den": 777,
+   "raw": "Diện Doanh nhân &amp; Đầu tư",
+   "loai": "p",
+   "lop": "reveal reveal-1 eyebrow on-dark",
+   "the": "div",
+   "ngu_canh": "Mở Đầu",
+   "id": "s004"
+  },
+  {
+   "tu": 931,
+   "den": 952,
+   "raw": "Đầu Tư <br>Định Cư Úc",
+   "loai": "h1",
+   "lop": "reveal reveal-1 serif hero-h1 text-gold-grad",
+   "the": "h1",
+   "ngu_canh": "Mở Đầu",
+   "id": "s005"
+  },
+  {
+   "tu": 1202,
+   "den": 1263,
+   "raw": "Lộ trình định cư Úc diện doanh nhân và đầu tư cho cả gia đình",
+   "loai": "p",
+   "lop": "reveal reveal-2",
+   "the": "p",
+   "ngu_canh": "Mở Đầu",
+   "id": "s006"
+  },
+  {
+   "tu": 1321,
+   "den": 1337,
+   "raw": "Cuộn để khám phá",
+   "loai": "p",
+   "lop": "scroll-hint",
+   "the": "div",
+   "ngu_canh": "Mở Đầu",
+   "id": "s007"
+  },
+  {
+   "tu": 1604,
+   "den": 1620,
+   "raw": "Lưu Ý Quan Trọng",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Lưu Ý Quan Trọng",
+   "id": "s008"
+  },
+  {
+   "tu": 1898,
+   "den": 1929,
+   "raw": "Lưu ý quan trọng cho nhà đầu tư",
+   "loai": "p",
+   "lop": "reveal text-center mb-5",
+   "the": "div",
+   "ngu_canh": "Lưu Ý Quan Trọng",
+   "id": "s009"
+  },
+  {
+   "tu": 2155,
+   "den": 2247,
+   "raw": "Úc đã <span style=\"color:var(--red);\">tạm dừng nhận hồ sơ</span><br>đầu tư định cư từ 7/2024",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Lưu Ý Quan Trọng",
+   "id": "s010"
+  },
+  {
+   "tu": 2368,
+   "den": 2539,
+   "raw": "Chương trình đầu tư định cư Úc diện 188 hiện đã tạm dừng nhận hồ sơ mới. IMM Group tư vấn lộ trình phù hợp theo tình trạng chương trình và hồ sơ thực tế của từng gia đình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Lưu Ý Quan Trọng",
+   "id": "s011"
+  },
+  {
+   "tu": 2759,
+   "den": 2848,
+   "raw": "<span style=\"color:var(--red); font-weight:800;\">!</span> Vì sao nội dung này vẫn hữu ích",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Lưu Ý Quan Trọng",
+   "id": "s012"
+  },
+  {
+   "tu": 2865,
+   "den": 3011,
+   "raw": "Nội dung dưới đây giúp nhà đầu tư nắm tổng quan các diện 188A, 188B, 188C để so sánh khi chương trình mở lại hoặc khi cân nhắc phương án thay thế.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Lưu Ý Quan Trọng",
+   "id": "s013"
+  },
+  {
+   "tu": 3228,
+   "den": 3256,
+   "raw": "Tư vấn chương trình thay thế",
+   "loai": "cta",
+   "lop": "reveal reveal-5 btn-primary link-to shown",
+   "the": "a",
+   "ngu_canh": "Lưu Ý Quan Trọng",
+   "id": "s014"
+  },
+  {
+   "tu": 3540,
+   "den": 3549,
+   "raw": "Tổng Quan",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Tổng Quan",
+   "id": "s015"
+  },
+  {
+   "tu": 3689,
+   "den": 3698,
+   "raw": "Tổng quan",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s016"
+  },
+  {
+   "tu": 3854,
+   "den": 3878,
+   "raw": "Đầu tư định cư Úc là gì?",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Tổng Quan",
+   "id": "s017"
+  },
+  {
+   "tu": 3998,
+   "den": 4099,
+   "raw": "Lộ trình dành cho doanh nhân và nhà đầu tư muốn lấy quyền cư trú Úc thông qua kinh doanh hoặc đầu tư.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tổng Quan",
+   "id": "s018"
+  },
+  {
+   "tu": 4118,
+   "den": 4206,
+   "raw": "Gia đình có thể đi cùng hồ sơ, sinh sống, học tập và làm việc tại Úc theo thời hạn visa.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tổng Quan",
+   "id": "s019"
+  },
+  {
+   "tu": 4225,
+   "den": 4315,
+   "raw": "Lộ trình phổ biến: Visa tạm trú 188 → Thường trú 888 → Quốc tịch Úc khi đáp ứng điều kiện.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tổng Quan",
+   "id": "s020"
+  },
+  {
+   "tu": 4334,
+   "den": 4425,
+   "raw": "Mỗi diện phù hợp với năng lực tài chính, kinh nghiệm quản lý và mục tiêu định cư khác nhau.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Tổng Quan",
+   "id": "s021"
+  },
+  {
+   "tu": 4562,
+   "den": 4575,
+   "raw": "Yêu cầu chung",
+   "loai": "p",
+   "lop": "reveal reveal-2 label-sm text-center",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s022"
+  },
+  {
+   "tu": 4930,
+   "den": 4952,
+   "raw": "Tổng tài sản tối thiểu",
+   "loai": "p",
+   "lop": "gi-label",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s023"
+  },
+  {
+   "tu": 4992,
+   "den": 5094,
+   "raw": "1,25 triệu AUD <span style=\"font-weight:600; color:var(--text-muted); font-size:13px;\">(~21 tỷ)</span>",
+   "loai": "p",
+   "lop": "gi-value",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s024"
+  },
+  {
+   "tu": 5440,
+   "den": 5451,
+   "raw": "Kinh nghiệm",
+   "loai": "p",
+   "lop": "gi-label",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s025"
+  },
+  {
+   "tu": 5491,
+   "den": 5532,
+   "raw": "Quản lý kinh doanh hoặc đầu tư thành công",
+   "loai": "p",
+   "lop": "gi-value",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s026"
+  },
+  {
+   "tu": 5926,
+   "den": 5936,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "gi-label",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s027"
+  },
+  {
+   "tu": 5976,
+   "den": 6093,
+   "raw": "300.000 – 5 triệu AUD <span style=\"font-weight:600; color:var(--text-muted); font-size:13px;\">tùy chương trình</span>",
+   "loai": "p",
+   "lop": "gi-value",
+   "the": "div",
+   "ngu_canh": "Tổng Quan",
+   "id": "s028"
+  },
+  {
+   "tu": 6315,
+   "den": 6327,
+   "raw": "Các Diện 188",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Các Diện 188",
+   "id": "s029"
+  },
+  {
+   "tu": 6362,
+   "den": 6365,
+   "raw": "188",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Các Diện 188",
+   "id": "s030"
+  },
+  {
+   "tu": 6491,
+   "den": 6548,
+   "raw": "<span class=\"num\">188</span> Diện doanh nhân &amp; đầu tư",
+   "loai": "p",
+   "lop": "reveal eyebrow on-dark",
+   "the": "div",
+   "ngu_canh": "Các Diện 188",
+   "id": "s031"
+  },
+  {
+   "tu": 6700,
+   "den": 6795,
+   "raw": "Các diện đầu tư định cư Úc<br><span style=\"color:var(--gold-soft);\">(188A · 188B · 188C)</span>",
+   "loai": "h2",
+   "lop": "reveal serif",
+   "the": "h2",
+   "ngu_canh": "Các Diện 188",
+   "id": "s032"
+  },
+  {
+   "tu": 6940,
+   "den": 7106,
+   "raw": "Có 3 diện chính, phù hợp với mục tiêu, năng lực tài chính và mô hình đầu tư khác nhau. Lộ trình chung: Visa tạm trú 188 → Thường trú 888 (sau ≥ 3 năm) → Quốc tịch Úc.",
+   "loai": "p",
+   "lop": "reveal reveal-1",
+   "the": "p",
+   "ngu_canh": "Các Diện 188",
+   "id": "s033"
+  },
+  {
+   "tu": 7298,
+   "den": 7302,
+   "raw": "188A",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Các Diện 188",
+   "id": "s034"
+  },
+  {
+   "tu": 7325,
+   "den": 7352,
+   "raw": "DOANH NHÂN · TỪ 300.000 AUD",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Các Diện 188",
+   "id": "s035"
+  },
+  {
+   "tu": 7638,
+   "den": 7642,
+   "raw": "188B",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Các Diện 188",
+   "id": "s036"
+  },
+  {
+   "tu": 7665,
+   "den": 7688,
+   "raw": "GÓP QUỸ · 2,5 TRIỆU AUD",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Các Diện 188",
+   "id": "s037"
+  },
+  {
+   "tu": 7974,
+   "den": 7978,
+   "raw": "188C",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Các Diện 188",
+   "id": "s038"
+  },
+  {
+   "tu": 8001,
+   "den": 8022,
+   "raw": "GÓP QUỸ · 5 TRIỆU AUD",
+   "loai": "p",
+   "lop": "sub",
+   "the": "div",
+   "ngu_canh": "Các Diện 188",
+   "id": "s039"
+  },
+  {
+   "tu": 8380,
+   "den": 8393,
+   "raw": "So Sánh Nhanh",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s040"
+  },
+  {
+   "tu": 8529,
+   "den": 8542,
+   "raw": "So sánh nhanh",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s041"
+  },
+  {
+   "tu": 8690,
+   "den": 8750,
+   "raw": "Bảng so sánh<br><span class=\"star\">188A / 188B / 188C</span>",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s042"
+  },
+  {
+   "tu": 8947,
+   "den": 8955,
+   "raw": "Tiêu chí",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s043"
+  },
+  {
+   "tu": 8976,
+   "den": 8980,
+   "raw": "188A",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "th",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s044"
+  },
+  {
+   "tu": 9001,
+   "den": 9005,
+   "raw": "188B",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "th",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s045"
+  },
+  {
+   "tu": 9026,
+   "den": 9030,
+   "raw": "188C",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "th",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s046"
+  },
+  {
+   "tu": 9131,
+   "den": 9141,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s047"
+  },
+  {
+   "tu": 9178,
+   "den": 9192,
+   "raw": "Từ 300.000 AUD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s048"
+  },
+  {
+   "tu": 9229,
+   "den": 9242,
+   "raw": "2,5 triệu AUD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s049"
+  },
+  {
+   "tu": 9279,
+   "den": 9290,
+   "raw": "5 triệu AUD",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s050"
+  },
+  {
+   "tu": 9352,
+   "den": 9371,
+   "raw": "Thời gian xét duyệt",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s051"
+  },
+  {
+   "tu": 9408,
+   "den": 9421,
+   "raw": "30 – 35 tháng",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s052"
+  },
+  {
+   "tu": 9458,
+   "den": 9471,
+   "raw": "30 – 35 tháng",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s053"
+  },
+  {
+   "tu": 9508,
+   "den": 9520,
+   "raw": "9 – 12 tháng",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s054"
+  },
+  {
+   "tu": 9582,
+   "den": 9589,
+   "raw": "Độ tuổi",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s055"
+  },
+  {
+   "tu": 9626,
+   "den": 9633,
+   "raw": "&lt; 55",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s056"
+  },
+  {
+   "tu": 9670,
+   "den": 9677,
+   "raw": "&lt; 55",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s057"
+  },
+  {
+   "tu": 9853,
+   "den": 9867,
+   "raw": "Không giới hạn",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s058"
+  },
+  {
+   "tu": 9929,
+   "den": 9940,
+   "raw": "Điểm di trú",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s059"
+  },
+  {
+   "tu": 9977,
+   "den": 9981,
+   "raw": "≥ 65",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s060"
+  },
+  {
+   "tu": 10018,
+   "den": 10022,
+   "raw": "≥ 65",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s061"
+  },
+  {
+   "tu": 10059,
+   "den": 10072,
+   "raw": "Không yêu cầu",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s062"
+  },
+  {
+   "tu": 10134,
+   "den": 10148,
+   "raw": "Kinh nghiệm KD",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s063"
+  },
+  {
+   "tu": 10185,
+   "den": 10224,
+   "raw": "<span class=\"pill-cond\">Bắt buộc</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s064"
+  },
+  {
+   "tu": 10261,
+   "den": 10300,
+   "raw": "<span class=\"pill-cond\">Bắt buộc</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s065"
+  },
+  {
+   "tu": 10337,
+   "den": 10379,
+   "raw": "<span class=\"pill-no\">Không yêu cầu</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s066"
+  },
+  {
+   "tu": 10441,
+   "den": 10450,
+   "raw": "Hình thức",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s067"
+  },
+  {
+   "tu": 10487,
+   "den": 10508,
+   "raw": "Vận hành doanh nghiệp",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s068"
+  },
+  {
+   "tu": 10545,
+   "den": 10559,
+   "raw": "Góp quỹ đầu tư",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s069"
+  },
+  {
+   "tu": 10596,
+   "den": 10610,
+   "raw": "Góp quỹ đầu tư",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s070"
+  },
+  {
+   "tu": 10672,
+   "den": 10688,
+   "raw": "Cư trú để lên PR",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s071"
+  },
+  {
+   "tu": 10725,
+   "den": 10740,
+   "raw": "≥ 1 năm / 3 năm",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s072"
+  },
+  {
+   "tu": 10777,
+   "den": 10793,
+   "raw": "≥ 2 năm cộng dồn",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s073"
+  },
+  {
+   "tu": 10830,
+   "den": 10878,
+   "raw": "Chính ≥ 40 ngày/năm hoặc vợ/chồng ≥ 180 ngày/năm",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s074"
+  },
+  {
+   "tu": 11052,
+   "den": 11128,
+   "raw": "<span style=\"font-style:italic;\">← Vuốt ngang để xem đầy đủ các cột →</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "So Sánh Nhanh",
+   "id": "s075"
+  },
+  {
+   "tu": 11303,
+   "den": 11307,
+   "raw": "188A",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "188A",
+   "id": "s076"
+  },
+  {
+   "tu": 11368,
+   "den": 11369,
+   "raw": "A",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s077"
+  },
+  {
+   "tu": 11469,
+   "den": 11514,
+   "raw": "<span class=\"num\">A</span> Diện đầu tư · 188A",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s078"
+  },
+  {
+   "tu": 11595,
+   "den": 11599,
+   "raw": "188A",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s079"
+  },
+  {
+   "tu": 11638,
+   "den": 11656,
+   "raw": "Doanh nhân đổi mới",
+   "loai": "p",
+   "lop": "program-sub",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s080"
+  },
+  {
+   "tu": 11783,
+   "den": 11793,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s081"
+  },
+  {
+   "tu": 11827,
+   "den": 11841,
+   "raw": "Từ 300.000 AUD",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s082"
+  },
+  {
+   "tu": 11874,
+   "den": 11881,
+   "raw": "(~5 tỷ)",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s083"
+  },
+  {
+   "tu": 11956,
+   "den": 11964,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s084"
+  },
+  {
+   "tu": 11998,
+   "den": 12008,
+   "raw": "Thường trú",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s085"
+  },
+  {
+   "tu": 12041,
+   "den": 12056,
+   "raw": "&amp; quốc tịch",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s086"
+  },
+  {
+   "tu": 12131,
+   "den": 12140,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s087"
+  },
+  {
+   "tu": 12174,
+   "den": 12181,
+   "raw": "30 – 35",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s088"
+  },
+  {
+   "tu": 12214,
+   "den": 12219,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s089"
+  },
+  {
+   "tu": 12466,
+   "den": 12487,
+   "raw": "Mục đích chương trình",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s090"
+  },
+  {
+   "tu": 12537,
+   "den": 12573,
+   "raw": "Lấy visa tạm trú Úc (thời hạn 5 năm)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s091"
+  },
+  {
+   "tu": 12592,
+   "den": 12648,
+   "raw": "Lên thường trú nhân khi thỏa điều kiện kinh doanh tại Úc",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s092"
+  },
+  {
+   "tu": 12667,
+   "den": 12695,
+   "raw": "Có lộ trình lên quốc tịch Úc",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s093"
+  },
+  {
+   "tu": 12944,
+   "den": 12960,
+   "raw": "Hình thức đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s094"
+  },
+  {
+   "tu": 12977,
+   "den": 13044,
+   "raw": "Thành lập mới hoặc mua lại và quản lý vận hành doanh nghiệp tại Úc.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "188A",
+   "id": "s095"
+  },
+  {
+   "tu": 13308,
+   "den": 13327,
+   "raw": "Điều kiện đương đơn",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s096"
+  },
+  {
+   "tu": 13377,
+   "den": 13431,
+   "raw": "Dưới 55 tuổi, đạt ≥ 65 điểm trong Thang điểm Di trú Úc",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s097"
+  },
+  {
+   "tu": 13450,
+   "den": 13535,
+   "raw": "Là chủ doanh nghiệp / cổ đông có tham gia quản lý; kinh doanh thành công tại Việt Nam",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s098"
+  },
+  {
+   "tu": 13554,
+   "den": 13597,
+   "raw": "Tổng tài sản ≥ 1,25 triệu AUD (~21 tỷ đồng)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s099"
+  },
+  {
+   "tu": 13616,
+   "den": 13644,
+   "raw": "Được 1 tỉnh bang Úc bảo lãnh",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s100"
+  },
+  {
+   "tu": 13885,
+   "den": 13907,
+   "raw": "Điều kiện doanh nghiệp",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s101"
+  },
+  {
+   "tu": 13957,
+   "den": 14002,
+   "raw": "Sở hữu ≥ 30% vốn, trực tiếp điều hành ≥ 3 năm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s102"
+  },
+  {
+   "tu": 14021,
+   "den": 14101,
+   "raw": "2 trong 4 năm tài chính gần nhất, doanh thu công ty ≥ 750.000 AUD (~12,6 tỷ)/năm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s103"
+  },
+  {
+   "tu": 14412,
+   "den": 14440,
+   "raw": "Lộ trình lên thường trú 888A",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s104"
+  },
+  {
+   "tu": 14490,
+   "den": 14567,
+   "raw": "Điều hành doanh nghiệp Úc, sở hữu ≥ 30% vốn; đầu tư từ 300.000 AUD (tùy bang)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s105"
+  },
+  {
+   "tu": 14586,
+   "den": 14647,
+   "raw": "Doanh nghiệp hoạt động ≥ 2 năm; ≥ 1 năm doanh thu 300.000 AUD",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s106"
+  },
+  {
+   "tu": 14666,
+   "den": 14775,
+   "raw": "Đạt 2/3: tài sản ròng DN ≥ 300.000 AUD · tài sản cá nhân + DN ≥ 600.000 AUD · tạo ≥ 2 việc làm toàn thời gian",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s107"
+  },
+  {
+   "tu": 14794,
+   "den": 14834,
+   "raw": "Cư trú ≥ 1 năm trong 3 năm trước khi nộp",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s108"
+  },
+  {
+   "tu": 14853,
+   "den": 14914,
+   "raw": "Đương đơn chính hoặc vợ/chồng (visa 188A) đều có thể đứng đơn",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188A",
+   "id": "s109"
+  },
+  {
+   "tu": 15011,
+   "den": 15028,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s110"
+  },
+  {
+   "tu": 15249,
+   "den": 15336,
+   "raw": "Cả gia đình (vợ/chồng, con dưới 23 tuổi) tạm trú, sinh sống - làm việc - học tập tại Úc",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s111"
+  },
+  {
+   "tu": 15529,
+   "den": 15570,
+   "raw": "Con học miễn phí trường công đến hết THPT",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s112"
+  },
+  {
+   "tu": 15763,
+   "den": 15849,
+   "raw": "Đủ điều kiện, xin thường trú 888A: hưởng phúc lợi y tế, giáo dục, an sinh (trừ bầu cử)",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s113"
+  },
+  {
+   "tu": 16042,
+   "den": 16128,
+   "raw": "Sau ~4 năm cư trú (gồm 1 năm thường trú), có thể xét quốc tịch, miễn visa tới 187 nước",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s114"
+  },
+  {
+   "tu": 16445,
+   "den": 16450,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s115"
+  },
+  {
+   "tu": 16619,
+   "den": 16662,
+   "raw": "Cần trực tiếp điều hành doanh nghiệp tại Úc",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s116"
+  },
+  {
+   "tu": 16837,
+   "den": 16894,
+   "raw": "Phải dành thời gian cư trú và vận hành kinh doanh thực tế",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s117"
+  },
+  {
+   "tu": 17069,
+   "den": 17127,
+   "raw": "Phù hợp với doanh nhân có kinh nghiệm quản lý doanh nghiệp",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188A",
+   "id": "s118"
+  },
+  {
+   "tu": 17285,
+   "den": 17299,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "188A",
+   "id": "s119"
+  },
+  {
+   "tu": 17557,
+   "den": 17569,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "188A",
+   "id": "s120"
+  },
+  {
+   "tu": 17757,
+   "den": 17761,
+   "raw": "188B",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "188B",
+   "id": "s121"
+  },
+  {
+   "tu": 17822,
+   "den": 17823,
+   "raw": "B",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s122"
+  },
+  {
+   "tu": 17923,
+   "den": 17968,
+   "raw": "<span class=\"num\">B</span> Diện đầu tư · 188B",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s123"
+  },
+  {
+   "tu": 18049,
+   "den": 18053,
+   "raw": "188B",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s124"
+  },
+  {
+   "tu": 18092,
+   "den": 18098,
+   "raw": "Đầu tư",
+   "loai": "p",
+   "lop": "program-sub",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s125"
+  },
+  {
+   "tu": 18225,
+   "den": 18235,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s126"
+  },
+  {
+   "tu": 18269,
+   "den": 18282,
+   "raw": "2,5 triệu AUD",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s127"
+  },
+  {
+   "tu": 18315,
+   "den": 18323,
+   "raw": "(~42 tỷ)",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s128"
+  },
+  {
+   "tu": 18398,
+   "den": 18406,
+   "raw": "Mục đích",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s129"
+  },
+  {
+   "tu": 18440,
+   "den": 18450,
+   "raw": "Thường trú",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s130"
+  },
+  {
+   "tu": 18483,
+   "den": 18498,
+   "raw": "&amp; quốc tịch",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s131"
+  },
+  {
+   "tu": 18573,
+   "den": 18582,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s132"
+  },
+  {
+   "tu": 18616,
+   "den": 18623,
+   "raw": "30 – 35",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s133"
+  },
+  {
+   "tu": 18656,
+   "den": 18661,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s134"
+  },
+  {
+   "tu": 18908,
+   "den": 18929,
+   "raw": "Mục đích chương trình",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s135"
+  },
+  {
+   "tu": 18979,
+   "den": 19015,
+   "raw": "Lấy visa tạm trú Úc (thời hạn 5 năm)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s136"
+  },
+  {
+   "tu": 19034,
+   "den": 19093,
+   "raw": "Lên thường trú nhân sớm nhất sau 3 năm duy trì khoản đầu tư",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s137"
+  },
+  {
+   "tu": 19112,
+   "den": 19140,
+   "raw": "Có lộ trình lên quốc tịch Úc",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s138"
+  },
+  {
+   "tu": 19418,
+   "den": 19437,
+   "raw": "Điều kiện đương đơn",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s139"
+  },
+  {
+   "tu": 19487,
+   "den": 19541,
+   "raw": "Dưới 55 tuổi, đạt ≥ 65 điểm trong Thang điểm Di trú Úc",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s140"
+  },
+  {
+   "tu": 19560,
+   "den": 19618,
+   "raw": "Có kinh nghiệm kinh doanh / đầu tư, năng lực tài chính cao",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s141"
+  },
+  {
+   "tu": 19637,
+   "den": 19681,
+   "raw": "Tổng tài sản ≥ 2,5 triệu AUD (~43,8 tỷ đồng)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s142"
+  },
+  {
+   "tu": 19700,
+   "den": 19728,
+   "raw": "Được 1 tỉnh bang Úc bảo lãnh",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s143"
+  },
+  {
+   "tu": 19970,
+   "den": 19993,
+   "raw": "Kinh nghiệm KD / đầu tư",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s144"
+  },
+  {
+   "tu": 20043,
+   "den": 20115,
+   "raw": "Sở hữu ≥ 10% vốn DN đang hoạt động &amp; điều hành tối thiểu 3 năm, HOẶC",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s145"
+  },
+  {
+   "tu": 20134,
+   "den": 20225,
+   "raw": "Chứng minh đang vận hành khoản đầu tư ~2,5 triệu AUD có phát sinh lợi nhuận tối thiểu 3 năm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s146"
+  },
+  {
+   "tu": 20474,
+   "den": 20513,
+   "raw": "Cơ cấu đầu tư — tối thiểu 2,5 triệu AUD",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s147"
+  },
+  {
+   "tu": 20563,
+   "den": 20620,
+   "raw": "≥ 500.000 AUD — Quỹ đầu tư mạo hiểm &amp; cổ phần tư nhân",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s148"
+  },
+  {
+   "tu": 20639,
+   "den": 20700,
+   "raw": "≥ 750.000 AUD — Quỹ công ty mới / đang phát triển trên sàn Úc",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s149"
+  },
+  {
+   "tu": 20719,
+   "den": 20757,
+   "raw": "≥ 1,25 triệu AUD — Quỹ đầu tư cân bằng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s150"
+  },
+  {
+   "tu": 20776,
+   "den": 20823,
+   "raw": "Giữ khoản đầu tư ≥ 3 năm, đến khi được cấp 888B",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s151"
+  },
+  {
+   "tu": 21134,
+   "den": 21162,
+   "raw": "Lộ trình lên thường trú 888B",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s152"
+  },
+  {
+   "tu": 21212,
+   "den": 21257,
+   "raw": "Giữ nguyên khoản đầu tư đến khi được cấp 888B",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s153"
+  },
+  {
+   "tu": 21276,
+   "den": 21313,
+   "raw": "Cư trú ≥ 2 năm cộng dồn trước khi nộp",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s154"
+  },
+  {
+   "tu": 21332,
+   "den": 21381,
+   "raw": "Đương đơn chính hoặc vợ/chồng đều có thể đứng đơn",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188B",
+   "id": "s155"
+  },
+  {
+   "tu": 21478,
+   "den": 21495,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s156"
+  },
+  {
+   "tu": 21716,
+   "den": 21774,
+   "raw": "Cả gia đình tạm trú, sinh sống - làm việc - học tập tại Úc",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s157"
+  },
+  {
+   "tu": 21967,
+   "den": 22012,
+   "raw": "Con cái học miễn phí trường công đến hết THPT",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s158"
+  },
+  {
+   "tu": 22205,
+   "den": 22242,
+   "raw": "Nhận lãi từ quỹ đầu tư (theo thực tế)",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s159"
+  },
+  {
+   "tu": 22435,
+   "den": 22503,
+   "raw": "Đủ điều kiện, xin thường trú 888B và xét quốc tịch sau ~4 năm cư trú",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s160"
+  },
+  {
+   "tu": 22820,
+   "den": 22825,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s161"
+  },
+  {
+   "tu": 22994,
+   "den": 23038,
+   "raw": "Cần duy trì khoản đầu tư trong thời gian dài",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s162"
+  },
+  {
+   "tu": 23213,
+   "den": 23273,
+   "raw": "Cần cư trú tối thiểu 2 năm cộng dồn trước khi nộp hồ sơ 888B",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s163"
+  },
+  {
+   "tu": 23448,
+   "den": 23543,
+   "raw": "Phù hợp với nhà đầu tư có năng lực tài chính cao và không muốn trực tiếp điều hành doanh nghiệp",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188B",
+   "id": "s164"
+  },
+  {
+   "tu": 23701,
+   "den": 23715,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "188B",
+   "id": "s165"
+  },
+  {
+   "tu": 23969,
+   "den": 23981,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "188B",
+   "id": "s166"
+  },
+  {
+   "tu": 24156,
+   "den": 24160,
+   "raw": "188C",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "188C",
+   "id": "s167"
+  },
+  {
+   "tu": 24221,
+   "den": 24222,
+   "raw": "C",
+   "loai": "p",
+   "lop": "number-bg",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s168"
+  },
+  {
+   "tu": 24322,
+   "den": 24367,
+   "raw": "<span class=\"num\">C</span> Diện đầu tư · 188C",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s169"
+  },
+  {
+   "tu": 24448,
+   "den": 24452,
+   "raw": "188C",
+   "loai": "p",
+   "lop": "program-name",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s170"
+  },
+  {
+   "tu": 24491,
+   "den": 24507,
+   "raw": "Đầu tư trọng yếu",
+   "loai": "p",
+   "lop": "program-sub",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s171"
+  },
+  {
+   "tu": 24634,
+   "den": 24644,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s172"
+  },
+  {
+   "tu": 24678,
+   "den": 24689,
+   "raw": "5 triệu AUD",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s173"
+  },
+  {
+   "tu": 24722,
+   "den": 24730,
+   "raw": "(~84 tỷ)",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s174"
+  },
+  {
+   "tu": 24805,
+   "den": 24813,
+   "raw": "Lãi suất",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s175"
+  },
+  {
+   "tu": 24847,
+   "den": 24854,
+   "raw": "8 – 10%",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s176"
+  },
+  {
+   "tu": 24887,
+   "den": 24896,
+   "raw": "/năm (TB)",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s177"
+  },
+  {
+   "tu": 24971,
+   "den": 24980,
+   "raw": "Xét duyệt",
+   "loai": "p",
+   "lop": "stat-row-label",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s178"
+  },
+  {
+   "tu": 25014,
+   "den": 25020,
+   "raw": "9 – 12",
+   "loai": "p",
+   "lop": "stat-row-value",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s179"
+  },
+  {
+   "tu": 25053,
+   "den": 25058,
+   "raw": "tháng",
+   "loai": "p",
+   "lop": "stat-row-unit",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s180"
+  },
+  {
+   "tu": 25305,
+   "den": 25326,
+   "raw": "Mục đích chương trình",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s181"
+  },
+  {
+   "tu": 25376,
+   "den": 25412,
+   "raw": "Lấy visa tạm trú Úc (thời hạn 5 năm)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s182"
+  },
+  {
+   "tu": 25431,
+   "den": 25490,
+   "raw": "Lên thường trú nhân sớm nhất sau 3 năm duy trì khoản đầu tư",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s183"
+  },
+  {
+   "tu": 25509,
+   "den": 25537,
+   "raw": "Có lộ trình lên quốc tịch Úc",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s184"
+  },
+  {
+   "tu": 25815,
+   "den": 25834,
+   "raw": "Điều kiện đương đơn",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s185"
+  },
+  {
+   "tu": 25884,
+   "den": 25913,
+   "raw": "Có năng lực tài chính rất lớn",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s186"
+  },
+  {
+   "tu": 25932,
+   "den": 25992,
+   "raw": "Tổng giá trị tài sản đạt tối thiểu 5 triệu AUD (~84 tỷ đồng)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s187"
+  },
+  {
+   "tu": 26011,
+   "den": 26049,
+   "raw": "Được 1 trong các tỉnh bang Úc bảo lãnh",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s188"
+  },
+  {
+   "tu": 26068,
+   "den": 26104,
+   "raw": "Không yêu cầu kinh nghiệm kinh doanh",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s189"
+  },
+  {
+   "tu": 26353,
+   "den": 26380,
+   "raw": "Cơ cấu đầu tư — 5 triệu AUD",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s190"
+  },
+  {
+   "tu": 26430,
+   "den": 26487,
+   "raw": "≥ 1 triệu AUD — Quỹ đầu tư mạo hiểm &amp; cổ phần tư nhân",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s191"
+  },
+  {
+   "tu": 26506,
+   "den": 26569,
+   "raw": "≥ 1,5 triệu AUD — Quỹ công ty mới / đang phát triển trên sàn Úc",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s192"
+  },
+  {
+   "tu": 26588,
+   "den": 26625,
+   "raw": "≥ 2,5 triệu AUD — Quỹ đầu tư cân bằng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s193"
+  },
+  {
+   "tu": 26644,
+   "den": 26691,
+   "raw": "Giữ khoản đầu tư ≥ 3 năm, đến khi được cấp 888C",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s194"
+  },
+  {
+   "tu": 27002,
+   "den": 27031,
+   "raw": "Điều kiện lên thường trú 888C",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s195"
+  },
+  {
+   "tu": 27081,
+   "den": 27126,
+   "raw": "Giữ nguyên khoản đầu tư đến khi được cấp 888C",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s196"
+  },
+  {
+   "tu": 27145,
+   "den": 27232,
+   "raw": "Lưu trú ≥ 40 ngày/năm với đương đơn chính 188C; hoặc ≥ 180 ngày/năm với vợ/chồng đi kèm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s197"
+  },
+  {
+   "tu": 27251,
+   "den": 27300,
+   "raw": "Đương đơn chính hoặc vợ/chồng đều có thể đứng đơn",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "188C",
+   "id": "s198"
+  },
+  {
+   "tu": 27397,
+   "den": 27414,
+   "raw": "Quyền lợi nổi bật",
+   "loai": "p",
+   "lop": "label-sm",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s199"
+  },
+  {
+   "tu": 27635,
+   "den": 27693,
+   "raw": "Cả gia đình tạm trú, sinh sống - làm việc - học tập tại Úc",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s200"
+  },
+  {
+   "tu": 27886,
+   "den": 27931,
+   "raw": "Con cái học miễn phí trường công đến hết THPT",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s201"
+  },
+  {
+   "tu": 28124,
+   "den": 28161,
+   "raw": "Nhận lãi từ quỹ đầu tư (theo thực tế)",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s202"
+  },
+  {
+   "tu": 28354,
+   "den": 28422,
+   "raw": "Đủ điều kiện, xin thường trú 888C và xét quốc tịch sau ~4 năm cư trú",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s203"
+  },
+  {
+   "tu": 28739,
+   "den": 28744,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s204"
+  },
+  {
+   "tu": 28913,
+   "den": 28927,
+   "raw": "Mức đầu tư cao",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s205"
+  },
+  {
+   "tu": 29102,
+   "den": 29148,
+   "raw": "Cần duy trì khoản đầu tư đến khi được cấp 888C",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s206"
+  },
+  {
+   "tu": 29323,
+   "den": 29405,
+   "raw": "Phù hợp với nhà đầu tư có năng lực tài chính lớn, ưu tiên lộ trình đầu tư thụ động",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "188C",
+   "id": "s207"
+  },
+  {
+   "tu": 29563,
+   "den": 29577,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "188C",
+   "id": "s208"
+  },
+  {
+   "tu": 29841,
+   "den": 29853,
+   "raw": "XEM CHI TIẾT",
+   "loai": "cta",
+   "lop": "btn-navy",
+   "the": "a",
+   "ngu_canh": "188C",
+   "id": "s209"
+  },
+  {
+   "tu": 30028,
+   "den": 30036,
+   "raw": "Lộ Trình",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Lộ Trình",
+   "id": "s210"
+  },
+  {
+   "tu": 30176,
+   "den": 30184,
+   "raw": "Lộ trình",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Lộ Trình",
+   "id": "s211"
+  },
+  {
+   "tu": 30332,
+   "den": 30359,
+   "raw": "Từ tạm trú đến quốc tịch Úc",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Lộ Trình",
+   "id": "s212"
+  },
+  {
+   "tu": 30457,
+   "den": 30522,
+   "raw": "4 cột mốc rõ ràng cho cả gia đình — từ visa 188 đến quốc tịch Úc.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Lộ Trình",
+   "id": "s213"
+  },
+  {
+   "tu": 30634,
+   "den": 30635,
+   "raw": "1",
+   "loai": "p",
+   "lop": "road-num",
+   "the": "div",
+   "ngu_canh": "Lộ Trình",
+   "id": "s214"
+  },
+  {
+   "tu": 30703,
+   "den": 30726,
+   "raw": "Visa 188A / 188B / 188C",
+   "loai": "p",
+   "lop": "tag",
+   "the": "div",
+   "ngu_canh": "Lộ Trình",
+   "id": "s215"
+  },
+  {
+   "tu": 30748,
+   "den": 30755,
+   "raw": "Tạm trú",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Lộ Trình",
+   "id": "s216"
+  },
+  {
+   "tu": 30794,
+   "den": 30922,
+   "raw": "Cả gia đình (đương đơn + vợ/chồng + con phụ thuộc &lt; 23 tuổi) sang Úc sinh sống, làm việc, học tập trong thời hạn visa (5 năm)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Lộ Trình",
+   "id": "s217"
+  },
+  {
+   "tu": 30945,
+   "den": 30990,
+   "raw": "Con học miễn phí tại trường công đến hết THPT",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Lộ Trình",
+   "id": "s218"
+  },
+  {
+   "tu": 31123,
+   "den": 31124,
+   "raw": "2",
+   "loai": "p",
+   "lop": "road-num",
+   "the": "div",
+   "ngu_canh": "Lộ Trình",
+   "id": "s219"
+  },
+  {
+   "tu": 31192,
+   "den": 31212,
+   "raw": "Giữ visa 188 ≥ 3 năm",
+   "loai": "p",
+   "lop": "tag",
+   "the": "div",
+   "ngu_canh": "Lộ Trình",
+   "id": "s220"
+  },
+  {
+   "tu": 31234,
+   "den": 31263,
+   "raw": "Thực hiện đầu tư / kinh doanh",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Lộ Trình",
+   "id": "s221"
+  },
+  {
+   "tu": 31302,
+   "den": 31467,
+   "raw": "<strong>188A:</strong> điều hành doanh nghiệp tại Úc ≥ 2 năm liên tục; doanh thu ≥ 300.000 AUD trong 12 tháng gần nhất; cư trú ≥ 1 năm trong 3 năm trước khi nộp 888A",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Lộ Trình",
+   "id": "s222"
+  },
+  {
+   "tu": 31490,
+   "den": 31597,
+   "raw": "<strong>188B:</strong> giữ nguyên khoản đầu tư 2,5 triệu AUD đến khi được cấp 888B; cư trú ≥ 2 năm cộng dồn",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Lộ Trình",
+   "id": "s223"
+  },
+  {
+   "tu": 31620,
+   "den": 31752,
+   "raw": "<strong>188C:</strong> giữ nguyên khoản đầu tư 5 triệu AUD; đương đơn chính cư trú ≥ 40 ngày/năm HOẶC vợ/chồng đi kèm ≥ 180 ngày/năm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Lộ Trình",
+   "id": "s224"
+  },
+  {
+   "tu": 31891,
+   "den": 31892,
+   "raw": "3",
+   "loai": "p",
+   "lop": "road-num",
+   "the": "div",
+   "ngu_canh": "Lộ Trình",
+   "id": "s225"
+  },
+  {
+   "tu": 31960,
+   "den": 31983,
+   "raw": "Visa 888A / 888B / 888C",
+   "loai": "p",
+   "lop": "tag",
+   "the": "div",
+   "ngu_canh": "Lộ Trình",
+   "id": "s226"
+  },
+  {
+   "tu": 32005,
+   "den": 32025,
+   "raw": "Thường trú vĩnh viễn",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Lộ Trình",
+   "id": "s227"
+  },
+  {
+   "tu": 32064,
+   "den": 32180,
+   "raw": "Đủ điều kiện đầu tư/kinh doanh &amp; cư trú → cả gia đình xin thường trú vĩnh viễn (sớm nhất sau 3 năm giữ visa 188)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Lộ Trình",
+   "id": "s228"
+  },
+  {
+   "tu": 32203,
+   "den": 32285,
+   "raw": "Hưởng đầy đủ Medicare, giáo dục, an sinh xã hội như công dân Úc (trừ quyền bầu cử)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Lộ Trình",
+   "id": "s229"
+  },
+  {
+   "tu": 32308,
+   "den": 32340,
+   "raw": "Thẻ thường trú gia hạn mỗi 5 năm",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Lộ Trình",
+   "id": "s230"
+  },
+  {
+   "tu": 32479,
+   "den": 32480,
+   "raw": "4",
+   "loai": "p",
+   "lop": "road-num",
+   "the": "div",
+   "ngu_canh": "Lộ Trình",
+   "id": "s231"
+  },
+  {
+   "tu": 32548,
+   "den": 32560,
+   "raw": "Quốc tịch Úc",
+   "loai": "p",
+   "lop": "tag",
+   "the": "div",
+   "ngu_canh": "Lộ Trình",
+   "id": "s232"
+  },
+  {
+   "tu": 32582,
+   "den": 32594,
+   "raw": "Quốc tịch Úc",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Lộ Trình",
+   "id": "s233"
+  },
+  {
+   "tu": 32633,
+   "den": 32714,
+   "raw": "Cư trú hợp pháp ≥ 4 năm, trong đó 12 tháng gần nhất là thường trú nhân (visa 888)",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Lộ Trình",
+   "id": "s234"
+  },
+  {
+   "tu": 32737,
+   "den": 32820,
+   "raw": "Vắng mặt khỏi Úc ≤ 12 tháng trong 4 năm; riêng 12 tháng cuối không vắng quá 90 ngày",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Lộ Trình",
+   "id": "s235"
+  },
+  {
+   "tu": 32843,
+   "den": 32911,
+   "raw": "Khi có quốc tịch: đầy đủ quyền công dân + miễn thị thực đến 187 nước",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Lộ Trình",
+   "id": "s236"
+  },
+  {
+   "tu": 33133,
+   "den": 33150,
+   "raw": "Chương Trình Khác",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s237"
+  },
+  {
+   "tu": 33364,
+   "den": 33395,
+   "raw": "Các lộ trình định cư Úc nổi bật",
+   "loai": "h2",
+   "lop": "orn-title",
+   "the": "h2",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s238"
+  },
+  {
+   "tu": 33520,
+   "den": 33564,
+   "raw": "Tổng quan nhanh để lựa chọn hướng đi phù hợp",
+   "loai": "p",
+   "lop": "orn-sub",
+   "the": "p",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s239"
+  },
+  {
+   "tu": 33791,
+   "den": 33803,
+   "raw": "CHƯƠNG TRÌNH",
+   "loai": "p",
+   "lop": "",
+   "the": "th",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s240"
+  },
+  {
+   "tu": 33844,
+   "den": 33852,
+   "raw": "Visa 189",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s241"
+  },
+  {
+   "tu": 33874,
+   "den": 33890,
+   "raw": "Tay nghề độc lập",
+   "loai": "p",
+   "lop": "ps",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s242"
+  },
+  {
+   "tu": 33937,
+   "den": 33945,
+   "raw": "Visa 489",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s243"
+  },
+  {
+   "tu": 33967,
+   "den": 33985,
+   "raw": "Tay nghề vùng miền",
+   "loai": "p",
+   "lop": "ps",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s244"
+  },
+  {
+   "tu": 34032,
+   "den": 34040,
+   "raw": "Visa 858",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s245"
+  },
+  {
+   "tu": 34062,
+   "den": 34079,
+   "raw": "Tài năng xuất sắc",
+   "loai": "p",
+   "lop": "ps",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s246"
+  },
+  {
+   "tu": 34126,
+   "den": 34134,
+   "raw": "Visa 457",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s247"
+  },
+  {
+   "tu": 34156,
+   "den": 34173,
+   "raw": "Làm việc tạm thời",
+   "loai": "p",
+   "lop": "ps",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s248"
+  },
+  {
+   "tu": 34220,
+   "den": 34233,
+   "raw": "Diện Bảo lãnh",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s249"
+  },
+  {
+   "tu": 34255,
+   "den": 34273,
+   "raw": "Bảo lãnh thân nhân",
+   "loai": "p",
+   "lop": "ps",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s250"
+  },
+  {
+   "tu": 34320,
+   "den": 34331,
+   "raw": "Diện Du học",
+   "loai": "p",
+   "lop": "pn",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s251"
+  },
+  {
+   "tu": 34353,
+   "den": 34369,
+   "raw": "Du học → định cư",
+   "loai": "p",
+   "lop": "ps",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s252"
+  },
+  {
+   "tu": 34491,
+   "den": 34501,
+   "raw": "Trạng thái",
+   "loai": "p",
+   "lop": "rlabel",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s253"
+  },
+  {
+   "tu": 34538,
+   "den": 34585,
+   "raw": "<span class=\"opc-status st-open\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s254"
+  },
+  {
+   "tu": 34622,
+   "den": 34677,
+   "raw": "<span class=\"opc-status st-closed\">Ngừng nhận HS</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s255"
+  },
+  {
+   "tu": 34714,
+   "den": 34764,
+   "raw": "<span class=\"opc-status st-fast\">Nhanh nhất</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s256"
+  },
+  {
+   "tu": 34801,
+   "den": 34850,
+   "raw": "<span class=\"opc-status st-closed\">Đã đóng</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s257"
+  },
+  {
+   "tu": 34887,
+   "den": 34934,
+   "raw": "<span class=\"opc-status st-open\">Đang mở</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s258"
+  },
+  {
+   "tu": 34971,
+   "den": 35023,
+   "raw": "<span class=\"opc-status st-fast\">Lộ trình dài</span>",
+   "loai": "p",
+   "lop": "ctr",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s259"
+  },
+  {
+   "tu": 35100,
+   "den": 35108,
+   "raw": "Mục tiêu",
+   "loai": "p",
+   "lop": "rlabel",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s260"
+  },
+  {
+   "tu": 35133,
+   "den": 35177,
+   "raw": "Thường trú nhân Úc cho lao động tay nghề cao",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s261"
+  },
+  {
+   "tu": 35202,
+   "den": 35254,
+   "raw": "Tạm trú vùng miền và xin thường trú khi đủ điều kiện",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s262"
+  },
+  {
+   "tu": 35279,
+   "den": 35339,
+   "raw": "Thường trú nhân Úc cho cá nhân có thành tích quốc tế nổi bật",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s263"
+  },
+  {
+   "tu": 35364,
+   "den": 35409,
+   "raw": "Tạm trú cho lao động được công ty Úc bảo lãnh",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s264"
+  },
+  {
+   "tu": 35434,
+   "den": 35479,
+   "raw": "Thường trú nhân Úc thông qua thân nhân tại Úc",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s265"
+  },
+  {
+   "tu": 35504,
+   "den": 35556,
+   "raw": "Ở lại Úc làm việc hoặc xin thường trú sau tốt nghiệp",
+   "loai": "p",
+   "lop": "",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s266"
+  },
+  {
+   "tu": 35633,
+   "den": 35652,
+   "raw": "Thời gian xét duyệt",
+   "loai": "p",
+   "lop": "rlabel",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s267"
+  },
+  {
+   "tu": 35694,
+   "den": 35707,
+   "raw": "11 – 21 tháng",
+   "loai": "p",
+   "lop": "time-val",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s268"
+  },
+  {
+   "tu": 35749,
+   "den": 35762,
+   "raw": "15 – 19 tháng",
+   "loai": "p",
+   "lop": "time-val",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s269"
+  },
+  {
+   "tu": 35804,
+   "den": 35815,
+   "raw": "3 – 4 tháng",
+   "loai": "p",
+   "lop": "time-val",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s270"
+  },
+  {
+   "tu": 35857,
+   "den": 35869,
+   "raw": "6 – 12 tháng",
+   "loai": "p",
+   "lop": "time-val",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s271"
+  },
+  {
+   "tu": 35911,
+   "den": 35929,
+   "raw": "12 tháng – vài năm",
+   "loai": "p",
+   "lop": "time-val",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s272"
+  },
+  {
+   "tu": 35971,
+   "den": 35992,
+   "raw": "Vài tháng – nhiều năm",
+   "loai": "p",
+   "lop": "time-val",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s273"
+  },
+  {
+   "tu": 36069,
+   "den": 36074,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "rlabel",
+   "the": "td",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s274"
+  },
+  {
+   "tu": 36258,
+   "den": 36320,
+   "raw": "<span>Dưới 45 tuổi, ngành nghề giới hạn, cạnh tranh cao</span>",
+   "loai": "p",
+   "lop": "note-cell",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s275"
+  },
+  {
+   "tu": 36510,
+   "den": 36559,
+   "raw": "<span>Đã ngừng nhận hồ sơ mới từ cuối 2019</span>",
+   "loai": "p",
+   "lop": "note-cell",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s276"
+  },
+  {
+   "tu": 36749,
+   "den": 36797,
+   "raw": "<span>Chỉ dành cho nhóm tài năng đặc biệt</span>",
+   "loai": "p",
+   "lop": "note-cell",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s277"
+  },
+  {
+   "tu": 36987,
+   "den": 37024,
+   "raw": "<span>Chương trình đã đóng cửa</span>",
+   "loai": "p",
+   "lop": "note-cell",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s278"
+  },
+  {
+   "tu": 37214,
+   "den": 37277,
+   "raw": "<span>Bắt buộc có thân nhân đủ điều kiện bảo lãnh tại Úc</span>",
+   "loai": "p",
+   "lop": "note-cell",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s279"
+  },
+  {
+   "tu": 37467,
+   "den": 37558,
+   "raw": "<span>Cần đáp ứng điều kiện visa sau tốt nghiệp, việc làm, tỉnh bang hoặc ngành nghề</span>",
+   "loai": "p",
+   "lop": "note-cell",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s280"
+  },
+  {
+   "tu": 37752,
+   "den": 37837,
+   "raw": "<span style=\"font-style:italic;\">← Vuốt ngang để xem đầy đủ các chương trình →</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s281"
+  },
+  {
+   "tu": 38078,
+   "den": 38083,
+   "raw": "Lưu ý",
+   "loai": "p",
+   "lop": "label",
+   "the": "div",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s282"
+  },
+  {
+   "tu": 38166,
+   "den": 38355,
+   "raw": "Ngoài diện đầu tư, nhà đầu tư có thể tham khảo thêm các diện tay nghề, tài năng, bảo lãnh và du học. Các nhóm này <strong>không thuộc trọng tâm tư vấn đầu tư định cư</strong> của IMM Group.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Chương Trình Khác",
+   "id": "s283"
+  },
+  {
+   "tu": 38525,
+   "den": 38535,
+   "raw": "Vì Sao IMM",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s284"
+  },
+  {
+   "tu": 38570,
+   "den": 38573,
+   "raw": "IMM",
+   "loai": "p",
+   "lop": "number-bg light",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s285"
+  },
+  {
+   "tu": 38721,
+   "den": 38737,
+   "raw": "Vì sao IMM Group",
+   "loai": "p",
+   "lop": "eyebrow on-dark",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s286"
+  },
+  {
+   "tu": 38876,
+   "den": 38898,
+   "raw": "Vì sao chọn IMM Group?",
+   "loai": "h2",
+   "lop": "serif",
+   "the": "h2",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s287"
+  },
+  {
+   "tu": 39011,
+   "den": 39207,
+   "raw": "Từ năm 2005, IMM Group là đơn vị tiên phong tư vấn đầu tư định cư Úc, Mỹ, Canada, châu Âu cho doanh nhân Việt Nam. <strong style=\"color:var(--gold-soft);\">Phục Vụ Bằng Giá Trị Chân Chính.</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s288"
+  },
+  {
+   "tu": 39363,
+   "den": 39387,
+   "raw": "<span class=\"n\">1</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s289"
+  },
+  {
+   "tu": 39409,
+   "den": 39428,
+   "raw": "21+ năm kinh nghiệm",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s290"
+  },
+  {
+   "tu": 39496,
+   "den": 39537,
+   "raw": "Hai thập kỷ tư vấn đầu tư định cư quốc tế",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s291"
+  },
+  {
+   "tu": 39558,
+   "den": 39651,
+   "raw": "Hàng trăm gia đình Việt đã đồng hành cùng IMM trên hành trình định cư Úc, Mỹ, Canada, châu Âu",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s292"
+  },
+  {
+   "tu": 39798,
+   "den": 39822,
+   "raw": "<span class=\"n\">2</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s293"
+  },
+  {
+   "tu": 39844,
+   "den": 39880,
+   "raw": "Đội ngũ luật sư &amp; cố vấn quốc tế",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s294"
+  },
+  {
+   "tu": 39948,
+   "den": 39996,
+   "raw": "Hợp tác với luật sư Úc và công ty di trú quốc tế",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s295"
+  },
+  {
+   "tu": 40017,
+   "den": 40066,
+   "raw": "Chuyên viên tư vấn, xử lý hồ sơ đạt chứng chỉ IMC",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s296"
+  },
+  {
+   "tu": 40213,
+   "den": 40237,
+   "raw": "<span class=\"n\">3</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s297"
+  },
+  {
+   "tu": 40259,
+   "den": 40283,
+   "raw": "Chuyên sâu thị trường Úc",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s298"
+  },
+  {
+   "tu": 40351,
+   "den": 40388,
+   "raw": "Am hiểu yêu cầu của từng tỉnh bang Úc",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s299"
+  },
+  {
+   "tu": 40409,
+   "den": 40473,
+   "raw": "Tư vấn quỹ đầu tư được chấp thuận và lộ trình lên 888, quốc tịch",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s300"
+  },
+  {
+   "tu": 40494,
+   "den": 40539,
+   "raw": "Đề xuất diện 188 theo hoàn cảnh từng gia đình",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s301"
+  },
+  {
+   "tu": 40686,
+   "den": 40710,
+   "raw": "<span class=\"n\">4</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s302"
+  },
+  {
+   "tu": 40732,
+   "den": 40756,
+   "raw": "Mạng lưới đối tác tại Úc",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s303"
+  },
+  {
+   "tu": 40824,
+   "den": 40862,
+   "raw": "Kết nối với quỹ đầu tư hợp pháp tại Úc",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s304"
+  },
+  {
+   "tu": 40883,
+   "den": 40941,
+   "raw": "Phối hợp với tỉnh bang bảo lãnh, công ty di trú và luật sư",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s305"
+  },
+  {
+   "tu": 40962,
+   "den": 41021,
+   "raw": "Hỗ trợ hồ sơ từ thẩm định ban đầu đến khi hoàn tất lộ trình",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s306"
+  },
+  {
+   "tu": 41159,
+   "den": 41183,
+   "raw": "<span class=\"n\">5</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s307"
+  },
+  {
+   "tu": 41205,
+   "den": 41230,
+   "raw": "Cam kết đồng hành lâu dài",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s308"
+  },
+  {
+   "tu": 41298,
+   "den": 41348,
+   "raw": "Đặt quyền lợi khách hàng lên trước lợi ích công ty",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s309"
+  },
+  {
+   "tu": 41369,
+   "den": 41417,
+   "raw": "Bảo mật thông tin khách hàng theo tiêu chuẩn cao",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s310"
+  },
+  {
+   "tu": 41438,
+   "den": 41498,
+   "raw": "Sẵn sàng hoàn phí khi xảy ra rủi ro khách quan theo hợp đồng",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s311"
+  },
+  {
+   "tu": 41645,
+   "den": 41669,
+   "raw": "<span class=\"n\">6</span>",
+   "loai": "p",
+   "lop": "ic",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s312"
+  },
+  {
+   "tu": 41691,
+   "den": 41721,
+   "raw": "Nhận và cho đi — Quỹ Be Better",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s313"
+  },
+  {
+   "tu": 41789,
+   "den": 41855,
+   "raw": "Từ 2025, IMM Group chính thức trở thành doanh nghiệp phi lợi nhuận",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s314"
+  },
+  {
+   "tu": 41876,
+   "den": 41938,
+   "raw": "Cam kết đóng góp trên 50% lợi nhuận hằng năm vào Quỹ Be Better",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s315"
+  },
+  {
+   "tu": 41959,
+   "den": 42037,
+   "raw": "Quỹ hỗ trợ học sinh, sinh viên khó khăn tiếp tục học tập và thay đổi tương lai",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s316"
+  },
+  {
+   "tu": 42224,
+   "den": 42227,
+   "raw": "21+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s317"
+  },
+  {
+   "tu": 42248,
+   "den": 42263,
+   "raw": "năm kinh nghiệm",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s318"
+  },
+  {
+   "tu": 42313,
+   "den": 42317,
+   "raw": "2005",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s319"
+  },
+  {
+   "tu": 42338,
+   "den": 42351,
+   "raw": "tiên phong từ",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s320"
+  },
+  {
+   "tu": 42434,
+   "den": 42438,
+   "raw": "50%+",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s321"
+  },
+  {
+   "tu": 42459,
+   "den": 42486,
+   "raw": "lợi nhuận vào Quỹ Be Better",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s322"
+  },
+  {
+   "tu": 42536,
+   "den": 42539,
+   "raw": "IMC",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s323"
+  },
+  {
+   "tu": 42560,
+   "den": 42581,
+   "raw": "chứng chỉ chuyên viên",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s324"
+  },
+  {
+   "tu": 42646,
+   "den": 42647,
+   "raw": "4",
+   "loai": "p",
+   "lop": "n",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s325"
+  },
+  {
+   "tu": 42668,
+   "den": 42701,
+   "raw": "thị trường: Úc · Mỹ · Canada · Âu",
+   "loai": "p",
+   "lop": "l",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s326"
+  },
+  {
+   "tu": 42927,
+   "den": 42941,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "reveal reveal-5 btn-primary link-to shown",
+   "the": "a",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s327"
+  },
+  {
+   "tu": 43273,
+   "den": 43312,
+   "raw": "\"Phục vụ bằng những giá trị chân chính\"",
+   "loai": "p",
+   "lop": "serif-i",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s328"
+  },
+  {
+   "tu": 43428,
+   "den": 43449,
+   "raw": "— Tôn chỉ IMM Group —",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "Vì Sao IMM",
+   "id": "s329"
+  },
+  {
+   "tu": 43612,
+   "den": 43621,
+   "raw": "Tham Khảo",
+   "loai": "p",
+   "lop": "data-section",
+   "the": "attr",
+   "ngu_canh": "Tham Khảo",
+   "id": "s330"
+  },
+  {
+   "tu": 43717,
+   "den": 43736,
+   "raw": "Có thể bạn quan tâm",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Tham Khảo",
+   "id": "s331"
+  },
+  {
+   "tu": 43848,
+   "den": 43888,
+   "raw": "Tìm hiểu các dịch vụ tư vấn từ IMM Group",
+   "loai": "h3",
+   "lop": "serif",
+   "the": "h3",
+   "ngu_canh": "Tham Khảo",
+   "id": "s332"
+  },
+  {
+   "tu": 44120,
+   "den": 44137,
+   "raw": "Đầu tư định cư Úc",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s333"
+  },
+  {
+   "tu": 44422,
+   "den": 44465,
+   "raw": "Visa Úc diện National Innovation Visa (NIV)",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s334"
+  },
+  {
+   "tu": 44694,
+   "den": 44722,
+   "raw": "Visa Úc diện doanh nhân 188A",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s335"
+  },
+  {
+   "tu": 44976,
+   "den": 45004,
+   "raw": "Visa Úc diện doanh nhân 888A",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s336"
+  },
+  {
+   "tu": 45245,
+   "den": 45269,
+   "raw": "Visa Úc diện đầu tư 188B",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s337"
+  },
+  {
+   "tu": 45521,
+   "den": 45545,
+   "raw": "Visa Úc diện đầu tư 888B",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s338"
+  },
+  {
+   "tu": 45822,
+   "den": 45856,
+   "raw": "Visa Úc diện đầu tư trọng yếu 188C",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s339"
+  },
+  {
+   "tu": 46133,
+   "den": 46167,
+   "raw": "Visa Úc diện đầu tư trọng yếu 888C",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s340"
+  },
+  {
+   "tu": 46404,
+   "den": 46419,
+   "raw": "Bất động sản Úc",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s341"
+  },
+  {
+   "tu": 47248,
+   "den": 47272,
+   "raw": "Tất cả dịch vụ IMM Group",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s342"
+  },
+  {
+   "tu": 47368,
+   "den": 47383,
+   "raw": "Hiểu về nước Úc",
+   "loai": "p",
+   "lop": "eyebrow",
+   "the": "div",
+   "ngu_canh": "Tham Khảo",
+   "id": "s343"
+  },
+  {
+   "tu": 47495,
+   "den": 47546,
+   "raw": "Chuyên trang tổng hợp thông tin hữu ích theo chủ đề",
+   "loai": "h3",
+   "lop": "serif",
+   "the": "h3",
+   "ngu_canh": "Tham Khảo",
+   "id": "s344"
+  },
+  {
+   "tu": 47783,
+   "den": 47799,
+   "raw": "Cuộc sống tại Úc",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s345"
+  },
+  {
+   "tu": 48034,
+   "den": 48041,
+   "raw": "Thuế Úc",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s346"
+  },
+  {
+   "tu": 48242,
+   "den": 48259,
+   "raw": "Kinh doanh tại Úc",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s347"
+  },
+  {
+   "tu": 48487,
+   "den": 48502,
+   "raw": "Giáo dục tại Úc",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s348"
+  },
+  {
+   "tu": 48743,
+   "den": 48779,
+   "raw": "Trợ cấp, phúc lợi, an sinh xã hội Úc",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s349"
+  },
+  {
+   "tu": 49037,
+   "den": 49047,
+   "raw": "Du lịch Úc",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s350"
+  },
+  {
+   "tu": 49300,
+   "den": 49339,
+   "raw": "Những người Việt thành công trên đất Úc",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s351"
+  },
+  {
+   "tu": 49578,
+   "den": 49621,
+   "raw": "Những câu chuyện định cư Úc truyền cảm hứng",
+   "loai": "cta",
+   "lop": "link-chip",
+   "the": "a",
+   "ngu_canh": "Tham Khảo",
+   "id": "s352"
+  }
+ ]
+}

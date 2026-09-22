@@ -170,3 +170,30 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
   Síp và Malta; mọi nước châu Âu khác dùng Golden Visa / residence permit / temporary residence permit.
 - **Đồng bộ nhãn là việc lặp:** mỗi khi dịch xong một nước mới, sửa nhãn nước đó ở MỌI trang châu Âu đã dịch
   (`grep care_service_link_title` trong các `song-ngu.tsv`), chạy lại `kiem` + `ghep` + `nap`, và nhắc team import lại.
+- **Template HTML nằm trong ACF JSON** (`overview_2026`: cả trang trong MỘT trường `acf.html_template`):
+  `rut-layout.py rut <acf.json> <slug>` đọc thẳng trường đó, `nhet` trả lại nguyên tệp JSON chỉ thay trường ấy
+  (giữ `post_id`, `lang`, mọi trường khác). Khối `<?php … ?>` phải **che bằng ký tự lấp CÙNG ĐỘ DÀI** trước khi
+  quét thẻ — dấu `>` bên trong PHP làm vỡ thẻ HTML bao ngoài (bẫy của template New Zealand).
+- **`moi` chỉ tra bộ nhớ dịch MỘT LẦN** lúc tạo việc. Dịch nhiều trang cùng bộ thì sau mỗi `nap` phải **tính lại
+  cột `tm`** bằng chính `goi_y_tm` của `dich.py` rồi mới `dien --tm100`; không làm thì `--tm100` lấp 0 đoạn.
+- **Chữ ngoài tầm bộ rút:** `alt`, `aria-label`, `title`, `iframe.title`, chuỗi trong biến PHP — người đọc vẫn thấy
+  nhưng không đưa vào `song-ngu.tsv` được (phá vị trí byte). Dùng `cong-cu/vet-chu-ngoai.py` + bảng khai báo
+  `viec/<việc>/chu-ngoai-bo-rut.tsv` (vi⇥en), chạy SAU `nhet`. Không sửa tay tệp trong `ban-giao/`.
+- **Cửa kiểm ráp template, chạy đủ 4 bước:** thẻ HTML bản Anh = bản gốc · tập trường ACF khớp hệt · `post_id` giữ
+  nguyên · **không còn ký tự tiếng Việt "sống"** (bỏ qua `<!-- -->` và `/* */`, vì nguồn có sẵn khối đã tắt).
+- **Trang TRỤC (hub) dùng cụm từ khoá GỘP**, không lấy tên một chương trình: `u.s. investor visa`,
+  `caribbean citizenship by investment`, `new zealand investor visa`, `european golden visa`,
+  `australia investment visa` (Úc là nước duy nhất "investment visa" > "investor visa"), `canada investor visa`.
+  Gợi ý mạnh nhất của trang trục hay là **câu hỏi khái niệm** ("what is golden visa in europe") hoặc **câu hỏi
+  nghi ngờ** ("is there an investor visa for canada") ⇒ 150 chữ đầu phải trả lời thẳng câu đó.
+- **Dịch nhiều trang cùng bộ → lỗi B6 hay bắt nhất là NHẤT QUÁN**, không phải sai nghĩa: cùng một nhãn dịch hai
+  kiểu trong một trang ("Hình thức đầu tư"), khoảng số lúc có lúc không dấu cách, tên riêng lúc `Curaçao` lúc
+  `Curacao`. Sửa xong một trang thì **đồng bộ luôn sang các trang còn lại trong bộ**.
+- **"Tôn chỉ" KHÔNG dịch là "promise"** (đọc như một cam kết) → `credo`. **RCIC** của Canada là *Regulated Canadian
+  Immigration Consultant*, **không phải luật sư** — nguồn Việt của IMM đang gọi nhầm. **Quỹ "được phê duyệt"** của
+  Úc gọi đúng là **complying investment/fund**.
+- **Ô bảng khoe lợi nhuận** ("Lãi suất 8–10%/năm") là rủi ro tuân thủ: giữ đúng con số nguồn nhưng thêm đúng một
+  lời phủ nhận bảo đảm — "a year (average, **not guaranteed**)". Đừng đổi thành "target"/"indicative": cả hai đều
+  thêm dữ kiện nguồn không nói.
+- **B5 và B6 đá nhau về H1 chứa từ khoá:** B5 hay đòi H1 bám sát nguồn. Giữ từ khoá — style guide mục 7 bắt buộc,
+  bỏ đi là cửa 0 ĐỎ; ghi lý do bác vào báo cáo.

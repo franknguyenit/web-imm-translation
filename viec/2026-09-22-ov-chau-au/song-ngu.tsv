@@ -1,0 +1,306 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	p	Mở Đầu	Introduction	100%: Introduction		acf.s001_p
+s002	p	Mở Đầu	Introduction	100%: Introduction	trung:s001	acf.s002_p
+s003	p	IMM GROUP · EST. 2005	IMM Group · est. 2005	100%: IMM Group · est. 2005		acf.s003_p
+s004	h1	Quốc Tịch & Thường Trú Nhân Châu Âu	European Golden Visa and Citizenship	100%: European citizenship and residency		acf.s004_h1#1
+s005	p	Đầu tư lấy quyền cư trú, Golden Visa hoặc quốc tịch châu Âu cho cả gia đình.	Invest for residency, a European Golden Visa, or European citizenship for your whole family.			acf.s005_p
+s006	p	CUỘN XUỐNG	Scroll down	100%: Scroll down		acf.s006_p
+s007	p	Tổng Quan	Overview	100%: Overview		acf.s007_p
+s008	p	01	01			acf.s008_p
+s009	p	{1}01{/1} Tổng quan	{1}01{/1} Overview	85%: Overview		acf.s009_p#1
+s010	h2	Tổng quan về đầu tư{br}định cư châu Âu	An overview of European{br}residency by investment			acf.s010_h2#1
+s011	p	Đầu tư định cư châu Âu là gì?	What is European residency by investment?			acf.s011_p
+s012	li	Lấy quyền cư trú/Golden Visa hoặc quốc tịch châu Âu thông qua đầu tư	Obtain residency, a European Golden Visa, or European citizenship through investment			acf.s012_li
+s013	li	Gia đình có cơ hội sinh sống, học tập, kinh doanh tại quốc gia tham gia	Your family can live, study, and do business in the country that runs the program			acf.s013_li
+s014	li	Nhiều chương trình cho phép đi lại Schengen theo quy định	Many programs allow travel within the Schengen Area under the applicable rules			acf.s014_li
+s015	li	Có thể hướng đến quốc tịch châu Âu nếu đáp ứng điều kiện cư trú, ngôn ngữ và hội nhập	You can work toward European citizenship if you meet the residence, language, and integration conditions			acf.s015_li
+s016	p	Chương Trình	Program	100%: Program		acf.s016_p
+s017	p	{1}02{/1} Chương trình	{1}02{/1} Program	88%: Program		acf.s017_p#1
+s018	h2	Các chương trình đầu tư{br}định cư châu Âu phổ biến	The main European residency{br}by investment programs			acf.s018_h2#1
+s019	p	Đầu tư lấy thẻ thường trú/Golden Visa hoặc quốc tịch châu Âu. Trong đó có 2 hình thức đầu tư phổ biến: đầu tư bất động sản và đầu tư/quyên góp qua quỹ.	Invest for a residence permit or European Golden Visa, or for European citizenship. The 2 most common routes are real estate and investing in or donating to a fund.			acf.s019_p
+s020	p	Nhóm A	Group A	100%: Group A		acf.s020_p
+s021	p	A	A			acf.s021_p
+s022	p	{1}A{/1} Đầu tư lấy thường trú	{1}A{/1} Residency by investment			acf.s022_p#1
+s023	h2	Đầu tư lấy thường trú /{br}{1}Golden Visa châu Âu{/1}	Residency by investment /{br}{1}the European Golden Visa{/1}			acf.s023_h2#1
+s024	p	Đầu tư vào bất động sản hoặc quỹ tài chính để lấy quyền cư trú / thường trú tại một nước châu Âu cho cả gia đình, đi lại khối Schengen và có lộ trình lên quốc tịch EU.	Invest in real estate or in a financial fund to obtain residency for your whole family in a European country, with travel across the Schengen Area and a route toward EU citizenship.			acf.s024_p
+s025	p	Hy Lạp	Greece			acf.s025_p
+s026	p	TỪ 250.000 EUR	From €250,000	85%: From US$250,000		acf.s026_p
+s027	p	Ireland	Ireland			acf.s027_p
+s028	p	TỪ 400.000 EUR	From €400,000			acf.s028_p
+s029	p	Cộng Hoà Síp	Cyprus			acf.s029_p
+s030	p	TỪ 300.000 EUR	From €300,000			acf.s030_p
+s031	p	Malta	Malta			acf.s031_p
+s032	p	TỪ 375.000 EUR	From €375,000			acf.s032_p
+s033	p	Bồ Đào Nha	Portugal			acf.s033_p
+s034	p	TỪ 500.000 EUR	From €500,000			acf.s034_p
+s035	p	Hy Lạp	Greece		trung:s025	acf.s035_p
+s036	p	01	01			acf.s036_p
+s037	p	{1}01{/1} Nhóm A · Lựa chọn 01	{1}01{/1} Group A · Option 01	100%: {1}01{/1} Group A · Option 01		acf.s037_p#1
+s038	p	Thường trú nhân Hy Lạp	Greece Golden Visa	100%: Greece Golden Visa		acf.s038_p
+s039	p	Mức đầu tư	Investment	100%: Investment		acf.s039_p
+s040	p	Từ 250.000 EUR	From €250,000	85%: From US$250,000	trung:s026	acf.s040_p
+s041	p	(~6,5 tỷ đồng)	minimum		#bo-qua-so: ô này chỉ là quy đổi VND của con số EUR ngay trên, bỏ theo style guide mục 5	acf.s041_p
+s042	p	Mục đích	Purpose	100%: Purpose		acf.s042_p
+s043	p	Cư trú Hy Lạp	Greek residency			acf.s043_p
+s044	p	sở hữu BĐS châu Âu, đi lại Schengen	European property ownership, Schengen travel			acf.s044_p
+s045	p	Xét duyệt	Processing	100%: Processing		acf.s045_p
+s046	p	Khoảng 12	About 12			acf.s046_p
+s047	p	tháng	months	100%: months		acf.s047_p
+s048	p	Hình thức đầu tư	How you invest	100%: How you invest		acf.s048_p
+s049	li	Đầu tư bất động sản đủ điều kiện	A qualifying real estate purchase	100%: A qualifying real estate purchase		acf.s049_li
+s050	li	Thẻ cư trú có thời hạn 5 năm, gia hạn 5 năm/lần nếu còn sở hữu BĐS	The residence card is valid for 5 years, renewable in 5-year terms for as long as you continue to own the property	88%: The card is valid for 5 years and is renewable in 5-year periods for as long as you continue to own the property		acf.s050_li
+s051	p	Quyền lợi nổi bật	Key benefits	100%: Key benefits		acf.s051_p
+s052	p	Tự do sinh sống, đầu tư kinh doanh, học tập tại Hy Lạp	Live, invest in a business, and study in Greece	95%: Live, invest in a business, and study in Greece.		acf.s052_p
+s053	p	Đi lại 29 nước Schengen theo quy định lưu trú ngắn hạn	Travel across the 29 Schengen countries under the short-stay rules			acf.s053_p
+s054	p	Gia đình gồm vợ/chồng, con tới 21 tuổi, bố mẹ hai bên	The application covers your spouse, children up to 21, and the parents of both spouses			acf.s054_p
+s055	p	Không yêu cầu cư trú tối thiểu để duy trì thẻ	No minimum stay is required to keep the permit			acf.s055_p
+s056	p	Hạn chế cần lưu ý	Points to consider	100%: Points to consider		acf.s056_p
+s057	p	Muốn nhập tịch cần sống tại Hy Lạp tối thiểu 7 năm	Naturalization requires at least 7 years of living in Greece			acf.s057_p
+s058	p	Cần đáp ứng điều kiện cư trú, ngôn ngữ theo luật Hy Lạp	You must meet the residence and language conditions set by Greek law			acf.s058_p
+s059	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s059_cta
+s060	cta	XEM CHI TIẾT	View details	100%: View details		acf.s060_cta
+s061	p	Ireland	Ireland		trung:s027	acf.s061_p
+s062	p	02	02			acf.s062_p
+s063	p	{1}02{/1} Nhóm A · Lựa chọn 02	{1}02{/1} Group A · Option 02	100%: {1}02{/1} Group A · Option 02		acf.s063_p#1
+s064	p	Thường trú nhân Ireland	Ireland Golden Visa	100% (gắn lại thẻ ): {1}Ireland{/1} Golden Visa		acf.s064_p
+s065	p	Mức đầu tư	Investment	100%: Investment	trung:s039	acf.s065_p
+s066	p	Từ 400.000 EUR	From €400,000		trung:s028	acf.s066_p
+s067	p	Mục đích	Purpose	100%: Purpose	trung:s042	acf.s067_p
+s068	p	Cư trú Ireland	Irish residency			acf.s068_p
+s069	p	lộ trình quốc tịch EU, quyền lợi đặc biệt tại Anh	a route to EU citizenship, with special rights in the UK			acf.s069_p
+s070	p	Xét duyệt	Processing	100%: Processing	trung:s045	acf.s070_p
+s071	p	8 – 10	8–10	100%: 8 – 10		acf.s071_p
+s072	p	tháng	months	100%: months	trung:s047	acf.s072_p
+s073	p	Hình thức đầu tư	How you invest	100%: How you invest	trung:s048	acf.s073_p
+s074	li	Trao tặng 400.000 EUR vào dự án xã hội đủ điều kiện	A €400,000 endowment to a qualifying social project			acf.s074_li
+s075	li	Hoặc đầu tư 1.000.000 EUR vào doanh nghiệp/dự án đủ điều kiện trong 3 năm	Or a €1,000,000 investment in a qualifying business or project, held for 3 years			acf.s075_li
+s076	p	Quyền lợi nổi bật	Key benefits	100%: Key benefits	trung:s051	acf.s076_p
+s077	p	Chỉ chuyển vốn sau khi có chấp thuận sơ bộ	You transfer the funds only after pre-approval			acf.s077_p
+s078	p	Duy trì Stamp 4 với yêu cầu cư trú thấp: 1 ngày/năm	Keep Stamp 4 status with a minimal residence requirement of 1 day a year			acf.s078_p
+s079	p	Sau 5 năm định cư Ireland, có thể nộp hồ sơ nhập tịch	After 5 years of residence in Ireland, you can apply for naturalization			acf.s079_p
+s080	p	Khi có quốc tịch Ireland, được tự do sinh sống, làm việc tại EU và Anh Quốc	With Irish citizenship, you can live and work freely across the EU and in the United Kingdom			acf.s080_p
+s081	p	Hạn chế cần lưu ý	Points to consider	100%: Points to consider	trung:s056	acf.s081_p
+s082	p	Ireland IIP đã ngừng nhận hồ sơ mới từ 15/02/2023	Ireland's Immigrant Investor Programme (IIP) stopped accepting new applications on February 15, 2023	100%: Ireland's Immigrant Investor Programme (IIP) stopped accepting new applications on February 15, 2023		acf.s082_p
+s083	p	Chỉ còn các suất trao tặng hợp lệ từ dự án đủ điều kiện trước thời điểm này	Only endowment places from projects that qualified before that date remain			acf.s083_p
+s084	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s059	acf.s084_cta
+s085	cta	XEM CHI TIẾT	View details	100%: View details	trung:s060	acf.s085_cta
+s086	p	Cộng Hoà Síp	Cyprus		trung:s029	acf.s086_p
+s087	p	03	03			acf.s087_p
+s088	p	{1}03{/1} Nhóm A · Lựa chọn 03	{1}03{/1} Group A · Option 03	100%: {1}03{/1} Group A · Option 03		acf.s088_p#1
+s089	p	Thường trú nhân Cộng Hoà Síp	Cyprus Golden Visa	92%: {1}Cyprus{/1} Golden Visa		acf.s089_p
+s090	p	Mức đầu tư	Investment	100%: Investment	trung:s039	acf.s090_p
+s091	p	Từ 300.000 EUR	From €300,000		trung:s030	acf.s091_p
+s092	p	(~8,4 tỷ đồng)	minimum		#bo-qua-so: ô này chỉ là quy đổi VND của con số EUR ngay trên, bỏ theo style guide mục 5	acf.s092_p
+s093	p	Mục đích	Purpose	100%: Purpose	trung:s042	acf.s093_p
+s094	p	Cư trú lâu dài tại Síp	Long-term residency in Cyprus			acf.s094_p
+s095	p	hướng đến quốc tịch EU	working toward EU citizenship			acf.s095_p
+s096	p	Xét duyệt	Processing	100%: Processing	trung:s045	acf.s096_p
+s097	p	Khoảng 12	About 12		trung:s046	acf.s097_p
+s098	p	tháng	months	100%: months	trung:s047	acf.s098_p
+s099	p	Hình thức đầu tư (chọn 1)	How you invest (choose 1)	100%: Investment routes (choose 1)		acf.s099_p
+s100	li	Mua nhà/căn hộ mới từ chủ đầu tư	Buy a new house or apartment from the developer			acf.s100_li
+s101	li	Mua BĐS thương mại	Buy commercial real estate			acf.s101_li
+s102	li	Góp vốn vào công ty tại Síp	Invest in the share capital of a Cypriot company			acf.s102_li
+s103	li	Đầu tư vào quỹ đầu tư của Síp	Invest in a Cypriot investment fund			acf.s103_li
+s104	p	Quyền lợi nổi bật	Key benefits	100%: Key benefits	trung:s051	acf.s104_p
+s105	p	Tự do sinh sống, học tập, kinh doanh tại Síp	Live, study, and run a business in Cyprus	86%: Live, study, and run a business in Cyprus.		acf.s105_p
+s106	p	Không cần trao tặng Chính phủ	No government donation is required			acf.s106_p
+s107	p	Không yêu cầu ngoại ngữ, học vấn, kinh nghiệm quản lý	No language, education, or management experience requirements	86%: No language, education, or management experience requirements.		acf.s107_p
+s108	p	Chỉ cần sang Síp 1 lần trong 2 năm để duy trì quyền cư trú	You need to visit Cyprus once every 2 years to keep your residency		"#bo-qua-so: ""1 lần"" viết thành ""once"" cho tự nhiên"	acf.s108_p
+s109	p	Lưu ý	Please note	100%: Please note		acf.s109_p
+s110	p	Síp chưa phải lựa chọn đi lại Schengen miễn visa như Hy Lạp/Malta/Bồ Đào Nha	Cyprus does not yet offer visa-free Schengen travel the way Greece, Malta, and Portugal do			acf.s110_p
+s111	p	Khi nhập tịch Síp, có thể sinh sống tại 27 nước EU và đi lại 180 nước theo quy định	With Cypriot citizenship you can live in the 27 EU countries and travel to 180 countries under the applicable rules			acf.s111_p
+s112	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s059	acf.s112_cta
+s113	cta	XEM CHI TIẾT	View details	100%: View details	trung:s060	acf.s113_cta
+s114	p	Malta	Malta		trung:s031	acf.s114_p
+s115	p	04	04			acf.s115_p
+s116	p	{1}04{/1} Nhóm A · Lựa chọn 04	{1}04{/1} Group A · Option 04	95%: {1}04{/1} Group B · Option 04		acf.s116_p#1
+s117	p	Thường trú nhân Malta	Malta Golden Visa	100%: Malta Golden Visa		acf.s117_p
+s118	p	Mức đầu tư	Investment	100%: Investment	trung:s039	acf.s118_p
+s119	p	Từ 375.000 EUR	From €375,000		trung:s032	acf.s119_p
+s120	p	(~11,3 tỷ đồng)	minimum		#bo-qua-so: ô này chỉ là quy đổi VND của con số EUR ngay trên, bỏ theo style guide mục 5	acf.s120_p
+s121	p	Mục đích	Purpose	100%: Purpose	trung:s042	acf.s121_p
+s122	p	Cư trú Malta	Maltese residency			acf.s122_p
+s123	p	+ tự do 29 nước Schengen	+ free travel in the 29 Schengen countries			acf.s123_p
+s124	p	Xét duyệt	Processing	100%: Processing	trung:s045	acf.s124_p
+s125	p	Khoảng 8 – 10	About 8–10			acf.s125_p
+s126	p	tháng	months	100%: months	trung:s047	acf.s126_p
+s127	p	Hình thức đầu tư	How you invest	100%: How you invest	trung:s048	acf.s127_p
+s128	li	Mua BĐS tối thiểu 375.000 EUR hoặc thuê BĐS tối thiểu 14.000 EUR/năm	Buy property worth at least €375,000, or lease property for at least €14,000 a year			acf.s128_li
+s129	li	Duy trì BĐS hoặc hợp đồng thuê trong 5 năm	Hold the property or the lease for at least 5 years	85%: Hold the property or the lease for at least 5 years.		acf.s129_li
+s130	li	Đóng góp Chính phủ, phí hành chính và quyên góp từ thiện theo quy định	A government contribution, administrative fees, and a charitable donation, as required			acf.s130_li
+s131	p	Quyền lợi nổi bật	Key benefits	100%: Key benefits	trung:s051	acf.s131_p
+s132	p	Cư trú vĩnh viễn tại Malta	Permanent residence in Malta			acf.s132_p
+s133	p	Đi lại 29 nước Schengen trong 90 ngày	Travel across the 29 Schengen countries for up to 90 days			acf.s133_p
+s134	p	Gia đình nhiều thế hệ có thể đi cùng hồ sơ	A multigenerational family can be included in one application			acf.s134_p
+s135	p	Không yêu cầu cư trú để duy trì thường trú	No minimum stay is required to keep your permanent residence	94%: No minimum stay is required to keep your permanent residence		acf.s135_p
+s136	p	Lưu ý	Please note	100%: Please note	trung:s109	acf.s136_p
+s137	p	Sau 5 năm, có thể bán BĐS hoặc dừng thuê mà không ảnh hưởng thường trú	After 5 years you may sell the property or end the lease without affecting your permanent residence	92%: After 5 years you may sell the property or end the lease without affecting your permanent residence.		acf.s137_p
+s138	p	Muốn xin quốc tịch cần đáp ứng điều kiện cư trú theo luật Malta	Citizenship requires meeting the residence conditions set by Maltese law			acf.s138_p
+s139	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s059	acf.s139_cta
+s140	cta	XEM CHI TIẾT	View details	100%: View details	trung:s060	acf.s140_cta
+s141	p	Bồ Đào Nha	Portugal		trung:s033	acf.s141_p
+s142	p	05	05			acf.s142_p
+s143	p	{1}05{/1} Nhóm A · Lựa chọn 05	{1}05{/1} Group A · Option 05	91%: {1}01{/1} Group A · Option 01		acf.s143_p#1
+s144	p	Thường trú nhân Bồ Đào Nha	Portugal Golden Visa	100%: Portugal Golden Visa		acf.s144_p
+s145	p	Mức đầu tư	Investment	100%: Investment	trung:s039	acf.s145_p
+s146	p	Tối thiểu 500.000 EUR	From €500,000			acf.s146_p
+s147	p	(~15,3 tỷ đồng)	minimum		#bo-qua-so: ô này chỉ là quy đổi VND của con số EUR ngay trên, bỏ theo style guide mục 5	acf.s147_p
+s148	p	Mục đích	Purpose	100%: Purpose	trung:s042	acf.s148_p
+s149	p	Cư trú Bồ Đào Nha	Portuguese residency			acf.s149_p
+s150	p	đi lại Schengen, lộ trình quốc tịch EU	Schengen travel, a route to EU citizenship			acf.s150_p
+s151	p	Xét duyệt	Processing	100%: Processing	trung:s045	acf.s151_p
+s152	p	12 – 16	12–16			acf.s152_p
+s153	p	tháng	months	100%: months	trung:s047	acf.s153_p
+s154	p	Hình thức đầu tư (chọn 1)	How you invest (choose 1)	100%: Investment routes (choose 1)	trung:s099	acf.s154_p
+s155	li	Quỹ đầu tư ≥500.000 EUR, ≥5 năm, 60% vào công ty thương mại BĐN	An investment fund: €500,000 or more, held for at least 5 years, with 60% invested in Portuguese commercial companies			acf.s155_li
+s156	li	Nghiên cứu khoa học ≥500.000 EUR	Scientific research: €500,000 or more			acf.s156_li
+s157	li	Trao tặng văn hóa ≥250.000 EUR (không hoàn lại)	A cultural donation: €250,000 or more, non-refundable			acf.s157_li
+s158	li	Lập công ty thương mại ≥500.000 EUR + 5 việc làm; hoặc lập công ty mới + 10 việc làm	Forming a commercial company: €500,000 or more plus 5 jobs; or forming a new company plus 10 jobs			acf.s158_li
+s159	li	Đầu tư bất động sản ≥280.000 EUR (đã đóng từ 07/10/2023)	Real estate: €280,000 or more — closed since October 7, 2023		"#bo-qua-so: ngày ""07/10/2023"" viết theo lối Mỹ nên mất chữ số 10"	acf.s159_li
+s160	p	Quyền lợi nổi bật	Key benefits	100%: Key benefits	trung:s051	acf.s160_p
+s161	p	Cả gia đình sinh sống, làm việc, học tập tại Bồ Đào Nha	Your whole family can live, work, and study in Portugal	90%: Your whole family can live, work, and study in Portugal.		acf.s161_p
+s162	p	Đi lại 29 nước Schengen theo quy định lưu trú ngắn hạn	Travel across the 29 Schengen countries under the short-stay rules		trung:s053	acf.s162_p
+s163	p	Có thể xin quốc tịch sau 5 năm nếu đáp ứng điều kiện	You can apply for citizenship after 5 years if you meet the conditions	90%: You can be considered for citizenship after 10 years if you meet the conditions		acf.s163_p
+s164	p	Khi có quốc tịch, được sinh sống tại các nước EU và có thể xét lộ trình E-2 vào Mỹ	With citizenship you can live in EU countries, and you may be able to explore the US E-2 route			acf.s164_p
+s165	p	Lưu ý	Please note	100%: Please note	trung:s109	acf.s165_p
+s166	p	Chỉ cần có mặt tại Bồ Đào Nha 14 ngày trong mỗi 2 năm để duy trì Golden Visa	You need to spend just 14 days in Portugal every 2 years to keep your Golden Visa	93%: You need to spend an average of just 14 days in Portugal every 2 years to keep your Golden Visa		acf.s166_p
+s167	p	Hình thức đầu tư quỹ là lựa chọn chính trong bối cảnh Bồ Đào Nha siết kênh BĐS Golden Visa	The fund route is now the main option, since Portugal has restricted the real estate route for the Golden Visa			acf.s167_p
+s168	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s059	acf.s168_cta
+s169	cta	XEM CHI TIẾT	View details	100%: View details	trung:s060	acf.s169_cta
+s170	p	Nhóm B	Group B	100%: Group B		acf.s170_p
+s171	p	B	B			acf.s171_p
+s172	p	{1}B{/1} Đầu tư lấy quốc tịch	{1}B{/1} Citizenship by investment	95%: {1}A{/1} Citizenship by investment		acf.s172_p#1
+s173	h2	Đầu tư lấy quốc tịch châu Âu	European citizenship by investment			acf.s173_h2
+s174	p	Quốc tịch Malta	Malta Citizenship by Investment			acf.s174_p
+s175	p	ĐÃ ĐÓNG từ 07/2025	Closed since July 2025		"#bo-qua-so: ""07/2025"" viết thành tên tháng theo style guide mục 5"	acf.s175_p#1
+s176	li	**Mức đầu tư:** từ 690.000 EUR (~19,5 tỷ đồng)	**Investment:** from €690,000	86%: **Investment level:** from US$400,000.	#bo-qua-so: bỏ quy đổi VND theo style guide mục 5	acf.s176_li#1
+s177	li	**Mục đích:** lấy quốc tịch Malta, trở thành công dân EU	**Purpose:** Maltese citizenship, and EU citizenship with it			acf.s177_li#1
+s178	li	**Xét duyệt:** từ 18 tháng	**Processing:** from 18 months			acf.s178_li#1
+s179	p	Quốc tịch Montenegro	Montenegro Citizenship by Investment	100%: Montenegro Citizenship by Investment		acf.s179_p
+s180	p	TẠM NGƯNG	Suspended			acf.s180_p#1
+s181	li	**Mức đầu tư:** từ 450.000 EUR (~11,5 tỷ đồng)	**Investment:** from €450,000	88%: **Investment level:** from US$400,000.	#bo-qua-so: bỏ quy đổi VND theo style guide mục 5	acf.s181_li#1
+s182	li	**Mục đích:** lấy thẳng quốc tịch Montenegro	**Purpose:** Montenegrin citizenship directly			acf.s182_li#1
+s183	li	**Xét duyệt:** 6 – 7 tháng	**Processing:** 6–7 months			acf.s183_li#1
+s184	p	Nhóm C	Group C			acf.s184_p
+s185	p	C	C			acf.s185_p
+s186	p	{1}C{/1} Chương trình khác	{1}C{/1} Other programs			acf.s186_p#1
+s187	h2	Các chương trình đầu tư{br}định cư châu Âu khác	Other European residency{br}by investment programs			acf.s187_h2#1
+s188	p	Thông tin tham khảo	For reference			acf.s188_p
+s189	p	Chương trình	Program	100%: Program	trung:s016	acf.s189_p
+s190	p	Mức đầu tư	Investment	100%: Investment	trung:s039	acf.s190_p
+s191	p	Mục đích	Purpose	100%: Purpose	trung:s042	acf.s191_p
+s192	p	Xét duyệt	Processing	100%: Processing	trung:s045	acf.s192_p
+s193	p	Trạng thái	Status			acf.s193_p
+s194	p	Thường trú nhân Bulgaria	Bulgaria Golden Visa	100% (gắn lại thẻ ): {1}Bulgaria{/1} Golden Visa		acf.s194_p
+s195	p	từ 1.000.000 BGN (~512.000 EUR)	from BGN 1,000,000 (about €512,000)			acf.s195_p
+s196	p	Thường trú vĩnh viễn Bulgaria, đi lại 29 nước Schengen	Bulgarian permanent residence, travel across the 29 Schengen countries			acf.s196_p
+s197	p	khoảng 3 tháng	about 3 months			acf.s197_p
+s198	p	Đang mở	Open			acf.s198_p#1
+s199	p	Thường trú nhân Hungary	Hungary Golden Visa	100%: Hungary Golden Visa		acf.s199_p
+s200	p	từ 250.000 EUR	from €250,000	85%: From US$250,000	trung:s026	acf.s200_p
+s201	p	Cư trú Hungary, đi lại 29 nước Schengen	Hungarian residency, travel across the 29 Schengen countries			acf.s201_p
+s202	p	khoảng 3–6 tháng	about 3–6 months			acf.s202_p
+s203	p	Đang mở	Open		trung:s198	acf.s203_p#1
+s204	p	Tây Ban Nha	Spain Golden Visa			acf.s204_p
+s205	p	từ 500.000 EUR	from €500,000		trung:s034	acf.s205_p
+s206	p	Tạm trú Tây Ban Nha, đi lại 29 nước Schengen	Spanish temporary residency, travel across the 29 Schengen countries			acf.s206_p
+s207	p	khoảng 6–8 tháng	about 6–8 months			acf.s207_p
+s208	p	Đã đóng cửa (04/2025)	Closed (April 2025)		"#bo-qua-so: ""04/2025"" viết thành tên tháng theo style guide mục 5"	acf.s208_p#1
+s209	p	Thường trú nhân Đức	Germany residency by investment		#bo-qua-tn: Đức không có chương trình Golden Visa và giấy phép này là thẻ cư trú kinh doanh, không phải thường trú	acf.s209_p
+s210	p	không yêu cầu mức cụ thể	no set minimum			acf.s210_p
+s211	p	Tạm trú kinh doanh tại Đức, hướng đến thường trú Đức và quốc tịch EU	German business residency, working toward German permanent residence and EU citizenship			acf.s211_p
+s212	p	khoảng 6–8 tuần	about 6–8 weeks			acf.s212_p
+s213	p	Đang mở	Open		trung:s198	acf.s213_p#1
+s214	p	Thường trú nhân Pháp	France residency by investment		#bo-qua-tn: Pháp không có chương trình Golden Visa; đây là thẻ cư trú diện lập công ty/đầu tư, không phải thường trú	acf.s214_p
+s215	p	từ 30.000 EUR (công ty) – 300.000 EUR (đầu tư)	from €30,000 (company) to €300,000 (investment)			acf.s215_p
+s216	p	Thường trú Pháp, đi lại Schengen, hướng đến quốc tịch EU	French residency, Schengen travel, working toward EU citizenship			acf.s216_p
+s217	p	trong 1 tháng	within 1 month			acf.s217_p
+s218	p	Đang mở	Open		trung:s198	acf.s218_p#1
+s219	p	Đầu tư định cư Latvia	Latvia Golden Visa	100%: Latvia Golden Visa		acf.s219_p
+s220	p	từ 50.000 EUR	from €50,000			acf.s220_p
+s221	p	Thẻ tạm trú Latvia, đi lại Schengen, Thụy Sĩ, Na Uy, Iceland	Latvian temporary residency, travel in the Schengen Area, Switzerland, Norway, and Iceland			acf.s221_p
+s222	p	khoảng 30–90 ngày	about 30–90 days			acf.s222_p
+s223	p	Đang mở	Open		trung:s198	acf.s223_p#1
+s224	p	Quyền cư trú Anh — Innovator Founder Visa	UK residency — Innovator Founder visa			acf.s224_p
+s225	p	không yêu cầu mức cụ thể	no set minimum		trung:s210	acf.s225_p
+s226	p	Cư trú Anh diện khởi nghiệp, lộ trình quốc tịch Anh	UK residency through a start-up, with a route to British citizenship			acf.s226_p
+s227	p	trong vòng 3 tuần	within 3 weeks			acf.s227_p
+s228	p	Đang mở	Open		trung:s198	acf.s228_p#1
+s229	p	Quyền cư trú Anh — Investor Visa	UK residency — Investor visa			acf.s229_p
+s230	p	từ 2 – 10 triệu Bảng Anh	from £2 million to £10 million		"#bo-qua-so: nguồn viết tắt ""2 - 10 triệu"" nên số 2 đứng trần, bản Anh viết đủ ""£2 million"""	acf.s230_p
+s231	p	Cư trú Anh, lộ trình quốc tịch Anh	UK residency, with a route to British citizenship			acf.s231_p
+s232	p	trong vòng 8 tuần	within 8 weeks			acf.s232_p
+s233	p	Đang mở	Open		trung:s198	acf.s233_p#1
+s234	p	Quyền cư trú Hungary (cũ)	Hungary residency (former program)			acf.s234_p
+s235	p	300.000 EUR	€300,000			acf.s235_p
+s236	p	Cư trú Hungary, đi lại 29 nước Schengen	Hungarian residency, travel across the 29 Schengen countries		trung:s201	acf.s236_p
+s237	p	khoảng 3–6 tháng	about 3–6 months		trung:s202	acf.s237_p
+s238	p	Đã đóng cửa (03/2017)	Closed (March 2017)		"#bo-qua-so: ""03/2017"" viết thành tên tháng theo style guide mục 5"	acf.s238_p#1
+s239	p	Quyền cư trú Ý — Investor Visa	Italy residency — Investor visa			acf.s239_p
+s240	p	từ 500.000 EUR – 2 triệu EUR	from €500,000 to €2 million			acf.s240_p
+s241	p	Cư trú Ý, lộ trình quốc tịch EU	Italian residency, with a route to EU citizenship			acf.s241_p
+s242	p	khoảng 2–3 tháng	about 2–3 months			acf.s242_p
+s243	p	Đang mở	Open		trung:s198	acf.s243_p#1
+s244	p	Quyền cư trú Ý — Elective Residence Visa	Italy residency — Elective Residence visa			acf.s244_p
+s245	p	không yêu cầu đầu tư	no investment required	100%: No investment required		acf.s245_p
+s246	p	Cư trú Ý bằng nguồn thu nhập thụ động, lộ trình quốc tịch EU	Italian residency on passive income, with a route to EU citizenship			acf.s246_p
+s247	p	khoảng 2–3 tháng	about 2–3 months		trung:s242	acf.s247_p
+s248	p	Đang mở	Open		trung:s198	acf.s248_p#1
+s249	p	Quốc tịch North Macedonia	North Macedonia Citizenship by Investment			acf.s249_p
+s250	p	từ 200.000 – 400.000 EUR	from €200,000 to €400,000			acf.s250_p
+s251	p	Lấy quốc tịch North Macedonia	North Macedonian citizenship			acf.s251_p
+s252	p	khoảng 2–5 tháng	about 2–5 months			acf.s252_p
+s253	p	Đang mở	Open		trung:s198	acf.s253_p#1
+s254	p	← Vuốt ngang để xem đầy đủ các cột →	← Swipe to see all columns →	100%: ← Swipe to see every column →		acf.s254_p#1
+s255	p	Vì Sao IMM	Why IMM	100%: Why IMM		acf.s255_p
+s256	p	IMM	IMM	100%: IMM		acf.s256_p
+s257	h2	Vì sao chọn IMM Group?	Why choose IMM Group?	100%: Why choose IMM Group?		acf.s257_h2
+s258	p	Từ năm 2005, IMM Group là đơn vị tiên phong tư vấn đầu tư định cư châu Âu, Mỹ, Úc, Canada cho doanh nhân Việt Nam.	Since 2005, IMM Group has been a pioneer in advising entrepreneurs on residency by investment in Europe, the United States, Australia, and Canada.			acf.s258_p
+s259	p	1	1			acf.s259_p#1
+s260	h3	21+ năm kinh nghiệm	21+ years of experience	100%: 21+ years of experience		acf.s260_h3
+s261	li	Hai thập kỷ tư vấn đầu tư định cư quốc tế	Two decades advising on investment migration	100%: Two decades advising on investment migration		acf.s261_li
+s262	li	625+ hồ sơ đầu tư định cư xử lý thành công	625+ investment migration cases handled successfully	100%: 625+ investment migration cases handled successfully		acf.s262_li
+s263	li	2.500+ visa được cấp cho các gia đình Việt Nam	2,500+ visas granted to client families	100%: 2,500+ visas granted to client families		acf.s263_li
+s264	p	2	2			acf.s264_p#1
+s265	h3	Chuyên sâu chương trình châu Âu	Deep expertise in European programs	86%: Deep expertise in citizenship by investment		acf.s265_h3
+s266	li	Am hiểu các chương trình Golden Visa và quốc tịch châu Âu	We know the European Golden Visa and citizenship programs in detail			acf.s266_li
+s267	li	Tư vấn theo mục tiêu cư trú, giáo dục, đi lại và quốc tịch của từng gia đình	Advice shaped around each family's goals for residency, education, travel, and citizenship			acf.s267_li
+s268	li	Hỗ trợ lựa chọn chương trình phù hợp với tài chính và kế hoạch dài hạn	Help choosing the program that fits your finances and your long-term plans			acf.s268_li
+s269	p	3	3			acf.s269_p#1
+s270	h3	Đội ngũ chuyên môn quốc tế	An internationally certified team	85%: An internationally certified team		acf.s270_h3
+s271	li	Chuyên viên đạt chứng chỉ IMC về đầu tư định cư quốc tế	Our advisors hold Investment Migration Council (IMC) certification	100%: Our advisors hold Investment Migration Council (IMC) certification		acf.s271_li
+s272	li	Được đào tạo về chống rửa tiền, bảo mật và thẩm định khách hàng	Trained in anti-money-laundering checks, confidentiality, and client due diligence			acf.s272_li
+s273	li	Hợp tác với công ty di trú và luật sư tại châu Âu, toàn cầu	We work with immigration firms and lawyers in Europe and worldwide			acf.s273_li
+s274	p	4	4			acf.s274_p#1
+s275	h3	Tư vấn khách quan	Objective advice			acf.s275_h3
+s276	li	Phân tích rõ quyền lợi, điều kiện và hạn chế của từng chương trình	A clear analysis of each program's benefits, conditions, and limitations			acf.s276_li
+s277	li	Chủ động sàng lọc hồ sơ phù hợp trước khi triển khai	We assess each case for suitability before taking it on			acf.s277_li
+s278	p	5	5			acf.s278_p#1
+s279	h3	Cam kết đồng hành lâu dài	A long-term commitment	100%: A long-term commitment		acf.s279_h3
+s280	li	Đặt quyền lợi khách hàng lên trước lợi ích công ty	We put your interests ahead of the firm's	100%: We put your interests ahead of the firm's		acf.s280_li
+s281	li	Bảo mật thông tin khách hàng theo tiêu chuẩn cao, ký NDA khi cần	We hold client information to a high standard of confidentiality and sign an NDA where needed	100%: We hold client information to a high standard of confidentiality and sign an NDA where needed		acf.s281_li
+s282	li	Sẵn sàng hoàn phí khi xảy ra rủi ro khách quan theo hợp đồng	We are prepared to refund fees where risks outside your control arise, as set out in the contract	100%: We are prepared to refund fees where risks outside your control arise, as set out in the contract		acf.s282_li
+s283	p	6	6			acf.s283_p#1
+s284	h3	Nhận và cho đi — Be Better Foundation	Giving back — the Be Better Foundation	100%: Giving back — the Be Better Foundation		acf.s284_h3
+s285	li	Từ 2025, IMM Group chính thức trở thành doanh nghiệp phi lợi nhuận	In 2025, IMM Group formally became a not-for-profit business	100%: Since 2025, IMM Group has formally become a not-for-profit business		acf.s285_li
+s286	li	IMM Group cam kết đóng góp tối thiểu 51% lợi nhuận hằng năm vào Quỹ Be Better	IMM Group commits at least 51% of annual profit to the Be Better Foundation	100%: IMM Group commits at least 51% of annual profit to the Be Better Foundation		acf.s286_li
+s287	li	Quỹ hỗ trợ học sinh, sinh viên khó khăn tiếp tục học tập và thay đổi tương lai	The foundation helps students facing hardship stay in school and change their future	100%: The foundation helps students facing hardship stay in school and change their future		acf.s287_li
+s288	p	21+	21+	100%: 21+		acf.s288_p
+s289	p	năm kinh nghiệm	Years of experience	100%: Years of experience		acf.s289_p
+s290	p	625+	625+	100%: 625+		acf.s290_p
+s291	p	hồ sơ thành công	Successful cases	100%: Successful cases		acf.s291_p
+s292	p	2.500+	2,500+	100%: 2,500+		acf.s292_p
+s293	p	visa được cấp	Visas granted	100%: Visas granted		acf.s293_p
+s294	p	"""Phục vụ bằng những giá trị chân chính"""	"""Service built on genuine values"""	"100%: ""Service built on genuine values"""		acf.s294_p
+s295	p	— Tôn chỉ IMM Group —	— The IMM Group credo —	100%: — The IMM Group promise —		acf.s295_p
+s296	p	Tham Khảo	Related	100%: More		acf.s296_p
+s297	p	Có thể bạn quan tâm	You may also be interested in	100%: You may also be interested in		acf.s297_p
+s298	h3	Tìm hiểu các dịch vụ tư vấn từ IMM Group	Explore IMM Group's advisory services	100%: Explore IMM Group's advisory services		acf.s298_h3
+s299	cta	Thường trú nhân Ireland	Ireland Golden Visa	100% (gắn lại thẻ ): {1}Ireland{/1} Golden Visa	trung:s064	acf.s299_cta
+s300	cta	Thường trú nhân Hy Lạp	Greece Golden Visa	100%: Greece Golden Visa	trung:s038	acf.s300_cta
+s301	cta	Thường trú nhân Cộng Hòa Síp (Cyprus)	Cyprus Golden Visa	100%: Cyprus Golden Visa		acf.s301_cta
+s302	cta	Thường trú nhân Latvia	Latvia Golden Visa	95%: Latvia Golden Visa		acf.s302_cta
+s303	cta	Thường trú nhân Malta	Malta Golden Visa	100%: Malta Golden Visa	trung:s117	acf.s303_cta
+s304	cta	Thường trú nhân Bồ Đào Nha	Portugal Golden Visa	100%: Portugal Golden Visa	trung:s144	acf.s304_cta
+s305	cta	Thường trú nhân Hungary	Hungary Golden Visa	100%: Hungary Golden Visa	trung:s199	acf.s305_cta
