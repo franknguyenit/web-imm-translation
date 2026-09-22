@@ -1,0 +1,679 @@
+[
+    {
+        "post_id": 100902,
+        "post_slug": "/quoc-tich-tho-nhi-ky-turkey/",
+        "post_title": "Quốc Tịch Thổ Nhĩ Kỳ",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "QUỐC TỊCH <span class=\"accent\">THỔ NHĨ KỲ</span>"
+            },
+            "product_hero_video": "https://videopress.com/v/OIu5bWTb",
+            "product_hero_image": "99359",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "Quốc tịch Thổ Nhĩ Kỳ là gì?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Chương trình đầu tư lấy quốc tịch do Chính phủ Thổ Nhĩ Kỳ ban hành.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Nhà đầu tư và gia đình có thể trở thành công dân Thổ Nhĩ Kỳ khi đáp ứng điều kiện đầu tư.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Mức đầu tư:</strong> từ 400.000 USD (~10,4 tỷ đồng).",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Sau khi có quốc tịch, được tự do đi lại hơn 110 quốc gia.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Quốc tịch Thổ Nhĩ Kỳ mở lộ trình xin Visa Mỹ E-2 để đầu tư và sinh sống tại Mỹ.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Điều kiện xin Visa E-2:</strong> cư trú tối thiểu 3 năm liên tiếp tại Thổ Nhĩ Kỳ trước khi nộp hồ sơ.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://immgroup.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI QUỐC TỊCH THỔ NHĨ KỲ",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "public",
+                    "product_benefits_item_title": "Tự do đi lại quốc tế",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Miễn visa hoặc visa điện tử tới hơn 110 quốc gia, gồm Nhật Bản, Hàn Quốc, Hồng Kông, Singapore."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Phúc lợi cho cả gia đình",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Cả gia đình được hưởng phúc lợi y tế, giáo dục và làm việc tại Thổ Nhĩ Kỳ với tư cách công dân."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "flight_takeoff",
+                    "product_benefits_item_title": "Cơ hội xin visa E-2 vào Mỹ",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Sau khi sở hữu quốc tịch và cư trú tối thiểu 3 năm, nhà đầu tư có thể xin visa E-2 - theo điều kiện chương trình."
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "E-2 là thị thực không định cư, không phải thẻ xanh/quốc tịch Mỹ."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "business_center",
+                    "product_benefits_item_title": "Mở rộng kinh doanh quốc tế",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Tận dụng vị trí chiến lược của Thổ Nhĩ Kỳ giữa châu Âu và châu Á để phát triển giao thương."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "badge",
+                    "product_benefits_item_title": "Linh hoạt về tên khi nhập tịch",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Có thể giữ tên Việt Nam hoặc chọn tên mới theo bảng chữ cái Thổ Nhĩ Kỳ, thuận tiện giao thương quốc tế."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM NỔI BẬT",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "apartment",
+                    "product_advantages_item_title": "Đầu tư BĐS khu trung tâm Istanbul",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Mức từ 400.000 USD (~10,4 tỷ đồng) - thuộc nhóm thấp trong các chương trình lấy quốc tịch."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "schedule",
+                    "product_advantages_item_title": "Thời gian thụ lý dự kiến",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Thời gian thụ lý dao động từ 12 đến 18 tháng."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "verified",
+                    "product_advantages_item_title": "Lên thẳng quốc tịch - điều kiện đơn giản",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không yêu cầu khám sức khỏe."
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Không yêu cầu cư trú."
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Không kê khai tài sản."
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Không giới hạn quốc tịch đương đơn."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Không rào cản hồ sơ",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không giới hạn độ tuổi."
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Không yêu cầu bằng cấp hay kinh nghiệm làm việc."
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Không yêu cầu tiếng Anh."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "all_inclusive",
+                    "product_advantages_item_title": "Quốc tịch vĩnh viễn, linh hoạt tài sản",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Quốc tịch có giá trị vĩnh viễn, không ràng buộc duy trì thêm; được bán bất động sản sau 3 năm mà vẫn giữ quốc tịch."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "price_check",
+                    "product_advantages_item_title": "Bất động sản minh bạch, định giá độc lập",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Giá bất động sản niêm yết minh bạch, áp dụng chung cho người bản xứ và nhà đầu tư nước ngoài; có chứng thư thẩm định từ đơn vị thứ ba."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN THAM GIA",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện đương đơn",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 18 tuổi, không giới hạn tuổi tối đa."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đạt yêu cầu lý lịch an ninh & sức khỏe."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Người phụ thuộc",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Vợ/chồng hợp pháp."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Con cái dưới 18 tuổi (chưa kết hôn, phụ thuộc tài chính)."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đạt yêu cầu lý lịch an ninh & sức khỏe."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Yêu cầu đầu tư",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh nguồn tiền có nguồn gốc hợp pháp."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Mua bất động sản đủ điều kiện từ 400.000 USD (~10,4 tỷ đồng), duy trì tối thiểu 3 năm."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "LỘ TRÌNH THỰC HIỆN",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Đặt cọc & thẩm định",
+                    "product_process_step_desc": "Ký thỏa thuận đặt cọc, thẩm định hồ sơ; khảo sát thực tế (nếu cần).",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "contract",
+                    "product_process_step_title": "Ký hợp đồng",
+                    "product_process_step_desc": "Hợp đồng dịch vụ IMM Group và hợp đồng luật sư.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "real_estate_agent",
+                    "product_process_step_title": "Mua BĐS & nhận giấy tờ",
+                    "product_process_step_desc": "Ký hợp đồng mua bất động sản, thực hiện đầu tư; nhận Title deed và Qualification Certificate từ Sở đất đai.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "fingerprint",
+                    "product_process_step_title": "Sinh trắc lần 1 & xin thẻ cư trú",
+                    "product_process_step_desc": "Chuẩn bị hồ sơ; sang Thổ Nhĩ Kỳ lấy sinh trắc, nộp hồ sơ xin thẻ cư trú (Residence Permit).",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "how_to_reg",
+                    "product_process_step_title": "Sinh trắc lần 2 & nộp hồ sơ quốc tịch",
+                    "product_process_step_desc": "Nhận chấp thuận thẻ; lấy sinh trắc lần 2 và nộp hồ sơ xin quốc tịch.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "passport",
+                    "product_process_step_title": "Nhận quốc tịch & hộ chiếu",
+                    "product_process_step_desc": "Nhận chấp thuận nhập tịch; đăng ký căn cước và cấp hộ chiếu tại Đại sứ quán Thổ Nhĩ Kỳ (Hà Nội) hoặc tại Thổ Nhĩ Kỳ.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "Các dự án bất động sản",
+            "product_projects_posts": [
+                "55243"
+            ],
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "Có thể bạn quan tâm",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "Có thể bạn quan tâm",
+            "product_care_service_desc": "<p>Tìm hiểu các dịch vụ tư vấn từ IMM Group:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Các dự án bất động sản Thổ Nhĩ Kỳ",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-tho-nhi-ky-turkey/cac-du-an-bat-dong-san-tho-nhi-ky/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Đầu tư định cư Mỹ",
+                    "product_care_service_link_url": "https://immgroup.com/dau-tu-dinh-cu-my/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Đầu tư định cư Canada",
+                    "product_care_service_link_url": "https://immgroup.com/dau-tu-dinh-cu-canada/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Quốc tịch & thường trú nhân châu Âu",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Quốc tịch các nước vùng Caribbean",
+                    "product_care_service_link_url": "https://immgroup.com/cac-nuoc-vung-caribbean/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Đầu Tư Định Cư New Zealand",
+                    "product_care_service_link_url": "https://immgroup.com/dau-tu-dinh-cu-new-zealand/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Đầu tư định cư Úc",
+                    "product_care_service_link_url": "https://immgroup.com/dau-tu-dinh-cu-uc/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Hiểu về Thổ Nhĩ Kỳ",
+            "product_care_topics_desc": "<p>Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Cuộc sống tại Thổ Nhĩ Kỳ",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-tho-nhi-ky-turkey/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Du lịch tại Thổ Nhĩ Kỳ",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-tho-nhi-ky-turkey/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Văn hóa Thổ Nhĩ Kỳ",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-tho-nhi-ky-turkey/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Giáo dục tại Thổ Nhĩ Kỳ",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-tho-nhi-ky-turkey/#n3",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Câu hỏi thường gặp về quốc tịch Thổ Nhĩ Kỳ",
+            "product_faq_section_id": "faq-turkey",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Rủi ro đầu tư?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Các rủi ro cần lưu ý",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Rủi ro chủ yếu liên quan đến dự án bất động sản."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nhà đầu tư cần lưu ý các điều kiện để BĐS hợp lệ: có chứng thư thẩm định giá trị đạt tối thiểu 400.000 USD (~10,4 tỷ đồng); chưa từng được dùng để lấy quốc tịch; và không thuộc sở hữu của một người nước ngoài."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Về xét cấp quốc tịch, rủi ro được giảm thiểu nếu hồ sơ làm đúng quy trình (chương trình không yêu cầu khám sức khỏe, không kê khai tài sản, không giới hạn quốc tịch đương đơn)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group hỗ trợ làm hồ sơ theo đúng yêu cầu của Chính phủ."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Lưu ý: khoản đầu tư bất động sản vẫn là khoản đầu tư có rủi ro về giá trị tài sản."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Phương án đầu tư?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Đầu tư bất động sản đủ điều kiện",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Để đầu tư lấy quốc tịch Thổ Nhĩ Kỳ, nhà đầu tư mua bất động sản đủ điều kiện với giá trị từ 400.000 USD (~ 10,4 tỷ đồng, chưa gồm thuế/phí)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau khoảng 12-18 tháng thụ lý (tùy hồ sơ và tiến độ cơ quan chức năng), nhà đầu tư cùng vợ/chồng và con dưới 18 tuổi (chưa kết hôn, còn phụ thuộc tài chính) được cấp quốc tịch Thổ Nhĩ Kỳ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Duy trì BĐS bao lâu?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Thời gian duy trì khoản đầu tư",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Theo quy định, nhà đầu tư cần duy trì khoản đầu tư bất động sản trong 3 năm và cam kết không bán trước thời hạn này (thông tin được lưu trên hệ thống quản lý nhà đất của Thổ Nhĩ Kỳ)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Trong thời gian duy trì, nhà đầu tư không cần xin gia hạn hay nộp hồ sơ định kỳ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau 3 năm, IMM Group cùng đối tác hỗ trợ bán lại bất động sản (không ảnh hưởng đến quốc tịch); người thân hoặc bạn bè cũng có thể mua lại để nộp hồ sơ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nếu muốn tiếp tục đầu tư để cho thuê, nhà đầu tư có thể ký hợp đồng cho thuê với nhà phát triển dự án."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Dự án thất bại có ảnh hưởng quốc tịch?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Quốc tịch và rủi ro dự án là hai vấn đề tách biệt",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Quốc tịch sau khi được cấp có giá trị vĩnh viễn và không bị ảnh hưởng nếu dự án bất động sản không thành công: nếu hồ sơ đúng yêu cầu và đầu tư vào dự án đủ điều kiện, nhà đầu tư vẫn giữ quốc tịch đã nhận."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tuy nhiên cần phân biệt rõ: khoản đầu tư bất động sản vẫn là khoản đầu tư có rủi ro về giá trị và khả năng thu hồi vốn - đây là hai vấn đề tách biệt."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Yêu cầu BĐS hợp lệ?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Theo cập nhật Luật ngày 22/03/2021",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Mỗi giấy chứng nhận quyền sở hữu (title deed) chỉ được dùng để làm hồ sơ lấy quốc tịch một lần duy nhất."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Bất động sản dùng để nộp hồ sơ phải được mua từ cá nhân hoặc pháp nhân có quốc tịch khác (ví dụ mua từ công ty/cá nhân Thổ Nhĩ Kỳ)."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Ngưỡng giá trị hiện hành là từ 400.000 USD (~10,4 tỷ đồng) (áp dụng sau cập nhật 2022). Quy định cụ thể theo luật tại thời điểm nộp hồ sơ."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Chính sách phúc lợi?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Giáo dục và y tế",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Với quốc tịch Thổ Nhĩ Kỳ, con cái được học miễn phí tại các trường công."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Cả gia đình được chăm sóc y tế miễn phí tại bệnh viện công và giảm phí đáng kể tại bệnh viện tư - hệ thống y tế Thổ Nhĩ Kỳ nằm trong nhóm điểm đến du lịch chữa bệnh hàng đầu khu vực."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Công dân được chăm sóc miễn phí tại bệnh viện công và giảm phí đáng kể tại bệnh viện tư."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Miễn visa nước nào?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Quyền đi lại với hộ chiếu Thổ Nhĩ Kỳ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Miễn visa hoặc visa điện tử tới hơn 110 quốc gia, gồm Nhật Bản, Hàn Quốc, Hồng Kông, Singapore."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Việc có thêm hộ chiếu thứ hai cũng tạo thuận lợi khi xin visa các nước; tuy nhiên kết quả xét visa của từng nước (EU, Schengen…) phụ thuộc quy định và xét duyệt riêng của nước đó."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Lưu ý: Thổ Nhĩ Kỳ không thuộc khối Schengen."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Ngôn ngữ?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Ngôn ngữ sử dụng tại Thổ Nhĩ Kỳ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Ngôn ngữ chính thức là tiếng Thổ Nhĩ Kỳ; ngoài ra tiếng Anh cũng được sử dụng phổ biến ở nhiều nơi."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Khi làm hồ sơ đầu tư lấy quốc tịch Thổ Nhĩ Kỳ, nhà đầu tư không cần chứng minh khả năng ngoại ngữ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Kinh tế?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Tổng quan kinh tế Thổ Nhĩ Kỳ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Nền kinh tế lớn trong nhóm G20, cửa ngõ giao thương giữa châu Âu và châu Á, mạnh về du lịch, năng lượng và sản xuất ô tô - môi trường thuận lợi để mở rộng kinh doanh quốc tế."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thổ Nhĩ Kỳ thuộc nhóm điểm đến du lịch hàng đầu, thu hút hàng chục triệu du khách mỗi năm."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Giáo dục?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Hệ thống giáo dục",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Thổ Nhĩ Kỳ có hơn 170 trường đại học, là điểm đến học tập giao thoa giữa văn hóa Đông và Tây."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Một số trường đại học của Thổ Nhĩ Kỳ có mặt trong Bảng xếp hạng các trường đại học thế giới QS (QS World University Rankings)."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Hiệp định E-2 Mỹ-Thổ?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cơ sở cho visa E-2",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Hiệp định thương mại giữa Mỹ và Thổ Nhĩ Kỳ (cơ sở cho visa E-2) được ký từ năm 1990 và duy trì ổn định nhiều năm, không có thời hạn kết thúc cố định."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Những thay đổi trong tương lai (nếu có) phụ thuộc vào quan hệ và sự đồng thuận giữa hai nước."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Lưu ý: chính sách và điều kiện cấp visa E-2 vẫn có thể thay đổi theo quy định của Mỹ tại thời điểm nộp hồ sơ."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Tỷ lệ thành công E-2?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Thổ Nhĩ Kỳ và lộ trình E-2",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Thổ Nhĩ Kỳ là một trong những lựa chọn được nhiều nhà đầu tư ưu tiên khi hướng tới visa E-2 qua quốc tịch trung gian, nhờ mức đầu tư hợp lý, điều kiện đơn giản và quy trình nhanh."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thổ Nhĩ Kỳ có hiệp ước E-2 cho cả hai diện E-1 và E-2 với Hoa Kỳ, thời hạn visa cấp cho công dân Thổ tới 60 tháng - dài hơn nhiều nước. Lộ trình E-2 phù hợp với nhà đầu tư có kế hoạch kinh doanh thực tế tại Mỹ."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Lưu ý: E-2 là thị thực đầu tư không định cư (không phải thẻ xanh/quốc tịch Mỹ)."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Cần sang Thổ để lấy quốc tịch?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Yêu cầu hiện diện tại Thổ Nhĩ Kỳ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Theo quy trình hiện hành, nhà đầu tư bắt buộc sang Thổ Nhĩ Kỳ ít nhất 2 lần: lần 1 để nộp hồ sơ xin thẻ cư trú, lần 2 để nộp hồ sơ xin quốc tịch (lấy sinh trắc học)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Toàn bộ phần còn lại của quy trình có thể ủy quyền thực hiện từ Việt Nam."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau khi có quốc tịch, gia đình nhà đầu tư không bắt buộc phải cư trú tại Thổ Nhĩ Kỳ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Cần cư trú để xin E-2?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Điều kiện gắn với quốc tịch nước hiệp ước",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Để xin visa E-2, người có quốc tịch Thổ Nhĩ Kỳ diện đầu tư cần chứng minh sự gắn kết với Thổ Nhĩ Kỳ liên tục 3 năm theo luật Mỹ hiện hành. Đây là điều kiện pháp lý xét theo từng hồ sơ chi tiết, không đơn thuần là số ngày cư trú."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Điều kiện cụ thể theo quy định chương trình E-2 hiện hành tại thời điểm nộp; nên kiểm chứng với luật sư di trú."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Tuổi con phụ thuộc?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Điều kiện con phụ thuộc",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chương trình cho phép con cái (người phụ thuộc) chưa kết hôn, đến 18 tuổi, được đi kèm trong bộ hồ sơ của cha mẹ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Bố mẹ có đi kèm?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Phạm vi người phụ thuộc",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Rất tiếc là không."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Chương trình chỉ cho phép đương đơn cùng vợ/chồng và con phụ thuộc đến 18 tuổi đi chung một bộ hồ sơ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nếu muốn có phương án cho cả bố mẹ, nhà đầu tư có thể cân nhắc: chuyển sang chương trình quốc tịch Grenada hoặc các chương trình châu Âu (cho phép gia đình nhiều thế hệ đi chung), hoặc làm một bộ hồ sơ Thổ Nhĩ Kỳ riêng cho bố mẹ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": ""
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": ""
+            }
+        }
+    }
+]

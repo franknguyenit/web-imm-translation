@@ -1,0 +1,618 @@
+[
+    {
+        "post_id": 100898,
+        "post_slug": "/quoc-tich-dominica/",
+        "post_title": "Quốc tịch Dominica",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "QUỐC TỊCH <span class=\"accent\">DOMINICA</span>"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99363",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "QUỐC TỊCH DOMINICA LÀ GÌ?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Chương trình đầu tư lấy quốc tịch do Chính phủ Dominica ban hành (từ 1993).",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Nhà đầu tư có thể chọn quyên góp vào Quỹ Đa dạng Kinh tế hoặc đầu tư bất động sản được Chính phủ phê duyệt.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Sau khi có quốc tịch, được miễn visa đến 143 quốc gia trên toàn cầu.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Hồ sơ có thể bao gồm 3 thế hệ: vợ/chồng, con cái phụ thuộc, cha mẹ phụ thuộc trên 65 tuổi.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Thời gian thụ lý hồ sơ từ 8-10 tháng.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Thời gian duy trì đầu tư ngắn, chỉ 3 năm.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Dominica được Financial Time đánh giá là lựa chọn lấy quốc tịch thứ hai tốt nhất thế giới trong 4 năm liên tiếp, 2017-2020.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://immgroup.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI QUỐC TỊCH DOMINICA",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "public",
+                    "product_benefits_item_title": "Tự do đi lại toàn cầu",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Miễn visa hoặc chỉ cần visa điện tử đến 143 nước."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "Thuận lợi xin visa Mỹ, Canada",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Dễ dàng xin visa Mỹ và Canada."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "account_balance",
+                    "product_benefits_item_title": "Không đánh thuế thu nhập toàn cầu",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Không đánh thuế thu nhập cá nhân và thu nhập doanh nghiệp phát sinh toàn cầu."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "real_estate_agent",
+                    "product_benefits_item_title": "Không đánh thuế tài sản",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Không đánh thuế bất động sản, thuế kế thừa hoặc thuế cho tặng gia sản."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "badge",
+                    "product_benefits_item_title": "Linh hoạt tên trên hộ chiếu",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Nhà đầu tư có thể chọn tên mới khi nhập tịch, hoặc giữ nguyên tên Việt Nam. Nếu chọn tên mới, hộ chiếu Dominica không đề cập tên cũ, giúp thuận tiện giao thương quốc tế."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "all_inclusive",
+                    "product_benefits_item_title": "Quốc tịch trọn đời",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Quốc tịch Dominica có giá trị trọn đời và có thể truyền cho thế hệ sau theo quy định của Dominica."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM QUỐC TỊCH DOMINICA",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "savings",
+                    "product_advantages_item_title": "Hoàn vốn sau 3 năm",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Với diện bất động sản, nhà đầu tư có thể chuyển nhượng phần đầu tư sau 3 năm. Khả năng và mức thu hồi vốn tùy thị trường và điều khoản dự án tại thời điểm bán."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "workspace_premium",
+                    "product_advantages_item_title": "Chương trình quốc tịch thứ hai nổi bật",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Được đánh giá là chương trình lấy quốc tịch thứ hai tốt nhất trong 4 năm liên tiếp, 2017-2020."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Điều kiện tham gia đơn giản",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không yêu cầu độ tuổi, bằng cấp, kinh nghiệm, ngoại ngữ và không cần phỏng vấn."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "home_work",
+                    "product_advantages_item_title": "Thực hiện hồ sơ tại Việt Nam",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Toàn bộ quy trình hồ sơ có thể thực hiện tại Việt Nam."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "speed",
+                    "product_advantages_item_title": "Xét duyệt nhanh",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Thời gian xét duyệt hồ sơ khoảng 8-10 tháng."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "family_restroom",
+                    "product_advantages_item_title": "3 thế hệ cùng hồ sơ",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Ông bà, cha mẹ trên 65 tuổi và con cái có thể cùng nhập tịch trong một hồ sơ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "passport",
+                    "product_advantages_item_title": "Hộ chiếu xếp hạng 33 thế giới",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Hộ chiếu Dominica đứng thứ 33 toàn cầu."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "location_off",
+                    "product_advantages_item_title": "Không yêu cầu cư trú",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không cần cư trú tại Dominica để duy trì quốc tịch."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "real_estate_agent",
+                    "product_advantages_item_title": "Cổ phần BĐS có thể bán lại",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Cổ phần đầu tư bất động sản có thể bán lại cho nhà đầu tư lấy quốc tịch tiếp theo."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN ĐẦU TƯ LẤY QUỐC TỊCH DOMINICA",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện đương đơn",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 18 tuổi trở lên"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Không giới hạn độ tuổi cao nhất"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đạt yêu cầu lý lịch an ninh và sức khỏe"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh tiền đầu tư có nguồn gốc hợp pháp"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Người phụ thuộc đi kèm hồ sơ",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Vợ/chồng"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Con dưới 30 tuổi, chưa kết hôn và phụ thuộc tài chính"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Cha mẹ của đương đơn và vợ/chồng, trên 65 tuổi"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Ông bà của đương đơn và vợ/chồng"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Tất cả cần đạt yêu cầu lý lịch an ninh và sức khỏe"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "volunteer_activism",
+                    "product_conditions_item_title": "Phương án quyên góp",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Quyên góp vào Quỹ Đa dạng Kinh tế"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "250.000 USD (~6,2 tỷ đồng) cho gia đình 4 người"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "200.000 USD (~4,9 tỷ đồng) nếu nhà đầu tư một mình"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "apartment",
+                    "product_conditions_item_title": "Phương án đầu tư bất động sản",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đầu tư tối thiểu 200.000 USD (~4,9 tỷ đồng)"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Áp dụng cho dự án bất động sản được Chính phủ phê duyệt"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Duy trì khoản đầu tư trong 3 năm"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Dự án tham khảo: Secret Bay, resort 6 sao tại Caribbean"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH ĐẦU TƯ LẤY QUỐC TỊCH DOMINICA",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Đặt cọc & thẩm định",
+                    "product_process_step_desc": "Ký thỏa thuận đặt cọc và thẩm định hồ sơ ban đầu.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "contract",
+                    "product_process_step_title": "Ký hợp đồng",
+                    "product_process_step_desc": "Hoàn tất hợp đồng dịch vụ xin quốc tịch Dominica.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "payments",
+                    "product_process_step_title": "Đặt cọc & ký hợp đồng đầu tư",
+                    "product_process_step_desc": "Chuyển đặt cọc và ký hợp đồng đầu tư (với diện bất động sản).",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "folder_copy",
+                    "product_process_step_title": "Chuẩn bị & nộp hồ sơ",
+                    "product_process_step_desc": "Hoàn thiện và nộp hồ sơ cho cơ quan xét duyệt Dominica.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "paid",
+                    "product_process_step_title": "Chấp thuận & chuyển TIỀN ĐẦU TƯ",
+                    "product_process_step_desc": "Hồ sơ được chấp thuận; chuyển khoản đầu tư và/hoặc phí Chính phủ.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "passport",
+                    "product_process_step_title": "Nhận quốc tịch",
+                    "product_process_step_desc": "Hoàn tất thủ tục đầu tư và nhận quốc tịch, hộ chiếu.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "Các dự án bất động sản",
+            "product_projects_posts": [
+                "54415"
+            ],
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "",
+            "product_care_service_desc": "",
+            "product_care_service_links": false,
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "",
+            "product_care_topics_desc": "",
+            "product_care_topics_links": false,
+            "product_faq_title": "Câu hỏi thường gặp về quốc tịch Dominica",
+            "product_faq_section_id": "faq-dominica",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Rủi ro đầu tư?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "2 nhóm rủi ro chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chọn dự án/nhà phát triển chưa uy tín, dự án không đủ điều kiện."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nguồn tiền không hợp pháp dẫn đến hồ sơ bị từ chối."
+                                }
+                            ],
+                            "product_faq_item_section_note": "IMM Group thẩm định kỹ dự án và hồ sơ trước khi ký hợp đồng để hạn chế rủi ro."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Chương trình ban hành khi nào?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Ban hành năm 1993",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Một trong những chương trình nhập tịch diện kinh tế lâu đời và uy tín của Caribbean"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Được CBI Index xếp hạng cao 2017-2020."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Quyên góp hay đầu tư BĐS?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "2 lựa chọn",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Quyên góp EDF: từ 200.000 USD (độc thân) / 250.000 USD (gia đình tối đa 4 người), không thu hồi."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đầu tư BĐS: từ 200.000 USD, duy trì 3 năm, sau đó có thể chuyển nhượng."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Mỗi phương án có ưu điểm riêng; IMM Group tư vấn lựa chọn phù hợp theo hồ sơ."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Duy trì đầu tư BĐS bao lâu?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Duy trì đầu tư BĐS bao lâu",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Cần duy trì đầu tư bất động sản tối thiểu 3 năm; trong thời gian này không cần nộp hồ sơ định kỳ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau 3 năm có thể chuyển nhượng phần đầu tư; mức giá tùy thị trường và điều khoản dự án."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Bán BĐS có bị phạt?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Bán trước 3 năm có thể bị tước quốc tịch",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau 3 năm được chuyển nhượng mà không ảnh hưởng quốc tịch."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thuế khi bán & thuế tài sản?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Thuế khi bán & thuế tài sản",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Dominica không áp thuế thặng dư vốn, thuế tài sản, thừa kế, cho tặng hay thu nhập nước ngoài (theo chính sách hiện hành)."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Giới hạn độ tuổi / bằng cấp?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Giới hạn độ tuổi / bằng cấp",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không giới hạn độ tuổi; không yêu cầu bằng cấp, kinh nghiệm; không phỏng vấn."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Yêu cầu cư trú?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Yêu cầu cư trú",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không cần sang Dominica trong quá trình làm hồ sơ và không yêu cầu cư trú sau khi có quốc tịch."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Quyền lợi khi nhập tịch?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cả gia đình nhận quốc tịch trọn đời, có thể truyền cho thế hệ sau.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Hộ chiếu miễn visa/visa điện tử tới hơn 140 quốc gia; thuận lợi hơn khi xin visa Mỹ, Canada."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thời hạn hộ chiếu?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Thời hạn hộ chiếu",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Hộ chiếu Dominica có thời hạn 10 năm, được gia hạn theo quy định."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Tuổi con phụ thuộc?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Tuổi con phụ thuộc",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Con phụ thuộc chưa kết hôn, dưới 30 tuổi được đi kèm hồ sơ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Cha mẹ đi kèm?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cha mẹ đi kèm",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Cha mẹ hai bên từ 65 tuổi được đi kèm cùng hồ sơ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Về đất nước Dominica?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "hòn đảo thiên nhiên của vùng biển Caribbean.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Hơn 2/3 diện tích được bao trùm bởi rừng nhiệt đới, trải dài từ bắc xuống nam."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nơi sinh sống của nhiều loài thực vật, động vật và chim quý hiếm."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Hệ sinh thái với 365 con sông cùng nhiều thác, hồ nước nóng nổi tiếng nhờ hoạt động núi lửa một phần."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thiên đường cho những người lặn biển, đi bộ đường dài và những người yêu thiên nhiên."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Khí hậu ấm áp quanh năm, trung bình là 29°C."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Mùa khô kéo dài từ tháng 12 - 5 và mùa mưa từ tháng 6 - 11."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thời tiết mùa hè dễ chịu với các mức độ mưa khác nhau, thúc đẩy hệ sinh thái đa dạng."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đơn vị tiền tệ chính thức của Dominica là đồng Caribbean (XCD)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Ngôn ngữ chính được sử dụng là tiếng Anh (tiếng Pháp Creole, Patois, cũng được sử dụng rộng rãi)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Du lịch ở Dominica rất an toàn và dễ dàng, có thể di chuyển bằng xe hơi, taxi, xe buýt hoặc thuyền (giá taxi cố định cho hầu hết các tuyến đường)."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    }
+]

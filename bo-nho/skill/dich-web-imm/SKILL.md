@@ -141,3 +141,16 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
 - **Bảng Excel của team KHÔNG để trong repo** (CEO chốt 22/09/2026): tệp `.xlsx` là nhị phân, git không merge được —
   team sửa tay một bên, máy ghi đè một bên là mất trắng một bản. Nguồn sự thật là `lien-ket/ban-dich-vi-en.tsv`;
   `ganlink --xuat <tệp.xlsx>` dựng bản mới khi cần gửi, `--xlsx <tệp>` chỉ dùng khi CEO đưa đúng tệp muốn ghi thêm.
+- **Tên nước/tính từ dễ gài bẫy (học 22/09/2026):** đừng dùng **"Dominican"** cho Dominica — ngành hiểu là
+  Dominican Republic, nước khác; dùng "Dominica" làm định ngữ (the Dominica passport). Thổ Nhĩ Kỳ: thân bài dùng
+  **Türkiye** (tên chính thức), tiêu đề và từ khoá giữ **Turkey** vì người tìm gõ vậy. Tên có dấu chấm (**St.** Kitts)
+  làm meta title KHÔNG chứa nguyên cụm từ khoá → viết "St Kitts" trong meta title, "St. Kitts and Nevis" trong thân bài.
+- **Chương trình đổi tên quỹ/cơ quan mà nguồn Việt chưa cập nhật:** St. Kitts đổi SGF → **SISC** (2023), Bồ Đào Nha đổi
+  SEF → **AIMA** (2023). Luật dự án: **giữ tên nguồn**, KHÔNG tự sửa dữ kiện; nếu nguồn không nêu tên riêng thì dùng
+  cách gọi chung ("the immigration authority") và đưa lên mục CEO quyết.
+- **Bẫy E-2 lặp lại ở mọi trang có quốc tịch trung gian:** E-2 đi theo **QUỐC TỊCH** nước hiệp ước, không theo thẻ cư trú
+  (trang D7 Bồ Đào Nha viết sai ở nguồn), và điều kiện cư trú 3 năm chỉ áp cho **quốc tịch có được bằng đầu tư** —
+  viết "residence and ties", không viết phẳng "3 years of residence".
+- **Bộ kiểm số còn bắt các dạng:** "lần 1"/"lần 2"/"2 lần" (dùng first/second/twice), "cả hai diện" (E-1 và E-2),
+  tháng ghi bằng số "12-5"/"6-11" (viết tên tháng), "2/3 diện tích" (two-thirds), "6 sao" (không phải hạng chính thức).
+  Tất cả đều gắn `#bo-qua-so` kèm lý do, đừng bẻ câu tiếng Anh cho vừa bộ đếm.

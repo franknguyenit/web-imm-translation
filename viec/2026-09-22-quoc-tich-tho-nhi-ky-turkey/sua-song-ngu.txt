@@ -1,0 +1,6 @@
+[s038] Citizenship is held for life with no further requirements, and you may sell the property after 3 years while keeping your citizenship.
+[s060] We prepare your file; you travel to Türkiye to provide biometrics and file for a residence permit.
+[s062] Your permit is approved; you provide biometrics a second time and file your citizenship application.
+[s144] Under the current process you travel to Türkiye at least twice: once to file for your residence permit, and once to file your citizenship application and provide biometrics.
+[s087] For a property to qualify, it needs a valuation report of at least US$400,000, it must never have been used for a citizenship application before, and it must not currently be owned by a foreign national.
+[s058] Sign the purchase contract and make the investment, then receive the title deed and the qualification certificate from the land registry.

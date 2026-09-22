@@ -1,0 +1,492 @@
+[
+    {
+        "post_id": 100900,
+        "post_slug": "/quoc-tich-st-kitts-and-nevis/",
+        "post_title": "Quốc tịch St. Kitts and Nevis",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "QUỐC TỊCH <span class=\"accent\">ST. KITTS AND NEVIS</span>"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99287",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "QUỐC TỊCH ST. KITTS & NEVIS LÀ GÌ?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Chương trình đầu tư lấy quốc tịch do Chính phủ St. Kitts & Nevis ban hành.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Nhà đầu tư có thể chọn quyên góp vào Quỹ Phát triển Bền vững hoặc đầu tư vào dự án bất động sản được Chính phủ phê duyệt.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Sau khi có quốc tịch, được miễn visa đến 155 quốc gia, bao gồm châu Âu và khối Schengen.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "St. Kitts and Nevis là một trong những chương trình đầu tư lấy quốc tịch lâu đời nhất thế giới.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "IMM Group là công ty Việt Nam được Chính phủ St. Kitts & Nevis cấp phép chính thức tiếp thị chương trình.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://immgroup.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI QUỐC TỊCH ST. KITTS & NEVIS",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "public",
+                    "product_benefits_item_title": "Tự do đi lại toàn cầu",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Miễn visa hoặc chỉ cần visa điện tử đến 155 nước, gồm Anh Quốc, hầu hết các nước châu Âu, khối Schengen, Hàn Quốc, Hong Kong."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "account_balance",
+                    "product_benefits_item_title": "Không đánh thuế thu nhập toàn cầu",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Không đánh thuế thu nhập cá nhân và thu nhập doanh nghiệp phát sinh toàn cầu."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "real_estate_agent",
+                    "product_benefits_item_title": "Không đánh thuế tài sản",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Không đánh thuế bất động sản, thuế kế thừa hoặc thuế cho tặng gia sản."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "privacy_tip",
+                    "product_benefits_item_title": "Bảo vệ quyền riêng tư tài chính",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Hệ thống luật bảo vệ quyền riêng tư về thông tin tài khoản ngân hàng của nhà đầu tư tại St. Kitts and Nevis."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "flight_takeoff",
+                    "product_benefits_item_title": "Tự do ra vào Anh Quốc",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Cả gia đình được đến Anh Quốc không cần visa để du lịch, thăm thân, công tác hoặc quá cảnh; mỗi lần lưu trú tối đa 6 tháng."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM QUỐC TỊCH ST. KITTS & NEVIS",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Điều kiện tham gia đơn giản",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không yêu cầu độ tuổi, bằng cấp, kinh nghiệm hoặc ngoại ngữ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "home_work",
+                    "product_advantages_item_title": "Thực hiện hồ sơ tại Việt Nam",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Toàn bộ quy trình hồ sơ có thể thực hiện tại Việt Nam; nhà đầu tư không cần sang St. Kitts and Nevis khảo sát."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "speed",
+                    "product_advantages_item_title": "Xét duyệt khoảng 10–12 tháng",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Thời gian xét duyệt hồ sơ khoảng 10–12 tháng."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "passport",
+                    "product_advantages_item_title": "Hộ chiếu quyền lực tại Caribbean",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Hộ chiếu St. Kitts & Nevis đứng đầu khu vực Caribbean và xếp hạng 19 thế giới năm 2026."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "real_estate_agent",
+                    "product_advantages_item_title": "Cổ phần BĐS có thể bán lại",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Cổ phần đầu tư bất động sản có thể bán lại cho nhà đầu tư lấy quốc tịch tiếp theo."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "history",
+                    "product_advantages_item_title": "Chương trình lâu đời, ổn định",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Một trong những chương trình đầu tư lấy quốc tịch lâu đời và ổn định bậc nhất thế giới."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN ĐẦU TƯ LẤY QUỐC TỊCH ST. KITTS & NEVIS",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện đương đơn",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 18 tuổi trở lên"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Không giới hạn độ tuổi cao nhất"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đạt yêu cầu lý lịch an ninh và sức khỏe"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh tiền đầu tư có nguồn gốc hợp pháp"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Người phụ thuộc đi kèm hồ sơ",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Vợ/chồng của đương đơn"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Con dưới 18 tuổi"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Con 18–25 tuổi còn đi học và phụ thuộc tài chính"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Ba mẹ của đương đơn hoặc vợ/chồng từ 55 tuổi, phụ thuộc tài chính"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Tất cả cần đạt yêu cầu lý lịch an ninh và sức khỏe"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "volunteer_activism",
+                    "product_conditions_item_title": "Phương án quyên góp",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Quyên góp vào Quỹ phát triển đảo quốc"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Mức quyên góp 250.000 USD cho gia đình 4 người"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Khoản quyên góp không hoàn lại"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "apartment",
+                    "product_conditions_item_title": "Phương án đầu tư bất động sản",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đầu tư tối thiểu 325.000 USD"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Áp dụng cho dự án bất động sản được Chính phủ phê duyệt"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Duy trì khoản đầu tư trong 7 năm"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Dự án tham khảo: Park Hyatt St. Kitts, khách sạn 5 sao đã hoạt động từ năm 2017"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH ĐẦU TƯ LẤY QUỐC TỊCH ST. KITTS & NEVIS",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Đặt cọc & thẩm định",
+                    "product_process_step_desc": "Ký thỏa thuận đặt cọc và thẩm định hồ sơ ban đầu.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "contract",
+                    "product_process_step_title": "Ký hợp đồng",
+                    "product_process_step_desc": "Hoàn tất hợp đồng dịch vụ xin quốc tịch.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "folder_copy",
+                    "product_process_step_title": "Chuẩn bị hồ sơ & đặt cọc đầu tư",
+                    "product_process_step_desc": "Chuẩn bị hồ sơ; chuyển đặt cọc và ký hợp đồng đầu tư (diện BĐS).",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "record_voice_over",
+                    "product_process_step_title": "Nộp hồ sơ & phỏng vấn",
+                    "product_process_step_desc": "Nộp hồ sơ, xét duyệt và phỏng vấn theo yêu cầu chương trình.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "paid",
+                    "product_process_step_title": "Chấp thuận & chuyển tiền đầu tư",
+                    "product_process_step_desc": "Hồ sơ được chấp thuận; chuyển khoản đầu tư và/hoặc phí Chính phủ.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "passport",
+                    "product_process_step_title": "Nhận quốc tịch",
+                    "product_process_step_desc": "Hoàn tất thủ tục đầu tư và nhận quốc tịch, hộ chiếu.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "",
+            "product_care_service_desc": "",
+            "product_care_service_links": false,
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "",
+            "product_care_topics_desc": "",
+            "product_care_topics_links": false,
+            "product_faq_title": "Câu hỏi thường gặp về quốc tịch St. Kitts & Nevis",
+            "product_faq_section_id": "faq-st-kitts-nevis",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Rủi ro đầu tư?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "2 nhóm rủi ro chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chọn dự án/nhà phát triển chưa uy tín, dự án không đủ điều kiện."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nguồn tiền không hợp pháp dẫn đến hồ sơ bị từ chối."
+                                }
+                            ],
+                            "product_faq_item_section_note": "IMM Group thẩm định kỹ dự án và hồ sơ trước khi ký hợp đồng để hạn chế rủi ro."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Quyên góp hay đầu tư BĐS?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "2 lựa chọn",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Quyên góp SGF: từ 250.000 USD (gia đình tối đa 4 người), không hoàn lại."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đầu tư BĐS: từ 325.000 USD, duy trì 7 năm; có thể nhận chia sẻ lợi nhuận theo điều khoản dự án và chuyển nhượng sau 7 năm."
+                                }
+                            ],
+                            "product_faq_item_section_note": "IMM Group tư vấn lựa chọn phù hợp theo hồ sơ."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Hồ sơ thất bại thì tiền BĐS?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Với diện BĐS, ban đầu nhà đầu tư đặt cọc một phần giá trị (5-10%).",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Nếu hồ sơ bị từ chối, khoản đặt cọc được chủ đầu tư hoàn lại; các phí nộp/xét duyệt/thẩm định đã đóng cho Chính phủ thường không hoàn."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Độ tuổi / bằng cấp / phỏng vấn?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Không giới hạn độ tuổi; không yêu cầu bằng cấp, kinh nghiệm, ngoại ngữ.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chương trình có yêu cầu phỏng vấn."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Yêu cầu cư trú?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Không cần sang St. Kitts & Nevis trong quá trình làm hồ sơ.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không yêu cầu cư trú sau khi có quốc tịch."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Đầu tư Park Hyatt có an toàn?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Đầu tư Park Hyatt có an toàn",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Dự án Park Hyatt St. Kitts đã hoạt động từ 11/2017 nên không còn rủi ro hoàn thành xây dựng."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thương hiệu Park Hyatt và lượng khách du lịch ổn định là yếu tố hỗ trợ vận hành."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Duy trì BĐS bao lâu & bán lại?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cần duy trì đầu tư bất động sản tối thiểu 7 năm.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau 7 năm có thể chuyển nhượng; mức giá tùy thị trường và điều khoản dự án."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có bị tước quốc tịch?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Không bị tước quốc tịch nếu duy trì đầu tư theo đúng thời hạn quy định.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Quốc tịch trọn đời, có thể truyền cho thế hệ sau theo quy định."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Tuổi con phụ thuộc?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Tuổi con phụ thuộc",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Quy định năm cập nhật năm 2025: Con phụ thuộc dưới 30 tuổi được đi kèm hồ sơ"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Cha mẹ đi kèm?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cha mẹ đi kèm",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Cha mẹ hai bên được đi kèm hồ sơ (từ 55 tuổi)."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    }
+]
