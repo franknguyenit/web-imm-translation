@@ -500,6 +500,18 @@ class GanLink(unittest.TestCase):
         self.assertEqual(ws.cell(2, 1).value, "https://immgroup.com/muc-cha/trang-thu/")
         self.assertEqual(ws.cell(2, 4).value, "2026-09-22-trang-thu")
 
+    def test_khong_de_ban_cu_ghi_de_ban_moi(self):
+        dich.lenh_ganlink([str(self.viec), "--link", "https://immgroup.com/muc-cha/trang-thu/"])
+        cu = self.tmp / "viec" / "2026-09-20-trang-thu"   # việc CŨ hơn, cùng trang
+        (cu / "ban-giao").mkdir(parents=True)
+        (cu / "meta.json").write_text(json.dumps({"post_slug": "/trang-thu/"}), encoding="utf-8")
+        for t in ("en", "vi"):
+            (cu / "ban-giao" / f"bai-dich.{t}.md").write_text("# x\n", encoding="utf-8")
+        dich.lenh_ganlink([str(cu)])
+        d = list(csv.DictReader(dich.BANG_BAN_DICH.open(encoding="utf-8"), delimiter="\t"))
+        self.assertEqual(len(d), 1)
+        self.assertEqual(d[0]["viec"], "2026-09-22-trang-thu")  # dòng vẫn là bản mới nhất
+
     def test_ep_link_khi_slug_lech(self):
         (self.viec / "meta.json").write_text(json.dumps({"post_slug": "/slug-lech/"}), encoding="utf-8")
         dich.lenh_ganlink([str(self.viec), "--xlsx", str(self.xlsx),

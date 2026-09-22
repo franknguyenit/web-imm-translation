@@ -1288,6 +1288,9 @@ def lenh_ganlink(args):
         vi = f"{repo}/viec/{viec.name}/ban-giao/bai-dich.vi.md"
         en = f"{repo}/viec/{viec.name}/ban-giao/bai-dich.en.md"
         cu = bang.get(url, {})
+        if cu and cu.get("viec") and moi_hon(cu["viec"], viec.name):
+            print(f"  · {slug:<44} ← {viec.name}: BỎ QUA, URL này đã có bản mới hơn ({cu['viec']})")
+            continue
         dau = "≡" if (cu.get("vi"), cu.get("en")) == (vi, en) else ("↻" if cu else "+")
         bang[url] = {"link": url, "vi": vi, "en": en, "viec": viec.name, "ngay": f"{dt.date.today():%Y-%m-%d}"}
         if ws is not None and not thu:
@@ -1302,6 +1305,11 @@ def lenh_ganlink(args):
     print(f"{'(thử) ' if thu else ''}Gắn link: {xong} việc → {dich_den}" + (f" · {loi} việc chưa gắn được" if loi else ""))
     if loi:
         sys.exit(1)
+
+
+def moi_hon(a, b):
+    """Tên thư mục việc mở đầu bằng ngày yyyy-mm-dd nên so chuỗi là so ngày; hậu tố -2 của việc dịch lại cũng lớn hơn."""
+    return a != b and a > b
 
 
 def mo_bang_excel(xlsx, sheet):
