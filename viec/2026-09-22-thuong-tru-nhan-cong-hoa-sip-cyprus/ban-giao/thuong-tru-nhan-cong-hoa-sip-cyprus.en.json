@@ -1,0 +1,721 @@
+[
+    {
+        "post_id": 100894,
+        "post_slug": "/thuong-tru-nhan-cong-hoa-sip-cyprus/",
+        "post_title": "Cyprus Golden Visa",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "<span class=\"accent\">Cyprus</span> Golden Visa"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99267",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is the Cyprus Golden Visa?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The Cyprus Golden Visa is a permanent residence program run by the Government of the Republic of Cyprus.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "It is open to non-EU investors and their families through an investment in Cypriot real estate from €300,000.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "No government donation is required, and there are no language, education, or management experience requirements.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Cyprus is an EU member state and is working toward joining the Schengen Area.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "It can be a first step toward Cypriot citizenship once you meet the residence requirements.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Who you can include: your legal spouse and children up to age 25 who are unmarried and financially dependent.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Investment levels and rules can change over time.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://immgroup.com/en/contact/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Benefits of Cypriot permanent residence",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "home_work",
+                    "product_benefits_item_title": "Live in Cyprus",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Live, study, and run a business in Cyprus."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "work",
+                    "product_benefits_item_title": "European standard of living",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Modern infrastructure, with access to the public healthcare system on the terms that apply to permanent residents."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "British-style education",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "An internationally recognized education system; your children attend public schools free of charge from primary through the end of secondary school."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "health_and_safety",
+                    "product_benefits_item_title": "A favorable tax environment",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "A corporate tax rate of 12.5%, historically one of the lower rates in Europe, with no inheritance tax and no tax on dividends or interest income."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "A base for travel in Europe",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "An eVisa for Schengen countries is usually issued within a few days."
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Cyprus is not in the Schengen Area yet. If it joins, your family's residence cards would be expected to allow travel within the area without a separate visa, on the terms in force at that time."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "A path to Cypriot citizenship",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Once you meet the residence, language, and integration requirements, you may apply for naturalization, and Cyprus allows dual citizenship."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Advantages of the Cyprus permanent residence program",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "timer",
+                    "product_advantages_item_title": "Straightforward requirements",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "No age limit, no interview, and no language, education, or management experience requirements."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "route",
+                    "product_advantages_item_title": "Fast processing",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "One of the faster European permanent residence programs to process."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Property purchase only",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You buy qualifying property; no government donation is required."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "calendar_month",
+                    "product_advantages_item_title": "Apply from your home country",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Most of the process is handled from your country of residence; you travel to Cyprus once — to give biometrics and collect your card."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "No minimum stay requirement",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You need only visit Cyprus once every 2 years to keep the card."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "auto_awesome",
+                    "product_advantages_item_title": "Dual citizenship allowed",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You keep your current citizenship if you naturalize in Cyprus later."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Cyprus permanent residence requirements",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Investment requirements",
+                    "product_conditions_item_header": "Invest at least €300,000, before VAT and other taxes and fees, in one of the following:",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Residential property: up to 2 new units bought from the developer, €300,000 or more in total; renting them out is permitted."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Commercial property: offices, shops, hotels, and similar, €300,000 or more in total."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Shares in a Cyprus company with genuine operations and at least 5 employees."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Units in Cypriot investment funds — Alternative Investment Funds (AIF), Alternative Investment Funds with a Limited Number of Persons (AIFLNP), and Registered Alternative Investment Funds (RAIF)."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Main applicant requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Aged 18 or older, and able to pass the security and background checks."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Secured annual income from outside Cyprus of at least €50,000, plus €15,000 for a spouse and €10,000 for each dependent child."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Health insurance covering both inpatient and outpatient care."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "No employment in Cyprus, except as a director of the company if you choose the share investment route."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Dependents",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Children under 18; or aged 18–25, unmarried, financially dependent, and in higher education."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "They must meet the security and background vetting requirements and hold health insurance."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "The Cyprus permanent residence process",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Deposit and due diligence",
+                    "product_process_step_desc": "Sign the deposit agreement and complete the initial due diligence on your file.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "contract",
+                    "product_process_step_title": "Sign the contracts and transfer funds",
+                    "product_process_step_desc": "Sign the service agreement for your permanent residence application and the property purchase contract, then transfer the investment.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "description",
+                    "product_process_step_title": "File the application",
+                    "product_process_step_desc": "File the application with the Civil Registry and Migration Department of Cyprus.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Initial approval and biometrics",
+                    "product_process_step_desc": "Receive initial approval, then travel to Cyprus to give biometrics.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "flight_takeoff",
+                    "product_process_step_title": "Receive your residence card",
+                    "product_process_step_desc": "Receive formal approval; the residence card is sent to you in your home country.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "Cyprus real estate projects",
+            "product_projects_posts": [
+                "92617",
+                "90112",
+                "89839",
+                "85475",
+                "82616",
+                "83128",
+                "100505",
+                "100515",
+                "100512",
+                "100508"
+            ],
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-cong-hoa-sip-cyprus/cac-du-an-bat-dong-san-cong-hoa-sip/",
+            "product_care_icon": "hub",
+            "product_care_title": "You may also be interested in",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "You may also be interested in",
+            "product_care_service_desc": "<p>Explore IMM Group's advisory services:</p>\r\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Cyprus real estate projects",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-cong-hoa-sip-cyprus/cac-du-an-bat-dong-san-cong-hoa-sip/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "European citizenship and residency",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Ireland residency by investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-ireland/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Greece Golden Visa",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hy-lap/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Latvia residency by investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/dau-tu-dinh-cu-latvia/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Malta Golden Visa",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-malta/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Portugal Golden Visa",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bo-dao-nha/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Hungary residency by investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hungary-guest-investor-program/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Bulgaria Golden Visa",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bulgaria/",
+                    "product_care_service_link_blank": "0"
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Understanding Cyprus",
+            "product_care_topics_desc": "<p>IMM Group's resource hub brings together practical information on the following topics:</p>\r\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Living in Cyprus",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n0",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Education in Cyprus",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n1",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Culture in Cyprus",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n2",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Working and doing business in Cyprus",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n3",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Benefits and social security in Cyprus",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n4",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Real estate in Cyprus",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n5",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Travel in Cyprus",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n6",
+                    "product_care_topics_link_blank": "0"
+                }
+            ],
+            "product_faq_title": "Cyprus Golden Visa FAQs",
+            "product_faq_section_id": "faq-cyprus",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Which investments qualify?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Invest at least €300,000 in just one of the following:",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "(1) up to 2 new residential units."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "(2) commercial property."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "(3) shares in a Cyprus company with at least 5 employees."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "(4) Cyprus investment funds (AIF/AIFLNP/RAIF)."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Most investors choose an apartment for the long-term ownership and the option to rent it out."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What is Cypriot permanent residence, and how does it differ from citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Permanent residence is the right to live in Cyprus indefinitely — it is not citizenship.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "With permanent residence, your whole family can live in Cyprus, set up a business, and educate your children there."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Once you meet the residence requirements, you may apply for Cypriot citizenship. Processing depends on your file and on the authorities."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How do Schengen and the EU differ?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Schengen is not the same as the EU",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The EU — the European Union: an intergovernmental organization of 27 countries."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Schengen: a border-free travel area of 29 countries."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Some EU countries are not in Schengen, and the reverse is also true."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Cyprus is an EU member state but is not part of the Schengen Area yet."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Does permanent residence give me free movement in Schengen and the EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "You still need a visa for the EU and Schengen",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Because Cyprus is not in the Schengen Area and permanent residence does not grant free movement in the EU, you still need to apply for a visa — usually an eVisa, processed within a few days — when you travel to EU or Schengen countries."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The right to live, work, and study in any EU country arises only once you hold Cypriot citizenship."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can I work in Cyprus on permanent residence?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "You cannot take up employment",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Cypriot permanent residence does not allow you or your spouse to take up salaried employment."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "You may set up and run your own business. If you choose the share investment route, you can serve as a director of that company."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can my children study free of charge?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Free of charge at Cypriot public schools",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "From primary through the end of secondary school."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the requirements for Cypriot citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The main requirements",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Lawful residence in Cyprus for at least 8 years — 2,920 days — within an 11-year period."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Continuous residence: you must have lived in Cyprus continuously for the 12 months immediately before you apply."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Cumulative residence: in the 10 years before that final 12-month period, you must have lived in Cyprus for at least 7 years in total, or 2,555 days."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "You still hold the original investment, and you have no criminal record in Cyprus or abroad."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Greek at CEFR level B1, and a basic knowledge of Cypriot society and institutions."
+                                }
+                            ],
+                            "product_faq_item_section_note": "The requirements can change with the law — contact IMM Group for the current position."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What does Cypriot citizenship give you?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Full EU citizenship rights.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The Cypriot passport gives visa-free or visa-on-arrival access to more than 170 countries and is ranked among the 15 strongest passports on current passport indexes; you can live, study, and work freely across the 27 EU member states, and dual citizenship is allowed."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the investment risks?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The 2 main risks",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Choosing a developer or project without a track record, or a property that does not qualify for permanent residence."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Investment funds from an unlawful source, which leads to the application being refused."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group reviews the project and your file in detail before any contract is signed, to limit these risks."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is documenting my source of funds complicated?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Typically simpler than the United States, Australia, or Canada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You need to document a lawful source of funds, at a basic level of detail."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "For funds from a property sale, for example, you will need to show the year of purchase and the value at the time."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Every family documents this differently — contact IMM Group for advice on your own situation."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How long does permanent residence last, and how is it renewed?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Permanent residence has no expiry date as long as you keep the investment",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Cypriot permanent residence continues while you hold the investment and meet the conditions."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Once you meet the residence requirements, you can apply for Cypriot citizenship."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is there an age limit or an education requirement?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "No upper age limit, and no education requirement",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The main applicant need only be 18 or older; no qualifications or management experience are required."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Which family members can be included?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Your spouse and dependent children",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Your legal spouse; and children, including adopted children, who are unmarried and financially dependent — under 18, or aged 18–25 and in higher education."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Note: parents of the main applicant or of the spouse cannot be included in the same application."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Are adopted children and stepchildren eligible?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Adopted children and stepchildren are eligible",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Adopted child: a legal certificate is required."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Stepchild: a legal certificate plus a notarized letter of consent from the spouse."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group assists with preparing the documents."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How many days a year must I spend in Cyprus?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "No minimum stay requirement",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You need only visit Cyprus once every 2 years to keep the card."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "If you are aiming for citizenship, you will need to meet the residence requirements set by Cypriot law."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "When can I sell the property, shares, or fund units I invested in?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Keep the investment to keep permanent residence",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Once you hold Cypriot citizenship, you may transfer or sell the property, shares, or fund units you invested in."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": ""
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": ""
+            }
+        },
+        "seo": {
+            "meta_title": "Cyprus Golden Visa: EU Permanent Residence | IMM Group",
+            "meta_description": "The Cyprus Golden Visa grants permanent residence to your whole family through a property investment from €300,000. See the requirements and the process.",
+            "slug": "cyprus-golden-visa"
+        }
+    }
+]

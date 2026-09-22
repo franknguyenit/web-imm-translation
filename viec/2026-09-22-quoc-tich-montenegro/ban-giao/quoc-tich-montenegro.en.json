@@ -1,0 +1,594 @@
+[
+    {
+        "post_id": 100888,
+        "post_slug": "/quoc-tich-montenegro/",
+        "post_title": "Montenegro Citizenship by Investment",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "<span class=\"accent\">Montenegro</span> Citizenship by Investment"
+            },
+            "product_hero_video": "https://videopress.com/v/dWWpp2jy",
+            "product_hero_image": "19299",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is Montenegro citizenship by investment?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The Montenegro citizenship by investment program grants citizenship of Montenegro — a European country and NATO member — to non-EU investors and their families.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "You qualify through a government contribution combined with an investment in a designated real estate project.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "If your application is approved, you and your family hold Montenegrin citizenship for life.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Montenegrin citizenship opens a route to living in the EU if and when Montenegro joins the European Union.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Once you hold citizenship and have lived in Montenegro for at least 3 continuous years, you may qualify to apply for a US E-2 treaty investor visa.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Who you can include:</strong> your spouse, children under 18, and children over 18 who are unmarried and financially dependent.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://immgroup.com/en/contact/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Benefits of Montenegrin citizenship",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "public",
+                    "product_benefits_item_title": "Visa-free travel to 123 countries",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Visa-free access to 123 countries, including EU member states."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "health_and_safety",
+                    "product_benefits_item_title": "Healthcare and education",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Access to healthcare and education on the same terms as Montenegrin nationals."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "flight_takeoff",
+                    "product_benefits_item_title": "A route to the US E-2 treaty investor visa",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "You may qualify to apply for a US E-2 visa after at least 3 continuous years of residence in Montenegro."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "flag",
+                    "product_benefits_item_title": "What EU accession would mean",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "If Montenegro joins the EU, investors may gain the right to live and work in EU member states under the rules in force at that time."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Advantages of the Montenegro citizenship program",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "speed",
+                    "product_advantages_item_title": "Fast processing",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Citizenship for the whole family has typically been granted in about 6–7 months from filing."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "Lower cost than comparable programs",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "One of the lower-cost European citizenship routes, compared with €690,000–€2 million for comparable programs."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "all_inclusive",
+                    "product_advantages_item_title": "Citizenship for life",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Once granted, citizenship is held for life, with no ongoing requirements to maintain it."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "real_estate_agent",
+                    "product_advantages_item_title": "No property holding period",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "There is no minimum holding period for the property; you may sell once the process is complete and you have met your commitments to the developer."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "verified",
+                    "product_advantages_item_title": "Government-approved projects",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Only government-approved projects qualify, and the developer places a deposit with the government."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "badge",
+                    "product_advantages_item_title": "Keep your current citizenship",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You and your family can keep your current citizenship if your home country permits dual citizenship."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "home_work",
+                    "product_advantages_item_title": "Apply from your home country",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "The whole process can be handled from your country of residence; you do not need to travel to Montenegro before formal approval."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "savings",
+                    "product_advantages_item_title": "No Montenegrin tax on foreign income",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Income arising outside Montenegro is not taxed in Montenegro on the basis of citizenship alone; how your income is taxed depends on where you are tax resident, so confirm your own position with an independent tax advisor."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Simple eligibility requirements",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "No language, education, or management experience requirements."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "hub",
+                    "product_advantages_item_title": "Connected to Europe",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Montenegro is a NATO member and well placed for travel to Europe and beyond; any right to live in the EU would depend on if and when Montenegro joins."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Montenegro citizenship by investment requirements",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Applicant requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Aged 18 or older."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "No upper age limit."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Not a citizen of an EU member state."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "A documented, lawful source of funds."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "No criminal record."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Investment requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "A government contribution of €200,000."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Combined with an investment in a government-designated property project."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Property investment: €250,000 in the northern region or €450,000 in the southern region."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Dependents you can include",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Your legal spouse."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Children under 18."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Children over 18 who are still financially dependent and unmarried."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "verified_user",
+                    "product_conditions_item_title": "Documentation requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "The applicant and dependents must pass due diligence and medical checks."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "The Montenegro citizenship application process",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Due diligence and filing",
+                    "product_process_step_desc": "We prepare your file, carry out initial due diligence, and submit it together with the fees set by the program.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "verified",
+                    "product_process_step_title": "Pre-approval and investment",
+                    "product_process_step_desc": "Your file is assessed and your background verified through an authorized agent or government body.<br>Once you are approved, you make the government contribution and the required property investment.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "passport",
+                    "product_process_step_title": "Naturalization and passport",
+                    "product_process_step_desc": "You travel to Montenegro for biometrics and file your naturalization application, then receive your certificate of naturalization and your passport.<br><em>Note: processing typically takes around 6–9 months, depending on your file and the reviewing authority.</em>",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": [
+                "56282",
+                "59070"
+            ],
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "",
+            "product_care_service_desc": "",
+            "product_care_service_links": false,
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "",
+            "product_care_topics_desc": "",
+            "product_care_topics_links": false,
+            "product_faq_title": "Montenegro citizenship by investment FAQs",
+            "product_faq_section_id": "faq-montenegro",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "What are the investment risks?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The two main risks",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Choosing a developer or project without a track record, or one that does not qualify under the program."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Investment funds from an unlawful source, which leads to the application being refused."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group reviews your file and the project in detail before any contract is signed, to limit these risks."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Note: real estate is an investment and carries risk."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Where can the investment funds come from?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Source of funds requirements",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Documenting your source of funds is generally simpler than it is for programs in the United States, Australia, or Canada."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Proof works on 2 levels: the source of the funds you are investing, and the source of the wealth behind them."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Every family documents this differently — contact IMM Group for advice on your own situation."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How is the investment structured?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Investment structure",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "From €450,000 in total: a €200,000 government contribution plus property from €250,000 (north) or from €450,000 (south)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Processing typically takes around 6–9 months; the family includes your spouse and unmarried, financially dependent children up to age 28."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": ""
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How long must the property be held?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Property holding period",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The program sets no minimum holding period for the property, and citizenship is held for life once granted."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "You may transfer the property once the process is complete and your commitments to the developer are met, subject to the project terms."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group and the developer can help with rental and property management."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What happens to your citizenship if the project fails?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "How project risk affects citizenship",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Under the structure of the program, citizenship is tied to an eligible application and a completed investment; construction risk is mitigated by the deposit the developer places with the government."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Even so, this remains a real estate investment that carries risk — IMM Group reviews each project closely before recommending it."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is there a cap on applications?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Program status",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The program was capped by total number of applications and ran for a fixed period; it has been closed to new applications since the end of 2022."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Contact IMM Group for the current status and the alternatives available. (Updated: June 2026.)"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What benefits do Montenegrin citizens have, and where can they travel visa-free?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Rights of Montenegrin citizens",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Montenegrin citizens have access to public education and healthcare: children attend public schools free of charge through the end of secondary school, and health insurance covers treatment at public hospitals."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The Montenegrin passport ranks among the stronger ones, with visa-free or eVisa access to a wide range of countries (the number changes over time)."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Has Montenegro joined the EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "EU accession process",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Montenegro is not yet an EU member. Accession talks are under way and no date has been set; previously announced target dates have already shifted."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The right to live and work across the EU would arise only if and when Montenegro formally joins. (Updated: June 2026.)"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is there a US E-2 treaty with Montenegro?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Why Montenegrin citizens can consider the E-2 visa",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The treaty of commerce and navigation between the United States and Montenegro is the basis on which Montenegrin citizens can be considered for the US E-2 treaty investor visa."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Once you hold citizenship and have 3 or more continuous years of residence, you can be assessed against the E-2 rules in force when you apply. Any changes would depend on the policies of both countries."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is there a residence requirement?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Residence requirements",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The program sets no residence requirement for obtaining or keeping citizenship."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Note: if you plan to apply for a US E-2 visa later, the E-2 rules set their own requirement for continuous residence in Montenegro."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What language is spoken in Montenegro?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Language and language requirements",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The official language is Montenegrin, and English is widely spoken."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The citizenship by investment application has no language requirement."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the requirements for the main applicant?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Basic conditions",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The program sets no upper age limit for the applicant; you need only be 18 or older."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "No qualifications, education, language, or management experience are required."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can parents be included?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Who counts as a dependent",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Unmarried, financially dependent children up to age 28 can be included in the application."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Parents cannot be included in the same application."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "If you need a route that covers parents as well, you could look at another program — for example the Portugal Golden Visa, which covers several generations — or a separate Montenegro application for them."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        },
+        "seo": {
+            "meta_title": "Montenegro Citizenship by Investment | IMM Group",
+            "meta_description": "Montenegro citizenship by investment: a €200,000 government contribution plus property from €250,000, and a route to the US E-2 visa. Talk to IMM Group.",
+            "slug": "montenegro-citizenship-by-investment"
+        }
+    }
+]

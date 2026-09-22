@@ -1,0 +1,589 @@
+[
+    {
+        "post_id": 100888,
+        "post_slug": "/quoc-tich-montenegro/",
+        "post_title": "Quốc tịch Montenegro",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "QUỐC TỊCH <span class=\"accent\">MONTENEGRO</span>"
+            },
+            "product_hero_video": "https://videopress.com/v/dWWpp2jy",
+            "product_hero_image": "19299",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "Quốc tịch Montenegro là gì?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Chương trình đầu tư cấp quốc tịch Montenegro (quốc gia châu Âu, thành viên NATO) cho nhà đầu tư ngoài EU và gia đình.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Hồ sơ được thực hiện qua hình thức trao tặng Chính phủ và đầu tư bất động sản được chỉ định.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Nhà đầu tư và gia đình được nhận quốc tịch Montenegro vĩnh viễn khi hồ sơ được chấp thuận.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Quốc tịch Montenegro mở lộ trình sinh sống tại EU khi Montenegro gia nhập Liên minh châu Âu.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Sau khi có quốc tịch và cư trú tối thiểu 3 năm liên tiếp tại Montenegro, nhà đầu tư có thể đủ điều kiện xin Visa Mỹ E-2.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Thành viên đi kèm:</strong> vợ/chồng, con dưới 18 tuổi và con trên 18 tuổi nếu phụ thuộc tài chính, chưa kết hôn.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Yêu Cầu Tư Vấn",
+                    "product_hero_cta_url": "https://immgroup.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI QUỐC TỊCH MONTENEGRO",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "public",
+                    "product_benefits_item_title": "Tự do đi lại 123 nước",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Miễn visa đến 123 quốc gia, bao gồm các nước thuộc khối EU."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "health_and_safety",
+                    "product_benefits_item_title": "Y tế và giáo dục",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Được tiếp cận chế độ y tế và giáo dục như người bản xứ."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "flight_takeoff",
+                    "product_benefits_item_title": "Lộ trình Visa Mỹ E-2",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Có thể đủ điều kiện xin Visa E-2 sang Mỹ sau khi cư trú tối thiểu 3 năm liên tiếp tại Montenegro."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "flag",
+                    "product_benefits_item_title": "Quyền lợi khi Montenegro gia nhập EU",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Khi Montenegro gia nhập EU, nhà đầu tư có thể hưởng quyền sinh sống và làm việc tại các nước EU theo quy định áp dụng tại thời điểm đó."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM CHƯƠNG TRÌNH QUỐC TỊCH MONTENEGRO",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "speed",
+                    "product_advantages_item_title": "Xét duyệt nhanh",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Nhận quốc tịch cho cả gia đình trong khoảng 6–7 tháng kể từ ngày nộp hồ sơ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "Chi phí thấp trong nhóm cùng loại",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Thuộc nhóm chương trình quốc tịch châu Âu có chi phí thấp hơn so với các chương trình cùng loại 690.000–2 triệu EUR."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "all_inclusive",
+                    "product_advantages_item_title": "Quốc tịch vĩnh viễn",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Quốc tịch có giá trị vĩnh viễn sau khi cấp, không có yêu cầu duy trì thêm."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "real_estate_agent",
+                    "product_advantages_item_title": "Không ràng buộc giữ BĐS",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không yêu cầu thời gian duy trì bất động sản; có thể bán sau khi hoàn tất thủ tục và cam kết với chủ dự án."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "verified",
+                    "product_advantages_item_title": "Dự án được Chính phủ phê duyệt",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Dự án phải được Chính phủ phê duyệt; chủ dự án ký quỹ với Chính phủ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "badge",
+                    "product_advantages_item_title": "Được giữ quốc tịch Việt Nam",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Nhà đầu tư và gia đình có thể giữ quốc tịch Việt Nam theo quy định đa tịch."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "home_work",
+                    "product_advantages_item_title": "Làm hồ sơ tại Việt Nam",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Toàn bộ thủ tục có thể thực hiện tại Việt Nam; không cần sang Montenegro trước khi có chấp thuận chính thức."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "savings",
+                    "product_advantages_item_title": "Không đánh thuế thu nhập toàn cầu",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không áp thuế trên thu nhập phát sinh ngoài Montenegro."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Không yêu cầu điều kiện đầu vào phức tạp",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không yêu cầu ngoại ngữ, trình độ học vấn hoặc kinh nghiệm quản lý."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "hub",
+                    "product_advantages_item_title": "Lợi thế kết nối châu Âu",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Montenegro là thành viên NATO, có vị trí kết nối thuận tiện với châu Âu và các khu vực khác; quyền sống tại EU phụ thuộc vào thời điểm Montenegro gia nhập EU."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN ĐẦU TƯ LẤY QUỐC TỊCH MONTENEGRO",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện đương đơn",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 18 tuổi trở lên."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Không giới hạn tuổi cao nhất."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Không là công dân EU."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh nguồn tiền hợp pháp."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Không có tiền án, tiền sự."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Yêu cầu đầu tư",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Trao tặng Chính phủ 200.000 EUR."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đồng thời đầu tư BĐS do Chính phủ chỉ định."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Mức đầu tư BĐS: 250.000 EUR tại khu vực phía Bắc hoặc 450.000 EUR tại khu vực phía Nam."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Người phụ thuộc đi kèm",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Vợ/chồng hợp pháp."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Con dưới 18 tuổi."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Con trên 18 tuổi nếu còn phụ thuộc tài chính và chưa kết hôn."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "verified_user",
+                    "product_conditions_item_title": "Điều kiện hồ sơ",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đương đơn và người phụ thuộc cần đạt yêu cầu về lý lịch an ninh và sức khỏe."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH ĐẦU TƯ LẤY QUỐC TỊCH MONTENEGRO",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Thẩm định & nộp hồ sơ",
+                    "product_process_step_desc": "Chuẩn bị, thẩm định hồ sơ ban đầu và nộp cùng lệ phí theo quy định.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "verified",
+                    "product_process_step_title": "Phê duyệt trước & thực hiện đầu tư",
+                    "product_process_step_desc": "Hồ sơ được thẩm định, xác minh lý lịch qua cơ quan/đại lý được ủy quyền.<br>Khi có chấp thuận, đương đơn thực hiện khoản đóng góp Chính phủ và đầu tư BĐS theo yêu cầu.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "passport",
+                    "product_process_step_title": "Nhập tịch & nhận hộ chiếu",
+                    "product_process_step_desc": "Sang Montenegro hoàn tất sinh trắc học và nộp đơn nhập tịch; nhận chứng nhận nhập tịch và hộ chiếu.<br><em>Lưu ý: Thời gian xử lý tham khảo 6–9 tháng, tùy hồ sơ và cơ quan xét duyệt.</em>",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": [
+                "56282",
+                "59070"
+            ],
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "",
+            "product_care_service_desc": "",
+            "product_care_service_links": false,
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "",
+            "product_care_topics_desc": "",
+            "product_care_topics_links": false,
+            "product_faq_title": "Câu hỏi thường gặp về quốc tịch Montenegro",
+            "product_faq_section_id": "faq-montenegro",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Rủi ro đầu tư?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Hai nhóm rủi ro chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chọn dự án/chủ đầu tư thiếu uy tín hoặc dự án không đủ điều kiện chương trình."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nguồn tiền không hợp pháp dẫn đến hồ sơ bị từ chối."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group thẩm định kỹ hồ sơ và dự án trước khi ký hợp đồng để giảm thiểu rủi ro."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Lưu ý: đầu tư BĐS là khoản đầu tư có rủi ro."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Nguồn tiền đầu tư?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Yêu cầu chứng minh nguồn tiền",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Việc chứng minh nguồn tiền thường đơn giản hơn các chương trình như Mỹ, Úc, Canada."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Yêu cầu chứng minh 2 lớp: nguồn tiền sử dụng và nguồn hình thành nên khoản tiền đó."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Mỗi gia đình có cách chứng minh khác nhau tùy hồ sơ — liên hệ IMM Group để được tư vấn cụ thể."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Phương án đầu tư?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cấu trúc đầu tư",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Tổng đầu tư từ 450.000 EUR: đóng góp Chính phủ 200.000 EUR + BĐS từ 250.000 EUR (Bắc) hoặc từ 450.000 EUR (Nam)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thời gian xử lý tham khảo 6–9 tháng; gia đình gồm vợ/chồng và con chưa kết hôn, phụ thuộc đến 28 tuổi."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Ngoại tệ chính; VND chỉ tham khảo theo tỷ giá."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Duy trì BĐS?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Thời gian duy trì bất động sản",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chương trình không yêu cầu thời gian tối thiểu duy trì bất động sản; quốc tịch sau khi cấp có giá trị vĩnh viễn."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nhà đầu tư có thể chuyển nhượng BĐS sau khi hoàn tất thủ tục và cam kết với chủ đầu tư (theo điều khoản dự án)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group và đơn vị phát triển có thể hỗ trợ quản lý/cho thuê BĐS."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Dự án thất bại có ảnh hưởng?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Ảnh hưởng của rủi ro dự án đến quốc tịch",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Theo cấu trúc chương trình, việc cấp quốc tịch gắn với hồ sơ đủ điều kiện và khoản đầu tư đã thực hiện; rủi ro tiến độ dự án được giảm thiểu qua cơ chế ký quỹ của chủ đầu tư với Chính phủ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tuy nhiên, đây vẫn là khoản đầu tư BĐS có rủi ro — IMM Group thẩm định kỹ dự án trước khi tư vấn."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Hạn mức nộp hồ sơ?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Trạng thái chương trình",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chương trình có giới hạn tổng số hồ sơ và có thời hạn; hiện đã đóng nhận hồ sơ mới (từ cuối 2022)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Vui lòng liên hệ IMM Group để biết trạng thái và phương án thay thế mới nhất. (Cập nhật: tháng 6/2026.)"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Phúc lợi & miễn visa?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Quyền lợi công dân Montenegro",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Công dân Montenegro tiếp cận giáo dục và y tế công (con học miễn phí trường công đến hết THPT; bảo hiểm y tế tại bệnh viện công)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Hộ chiếu thuộc nhóm mạnh, miễn visa/visa điện tử tới nhiều quốc gia (số lượng thay đổi theo thời điểm)."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Gia nhập EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Tiến trình gia nhập EU",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Montenegro CHƯA gia nhập EU. Quốc gia đang trong tiến trình đàm phán; thời điểm gia nhập chưa được xác định (các mốc dự kiến đã thay đổi)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Quyền sinh sống/làm việc toàn EU chỉ phát sinh nếu và khi Montenegro chính thức gia nhập. (Cập nhật: tháng 6/2026.)"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Hiệp định visa E-2 với Mỹ?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cơ sở để tìm hiểu visa E-2",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Hiệp ước thương mại và hàng hải giữa Mỹ và Montenegro là cơ sở để công dân Montenegro tìm hiểu visa E-2."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau khi có quốc tịch và cư trú liên tục ≥3 năm, nhà đầu tư có thể xét điều kiện E-2 theo quy định chương trình E-2 tại thời điểm nộp. Thay đổi (nếu có) phụ thuộc chính sách hai nước."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thời gian cư trú?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Yêu cầu cư trú",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chương trình không yêu cầu thời gian cư trú để nhận và duy trì quốc tịch."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Lưu ý: nếu định hướng xin visa E-2 về sau, điều kiện E-2 có yêu cầu riêng về thời gian cư trú liên tục tại Montenegro theo quy định Mỹ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Ngôn ngữ?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Ngôn ngữ và yêu cầu ngoại ngữ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Ngôn ngữ chính thức là tiếng Montenegro; tiếng Anh được sử dụng rộng rãi."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Hồ sơ đầu tư lấy quốc tịch không yêu cầu chứng minh khả năng ngoại ngữ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Yêu cầu đương đơn?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Điều kiện cơ bản",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chương trình không giới hạn tuổi tối đa của đương đơn (chỉ cần đủ 18 tuổi)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Không yêu cầu bằng cấp, học vấn, ngoại ngữ hay kinh nghiệm quản lý."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Người phụ thuộc (bố mẹ)?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Phạm vi người phụ thuộc",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Con chưa kết hôn, phụ thuộc tài chính đến 28 tuổi được đi kèm hồ sơ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Bố mẹ không đi kèm được trong cùng hồ sơ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nếu cần phương án cho cả cha mẹ, có thể cân nhắc chương trình khác (vd Golden Visa Bồ Đào Nha — cả gia đình nhiều thế hệ) hoặc làm hồ sơ Montenegro riêng cho cha mẹ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    }
+]

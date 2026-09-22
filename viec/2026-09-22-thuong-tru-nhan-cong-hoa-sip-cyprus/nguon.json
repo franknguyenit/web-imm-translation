@@ -1,0 +1,716 @@
+[
+    {
+        "post_id": 100894,
+        "post_slug": "/thuong-tru-nhan-cong-hoa-sip-cyprus/",
+        "post_title": "Thường trú nhân Cộng Hòa Síp (Cyprus)",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "THƯỜNG TRÚ NHÂN <span class=\"accent\">CỘNG HÒA SÍP</span>"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99267",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "THƯỜNG TRÚ NHÂN CỘNG HÒA SÍP LÀ GÌ?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Chương trình cấp thẻ thường trú do Chính phủ Cộng Hòa Síp ban hành.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Dành cho nhà đầu tư ngoài EU và gia đình thông qua khoản đầu tư bất động sản từ 300.000 EUR.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Không yêu cầu trao tặng Chính phủ, ngôn ngữ, học vấn hay kinh nghiệm quản lý.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Cộng Hòa Síp là thành viên EU và đang trên lộ trình gia nhập khối Schengen.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Có thể là bước đệm hướng tới quốc tịch Síp khi đáp ứng điều kiện cư trú.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Thành viên đi kèm: vợ/chồng hợp pháp và con đến 25 tuổi còn độc thân, phụ thuộc tài chính.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Mức đầu tư và quy định có thể thay đổi theo thời điểm.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://immgroup.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI THƯỜNG TRÚ NHÂN CỘNG HÒA SÍP",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "home_work",
+                    "product_benefits_item_title": "Sinh sống tại Síp",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Tự do sinh sống, học tập và kinh doanh tại Cộng Hòa Síp."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "work",
+                    "product_benefits_item_title": "Chất lượng sống chuẩn châu Âu",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Hạ tầng hiện đại; tiếp cận hệ thống y tế công theo quy định dành cho thường trú nhân."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "Giáo dục theo chuẩn Anh Quốc",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Hệ thống giáo dục được công nhận toàn cầu; con học trường công miễn phí từ tiểu học đến hết THPT."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "health_and_safety",
+                    "product_benefits_item_title": "Môi trường thuế thuận lợi",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Thuế doanh nghiệp 12,5% thuộc nhóm thấp nhất Châu Âu, miễn thuế thừa kế, miễn thuế trên cổ tức và lãi tiền gửi."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Bệ phóng đi lại châu Âu",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "E-visa đến các nước Schengen thường được cấp trong vài ngày."
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Khi Síp gia nhập Schengen, thẻ cư trú của cả gia đình sẽ mở thẳng quyền đi lại không cần visa trong khối."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "Cơ hội nhập quốc tịch Síp",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Sau khi đáp ứng điều kiện cư trú, ngôn ngữ và hội nhập, nhà đầu tư có thể xét nộp hồ sơ nhập tịch (cho phép đa quốc tịch)."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM CHƯƠNG TRÌNH PR CỘNG HÒA SÍP",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "timer",
+                    "product_advantages_item_title": "Điều kiện đơn giản",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không giới hạn độ tuổi, không phỏng vấn, không yêu cầu ngoại ngữ, học vấn hay kinh nghiệm quản lý."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "route",
+                    "product_advantages_item_title": "Được xử lý nhanh",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Một trong các chương trình PR châu Âu có thời gian xét duyệt nhanh."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Chỉ cần mua bất động sản",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Sở hữu BĐS đủ điều kiện, không yêu cầu khoản trao tặng cho Chính phủ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "calendar_month",
+                    "product_advantages_item_title": "Thực hiện từ Việt Nam",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Hầu hết quy trình làm tại Việt Nam; chỉ cần sang Síp 1 lần để nhận thẻ và lấy sinh trắc học."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "Không yêu cầu cư trú tối thiểu",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Chỉ cần đến thăm Síp 1 lần trong mỗi 2 năm để duy trì thẻ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "auto_awesome",
+                    "product_advantages_item_title": "Cho phép đa quốc tịch",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Giữ quốc tịch hiện tại khi nhập tịch Síp về sau."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN ĐẦU TƯ LẤY PR CỘNG HÒA SÍP",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện đầu tư",
+                    "product_conditions_item_header": "Đầu tư tối thiểu 300.000 EUR - khoảng 9 tỷ đồng, chưa gồm VAT và các khoản thuế/phí  - vào một trong các hạng mục sau:",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Bất động sản nhà ở: tối đa 2 căn mới từ chủ đầu tư, tổng giá trị từ 300.000 EUR; được phép cho thuê."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Bất động sản thương mại: văn phòng, cửa hàng, khách sạn,... tổng giá trị từ 300.000 EUR."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Góp cổ phần một công ty tại Síp đang hoạt động thực tế, có tối thiểu 5 nhân viên."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đầu tư vào các Quỹ tại Síp (AIF, AIFLNP, RAIF, Units of Cyprus Investment Funds)."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Điều kiện đương đơn chính",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 18 tuổi trở lên; đạt yêu cầu lý lịch an ninh."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh thu nhập từ nước ngoài tối thiểu 50.000 EUR/năm, cộng 15.000 EUR cho vợ/chồng và 10.000 EUR cho mỗi con đi kèm."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Mua bảo hiểm y tế chi trả nội & ngoại trú."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Không làm thuê tại Síp (trừ trường hợp làm Giám đốc công ty nếu chọn hình thức góp vốn)."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Người phụ thuộc",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Con dưới 18 tuổi; hoặc 18-25 tuổi, độc thân, phụ thuộc tài chính, đang học đại học trở lên."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đạt yêu cầu lý lịch an ninh và có bảo hiểm y tế."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH ĐẦU TƯ LẤY THƯỜNG TRÚ NHÂN CỘNG HÒA SÍP",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Đặt cọc & thẩm định",
+                    "product_process_step_desc": "Ký thỏa thuận đặt cọc và thẩm định hồ sơ ban đầu.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "contract",
+                    "product_process_step_title": "Ký hợp đồng & chuyển vốn",
+                    "product_process_step_desc": "Ký hợp đồng dịch vụ xin thẻ PR và hợp đồng mua bất động sản; chuyển khoản đầu tư.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "description",
+                    "product_process_step_title": "Nộp hồ sơ",
+                    "product_process_step_desc": "Nộp hồ sơ cho Sở Di trú Cộng Hòa Síp xét duyệt.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Chấp thuận ban đầu & lấy sinh trắc",
+                    "product_process_step_desc": "Nhận chấp thuận ban đầu; sang Síp lấy sinh trắc học.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "flight_takeoff",
+                    "product_process_step_title": "Nhận thẻ thường trú",
+                    "product_process_step_desc": "Nhận chấp thuận chính thức; thẻ cư trú được gửi về Việt Nam.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "Các dự án bất động sản",
+            "product_projects_posts": [
+                "92617",
+                "90112",
+                "89839",
+                "85475",
+                "82616",
+                "83128",
+                "100505",
+                "100515",
+                "100512",
+                "100508"
+            ],
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-cong-hoa-sip-cyprus/cac-du-an-bat-dong-san-cong-hoa-sip/",
+            "product_care_icon": "hub",
+            "product_care_title": "Có thể bạn quan tâm",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "Có thể bạn quan tâm",
+            "product_care_service_desc": "<p>Tìm hiểu các dịch vụ tư vấn từ IMM Group:</p>\r\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Các dự án bất động sản Cộng hòa Síp",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-cong-hoa-sip-cyprus/cac-du-an-bat-dong-san-cong-hoa-sip/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Quốc tịch & thường trú nhân châu Âu",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Ireland",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-ireland/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Hy Lạp",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hy-lap/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Thương trú nhân Latvia",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/dau-tu-dinh-cu-latvia/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Malta",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-malta/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Bồ Đào Nha",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bo-dao-nha/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Hungary",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hungary-guest-investor-program/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Bulgaria",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bulgaria/",
+                    "product_care_service_link_blank": "0"
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Hiểu về Cộng hòa Síp",
+            "product_care_topics_desc": "<p>Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:</p>\r\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Cuộc sống tại Cộng hòa Síp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n0",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Giáo dục cộng hòa Síp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n1",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Văn hóa cộng hòa Síp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n2",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Lao động / Kinh doanh tại Cộng hòa Síp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n3",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Trợ cấp, phúc lợi, an sinh xã hội Cộng hòa Síp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n4",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Bất động sản Cộng hòa Síp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n5",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Du lịch Cộng hòa Síp",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-cong-hoa-sip/#n6",
+                    "product_care_topics_link_blank": "0"
+                }
+            ],
+            "product_faq_title": "Câu hỏi thường gặp về Thường Trú Nhân Cộng Hòa Síp",
+            "product_faq_section_id": "faq-cyprus",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Các hình thức đầu tư đủ điều kiện?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Đầu tư tối thiểu 300.000 EUR vào MỘT hạng mục:",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "(1) tối đa 2 căn nhà ở mới."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "(2) bất động sản thương mại."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "(3) cổ phần công ty Síp (≥ 5 nhân viên)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "(4) quỹ đầu tư Síp (AIF/AIFLNP/RAIF)."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Nhà đầu tư Việt Nam thường chọn căn hộ vì sở hữu lâu dài và có thể cho thuê."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "PR Cộng Hòa Síp là gì? Có khác quốc tịch không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "PR là quyền thường trú - KHÁC với quốc tịch.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Khi có PR, cả gia đình được sinh sống, mở doanh nghiệp và cho con học tại Síp."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau khi đáp ứng điều kiện cư trú, nhà đầu tư có thể xét nộp hồ sơ nhập tịch Síp. Thời gian xử lý tùy hồ sơ và cơ quan chức năng."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Schengen và EU khác nhau thế nào?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Schengen ≠ EU",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "EU - Liên minh châu Âu: tổ chức liên Chính phủ, 27 nước."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Schengen: khu vực tự do đi lại, gồm 29 nước."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Một số nước EU không thuộc Schengen và ngược lại."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Cộng Hòa Síp hiện là thành viên EU nhưng CHƯA thuộc khối Schengen."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Với PR, có tự do đi lại Schengen & EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Đi lại EU/Schengen vẫn cần visa - chưa được tự do",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Vì Síp chưa thuộc Schengen và PR không cấp quyền tự do đi lại EU, nhà đầu tư vẫn cần xin visa (thường là e-visa, thụ lý vài ngày) khi sang các nước EU/Schengen."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Quyền tự do sinh sống, làm việc và học tập tại bất kỳ nước EU nào chỉ phát sinh khi nhà đầu tư có quốc tịch Síp."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Với PR, có được đi làm tại Síp?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Không được làm thuê",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "PR Síp không cho phép nhà đầu tư và vợ/chồng làm công ăn lương."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Được phép mở doanh nghiệp riêng để kinh doanh. Riêng hình thức góp vốn, nhà đầu tư có thể làm Giám đốc công ty đó."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Con cái có được học miễn phí?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Học miễn phí tại trường công Síp",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Từ tiểu học đến hết THPT."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Điều kiện nhập quốc tịch Síp?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Một số điều kiện chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Đã cư trú hợp pháp tại Síp trong ít nhất 8 năm (tương đương 2.920 ngày) trong vòng 11 năm."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thời gian cư trú liên tục: Phải cư trú liên tục tại Síp trong suốt 12 tháng ngay trước ngày nộp đơn."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thời gian cư trú tích lũy: Trong 10 năm trước giai đoạn 12 tháng cuối cùng nói trên, đương đơn phải cư trú tại Síp với tổng thời gian cộng dồn ít nhất là 7 năm (tương đương 2.555 ngày)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Duy trì khoản đầu tư ban đầu; không tiền án tiền sự trong và ngoài Síp."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tiếng Hy Lạp trình độ B1; hiểu biết cơ bản về xã hội - thể chế Síp."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Điều kiện có thể thay đổi theo luật - liên hệ IMM Group để cập nhật."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Đặc quyền của quốc tịch Síp?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Quyền công dân EU đầy đủ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Hộ chiếu Síp miễn visa hoặc visa-on-arrival tới hơn 170 quốc gia - nhóm hộ chiếu mạnh top 15 thế giới; tự do sống, học, làm việc tại 27 nước EU. Cho phép đa quốc tịch."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Rủi ro đầu tư là gì?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "2 rủi ro chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chọn dự án/chủ đầu tư thiếu uy tín hoặc BĐS không đủ điều kiện cấp PR."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nguồn tiền đầu tư không hợp pháp khiến hồ sơ bị từ chối."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group thẩm định kỹ dự án và hồ sơ trước khi ký hợp đồng để hạn chế rủi ro."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Chứng minh nguồn tiền có phức tạp?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Đơn giản hơn Mỹ, Úc, Canada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chỉ cần chứng minh nguồn tiền hợp pháp ở mức cơ bản."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Ví dụ bán bất động sản: cần chứng minh năm mua và giá trị tại thời điểm đó."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Mỗi gia đình có cách chứng minh khác nhau - liên hệ IMM Group để được tư vấn cụ thể."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thời hạn & gia hạn PR?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "PR có thời hạn vĩnh viễn khi duy trì khoản đầu tư",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "PR Cộng Hòa Síp duy trì khi nhà đầu tư giữ khoản đầu tư và đáp ứng quy định."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau khi thỏa điều kiện cư trú, nhà đầu tư có thể nộp hồ sơ nhập tịch Síp."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Giới hạn độ tuổi & yêu cầu trình độ?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Không giới hạn tuổi tối đa, không yêu cầu trình độ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Đương đơn chính chỉ cần từ 18 tuổi; không yêu cầu bằng cấp hay kinh nghiệm quản lý."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thành viên gia đình đi kèm?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Vợ/chồng & con phụ thuộc",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Vợ/chồng hợp pháp; con (kể cả con nuôi) còn độc thân, phụ thuộc tài chính (dưới 18 tuổi, hoặc 18-25 tuổi đang học đại học trở lên)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Lưu ý: chương trình KHÔNG cho phép bố mẹ của đương đơn hoặc của vợ/chồng đi cùng bộ hồ sơ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Cho phép con nuôi / con riêng?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cho phép con nuôi & con riêng",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Con nuôi: cần giấy chứng nhận hợp pháp."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Con riêng: cần giấy chứng nhận hợp pháp kèm văn bản đồng ý có chứng thực của vợ/chồng."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group hỗ trợ chuẩn bị các giấy tờ này."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Mỗi năm phải ở Síp bao nhiêu ngày?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Không yêu cầu cư trú tối thiểu",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Nhà đầu tư chỉ cần đến thăm Síp 1 lần trong mỗi 2 năm để duy trì thẻ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nếu hướng tới nhập tịch, cần đáp ứng điều kiện cư trú theo luật Síp."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Khi nào được bán BĐS/vốn/quỹ đã đầu tư?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Duy trì khoản đầu tư để giữ quyền PR",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau khi nhập quốc tịch Síp, nhà đầu tư có thể chuyển nhượng hoặc bán bất động sản/vốn/quỹ đã đầu tư."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": ""
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": ""
+            }
+        }
+    }
+]

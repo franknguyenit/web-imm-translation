@@ -1,140 +1,11 @@
 vi,en,bien_the_en,loai,trang_thai,ghi_chu,nguon
-IMM Group,IMM Group,,khong-dich,chot,Tên thương hiệu — không dịch, không viết imm group,khoi-tao-2026-09-17
-Tập đoàn IMM,IMM Group,,ten-rieng,chot,Không dịch là IMM Corporation,khoi-tao-2026-09-17
-EB-5,EB-5,,khong-dich,chot,Chương trình thẻ xanh đầu tư Mỹ,khoi-tao-2026-09-17
-EB-1C,EB-1C,,khong-dich,chot,,khoi-tao-2026-09-17
-E-2,E-2,,khong-dich,chot,,khoi-tao-2026-09-17
-L-1A,L-1A,,khong-dich,chot,,khoi-tao-2026-09-17
-I-526E,Form I-526E,I-526E,khong-dich,chot,Đơn của nhà đầu tư EB-5,khoi-tao-2026-09-17
-I-829,Form I-829,I-829,khong-dich,chot,Đơn gỡ điều kiện thẻ xanh,khoi-tao-2026-09-17
-USCIS,USCIS,U.S. Citizenship and Immigration Services,khong-dich,chot,Lần đầu viết đủ tên kèm viết tắt,khoi-tao-2026-09-17
-Sở Di trú Mỹ,U.S. Citizenship and Immigration Services,USCIS,ten-rieng,chot,,khoi-tao-2026-09-17
-Golden Visa,Golden Visa,,khong-dich,chot,,khoi-tao-2026-09-17
-thẻ xanh có điều kiện,conditional green card,conditional permanent resident,thuat-ngu,chot,,khoi-tao-2026-09-17
-gỡ bỏ điều kiện,removal of conditions,remove conditions,thuat-ngu,chot,,khoi-tao-2026-09-17
-thẻ xanh,green card,permanent resident card,thuat-ngu,chot,,khoi-tao-2026-09-17
-thường trú nhân,permanent resident,permanent residence|green card holder,thuat-ngu,chot,,khoi-tao-2026-09-17
-khu vực việc làm mục tiêu,Targeted Employment Area,TEA,thuat-ngu,chot,Lần đầu viết đủ kèm (TEA),khoi-tao-2026-09-17
-trung tâm vùng,regional center,,thuat-ngu,chot,Viết thường trừ khi là tên riêng,khoi-tao-2026-09-17
-đầu tư định cư,residency by investment,citizenship by investment|investment migration|investor visa|investor immigration,thuat-ngu,goi-y,Chọn theo chương trình: cấp quyền cư trú => residency by investment; cấp quốc tịch => citizenship by investment,khoi-tao-2026-09-17
-quốc tịch thứ hai,second citizenship,dual citizenship|second passport,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-hộ chiếu thứ hai,second passport,second citizenship,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-song tịch,dual citizenship,dual nationality,thuat-ngu,chot,,khoi-tao-2026-09-17
-nhập tịch,naturalization,naturalize|citizenship,thuat-ngu,goi-y,Tiếng Anh Mỹ: naturalization (có z),khoi-tao-2026-09-17
-định cư,residency,immigration|relocation|resettle|migrate|permanent residence,thuat-ngu,goi-y,Từ rộng — dịch theo ngữ cảnh,khoi-tao-2026-09-17
-quyền cư trú,residence permit,residency|right of residence,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-thị thực,visa,,thuat-ngu,chot,,khoi-tao-2026-09-17
-miễn thị thực,visa-free,visa-free access|visa-free travel,thuat-ngu,chot,,khoi-tao-2026-09-17
-quản lý tài sản,wealth management,asset management,thuat-ngu,goi-y,Thương hiệu dùng Wealth Management,khoi-tao-2026-09-17
-văn phòng gia đình,family office,,thuat-ngu,chot,,khoi-tao-2026-09-17
-quỹ tín thác,trust,trust fund,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-kế hoạch thừa kế,estate planning,succession planning,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-chứng minh nguồn tiền,source of funds,lawful source of funds,thuat-ngu,chot,,khoi-tao-2026-09-17
-nguồn gốc tài sản,source of wealth,,thuat-ngu,chot,Khác source of funds — không lẫn,khoi-tao-2026-09-17
-lý lịch tư pháp,police clearance certificate,criminal record check|police certificate,thuat-ngu,chot,,khoi-tao-2026-09-17
-thẩm định,due diligence,,thuat-ngu,goi-y,Nghĩa thẩm định hồ sơ/dự án; thẩm định giá => valuation,khoi-tao-2026-09-17
-thẩm định lý lịch,background check,due diligence,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-giải ngân,disbursement,disburse|deploy,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-hoàn vốn,return of capital,capital repayment|repayment,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-vốn đầu tư,investment,capital investment|investment amount,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-phí quản lý,administrative fee,admin fee|management fee,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-tài khoản ký quỹ,escrow account,escrow,thuat-ngu,chot,,khoi-tao-2026-09-17
-đương đơn chính,main applicant,principal applicant,thuat-ngu,chot,,khoi-tao-2026-09-17
-người phụ thuộc,dependents,dependent|family members,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-con dưới 21 tuổi,children under 21,unmarried children under 21,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-luật sư di trú,immigration attorney,immigration lawyer,thuat-ngu,goi-y,Mỹ: attorney; Úc/Canada: lawyer,khoi-tao-2026-09-17
-lãnh sự quán,consulate,,thuat-ngu,chot,,khoi-tao-2026-09-17
-phỏng vấn,interview,,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-lộ trình,process,timeline|pathway|roadmap,thuat-ngu,goi-y,,khoi-tao-2026-09-17
-đăng ký tư vấn,book a consultation,schedule a consultation|request a consultation,thuat-ngu,goi-y,Nút kêu gọi hành động,khoi-tao-2026-09-17
-,guarantee(d)? (approval|green card|citizenship|visa|return|success),,cam,chot,Cấm hứa đảm bảo kết quả/lợi nhuận — rủi ro pháp lý marketing,khoi-tao-2026-09-17
-,100\s*% (success|approval|guarantee),,cam,chot,Cấm cam kết 100%,khoi-tao-2026-09-17
-,risk[- ]free,,cam,chot,Cấm nói không rủi ro,khoi-tao-2026-09-17
-,Vietnamese (clients|customers|investors|families),,cam,chot,Bài cho khách quốc tế — dùng clients/investors nói chung,khoi-tao-2026-09-17
-,absolutely safe|completely safe|100% safe,,cam,chot,Cấm nói an toàn tuyệt đối,khoi-tao-2026-09-17
-mức đầu tư tối thiểu,minimum investment,minimum investment amount,thuat-ngu,goi-y,EB-5: 800.000 USD là mức cho TEA/hạ tầng; mức chuẩn 1.050.000 USD — ghi rõ khi nguồn nói chung,2026-09-17-eb5-co-dang-khong
-tiền rảnh rỗi dài hạn,capital that can be committed for the long term,long-term surplus capital,thuat-ngu,goi-y,,2026-09-17-eb5-co-dang-khong
-chuyên gia độc lập,independent professional,independent advisor,thuat-ngu,goi-y,,2026-09-17-eb5-co-dang-khong
-hội thảo quảng cáo,promotional seminars,sales seminars,thuat-ngu,goi-y,,2026-09-17-eb5-co-dang-khong
-điểm tựa quốc tế,international foothold,,thuat-ngu,goi-y,,2026-09-17-eb5-co-dang-khong
-cha mẹ hai bên,parents on both sides of the family,,thuat-ngu,goi-y,Không tự thêm aging,2026-09-17-eb5-co-dang-khong
-chủ động trong công việc kinh doanh,greater control over your business,,thuat-ngu,goi-y,Chủ động = kiểm soát chứ không phải flexibility,2026-09-17-eb5-co-dang-khong
-thời gian tối thiểu cần ở Mỹ để giữ thẻ xanh,residence requirements for maintaining your green card,,thuat-ngu,goi-y,Luật Mỹ không có số ngày tối thiểu; chỉ có rủi ro từ bỏ cư trú khi vắng mặt dài — không dịch thành minimum time,2026-09-17-eb5-danh-doi-co-xung-dang
-tiền rảnh rỗi,surplus capital,,thuat-ngu,goi-y,,2026-09-17-eb5-danh-doi-co-xung-dang
-phương án dự phòng,backup plan,contingency plan,thuat-ngu,goi-y,Không dùng safe — dùng reliable,2026-09-17-eb5-danh-doi-co-xung-dang
-quyền lựa chọn,freedom to choose,optionality,thuat-ngu,goi-y,,2026-09-17-eb5-danh-doi-co-xung-dang
-vùng nông thôn,rural area,rural TEA,thuat-ngu,goi-y,Nhóm TEA được ưu tiên xử lý I-526E và có visa dành riêng,2026-09-17-visa-dinh-cu-my-eb5
-vùng có tỷ lệ thất nghiệp cao,high-unemployment area,,thuat-ngu,goi-y,,2026-09-17-visa-dinh-cu-my-eb5
-visa dành riêng,set-aside visas,reserved visas,thuat-ngu,goi-y,Hạn ngạch dành riêng của RIA 2022,2026-09-17-visa-dinh-cu-my-eb5
-đường tiền,path of funds,,thuat-ngu,chot,Thuật ngữ USCIS,2026-09-17-visa-dinh-cu-my-eb5
-việc làm dự phòng,job cushion,,thuat-ngu,goi-y,,2026-09-17-visa-dinh-cu-my-eb5
-điều chỉnh tình trạng,adjustment of status,AOS,thuat-ngu,chot,Tên thủ tục USCIS,2026-09-17-visa-dinh-cu-my-eb5
-Trung tâm Thị thực Quốc gia,National Visa Center,NVC,ten-rieng,chot,Cơ quan Bộ Ngoại giao Mỹ,2026-09-17-visa-dinh-cu-my-eb5
-giấy phép tái nhập cảnh,reentry permit,re-entry permit,thuat-ngu,chot,Tên giấy tờ USCIS (Form I-131),2026-09-17-visa-dinh-cu-my-eb5
-cơ chế bảo lưu hồ sơ,grandfathering,grandfathered|grandfathering protection,thuat-ngu,goi-y,RIA: hồ sơ nộp đến hết 30/09/2026 được bảo vệ nếu chương trình trung tâm vùng hết hạn — không dịch là deadline của chương trình,2026-09-17-visa-dinh-cu-my-eb5
-hợp đồng EB-5,subscription agreement,investment agreement,thuat-ngu,goi-y,Hợp đồng góp vốn vào dự án,2026-09-17-visa-dinh-cu-my-eb5
-lộ trình thoái vốn,exit strategy,,thuat-ngu,goi-y,Khác với lộ trình = process,2026-09-17-visa-dinh-cu-my-eb5
-tài sản bảo đảm,collateral,,thuat-ngu,goi-y,,2026-09-17-visa-dinh-cu-my-eb5
-vốn chịu rủi ro,capital at risk,at-risk investment,thuat-ngu,chot,Luật EB-5 bắt buộc; không nói safe,2026-09-17-visa-dinh-cu-my-eb5
-Đạo luật bảo vệ tuổi trẻ em,Child Status Protection Act,CSPA,ten-rieng,chot,Không có nghĩa khóa tuổi khi nộp — trừ thời gian chờ,2026-09-17-visa-dinh-cu-my-eb5
-thị thực định cư,immigrant visa,,thuat-ngu,chot,Ưu tiên hơn residency khi nói về visa EB-5,2026-09-17-visa-dinh-cu-my-eb5
-chủ đầu tư,developer,sponsor,thuat-ngu,goi-y,"Chủ đầu tư dự án EB-5 (developer/sponsor), khác nhà đầu tư EB-5",2026-09-18-haven-residences
-vốn chủ sở hữu,developer equity,equity,thuat-ngu,goi-y,,2026-09-18-haven-residences
-cấu trúc vốn,capital stack,capital structure,thuat-ngu,goi-y,,2026-09-18-haven-residences
-khoản vay cấp cao,senior loan,senior debt,thuat-ngu,goi-y,,2026-09-18-haven-residences
-vị trí thế chấp hạng nhất,first-position lien,first lien|first-priority lien,thuat-ngu,goi-y,Thống nhất một cách gọi trên cả trang (B6 bắt lệch first-priority/first-position),2026-09-18-haven-residences
-đồng cho vay,co-lender,loan participation|participation,thuat-ngu,goi-y,Vốn EB-5 tham gia khoản vay của bên cho vay chính,2026-09-18-haven-residences
-bảo lãnh hoàn thành,completion guarantee,,thuat-ngu,goi-y,Bảo lãnh của chủ đầu tư — không viết thành bảo đảm hoàn vốn cho nhà đầu tư,2026-09-18-haven-residences
-bảo lãnh thanh toán khoản vay,repayment guarantee,personal repayment guarantee,thuat-ngu,goi-y,Bảo lãnh của chủ đầu tư cho khoản vay; tránh câu bị động dễ đọc thành hoàn vốn được bảo đảm,2026-09-18-haven-residences
-giá trị dự án khi ổn định,appraised stabilized value,stabilized value,thuat-ngu,goi-y,,2026-09-18-haven-residences
-tỷ lệ trống,vacancy rate,vacancy,thuat-ngu,goi-y,,2026-09-18-haven-residences
-khối đế,ground floor,podium,thuat-ngu,goi-y,Mặt bằng thương mại tầng trệt,2026-09-18-haven-residences
-giá thuê giả định ban đầu,original underwriting assumptions,underwritten rents,thuat-ngu,goi-y,,2026-09-18-haven-residences
-an toàn thẻ xanh,job creation to support your green card,,thuat-ngu,goi-y,Tiêu đề mục — không dịch safe/protecting green card (hứa kết quả),2026-09-18-haven-residences
-an toàn khả năng thu hồi vốn,structural features designed to manage investment risk,,thuat-ngu,goi-y,Không hứa lấy lại vốn — vốn EB-5 phải at risk,2026-09-18-haven-residences
-thị thực làm việc không định cư,nonimmigrant work visa,temporary work visa,thuat-ngu,goi-y,L-1A,2026-09-18-visa-my-l1a
-chuyển nhân sự nội bộ,intracompany transferee,intracompany transfer,thuat-ngu,goi-y,Tên diện L-1 của USCIS,2026-09-18-visa-my-l1a
-visa phụ thuộc L-2,L-2 dependent visa,L-2 status,thuat-ngu,goi-y,Vợ/chồng L-2 được làm việc theo diện; con L-2 thì không,2026-09-18-visa-my-l1a
-công ty liên kết,affiliate,related company,thuat-ngu,goi-y,"Cùng nhóm: subsidiary, branch, parent company",2026-09-18-visa-my-l1a
-dịch vụ xử lý nhanh,premium processing,,thuat-ngu,goi-y,"Tên dịch vụ USCIS (I-129, I-140)",2026-09-18-visa-dinh-cu-my-eb1c
-nhà quản lý hoặc điều hành cấp cao,managers and senior executives,multinational executives and managers,thuat-ngu,goi-y,EB-1C/L-1A,2026-09-18-visa-dinh-cu-my-eb1c
-nước ký hiệp định,treaty country,E-2 treaty country,thuat-ngu,goi-y,Hiệp định thương mại (treaty of commerce) — không gọi trade agreement,2026-09-18-visa-my-e2
-quốc tịch trung gian,second citizenship,treaty-country citizenship,thuat-ngu,goi-y,Để đủ điều kiện E-2; AMIGOS Act đòi cư trú 3 năm với quốc tịch qua đầu tư,2026-09-18-visa-my-e2
-đầu tư thụ động,passive investment,,thuat-ngu,goi-y,E-2 không chấp nhận,2026-09-18-visa-my-e2
-Thổ Nhĩ Kỳ,Türkiye,Turkey,ten-rieng,goi-y,Tên chính thức; lần đầu có thể kèm (Turkey),2026-09-18-visa-my-e2
-tài sản ròng hữu hình,tangible net worth,,thuat-ngu,goi-y,Cam kết tài chính của bên bảo lãnh,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
-thế chấp ưu tiên hạng nhất,first-position lien,first lien,thuat-ngu,goi-y,Thống nhất với trang dự án EB-5 khác,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
-nhà cung ứng cấp 1,Tier 1 supplier,Tier-1 supplier,thuat-ngu,goi-y,Ngành ô tô,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
-cơ chế ràng buộc tài chính,financial covenants,,thuat-ngu,goi-y,Điều khoản khoản vay,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
-đúc ép phun,injection molding,,thuat-ngu,goi-y,US spelling molding,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
-hạn ngạch visa dành riêng,set-aside visas,reserved visas,thuat-ngu,goi-y,20% cho rural theo RIA 2022,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
-đáo hạn,maturity,mature,thuat-ngu,goi-y,Khoản vay EB-5,2026-09-20-du-an-eb-5-ecoplastic-nha-may-san-xuat-phu-tung-o-to-hyundai
-căn hộ sống độc lập,Independent Living units,,thuat-ngu,goi-y,Senior housing; viết hoa tên cấp chăm sóc,2026-09-20-khu-nghi-duong-va-cham-soc-suc-khoe-nguoi-cao-tuoi-horseshoe
-hỗ trợ sinh hoạt,Assisted Living,,thuat-ngu,goi-y,Senior housing,2026-09-20-khu-nghi-duong-va-cham-soc-suc-khoe-nguoi-cao-tuoi-horseshoe
-chăm sóc trí nhớ,Memory Care,,thuat-ngu,goi-y,Senior housing,2026-09-20-khu-nghi-duong-va-cham-soc-suc-khoe-nguoi-cao-tuoi-horseshoe
-khu an dưỡng hưu trí,senior living community,senior housing,thuat-ngu,goi-y,,2026-09-20-khu-nghi-duong-va-cham-soc-suc-khoe-nguoi-cao-tuoi-horseshoe
-khoản vay C-PACE,C-PACE loan,C-PACE financing,thuat-ngu,goi-y,Commercial Property Assessed Clean Energy; thường ưu tiên trước khoản vay thế chấp — cẩn thận khi nói first-position lien,2026-09-20-khu-nghi-duong-va-cham-soc-suc-khoe-nguoi-cao-tuoi-horseshoe
-hạng A,Class A,,thuat-ngu,goi-y,Phân khúc bất động sản,2026-09-20-khu-nghi-duong-va-cham-soc-suc-khoe-nguoi-cao-tuoi-horseshoe
-Golden Visa Hy Lạp,Greece Golden Visa,Greece golden visa program,thuat-ngu,goi-y,Tên trang tiếng Anh; không dùng 'Greece permanent residence',2026-09-21-thuong-tru-nhan-hy-lap
-thường trú nhân Hy Lạp,Greece Golden Visa,Greece residency by investment,thuat-ngu,goi-y,Thẻ 5 năm có thời hạn — dịch 'permanent resident' là sai dữ kiện; gắn cờ #bo-qua-tn,2026-09-21-thuong-tru-nhan-hy-lap
-White Paper,White Paper,blue paper|blue receipt,thuat-ngu,goi-y,Giấy xác nhận đã nộp hồ sơ Golden Visa HL; trên trang đặt trong ngoặc kép. Ngành và hãng luật HL gọi là blue paper/blue receipt (μπλε βεβαίωση); người bản xứ hiểu 'white paper' là báo cáo chuyên đề — CHỜ CEO CHỐT,2026-09-21-thuong-tru-nhan-hy-lap
-chuyển đổi công năng,change of use,change-of-use|converted from commercial to residential use|converted from,thuat-ngu,goi-y,Diện €250.000 của Golden Visa Hy Lạp; ở khối hero viết đủ 'converted from commercial to residential use' vì 'change-of-use' là tiếng lóng nghề,2026-09-21-thuong-tru-nhan-hy-lap
-tự do đi lại Schengen,visa-free travel in the Schengen Area,Schengen travel,thuat-ngu,goi-y,KHÔNG dịch 'freedom of movement' — đó là thuật ngữ luật EU chỉ quyền sống/làm việc,2026-09-21-thuong-tru-nhan-hy-lap
-90 ngày trong mỗi 6 tháng,90 days in any 180-day period,short-stay rule,thuat-ngu,goi-y,Công thức đúng của luật Schengen; nguồn Việt hay viết '6 tháng' — gắn cờ #bo-qua-so,2026-09-21-thuong-tru-nhan-hy-lap
-lấy sinh trắc,provide biometrics,biometrics|give biometrics (sai kết hợp từ),thuat-ngu,goi-y,"Ngành nói 'provide biometrics', không nói 'give biometrics'",2026-09-21-thuong-tru-nhan-hy-lap
-Sở Di trú Hy Lạp,Greek migration authorities,Ministry of Migration and Asylum,thuat-ngu,goi-y,Cơ quan chủ quản là Bộ Di trú và Tị nạn — 'migration' sát hơn 'immigration',2026-09-21-thuong-tru-nhan-hy-lap
-tòa nhà lịch sử cần bảo tồn,historic building in need of restoration,listed historic building,thuat-ngu,goi-y,,2026-09-21-thuong-tru-nhan-hy-lap
-gia hạn 5 năm/lần,renewable in 5-year periods,renewable every 5 years,thuat-ngu,goi-y,"Không viết 'is renewed every 5 years' — đọc như gia hạn tự động, là hứa kết quả",2026-09-21-thuong-tru-nhan-hy-lap
-an sinh xã hội,social insurance,welfare|social security (chữ Mỹ),thuat-ngu,goi-y,Trang châu Âu dùng social insurance/welfare; 'Social Security' là chữ Mỹ,2026-09-21-thuong-tru-nhan-hy-lap
-ủy quyền cho luật sư,grant a lawyer power of attorney,power of attorney,thuat-ngu,goi-y,,2026-09-21-thuong-tru-nhan-hy-lap
 thời gian giữ vốn,sustainment period,,thuat-ngu,goi-y,"EB-5: RIA 2022 rút còn 2 năm kể từ ngày góp vốn (USCIS Policy Manual Vol. 6 Part G, 11/10/2024); nguồn Việt còn ghi 5 năm là mốc tiền-RIA",2026-09-21-overview-usa-v2
 xét duyệt nhanh,premium processing,,thuat-ngu,goi-y,"Form I-907, 15 NGÀY LÀM VIỆC, có phí USCIS riêng — không viết trần '15 days' như tốc độ mặc định",2026-09-21-overview-usa-v2
-thuế thu nhập toàn cầu,U.S. tax on worldwide income,worldwide income tax,thuat-ngu,goi-y,"Không viết 'not subject to' / 'avoid': giữ E-2 mà đủ ngày theo substantial presence test thì thành U.S. tax resident — phải viết có điều kiện + đẩy về tax advisor",2026-09-21-overview-usa-v2
-học phí bằng 1/3 du học sinh,in-state tuition,,thuat-ngu,goi-y,"Mức 1/3 là học phí in-state sau khi đủ điều kiện cư trú bang — thiếu chữ này là thiếu điều kiện",2026-09-21-overview-usa-v2
-đặc quyền nổi bật,Key benefits,,thuat-ngu,goi-y,"Nhãn mục trên template overview; ô label-sm hẹp nên không dùng 'Outstanding privileges'",2026-09-21-overview-usa-v2
-hạn chế cần lưu ý,Points to consider,,thuat-ngu,goi-y,"Nhãn mục warn-box trên template overview",2026-09-21-overview-usa-v2
-hình thức đầu tư,How you invest,,thuat-ngu,goi-y,"Nhãn note-box trên template overview (CSS tự viết hoa)",2026-09-21-overview-usa-v2
-vi,en,bien_the_en,loai,trang_thai,ghi_chu,nguon
+thuế thu nhập toàn cầu,U.S. tax on worldwide income,worldwide income tax,thuat-ngu,goi-y,Không viết 'not subject to' / 'avoid': giữ E-2 mà đủ ngày theo substantial presence test thì thành U.S. tax resident — phải viết có điều kiện + đẩy về tax advisor,2026-09-21-overview-usa-v2
+học phí bằng 1/3 du học sinh,in-state tuition,,thuat-ngu,goi-y,Mức 1/3 là học phí in-state sau khi đủ điều kiện cư trú bang — thiếu chữ này là thiếu điều kiện,2026-09-21-overview-usa-v2
+đặc quyền nổi bật,Key benefits,,thuat-ngu,goi-y,Nhãn mục trên template overview; ô label-sm hẹp nên không dùng 'Outstanding privileges',2026-09-21-overview-usa-v2
+hạn chế cần lưu ý,Points to consider,,thuat-ngu,goi-y,Nhãn mục warn-box trên template overview,2026-09-21-overview-usa-v2
+hình thức đầu tư,How you invest,,thuat-ngu,goi-y,Nhãn note-box trên template overview (CSS tự viết hoa),2026-09-21-overview-usa-v2
 IMM Group,IMM Group,,khong-dich,chot,Tên thương hiệu — không dịch, không viết imm group,khoi-tao-2026-09-17
 Tập đoàn IMM,IMM Group,,ten-rieng,chot,Không dịch là IMM Corporation,khoi-tao-2026-09-17
 EB-5,EB-5,,khong-dich,chot,Chương trình thẻ xanh đầu tư Mỹ,khoi-tao-2026-09-17
@@ -233,8 +104,6 @@ khối Schengen,Schengen Area,Schengen zone|Schengen countries,ten-rieng,chot,"V
 chuyển đổi công năng,change of use,change-of-use|converted from commercial to residential use|converted from,thuat-ngu,goi-y,Diện €250.000 của Golden Visa Hy Lạp; ở khối hero viết đủ 'converted from commercial to residential use' vì 'change-of-use' là tiếng lóng nghề,2026-09-21-thuong-tru-nhan-hy-lap
 tòa nhà lịch sử cần bảo tồn,historic building in need of restoration,listed historic building,thuat-ngu,goi-y,,2026-09-21-thuong-tru-nhan-hy-lap
 lấy sinh trắc,provide biometrics,biometrics|give biometrics (sai kết hợp từ),thuat-ngu,goi-y,"Ngành nói 'provide biometrics', không nói 'give biometrics'",2026-09-21-thuong-tru-nhan-hy-lap
-White Paper,White Paper,,khong-dich,goi-y,Giấy xác nhận tạm của Hy Lạp sau khi nộp hồ sơ — nguồn IMM gọi White Paper; giữ nguyên và ghi chú CEO,thuong-tru-nhan-hy-lap
-Sở Di trú Hy Lạp,the Greek immigration authorities,Greek migration authorities,ten-rieng,goi-y,Nguồn không nêu tên cơ quan cụ thể — dùng cách gọi chung để khỏi thêm dữ kiện,thuong-tru-nhan-hy-lap
 chứng minh nguồn vốn hợp pháp,proof of lawful source of funds,source of funds,thuat-ngu,goi-y,,thuong-tru-nhan-hy-lap
 lý lịch tư pháp trong sạch,clean criminal record,,thuat-ngu,goi-y,,thuong-tru-nhan-hy-lap
 người phụ thuộc,dependents,dependent|family members,thuat-ngu,goi-y,,khoi-tao-2026-09-17
@@ -246,24 +115,24 @@ bất động sản,real estate,property,thuat-ngu,goi-y,Trang Hy Lạp dùng re
 Ireland,Ireland,Irish,ten-rieng,chot,"Tính từ: Irish (Irish citizenship, Irish passport); tên nước: Ireland. Không viết Republic of Ireland trừ khi nguồn có",thuong-tru-nhan-ireland
 Chương trình Đầu tư Ireland,Immigrant Investor Programme (IIP),IIP,ten-rieng,chot,"Tên chính thức của Chính phủ Ireland giữ lối viết Anh-Ireland ""Programme""; lần đầu viết đủ kèm (IIP). Nguồn: irishimmigration.ie",thuong-tru-nhan-ireland
 Stamp 4,Stamp 4,,khong-dich,chot,"Tên hạng mục cư trú chính thức của Ireland — không dịch, không viết stamp 4",thuong-tru-nhan-ireland
-thẻ cư trú Ireland,Irish Residence Permit (IRP),IRP,ten-rieng,chot,"Thẻ vật lý của tình trạng Stamp 4; nguồn IMM đã nêu đúng tên. Không gọi là residence card",thuong-tru-nhan-ireland
-Sở Di trú Ireland,Immigration Service Delivery (ISD),ISD,ten-rieng,chot,"Tên chính thức của cơ quan thuộc Bộ Tư pháp Ireland; nguồn IMM viết tắt ISD. Nguồn: irishimmigration.ie",thuong-tru-nhan-ireland
-Thỏa thuận Common Travel Area,Common Travel Area (CTA),CTA,ten-rieng,chot,"Không dịch là Common Travel Agreement — đúng là Area",thuong-tru-nhan-ireland
-chấp thuận sơ bộ,pre-approval,approval in principle,thuat-ngu,goi-y,"Ireland IIP duyệt trước rồi mới chuyển vốn — dùng pre-approval cho nhất quán cả trang",thuong-tru-nhan-ireland
-phương án trao tặng,endowment option,endowment,thuat-ngu,goi-y,"Tên ngành cho khoản 400.000 EUR không hoàn lại; không dịch là donation/gift (nguồn IIP gọi endowment)",thuong-tru-nhan-ireland
-phương án đầu tư doanh nghiệp,enterprise investment option,enterprise investment,thuat-ngu,goi-y,"Khoản 1.000.000 EUR giữ 3 năm",thuong-tru-nhan-ireland
-cư trú thực tế,reckonable residence,physical residence,thuat-ngu,goi-y,"Thuật ngữ nhập tịch Ireland: reckonable residence là số năm được tính để xét nhập tịch",thuong-tru-nhan-ireland
-Định cư vô thời hạn,Indefinite Leave to Remain (ILR),ILR,ten-rieng,chot,"Tên chính thức của Anh; nguồn IMM dịch là giấy phép cư trú vĩnh viễn",thuong-tru-nhan-ireland
+thẻ cư trú Ireland,Irish Residence Permit (IRP),IRP,ten-rieng,chot,Thẻ vật lý của tình trạng Stamp 4; nguồn IMM đã nêu đúng tên. Không gọi là residence card,thuong-tru-nhan-ireland
+Sở Di trú Ireland,Immigration Service Delivery (ISD),ISD,ten-rieng,chot,Tên chính thức của cơ quan thuộc Bộ Tư pháp Ireland; nguồn IMM viết tắt ISD. Nguồn: irishimmigration.ie,thuong-tru-nhan-ireland
+Thỏa thuận Common Travel Area,Common Travel Area (CTA),CTA,ten-rieng,chot,Không dịch là Common Travel Agreement — đúng là Area,thuong-tru-nhan-ireland
+chấp thuận sơ bộ,pre-approval,approval in principle,thuat-ngu,goi-y,Ireland IIP duyệt trước rồi mới chuyển vốn — dùng pre-approval cho nhất quán cả trang,thuong-tru-nhan-ireland
+phương án trao tặng,endowment option,endowment,thuat-ngu,goi-y,Tên ngành cho khoản 400.000 EUR không hoàn lại; không dịch là donation/gift (nguồn IIP gọi endowment),thuong-tru-nhan-ireland
+phương án đầu tư doanh nghiệp,enterprise investment option,enterprise investment,thuat-ngu,goi-y,Khoản 1.000.000 EUR giữ 3 năm,thuong-tru-nhan-ireland
+cư trú thực tế,reckonable residence,physical residence,thuat-ngu,goi-y,Thuật ngữ nhập tịch Ireland: reckonable residence là số năm được tính để xét nhập tịch,thuong-tru-nhan-ireland
+Định cư vô thời hạn,Indefinite Leave to Remain (ILR),ILR,ten-rieng,chot,Tên chính thức của Anh; nguồn IMM dịch là giấy phép cư trú vĩnh viễn,thuong-tru-nhan-ireland
 bài kiểm tra Life in UK,Life in the UK test,,ten-rieng,chot,"Tên chính thức có mạo từ ""the"": Life in the UK test",thuong-tru-nhan-ireland
-miễn học phí,free tuition,tuition-free,thuat-ngu,goi-y,"Trường công Ireland miễn học phí tới hết trung học",thuong-tru-nhan-ireland
+miễn học phí,free tuition,tuition-free,thuat-ngu,goi-y,Trường công Ireland miễn học phí tới hết trung học,thuong-tru-nhan-ireland
 đa quốc tịch,dual or multiple citizenship,multiple citizenship,thuat-ngu,goi-y,,thuong-tru-nhan-ireland
 Grenada,Grenada,Grenadian,ten-rieng,chot,"Tính từ và người dân: Grenadian (Grenadian citizenship, Grenadian passport); tên nước: Grenada",quoc-tich-grenada
-chương trình đầu tư nhập tịch,Citizenship by Investment (CBI),CBI|citizenship by investment,ten-rieng,chot,"Tên chính thức của chương trình Caribbean; lần đầu viết đủ kèm (CBI). Không dịch là naturalization by investment",quoc-tich-grenada
+chương trình đầu tư nhập tịch,Citizenship by Investment (CBI),CBI|citizenship by investment,ten-rieng,chot,Tên chính thức của chương trình Caribbean; lần đầu viết đủ kèm (CBI). Không dịch là naturalization by investment,quoc-tich-grenada
 phương án trao tặng Grenada,National Transformation Fund (NTF),NTF|donation|contribution,ten-rieng,goi-y,"Tên quỹ nhận khoản 235.000 USD không hoàn lại; nguồn IMM chỉ gọi ""Trao tặng"" — dùng NTF nếu muốn chính xác, nhưng KHÔNG tự thêm nếu nguồn không nhắc",quoc-tich-grenada
-Khối Thịnh vượng chung Anh,the Commonwealth,Commonwealth of Nations,ten-rieng,chot,"Không dịch là British Commonwealth (tên cũ); dạng đủ là the Commonwealth of Nations",quoc-tich-grenada
+Khối Thịnh vượng chung Anh,the Commonwealth,Commonwealth of Nations,ten-rieng,chot,Không dịch là British Commonwealth (tên cũ); dạng đủ là the Commonwealth of Nations,quoc-tich-grenada
 giấy phép du lịch điện tử ETA,Electronic Travel Authorisation (ETA),ETA,ten-rieng,chot,"Tên chính thức của Anh giữ lối viết Anh-Anh ""Authorisation"". Nguồn: gov.uk",quoc-tich-grenada
 Đại học Y St. George's,St. George's University (SGU),SGU,ten-rieng,chot,"Tên chính thức không có chữ ""Y"" (Medical) — là St. George's University, có trường y nổi tiếng",quoc-tich-grenada
-lễ tuyên thệ,oath of allegiance,oath,thuat-ngu,goi-y,"Nghi thức tuyên thệ trung thành khi nhận quốc tịch Grenada",quoc-tich-grenada
+lễ tuyên thệ,oath of allegiance,oath,thuat-ngu,goi-y,Nghi thức tuyên thệ trung thành khi nhận quốc tịch Grenada,quoc-tich-grenada
 lý lịch an ninh và sức khỏe,background and medical requirements,security and medical checks,thuat-ngu,goi-y,,quoc-tich-grenada
 thu hồi quốc tịch,revoke citizenship,revocation,thuat-ngu,goi-y,"Dùng khi rào lại câu ""quốc tịch không bị thu hồi"" — quốc tịch CBI vẫn thu hồi được nếu gian lận hồ sơ",quoc-tich-grenada
 thị thực làm việc không định cư,nonimmigrant work visa,temporary work visa,thuat-ngu,goi-y,L-1A,2026-09-18-visa-my-l1a
@@ -298,3 +167,20 @@ Sở Di trú Hy Lạp,Greek migration authorities,Ministry of Migration and Asyl
 gia hạn 5 năm/lần,renewable in 5-year periods,renewable every 5 years,thuat-ngu,goi-y,"Không viết 'is renewed every 5 years' — đọc như gia hạn tự động, là hứa kết quả",2026-09-21-thuong-tru-nhan-hy-lap
 an sinh xã hội,social insurance,welfare|social security (chữ Mỹ),thuat-ngu,goi-y,Trang châu Âu dùng social insurance/welfare; 'Social Security' là chữ Mỹ,2026-09-21-thuong-tru-nhan-hy-lap
 ủy quyền cho luật sư,grant a lawyer power of attorney,power of attorney,thuat-ngu,goi-y,,2026-09-21-thuong-tru-nhan-hy-lap
+quốc tịch Montenegro,Montenegro citizenship by investment,Montenegrin citizenship,thuat-ngu,goi-y,Tên trang tiếng Anh; tính từ là Montenegrin (không phải Montenegran),2026-09-22-quoc-tich-montenegro
+hiệp ước thương mại và hàng hải,treaty of commerce and navigation,,ten-rieng,goi-y,Cơ sở để công dân Montenegro được xét visa E-2 của Mỹ,2026-09-22-quoc-tich-montenegro
+trao tặng Chính phủ,government contribution,non-refundable government contribution,thuat-ngu,goi-y,"Ngành gọi là (non-refundable) government contribution — KHÔNG dịch là donation/gift",2026-09-22-quoc-tich-montenegro
+visa E-2,E-2 treaty investor visa,E-2 visa,thuat-ngu,goi-y,Lần nhắc đầu trong thân bài viết đủ 'treaty investor',2026-09-22-quoc-tich-montenegro
+thường trú nhân Bulgaria,Bulgaria Golden Visa,Bulgaria permanent residence,thuat-ngu,goi-y,"Tên trang tiếng Anh dùng Golden Visa cho SEO; thân bài dùng permanent residence vì chương trình cấp PR ngay, không qua tạm trú",2026-09-22-thuong-tru-nhan-bulgaria
+Ủy ban Giám sát Tài chính Bulgaria,Financial Supervision Commission,FSC,ten-rieng,goi-y,Lần đầu viết đủ kèm (FSC),2026-09-22-thuong-tru-nhan-bulgaria
+Cơ quan Xúc tiến Đầu tư Bulgaria,InvestBulgaria Agency,IBA,ten-rieng,goi-y,Tên chính thức tiếng Anh — không dịch máy móc thành Bulgarian Investment Promotion Agency,2026-09-22-thuong-tru-nhan-bulgaria
+quỹ đầu tư tập thể,collective investment scheme,,thuat-ngu,goi-y,Loại quỹ đủ điều kiện của Golden Visa Bulgaria; ngưỡng NAV tính bằng BGN,2026-09-22-thuong-tru-nhan-bulgaria
+quỹ đầu tư thay thế,alternative investment fund,AIF,thuat-ngu,goi-y,Lần đầu viết đủ kèm (AIF),2026-09-22-thuong-tru-nhan-bulgaria
+visa D,Type D long-stay visa,type D visa,thuat-ngu,goi-y,Viết hoa chữ Type theo cách gọi của cơ quan Bulgaria,2026-09-22-thuong-tru-nhan-bulgaria
+thường trú nhân Cộng Hòa Síp,Cyprus Golden Visa,Cyprus permanent residence|Cyprus residency by investment,thuat-ngu,goi-y,Tên trang tiếng Anh dùng Golden Visa cho SEO; thân bài dùng permanent residence (chương trình cấp PR giữ khi còn duy trì đầu tư),2026-09-22-thuong-tru-nhan-cong-hoa-sip-cyprus
+Sở Di trú Cộng Hòa Síp,Civil Registry and Migration Department,,ten-rieng,goi-y,Tên chính thức của cơ quan xét hồ sơ PR Síp,2026-09-22-thuong-tru-nhan-cong-hoa-sip-cyprus
+chứng minh thu nhập từ nước ngoài,secured annual income from outside Cyprus,secured annual income,thuat-ngu,goi-y,Đúng cách quy định Síp gọi khoản thu nhập tối thiểu €50.000/năm,2026-09-22-thuong-tru-nhan-cong-hoa-sip-cyprus
+thường trú nhân Malta,Malta Golden Visa,Malta Permanent Residence Programme|MPRP,thuat-ngu,goi-y,"Tên chính thức là Malta Permanent Residence Programme (MPRP) — giữ lối viết Anh-Anh Programme vì là tên riêng; H1 dùng Malta Golden Visa cho SEO",2026-09-22-thuong-tru-nhan-malta
+chứng minh tài sản,proof of assets,,thuat-ngu,goi-y,Điều kiện MPRP; tài sản thanh khoản cao => liquid assets,2026-09-22-thuong-tru-nhan-malta
+quyên góp từ thiện,philanthropic donation,,thuat-ngu,goi-y,Khoản €2.000 của MPRP — đây đúng là donation (khác government contribution),2026-09-22-thuong-tru-nhan-malta
+khu vực tự do đi lại,border-free travel area,,thuat-ngu,goi-y,"Định nghĩa Schengen; tránh dùng 'free movement area' vì trùng thuật ngữ luật EU chỉ quyền sống/làm việc",2026-09-22-thuong-tru-nhan-malta

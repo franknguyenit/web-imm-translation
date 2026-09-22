@@ -1,0 +1,633 @@
+[
+    {
+        "post_id": 100890,
+        "post_slug": "/thuong-tru-nhan-malta/",
+        "post_title": "Thường trú nhân Malta",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "THƯỜNG TRÚ NHÂN <span class=\"accent\">MALTA</span>"
+            },
+            "product_hero_video": "https://videopress.com/v/A5mY0q0g",
+            "product_hero_image": "99273",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "THƯỜNG TRÚ NHÂN MALTA LÀ GÌ?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Chương trình MPRP cấp quyền thường trú tại Malta do Chính phủ Malta ban hành.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Dành cho nhà đầu tư ngoài EU/EEA và Thụy Sĩ cùng gia đình thông qua khoản đầu tư đủ điều kiện.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Sinh sống tại Malta và đi lại khối Schengen ngắn hạn theo quy định 90/180 ngày.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Cả gia đình tới 4 thế hệ: vợ/chồng, con cái dưới 29 tuổi (còn độc thân & phụ thuộc tài chính), cha mẹ và ông bà hai bên.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Mua bất động sản từ 375.000 EUR (~ 11,3 tỷ đồng) hoặc thuê từ 14.000 EUR/năm (~ 420 triệu đồng/năm), kèm các khoản đóng góp theo quy định.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://immgroup.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI THƯỜNG TRÚ NHÂN MALTA",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "home_work",
+                    "product_benefits_item_title": "Sinh sống & phát triển tại Malta",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Cả gia đình được tự do sinh sống, học tập và làm việc tại Malta."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "work",
+                    "product_benefits_item_title": "Quyền thường trú tại Malta",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Trở thành thường trú nhân vĩnh viễn. Có cơ hội tiếp cận lợi ích y tế và nền giáo dục tiên tiến theo tiêu chuẩn châu Âu - giảng dạy bằng tiếng Anh."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "Tự do đi lại Schengen",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Đi lại 29 nước khối Schengen theo quy định lưu trú ngắn hạn 90 ngày trong mỗi 6 tháng."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "health_and_safety",
+                    "product_benefits_item_title": "Lộ trình hướng tới quốc tịch Malta",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Sau thời gian cư trú và đáp ứng điều kiện về cư trú, ngôn ngữ theo luật Malta, nhà đầu tư có thể xét nộp hồ sơ nhập tịch."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM THƯỜNG TRÚ NHÂN MALTA",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "timer",
+                    "product_advantages_item_title": "Không yêu cầu cư trú",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không bắt buộc cư trú tại Malta để duy trì thường trú nhân."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "route",
+                    "product_advantages_item_title": "Điều kiện tham gia đơn giản",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không giới hạn tuổi tối đa; không yêu cầu bằng cấp, kinh nghiệm hay tiếng Anh."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Cả gia đình 4 thế hệ",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Người phụ thuộc trên 18 tuổi đóng góp thêm theo quy định."
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Vợ/chồng và con nhỏ đi kèm không phát sinh khoản đóng góp thêm."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "calendar_month",
+                    "product_advantages_item_title": "Đầu tư sau khi được chấp thuận",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Chỉ thực hiện khoản đầu tư sau khi hồ sơ được chấp thuận sơ bộ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN ĐẦU TƯ LẤY THƯỜNG TRÚ NHÂN MALTA",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "account_balance",
+                    "product_conditions_item_title": "Yêu cầu đầu tư",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Mua bất động sản từ 375.000 EUR (~ 11,3 tỷ đồng), hoặc"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Thuê bất động sản từ 14.000 EUR/năm (~ 420 triệu đồng/năm)."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Duy trì BĐS hoặc hợp đồng thuê tối thiểu 5 năm."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Các khoản đóng góp theo quy định",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đóng góp Chính phủ (không hoàn lại): 37.000 EUR (~ 1,1 tỷ đồng)."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Phí hành chính: 60.000 EUR (~ 1,8 tỷ đồng)."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Quyên góp từ thiện tại Malta: 2.000 EUR (~ 60 triệu đồng)."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Người phụ thuộc trên 18 tuổi đi kèm (trừ vợ/chồng): 7.500 EUR/người (~ 225 triệu đồng /người)."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "wallet",
+                    "product_conditions_item_title": "Chứng minh tài sản",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Tối thiểu 500.000 EUR (~ 15 tỷ đồng), gồm 150.000 EUR (~ 4,5 tỷ đồng) tài sản thanh khoản cao, hoặc"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "650.000 EUR (~ 19,5 tỷ đồng), gồm 75.000 EUR (~ 2,3 tỷ đồng)  tài sản thanh khoản cao."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "verified_user",
+                    "product_conditions_item_title": "Điều kiện đương đơn & người phụ thuộc",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đương đơn từ 18 tuổi, không giới hạn tuổi tối đa."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đạt yêu cầu lý lịch an ninh & sức khỏe."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh nguồn vốn hợp pháp."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Người phụ thuộc: phụ thuộc tài chính vào đương đơn."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Tất cả thành viên gia đình phải mua bảo hiểm y tế trong 5 năm."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH ĐẦU TƯ LẤY THƯỜNG TRÚ NHÂN MALTA",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Tư vấn & thẩm định hồ sơ",
+                    "product_process_step_desc": "Đánh giá khả năng đáp ứng điều kiện và xây dựng lộ trình cho cả gia đình.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "folder_managed",
+                    "product_process_step_title": "Chuẩn bị & nộp hồ sơ",
+                    "product_process_step_desc": "Hoàn thiện hồ sơ và nộp xin thường trú nhân Malta.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "check_circle",
+                    "product_process_step_title": "Nhận chấp thuận sơ bộ & thực hiện đầu tư",
+                    "product_process_step_desc": "Sau khi hồ sơ được chấp thuận sơ bộ, thực hiện khoản đầu tư và các khoản đóng góp theo quy định.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "fingerprint",
+                    "product_process_step_title": "Lấy sinh trắc & nhận thẻ",
+                    "product_process_step_desc": "Đến Malta lấy sinh trắc học và nhận thẻ thường trú.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "Có thể bạn quan tâm",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "Có thể bạn quan tâm",
+            "product_care_service_desc": "<p>Tìm hiểu các dịch vụ tư vấn từ IMM Group:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Quốc tịch & thường trú nhân châu Âu",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Ireland",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-ireland/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Hy Lạp",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hy-lap/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Cộng hòa Síp (Cyprus)",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-cong-hoa-sip-cyprus/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thương trú nhân Latvia",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/dau-tu-dinh-cu-latvia/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Bồ Đào Nha",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bo-dao-nha/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Hungary",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hungary-guest-investor-program/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Thường trú nhân Bulgaria",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bulgaria/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Hiểu về Malta",
+            "product_care_topics_desc": "<p>Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Cuộc sống tại Malta",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-malta/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Giáo dục tại Malta",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-malta/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Văn hóa Malta",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-malta/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Lao động / Kinh doanh tại Malta",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-malta/#n3",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Câu hỏi thường gặp về Thường Trú Nhân Malta",
+            "product_faq_section_id": "faq-malta",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Rủi ro đầu tư là gì?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "2 rủi ro chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chọn dự án/nhà phát triển thiếu uy tín hoặc BĐS không đủ điều kiện."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nguồn tiền đầu tư không hợp pháp dẫn đến hồ sơ bị từ chối."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group thẩm định kỹ hồ sơ trước khi ký hợp đồng, giảm thiểu rủi ro nguồn tiền."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Chứng minh nguồn tiền có phức tạp?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Đơn giản hơn Mỹ, Úc, Canada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chỉ cần chứng minh 2 lớp: nguồn tiền sử dụng và nguồn hình thành nên khoản tiền đó."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Ví dụ: bán BĐS - chứng minh năm mua và giá trị tại thời điểm đó."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Mỗi gia đình có cách chứng minh khác nhau - liên hệ IMM Group để được tư vấn cụ thể."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Phương án đầu tư gồm những gì?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Chọn 1 phương án bất động sản: Mua hoặc thuê",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Mua bất động sản từ 375.000 EUR (~ 11,3 tỷ đồng); hoặc thuê từ 14.000EUR/năm (~ 420 triệu đồng/năm), duy trì 5 năm."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Trao tặng chính phủ 37.000 EUR (~ 1,1 tỷ đồng), phí hành chính 60.000 EUR (~ 1,8 tỷ đồng), quyên góp 2.000 EUR (~ 60 triệu đồng)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Chứng minh tài sản từ 500.000 EUR (~ 15 tỷ đồng), trong đó 150.000 EUR (~ 4,5 tỷ đồng) là tài sản thanh khoản; hoặc 650.000 EUR (~ 19,5 tỷ đồng), trong đó 75.000 EUR (~ 2,3 tỷ đồng) là tài sản thanh khoản."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "BĐS cần duy trì bao lâu? Khi nào được bán?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Duy trì tối thiểu 5 năm",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Cam kết giữ BĐS hoặc hợp đồng thuê ít nhất 5 năm; không cần nộp hồ sơ định kỳ chứng minh trong thời gian này."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau 5 năm, có thể bán lại BĐS hoặc dừng thuê mà không ảnh hưởng quyền thường trú."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Mỗi năm phải ở Malta bao nhiêu ngày?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Không yêu cầu cư trú để duy trì thường trú nhân",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không bắt buộc cư trú tại Malta để giữ và gia hạn thường trú nhân."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nếu định hướng nhập tịch Malta, cần đáp ứng điều kiện cư trú thực tế theo luật (xem mục Quốc tịch)."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Yêu cầu đối với đương đơn?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Điều kiện cơ bản",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Từ 18 tuổi, không giới hạn tuổi tối đa."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Không yêu cầu bằng cấp, học vấn, tiếng Anh hay kinh nghiệm quản lý."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đạt lý lịch an ninh & sức khỏe, chứng minh nguồn vốn hợp pháp."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thành viên gia đình nào được đi kèm?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Gia đình nhiều thế hệ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Vợ/chồng hợp pháp."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Con cái (kể cả con nuôi) dưới 29 tuổi, còn độc thân và phụ thuộc tài chính."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Cha mẹ và ông bà của cả hai vợ chồng (phụ thuộc tài chính)."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Con nuôi/con riêng có được đi kèm?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cho phép con nuôi & con riêng dưới 29 tuổi, còn độc thân và phụ thuộc tài chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Con nuôi: có giấy chứng nhận hợp pháp."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Con riêng: giấy chứng nhận hợp pháp + văn bản đồng ý có chứng thực của vợ/chồng."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group hỗ trợ nhà đầu tư chuẩn bị giấy tờ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thường trú nhân Malta có thời hạn & gia hạn thế nào?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Thẻ 5 năm, gia hạn định kỳ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Thẻ thường trú có thời hạn 5 năm, gia hạn khi tiếp tục đáp ứng điều kiện."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau 6 năm có thường trú, có thể xét nộp hồ sơ xin quốc tịch Malta nếu đủ điều kiện."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Vợ/chồng có được đi làm tại Malta?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Được xin giấy phép lao động",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Với thường trú nhân Malta, vợ/chồng có thể xin giấy phép làm việc để đi làm tại Malta."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Tự do đi lại Schengen & EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Đi lại Schengen ngắn hạn - chưa được sống/làm việc toàn EU",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Miễn visa đi lại 29 nước khối Schengen theo quy định lưu trú ngắn hạn 90/180 ngày."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sang các nước EU ngoài Schengen vẫn cần visa du lịch theo quy định từng nước."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Quyền sống, làm việc và học tập tại bất kỳ nước EU chỉ phát sinh khi có quốc tịch Malta."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Khác nhau Schengen & EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Schengen ≠ EU",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "EU - Liên minh châu Âu: tổ chức liên Chính phủ, 27 nước."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Schengen: khu vực tự do đi lại, hiện gồm 29 quốc gia."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Một số nước EU không thuộc Schengen và ngược lại. Malta là thành viên của CẢ HAI."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Điều kiện nhập quốc tịch Malta?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Điều kiện nhập tịch",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Từ 18 tuổi; cư trú tại Malta 12 tháng liền trước ngày nộp đơn."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Cư trú cộng dồn đủ 4 năm trong 6 năm trước giai đoạn 12 tháng đó."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đạt yêu cầu tiếng Anh hoặc tiếng Malta; không tiền án tiền sự trong & ngoài Malta."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thời gian xét duyệt quốc tịch?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Lộ trình dài hạn",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Quá trình xét nhập tịch có thể kéo dài nhiều năm (tham khảo: 10-15 năm), tùy hồ sơ và quy định."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Trong thời gian chờ, gia đình duy trì thẻ thường trú để giữ quyền cư trú Malta."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Đặc quyền của quốc tịch Malta?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Quyền công dân EU đầy đủ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Tự do sinh sống, làm việc và học tập tại bất kỳ quốc gia thành viên EU nào."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": ""
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": ""
+            }
+        }
+    }
+]

@@ -1,0 +1,142 @@
+[s001|#bo-qua-tn: tên trang tiếng Anh dùng tên sản phẩm "Malta Golden Visa"; thân bài vẫn dịch "permanent residence" đúng bảng] Malta Golden Visa
+[s002|#bo-qua-tn: H1 dùng tên sản phẩm theo cách người bản xứ tìm] {1}Malta{/1} Golden Visa
+[s003|#bo-qua-tn: câu hỏi mở đầu dùng tên sản phẩm, khớp H1] What is the Malta Golden Visa?
+[s004] The Malta Golden Visa — officially the Malta Permanent Residence Programme (MPRP) — grants permanent residence in Malta and is run by the Government of Malta.
+[s005] It is open to investors from outside the EU, EEA, and Switzerland, together with their families, through a qualifying investment.
+[s006] You live in Malta and travel in the Schengen Area on short stays, under the 90/180-day rule.
+[s007|#bo-qua-so: bỏ "(~ 11,3 tỷ đồng)" và "(~ 420 triệu đồng/năm)" ở s008 — chỉ nhắc lại số EUR] Up to 4 generations of one family: your spouse, children under 29 who are unmarried and financially dependent, and the parents and grandparents on both sides.
+[s008|#bo-qua-so: bỏ phần quy đổi VND — chỉ nhắc lại số EUR] Buy property from €375,000 or rent from €14,000 a year, together with the contributions set by the program.
+[s009] Book a consultation
+[s010] Benefits of Maltese permanent residence
+[s011] Live and build a life in Malta
+[s012] The whole family can live, study, and work in Malta.
+[s013] Permanent residence in Malta
+[s014] You hold permanent residence status. It opens access to healthcare and to an advanced European education system taught in English.
+[s015] Visa-free travel in the Schengen Area
+[s016|#bo-qua-so: nguồn viết "90 ngày trong mỗi 6 tháng"; bản Anh dùng công thức luật "90 days in any 180-day period"] Travel across the 29 Schengen countries under the standard short-stay rule: 90 days in any 180-day period.
+[s017] A route toward Maltese citizenship
+[s018] Once you have completed a period of lawful residence and met the residence and language conditions set by Maltese law, you can apply for naturalization.
+[s019] Advantages of the Malta Golden Visa
+[s020] No residence requirement
+[s021] You are not required to live in Malta to keep your permanent residence.
+[s022] Straightforward eligibility
+[s023] No upper age limit, and no qualifications, experience, or English requirement.
+[s024] Four generations of one family
+[s025] Dependents over 18 carry an additional contribution set by the program.
+[s026] Your spouse and minor children can be included with no additional contribution.
+[s027] Invest after you are approved
+[s028] You make the investment only once your application has received pre-approval.
+[s029] Malta Golden Visa requirements
+[s030] Investment requirements
+[s031|#bo-qua-so: bỏ "(~ 11,3 tỷ đồng)" — chỉ nhắc lại số EUR] Buy property from €375,000, or
+[s032|#bo-qua-so: bỏ "(~ 420 triệu đồng/năm)" — chỉ nhắc lại số EUR] Rent property from €14,000 a year.
+[s033] Hold the property, or the lease, for at least 5 years.
+[s034] Contributions set by the program
+[s035|#bo-qua-so: bỏ "(~ 1,1 tỷ đồng)" — chỉ nhắc lại số EUR] Government contribution, non-refundable: €37,000.
+[s036|#bo-qua-so: bỏ "(~ 1,8 tỷ đồng)" — chỉ nhắc lại số EUR] Administrative fee: €60,000.
+[s037|#bo-qua-so: bỏ "(~ 60 triệu đồng)" — chỉ nhắc lại số EUR] Philanthropic donation in Malta: €2,000.
+[s038|#bo-qua-so: bỏ "(~ 225 triệu đồng /người)" — chỉ nhắc lại số EUR] Each dependent over 18 other than your spouse: €7,500 per person.
+[s039] Proof of assets
+[s040|#bo-qua-so: bỏ "(~ 15 tỷ đồng)" và "(~ 4,5 tỷ đồng)" — chỉ nhắc lại số EUR] At least €500,000, of which €150,000 in liquid assets, or
+[s041|#bo-qua-so: bỏ "(~ 19,5 tỷ đồng)" và "(~ 2,3 tỷ đồng)" — chỉ nhắc lại số EUR] €650,000, of which €75,000 in liquid assets.
+[s042] Requirements for the applicant and dependents
+[s043] Aged 18 or older, with no upper age limit.
+[s044] You meet the background security and health requirements.
+[s045] You document a lawful source of funds.
+[s046] Dependents: financially dependent on the applicant.
+[s047] Every family member must hold health insurance for 5 years.
+[s048] The Malta Golden Visa process
+[s049] Consultation and file review
+[s050] We assess how well you meet the requirements and map out the route for the whole family.
+[s051] Prepare and file your application
+[s052] Complete the file and submit your Malta permanent residence application.
+[s053] Pre-approval and investment
+[s054] Once your application has pre-approval, you make the investment and the contributions set by the program.
+[s055] Biometrics and your card
+[s056] Travel to Malta to give biometrics and collect your residence card.
+[s057] View all projects
+[s058] You may also be interested in
+[s059] You may also be interested in
+[s060] Explore IMM Group's advisory services:
+[s061|#bo-qua-tn: nhãn liên kết — tên trang tiếng Anh] European citizenship and residency
+[s062|#bo-qua-tn: nhãn liên kết — tên trang tiếng Anh của Ireland] Ireland residency by investment
+[s063|#bo-qua-tn: nhãn liên kết — tên trang tiếng Anh của Hy Lạp] Greece Golden Visa
+[s064|#bo-qua-tn: nhãn liên kết — tên trang tiếng Anh của Síp, khớp trang vừa dịch] Cyprus Golden Visa
+[s065|#bo-qua-tn: nhãn liên kết — tên trang tiếng Anh của Latvia] Latvia residency by investment
+[s066|#bo-qua-tn: nhãn liên kết — tên trang tiếng Anh của Bồ Đào Nha] Portugal Golden Visa
+[s067|#bo-qua-tn: nhãn liên kết — tên trang tiếng Anh của Hungary] Hungary residency by investment
+[s068|#bo-qua-tn: nhãn liên kết — tên trang tiếng Anh của Bulgaria, khớp trang vừa dịch] Bulgaria Golden Visa
+[s069] Understanding Malta
+[s070] IMM Group's resource hub brings together practical information on the following topics:
+[s071] Living in Malta
+[s072] Education in Malta
+[s073] Culture in Malta
+[s074] Working and doing business in Malta
+[s075|#bo-qua-tn: nhãn mục hỏi đáp dùng tên sản phẩm, khớp H1] Malta Golden Visa FAQs
+[s076] What are the investment risks?
+[s077|#bo-qua-so: nguồn viết "2 rủi ro chính"; câu tiếng Anh mở đầu bằng số nên viết bằng chữ theo style guide] The two main risks
+[s078] Choosing a developer or project without a track record, or a property that does not qualify.
+[s079] Investment funds from an unlawful source, which leads to refusal.
+[s080] IMM Group runs due diligence on every file before signing, to address source-of-funds risk up front.
+[s081] Is documenting my source of funds complicated?
+[s082] Typically simpler than the United States, Australia, or Canada
+[s083] Proof works in 2 layers: the source of funds you are investing, and the source of wealth behind it.
+[s084] For funds from a property sale, for example, you will need to show the year of purchase and the value at the time.
+[s085] Every family documents this differently — contact IMM Group for advice on your own situation.
+[s086] What does the investment consist of?
+[s087|#bo-qua-so: nguồn viết "Chọn 1 phương án"; bản Anh dùng "one of two" đúng cách nói bản xứ] Choose one of two property routes: buy or rent
+[s088|#bo-qua-so: bỏ phần quy đổi VND — chỉ nhắc lại số EUR] Buy property from €375,000, or rent from €14,000 a year, held for 5 years.
+[s089|#bo-qua-so: bỏ phần quy đổi VND — chỉ nhắc lại số EUR] A government contribution of €37,000, an administrative fee of €60,000, and a €2,000 donation.
+[s090|#bo-qua-so: bỏ phần quy đổi VND — chỉ nhắc lại số EUR] Proof of assets from €500,000, of which €150,000 in liquid assets; or €650,000, of which €75,000 in liquid assets.
+[s091] How long must the property be held, and when can I sell?
+[s092] Held for at least 5 years
+[s093] You commit to holding the property, or the lease, for at least 5 years; no periodic filings are required during that time to prove it.
+[s094] After 5 years you may sell the property or end the lease without affecting your permanent residence.
+[s095] How many days a year must I spend in Malta?
+[s096] No residence requirement to keep permanent residence
+[s097] You are not required to live in Malta to hold or renew your permanent residence.
+[s098] If you are aiming at Maltese citizenship, you will need to meet the actual residence requirements set by law — see the citizenship section.
+[s099] What must the applicant meet?
+[s100] Basic conditions
+[s101] Aged 18 or older, with no upper age limit.
+[s102] No qualifications, education, English, or management experience are required.
+[s103] You meet the background security and health requirements, and document a lawful source of funds.
+[s104] Which family members can be included?
+[s105] A multigenerational family
+[s106] Your legal spouse.
+[s107] Children, including adopted children, under 29 who are unmarried and financially dependent.
+[s108] The parents and grandparents of both spouses, where they are financially dependent.
+[s109] Are adopted children and stepchildren eligible?
+[s110] Adopted children and stepchildren under 29 are eligible where they are unmarried and financially dependent
+[s111] Adopted child: a legal certificate is required.
+[s112] Stepchild: a legal certificate plus a notarized letter of consent from the spouse.
+[s113] IMM Group assists with preparing the documents.
+[s114] How long is Maltese permanent residence valid, and how is it renewed?
+[s115] A 5-year card, renewed periodically
+[s116] The residence card runs for 5 years and is renewed for as long as you continue to meet the conditions.
+[s117] After 6 years of permanent residence, you can be assessed for Maltese citizenship if you qualify.
+[s118] Can my spouse work in Malta?
+[s119] Your spouse can apply for a work permit
+[s120] With Maltese permanent residence, your spouse can apply for a work permit and take up employment in Malta.
+[s121] Do I get free movement in the Schengen Area and the EU?
+[s122] Short stays in the Schengen Area — not a right to live or work elsewhere in the EU
+[s123] Visa-free travel across the 29 Schengen countries under the short-stay rule: 90 days in any 180-day period.
+[s124] Travel to EU countries outside the Schengen Area still requires a visitor visa under each country's rules.
+[s125] The right to live, work, and study in any EU country arises only once you hold Maltese citizenship.
+[s126] What is the difference between Schengen and the EU?
+[s127] Schengen is not the same as the EU
+[s128] The EU — the European Union: an intergovernmental organization of 27 countries.
+[s129] Schengen: a free-movement area, currently 29 countries.
+[s130] Some EU countries are not in Schengen, and the reverse is also true. Malta is a member of both.
+[s131] What are the requirements for Maltese citizenship?
+[s132] Naturalization requirements
+[s133] Aged 18 or older, and resident in Malta for the 12 months immediately before you apply.
+[s134] Cumulative residence of 4 years within the 6 years before that 12-month period.
+[s135] You meet the English or Maltese language requirement, and have no criminal record in Malta or abroad.
+[s136] How long does a citizenship application take?
+[s137] A long-term route
+[s138] Naturalization can take many years — as a guide, 10–15 years — depending on your file and the rules in force.
+[s139] While you wait, the family keeps the residence card and with it the right to live in Malta.
+[s140] What does Maltese citizenship give you?
+[s141] Full EU citizenship rights.
+[s142] Freedom to live, work, and study in any EU member state.

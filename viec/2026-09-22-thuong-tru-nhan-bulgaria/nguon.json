@@ -1,0 +1,434 @@
+[
+    {
+        "post_id": 100892,
+        "post_slug": "/thuong-tru-nhan-bulgaria/",
+        "post_title": "Thường trú nhân Bulgaria",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "THƯỜNG TRÚ NHÂN <span class=\"accent\">BULGARIA</span>"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99355",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "GOLDEN VISA BULGARIA LÀ GÌ?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Chương trình cấp thẻ thường trú do Chính phủ Bulgaria ban hành, dành cho nhà đầu tư ngoài EU và gia đình.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Đầu tư vào quỹ tài chính được Ủy ban Giám sát Tài chính Bulgaria (FSC) cấp phép.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Cư trú dài hạn tại Bulgaria – thành viên đầy đủ khối Schengen từ 01/2025.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Đầu tư từ 1.000.000 BGN (≈ 511.300 EUR, theo tỷ giá cố định 1 EUR = 1,95583 BGN); duy trì tối thiểu 5 năm.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Chưa bao gồm thuế, phí và các chi phí liên quan.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://immgroup.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI THƯỜNG TRÚ NHÂN BULGARIA",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Thẻ thường trú cho cả gia đình",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Đương đơn, vợ/chồng và con phụ thuộc cùng được cấp thẻ."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Cư trú – học tập – làm việc không giới hạn",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Tại một quốc gia EU có chi phí hợp lý."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "card_membership",
+                    "product_benefits_item_title": "Tự do đi lại Schengen",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Bulgaria là thành viên đầy đủ Schengen từ 01/2025; đi lại 29 nước theo quy định 90/180 ngày."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "Thuế thu nhập cá nhân 10%",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Mức cố định, thuộc nhóm thấp nhất EU."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "Cơ hội nhập quốc tịch & visa Mỹ E-2",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Sau khi đáp ứng điều kiện cư trú, ngôn ngữ và hội nhập theo luật, nhà đầu tư có thể xét nhập tịch. Công dân Bulgaria thuộc nhóm nước có hiệp định cho phép nộp visa Mỹ diện E-2."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM THƯỜNG TRÚ NHÂN BULGARIA",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "Chỉ đầu tư vào quỹ",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không yêu cầu khoản tài trợ (donation) cho chính phủ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Không yêu cầu cư trú thường xuyên",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "5 năm đầu không bắt buộc cư trú; sau 5 năm đến một nước EU mỗi năm và đến Bulgaria một lần mỗi 6 năm để duy trì thẻ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "calendar_month",
+                    "product_advantages_item_title": "Có thể rút vốn sau 5 năm",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Rút khoản đầu tư sau tối thiểu 5 năm theo quy định chương trình, không ảnh hưởng quyền thường trú."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "business_center",
+                    "product_advantages_item_title": "Cấp thẻ thường trú ngay từ đầu",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không qua giai đoạn tạm trú. Lộ trình hướng tới quốc tịch EU khi đáp ứng điều kiện cư trú và ngôn ngữ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "savings",
+                    "product_advantages_item_title": "Điều kiện tham gia đơn giản",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không phỏng vấn, không yêu cầu ngoại ngữ, bằng cấp hay kinh nghiệm kinh doanh."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "trending_up",
+                    "product_advantages_item_title": "Không giới hạn độ tuổi đương đơn",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Đương đơn từ 18 tuổi, không giới hạn tuổi tối đa."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện đương đơn",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 18 tuổi, không giới hạn tuổi tối đa"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Đạt yêu cầu lý lịch an ninh",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh nguồn vốn đầu tư hợp pháp"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "business_center",
+                    "product_conditions_item_title": "Người phụ thuộc đi kèm",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Vợ/chồng hợp pháp (kết hôn tối thiểu 5 năm)"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "account_balance_wallet",
+                    "product_conditions_item_title": "Con cái dưới 18 tuổi",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đạt yêu cầu lý lịch an ninh"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Hình thức đầu tư",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đầu tư từ 1.000.000 BGN (≈ 511.300 EUR, theo tỷ giá cố định 1 EUR = 1,95583 BGN) vào quỹ đủ điều kiện (quỹ đầu tư tập thể hoặc quỹ đầu tư thay thế – AIF); duy trì tối thiểu 5 năm."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Quỹ phải được Ủy ban Giám sát Tài chính Bulgaria (FSC) cấp phép."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Ngưỡng quy mô: quỹ đầu tư tập thể có NAV ≥ 5.000.000 BGN; quỹ AIF có tài sản ≥ 3.000.000 BGN."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Chiến lược đầu tư tập trung vào cổ phiếu/trái phiếu công ty Bulgaria niêm yết."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Lưu ý: đây là khoản đầu tư có rủi ro; giá trị quỹ biến động theo thị trường."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Đặt cọc & thẩm định",
+                    "product_process_step_desc": "Ký thỏa thuận đặt cọc và thẩm định hồ sơ ban đầu.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "travel_explore",
+                    "product_process_step_title": "Ký hợp đồng",
+                    "product_process_step_desc": "Hoàn tất hợp đồng dịch vụ xin Golden Visa Bulgaria.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Nộp hồ sơ sơ bộ",
+                    "product_process_step_desc": "Chuẩn bị và nộp hồ sơ xin chấp thuận sơ bộ từ IBA (Cơ quan Xúc tiến Đầu tư Bulgaria).",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "mark_email_read",
+                    "product_process_step_title": "Đầu tư & cấp chứng nhận",
+                    "product_process_step_desc": "Nhận chấp thuận từ IBA; đầu tư từ 1.000.000 BGN (≈ 511.300 EUR) vào quỹ; nộp chứng từ; IBA cấp giấy chứng nhận đầu tư.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "record_voice_over",
+                    "product_process_step_title": "Xin visa D",
+                    "product_process_step_desc": "Nộp hồ sơ xin visa dài hạn diện D để nhập cảnh Bulgaria.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "badge",
+                    "product_process_step_title": "Nộp hồ sơ thẻ thường trú",
+                    "product_process_step_desc": "Đến Bulgaria nộp hồ sơ xin thẻ thường trú.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "flight_takeoff",
+                    "product_process_step_title": "Nhận thẻ thường trú",
+                    "product_process_step_desc": "Sau khi được chấp thuận, đến Bulgaria lần 2 để nhận thẻ thường trú.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "",
+            "product_care_service_desc": "",
+            "product_care_service_links": false,
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "",
+            "product_care_topics_desc": "",
+            "product_care_topics_links": false,
+            "product_faq_title": "Câu hỏi thường gặp về Bulgaria",
+            "product_faq_section_id": "faq-bulgaria",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Golden Visa Bulgaria là gì? Có phải thường trú nhân?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Golden Visa Bulgaria là gì? Có phải thường trú nhân",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Golden Visa Bulgaria cấp thẻ thường trú cho nhà đầu tư ngoài EU và gia đình thông qua đầu tư vào quỹ được FSC cấp phép. Cả gia đình được sinh sống, học tập, làm việc không giới hạn thời gian và đi lại Schengen theo quy định lưu trú ngắn hạn. Có thể là bước đệm cho lộ trình nhập tịch nếu đáp ứng điều kiện cư trú, ngôn ngữ và hội nhập theo luật."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Đầu tư vào quỹ có rủi ro không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Đầu tư vào quỹ có rủi ro không",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có. Đầu tư vào quỹ là khoản đầu tư có rủi ro: giá trị quỹ biến động theo thị trường, lợi nhuận và khả năng thu hồi vốn không được bảo đảm tuyệt đối. Quỹ đủ điều kiện phải được FSC Bulgaria cấp phép và giám sát. IMM Group thẩm định kỹ quỹ và hồ sơ nguồn tiền trước khi ký hợp đồng nhằm hạn chế rủi ro. Nhà đầu tư nên đọc kỹ tài liệu chào bán quỹ trước khi quyết định."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có được rút vốn không? Khi nào?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Có được rút vốn không? Khi nào",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Theo quy định chương trình, nhà đầu tư cần duy trì khoản đầu tư tối thiểu 5 năm. Sau thời gian này, nhà đầu tư có thể rút vốn mà vẫn giữ quyền thường trú. Thời điểm và điều kiện rút vốn cụ thể phụ thuộc loại quỹ và tài liệu chào bán – liên hệ IMM Group để được tư vấn theo từng trường hợp."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Mỗi năm phải ở Bulgaria bao nhiêu ngày?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Mỗi năm phải ở Bulgaria bao nhiêu ngày",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Trong 5 năm đầu, chương trình không yêu cầu cư trú thường xuyên. Sau 5 năm, chỉ cần đến một nước EU mỗi năm và đến Bulgaria một lần mỗi 6 năm để duy trì thẻ. Nếu định hướng nhập tịch về sau, nhà đầu tư cần đáp ứng các điều kiện cư trú và hội nhập theo luật Bulgaria."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Bulgaria đã vào Schengen và dùng Euro chưa?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Bulgaria đã vào Schengen và dùng Euro chưa",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Rồi. Bulgaria là thành viên đầy đủ khối Schengen từ 01/01/2025 (bỏ kiểm soát biên giới đường bộ) và sử dụng đồng EUR từ 01/01/2026 (tỷ giá cố định 1 EUR = 1,95583 BGN). Điều này giúp việc đi lại và giao dịch tại Bulgaria thuận tiện hơn cho nhà đầu tư."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Những ai được đi kèm hồ sơ?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Những ai được đi kèm hồ sơ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Hồ sơ có thể bao gồm vợ/chồng hợp pháp (kết hôn tối thiểu 5 năm) và con cái dưới 18 tuổi. Người phụ thuộc cần đạt yêu cầu lý lịch an ninh. Mỗi gia đình có đặc thù riêng – liên hệ IMM Group để được tư vấn về thành viên đi kèm và hồ sơ cần chuẩn bị."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Chứng minh nguồn tiền có phức tạp không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Chứng minh nguồn tiền có phức tạp không",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Nhà đầu tư cần chứng minh vốn đầu tư có nguồn gốc hợp pháp. Yêu cầu nhìn chung đơn giản hơn một số chương trình Mỹ, Úc, Canada, nhưng mỗi gia đình có cách chứng minh khác nhau (kinh doanh, bán bất động sản, tích lũy…). IMM Group rà soát và tư vấn lộ trình chứng minh nguồn tiền phù hợp với từng hồ sơ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    }
+]

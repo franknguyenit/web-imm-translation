@@ -1,0 +1,638 @@
+[
+    {
+        "post_id": 100890,
+        "post_slug": "/thuong-tru-nhan-malta/",
+        "post_title": "Malta Golden Visa",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "<span class=\"accent\">Malta</span> Golden Visa"
+            },
+            "product_hero_video": "https://videopress.com/v/A5mY0q0g",
+            "product_hero_image": "99273",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is the Malta Golden Visa?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The Malta Golden Visa — officially the Malta Permanent Residence Programme (MPRP) — is a Government of Malta program that grants permanent residence in Malta.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "It is open to investors from outside the EU, EEA, and Switzerland, and to their families, through a qualifying investment.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "You can live in Malta and travel in the Schengen Area on short stays under the 90/180-day rule.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Up to 4 generations of one family: your spouse, children under 29 who are unmarried and financially dependent, and the parents and grandparents on both sides.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Buy property from €375,000 or rent from €14,000 a year, together with the contributions set by the program.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://immgroup.com/en/contact/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Benefits of Maltese permanent residence",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "home_work",
+                    "product_benefits_item_title": "Live and build your future in Malta",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "The whole family can live, study, and work in Malta."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "work",
+                    "product_benefits_item_title": "Permanent residence in Malta",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Your status as a permanent resident does not expire, and it can open access to healthcare and to an advanced European education system taught in English."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "Visa-free travel in the Schengen Area",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Travel across the 29 Schengen countries under the standard short-stay rule: 90 days in any 180-day period."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "health_and_safety",
+                    "product_benefits_item_title": "A route toward Maltese citizenship",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Once you have completed a period of lawful residence and met the residence and language conditions set by Maltese law, you may apply for naturalization."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Advantages of the Malta Golden Visa",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "timer",
+                    "product_advantages_item_title": "No residence requirement",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You are not required to live in Malta to keep your permanent residence."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "route",
+                    "product_advantages_item_title": "Straightforward eligibility",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "There is no upper age limit, and no qualification, work experience, or English-language requirement."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Four generations of one family",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Each dependent over 18 requires an additional contribution."
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Your spouse and minor children can be included with no additional contribution."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "calendar_month",
+                    "product_advantages_item_title": "Invest after you are approved",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You make the investment only once your application has received pre-approval."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Malta Golden Visa requirements",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "account_balance",
+                    "product_conditions_item_title": "Investment requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Buy property from €375,000, or"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Rent property from €14,000 a year."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Hold the property or the lease for at least 5 years."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Contributions set by the program",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Government contribution, non-refundable: €37,000."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Administrative fee: €60,000."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Philanthropic donation in Malta: €2,000."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Each dependent over 18 other than your spouse: €7,500 per person."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "wallet",
+                    "product_conditions_item_title": "Proof of assets",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "At least €500,000, of which €150,000 in liquid assets, or"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "€650,000, of which €75,000 in liquid assets."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "verified_user",
+                    "product_conditions_item_title": "Requirements for the applicant and dependents",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Aged 18 or older, with no upper age limit."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "You pass the security background and health checks."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "You document a lawful source of funds."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Dependents: financially dependent on the applicant."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Every family member must hold health insurance for 5 years."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "The Malta Golden Visa process",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Consultation and file review",
+                    "product_process_step_desc": "We assess your eligibility and map out the route for your whole family.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "folder_managed",
+                    "product_process_step_title": "Prepare and file your application",
+                    "product_process_step_desc": "We complete your file and submit your application for Maltese permanent residence.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "check_circle",
+                    "product_process_step_title": "Pre-approval and investment",
+                    "product_process_step_desc": "Once your application has pre-approval, you make the investment and the required contributions.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "fingerprint",
+                    "product_process_step_title": "Biometrics and your residence card",
+                    "product_process_step_desc": "You travel to Malta to give biometrics and collect your residence card.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "You may also be interested in",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "You may also be interested in",
+            "product_care_service_desc": "<p>Explore IMM Group's advisory services:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "European citizenship and residency",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Ireland residency by investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-ireland/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Greece Golden Visa",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hy-lap/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Cyprus Golden Visa",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-cong-hoa-sip-cyprus/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Latvia residency by investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/dau-tu-dinh-cu-latvia/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Portugal Golden Visa",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bo-dao-nha/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Hungary residency by investment",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-hungary-guest-investor-program/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bulgaria Golden Visa",
+                    "product_care_service_link_url": "https://immgroup.com/quoc-tich-va-thuong-tru-nhan-chau-au/thuong-tru-nhan-bulgaria/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Understanding Malta",
+            "product_care_topics_desc": "<p>IMM Group's resource hub brings together practical information on the following topics:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Living in Malta",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-malta/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Education in Malta",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-malta/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Culture in Malta",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-malta/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Working and doing business in Malta",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-malta/#n3",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Malta Golden Visa FAQs",
+            "product_faq_section_id": "faq-malta",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "What are the investment risks?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The two main risks",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Choosing a developer or project without a track record, or a property that does not qualify."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Investment funds from an unlawful source, which leads to refusal."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group runs due diligence on every file before any contract is signed, to address source-of-funds risk up front."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is documenting my source of funds complicated?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Typically simpler than the United States, Australia, or Canada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You document 2 layers: the source of the funds you are investing, and the source of wealth behind them."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "For funds from a property sale, for example, you will need to show the year of purchase and the value at the time."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Every family documents this differently — contact IMM Group for advice on your own situation."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What does the investment consist of?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Choose one of two property routes: buy or rent",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Buy property from €375,000, or rent from €14,000 a year, held for 5 years."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "A government contribution of €37,000, an administrative fee of €60,000, and a €2,000 philanthropic donation."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Proof of assets from €500,000, of which €150,000 in liquid assets; or €650,000, of which €75,000 in liquid assets."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How long must the property be held, and when can I sell?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Held for at least 5 years",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You commit to holding the property or the lease for at least 5 years; you are not required to file periodic proof during that time."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "After 5 years you may sell the property or end the lease without affecting your permanent residence."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How many days a year must I spend in Malta?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "No minimum stay is required to keep your permanent residence",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You are not required to live in Malta to hold or renew your permanent residence."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "If you are aiming at Maltese citizenship, you will need to meet the actual residence requirements set by law — see the citizenship section."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the requirements for the main applicant?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Basic conditions",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Aged 18 or older, with no upper age limit."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "No qualifications, formal education, English-language ability, or management experience is required."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "You meet the background security and health requirements, and document a lawful source of funds."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Which family members can be included?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "A multigenerational family",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Your legal spouse."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Children, including adopted children, under 29 who are unmarried and financially dependent."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The parents and grandparents of both spouses, where they are financially dependent."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Are adopted children and stepchildren eligible?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Adopted children and stepchildren under 29 are eligible where they are unmarried and financially dependent",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Adopted child: a legal certificate is required."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Stepchild: a legal certificate plus a notarized letter of consent from the spouse."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group assists with preparing the documents."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How long is Maltese permanent residence valid, and how is it renewed?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "A 5-year card, renewable periodically",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The residence card is valid for 5 years and can be renewed as long as you continue to meet the conditions."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "After 6 years of permanent residence, you may be considered for a Maltese citizenship application if you meet the conditions."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can my spouse work in Malta?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Yes, by applying for a work permit",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "With Maltese permanent residence, your spouse can apply for a work permit in order to work in Malta."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do I get free movement in the Schengen Area and the EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Short stays in the Schengen Area — not a right to live or work elsewhere in the EU",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Visa-free travel across the 29 Schengen countries under the short-stay rule: 90 days in any 180-day period."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Travel to EU countries outside the Schengen Area still requires a visitor visa under each country's rules."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The right to live, work, and study in any EU country arises only once you hold Maltese citizenship."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What is the difference between Schengen and the EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Schengen is not the same as the EU",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The EU — the European Union: an intergovernmental organization of 27 countries."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Schengen: a border-free travel area, currently 29 countries."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Some EU countries are not in Schengen, and the reverse is also true. Malta is a member of both."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the requirements for Maltese citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Naturalization requirements",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Aged 18 or older, and resident in Malta for the 12 months immediately before you apply."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Cumulative residence of 4 years within the 6 years before that 12-month period."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "You meet the English or Maltese language requirement, and have no criminal record in Malta or abroad."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How long does a citizenship application take?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "A long-term route",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Naturalization can take many years — as a guide, 10–15 years — depending on your file and the rules in force."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "While you wait, your family keeps the residence card and with it the right to live in Malta."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What does Maltese citizenship give you?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Full EU citizenship rights.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Freedom to live, work, and study in any EU member state."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": ""
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": ""
+            }
+        },
+        "seo": {
+            "meta_title": "Malta Golden Visa (MPRP): EU Residence | IMM Group",
+            "meta_description": "The Malta Golden Visa (MPRP) grants permanent residence to four generations of one family, from €375,000 in property. See the requirements and costs.",
+            "slug": "malta-golden-visa"
+        }
+    }
+]
