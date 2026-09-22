@@ -137,3 +137,32 @@
   `đa quốc tịch` đã có từ việc trước) — gộp tay theo luật "giữ dòng mới", còn **323 dòng**, `kiemtn` XANH;
   (9) **ngoại lệ đã dùng một lần:** thêm câu `Projected returns are not guaranteed.` vào s055 của Secret Bay —
   câu DUY NHẤT thêm so với nguồn cả mẻ, đã ghi rõ trong báo cáo để CEO xoá nếu không đồng ý
+- 22/09/2026 · **2026-09-22-tho-nhi-ky-axis-istanbul** (HTML thuần `template-bds-imm`, đường `rut-layout.py`):
+  148 đoạn / 1.168 chữ · TM khớp sẵn **64 đoạn (43%)** nhờ trang nước Thổ Nhĩ Kỳ · cửa kiểm ráp ngược XANH ·
+  cửa 0 lần đầu ĐỎ 3 (1 đoạn icon `gavel` chưa điền + thiếu `seo.json` + JSON chặn theo), chốt **XANH 17 cảnh
+  báo** đã giải trình · B5 (Sonnet) bắt 7 (1 NẶNG) · B6 (Opus) bắt 28 đoạn sửa (**5 NẶNG**) · nhận 29 đoạn sửa,
+  **bác 4 nhóm** · +81 đơn vị bộ nhớ dịch mới + **14 câu GHI ĐÈ** (tổng 6.149) · **+7 thuật ngữ** (330 dòng,
+  `kiemtn` XANH) · `ganlink` đã ghi 1 dòng · học:
+  (1) **bộ nhớ dịch 100% không có nghĩa là đúng — nghĩa là lỗi ĐÃ ĐƯỢC BÀN GIAO rồi.** Ba câu TM 100% bê từ
+  trang nước Thổ Nhĩ Kỳ đều sai: `110 countries` (phải là **destinations**, Hồng Kông không phải quốc gia) ·
+  `no ongoing obligations` (nguồn chỉ nói không phải duy trì **đầu tư**) · `3 **continuous** years of residence
+  **and ties** in Türkiye` (hai chữ nguồn không có) ⇒ **ba lỗi này đang nằm trên trang nước đã bàn giao**,
+  `nap` đã ghi đè TM nhưng trang cũ phải sửa tay. Từ nay B6 bắt lỗi ở câu TM 100% thì phải hỏi ngay
+  "trang nào đã bàn giao với câu này";
+  (2) **trang CBI tự đá nhau về điều kiện cư trú** — s124 "Không yêu cầu cư trú" (nhập tịch Thổ Nhĩ Kỳ) vs s140
+  "cư trú tối thiểu 3 năm" (điều kiện **của Mỹ** khi xét E-2, theo AMIGOS Act), cách nhau 16 đoạn trong cùng
+  trang; cách sửa đúng là **gắn nhãn chủ thể vào CẢ HAI câu**, không phải bỏ một câu;
+  (3) **khối "lợi thế" toàn câu phủ định là bẫy lời hứa tuyệt đối** — "không giới hạn quốc tịch đương đơn"
+  (Thổ Nhĩ Kỳ thực tế CÓ hạn chế) → `open to applicants of most nationalities, subject to Turkish law`;
+  (4) **câu cam kết thiếu chủ thể đọc như IMM bảo đảm** — "Cam kết bất động sản không có tranh chấp" →
+  `The developer undertakes that…`;
+  (5) "Không yêu cầu **tiếng Anh**" trên một trang tiếng Anh đọc phi lý → `No language requirement.`;
+  (6) **giá bán thấp nhất không đủ ngưỡng quốc tịch** (căn từ US$284.000 vs ngưỡng US$400.000) — phải đặt hai
+  con số trong MỘT câu có `while`, đừng để hai gạch đầu dòng rời;
+  (7) mảng Thổ Nhĩ Kỳ: thân bài **`Türkiye`**, tính từ **`Turkish citizenship`**, "Turkey" chỉ ở meta/SEO;
+  tên chủ đầu tư là **Sur Yapı** (nguồn Việt viết thiếu dấu ı);
+  (8) **đối thủ SEO của nhánh CBI là hãng luật/hãng tư vấn** (Henley, Legal 500, Global Citizen Solutions),
+  không phải cổng rao vặt như mảng BĐS châu Âu — nhánh địa phương Istanbul (`buy apartment in istanbul kadikoy`…)
+  rất giàu nhưng **lạc đối tượng** (người mua để ở), chỉ lấy làm từ khoá phụ;
+  (9) điểm chờ CEO: "ưu đãi phí luật sư 5.000 USD" không rõ **giảm hay là phí** · danh hiệu "Siêu Thương hiệu
+  2014–2015" đã 11 năm, không ghi tổ chức trao · "Tiến độ: đang cập nhật" khi đang chào bán

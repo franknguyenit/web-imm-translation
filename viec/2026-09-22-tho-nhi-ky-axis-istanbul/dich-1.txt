@@ -1,0 +1,90 @@
+[s001] Turkish citizenship | Premium apartment project
+[s002] Axis Istanbul
+[s003] Premium apartments in central Istanbul — a route to Turkish citizenship
+[s005] {1}{2}paid{/2}Minimum investment{/1}**US$400,000**
+[s007] {1}{2}apartment{/2}Property type{/1}**Premium apartments**
+[s008] Axis Istanbul
+[s013] Developer Sur Yapı
+[s017] A business hub on{br} {1}the European side{/1}
+[s018] Central business district {1}·{/1} Istanbul {2}·{/2} Türkiye
+[s021] A business hub on the European side
+[s022] Central business district
+[s023] Axis Istanbul sits in Istanbul's central business district.
+[s024] On the European side
+[s025] The project is on the European side of Türkiye.
+[s026] Close to the landmarks
+[s027] Easy to reach the old city, Topkapı Palace, the Blue Mosque, and Hagia Sophia.
+[s028] City connections
+[s029] Well connected to Istanbul's main districts.
+[s030] Axis Istanbul —{br} {1}a route to Turkish citizenship{/1}
+[s031] In Istanbul's central business district, on the European side.
+[s032] A modern apartment complex with the Axis Mall shopping center built into the podium.
+[s033] Apartments start at US$284,000; the real estate investment that qualifies for Turkish citizenship starts at US$400,000.
+[s034] You and your family can apply for Turkish citizenship and passports if you meet the program conditions.
+[s035] Turkish citizenship opens a route to the US E-2 treaty investor visa; the outcome depends on your case and on the decision of the US authorities.
+[s039] Istanbul central business district, European side
+[s041] premium apartments in a mixed-use complex
+[s042] Main amenities
+[s043] Axis Mall, restaurants, brand-name stores, cinema
+[s045] from US$284,000
+[s046] Investment that qualifies for citizenship
+[s047] from US$400,000
+[s048] Design & amenities at{br} {1}Axis Istanbul{/1}
+[s049] subway
+[s051] Directly on the M1 metro line.
+[s052] route
+[s053] Highway
+[s054] Directly on the O-3 highway.
+[s055] tram
+[s056] T4 tram stop
+[s057] About 100 m away.
+[s059] Metro and the O-1 highway
+[s060] About 600 m away.
+[s061] A complex built around Axis Mall
+[s062] {1}shopping_bag{/1}**Axis Mall shopping center, already open.**
+[s063] {1}restaurant{/1}**Restaurants.**
+[s064] {1}storefront{/1}**Brand-name stores.**
+[s065] {1}movie{/1}**Cinema.**
+[s066] Everything residents need for shopping, entertainment, and daily life.
+[s067] The developer{br} {1}Sur Yapı{/1}
+[s068] A large real estate developer in Türkiye.
+[s069] {1}business_center{/1}Track record and commitments
+[s072] Has developed a number of large real estate projects across Türkiye.
+[s073] sell
+[s074] Transparent pricing
+[s075] A transparent pricing policy, with the same price list for buyers inside and outside Türkiye.
+[s077] Commitment
+[s078] A commitment that the property is free of disputes and of third-party ownership claims.
+[s080] Legal fees
+[s081] A preferential legal fee of US$5,000 for investors in Axis projects, as at the date of this update.
+[s083] Recognition
+[s084] Named a "Superbrand" in two consecutive years, 2014–2015.
+[s086] Axis Istanbul
+[s087] Sur Yapı Antalya Suites
+[s088] Sur Yapı Lavender Sancaktepe
+[s089] Sur Yapı Metrogarden AVM-KONUT
+[s090] {1}Project{/1} timeline
+[s093] Owning **real estate in Türkiye** can be more than an income-producing asset and a store of value held in US dollars. Owning at Axis Istanbul also opens a route to Turkish citizenship for your whole family, and from there a route to the US E-2 visa to invest and live in the United States.
+[s094] Your route to{br} {1}Turkish citizenship{/1}
+[s095] Own qualifying real estate
+[s096] If you own qualifying real estate, you can file an application for Turkish citizenship.
+[s097] Family members included
+[s098] The application can include your spouse and dependent children under 18, as the rules allow.
+[s099] The route to the US E-2 visa
+[s100] Once you hold Turkish citizenship, you can consider the US E-2 visa route if you meet the investment conditions and the separate US requirements.
+[s101] The outcome depends on your case and on the decision of the competent authorities.
+[s102] Advantages of{br} {1}Turkish citizenship{/1}
+[s103] What Turkish citizenship gives you
+[s105] 01
+[s109] 02
+[s112] business_center
+[s113] 03
+[s117] 04
+[s121] 05
+[s128] 06
+[s133] all_inclusive
+[s134] 07
+[s137] flight_takeoff
+[s138] 08
+[s142] Talk to us about Axis Istanbul & {br}{1}the route to Turkish citizenship{/1}
+[s148] The information on this page provides an overview of the Axis Istanbul project. It is not legal, securities, or personalized investment advice.

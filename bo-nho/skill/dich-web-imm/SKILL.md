@@ -309,3 +309,28 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
 - **`vet-chu-ngoai.py`: bảng phải khớp tệp SAU khi `nhet`.** Chuỗi nào đã được `nhet` dịch rồi thì không còn
   trong tệp và tool sẽ báo lỗi, KHÔNG ghi gì. Nguồn cũng đánh số ảnh nhảy cóc (Secret Bay có 1–9 và 14–21,
   thiếu 10–13) nên đừng sinh dãy `alt` bằng vòng lặp — phải grep tệp thật.
+
+## Bài học thêm từ trang Axis Istanbul, Thổ Nhĩ Kỳ (22/09/2026)
+
+- **Bộ nhớ dịch 100% KHÔNG có nghĩa là đúng — nó có nghĩa là lỗi đã được bàn giao rồi.** Ba câu TM 100% bê từ
+  trang nước Thổ Nhĩ Kỳ đều sai: `110 countries` (phải là **destinations** — Hồng Kông không phải quốc gia),
+  `no ongoing obligations` (nguồn chỉ nói không phải duy trì **đầu tư**), và `3 continuous years of residence
+  and ties in Türkiye` (**"continuous" và "ties" nguồn không có**). ⇒ Khi B6 bắt lỗi ở một câu TM 100%,
+  **phải hỏi ngay "trang nào đã bàn giao với câu này?"** và ghi vào báo cáo; `nap` sẽ tự ghi đè TM, nhưng
+  trang cũ phải sửa tay.
+- **Trang CBI hay TỰ ĐÁ NHAU về điều kiện cư trú.** Axis Istanbul: "Không yêu cầu cư trú" (điều kiện **nhập
+  tịch Thổ Nhĩ Kỳ**) đứng cách 16 đoạn với "cư trú tối thiểu 3 năm" (điều kiện **của Mỹ** khi xét E-2, theo
+  AMIGOS Act). Cách xử lý đúng: **gắn nhãn chủ thể vào cả hai câu** — `No requirement to live in Türkiye
+  before or after you apply` và `This is a US condition, not a Turkish one.`
+- **Khối "lợi thế" toàn câu phủ định là bẫy lời hứa tuyệt đối.** "Không giới hạn quốc tịch đương đơn" →
+  `open to applicants of most nationalities, subject to Turkish law` (nước nào cũng có danh sách hạn chế);
+  "không ràng buộc duy trì thêm" → nói rõ **không phải duy trì ĐẦU TƯ**.
+- **Câu cam kết không có chủ thể đọc như IMM bảo đảm.** "Cam kết bất động sản không có tranh chấp" →
+  `The developer undertakes that…`. Luôn gắn chủ thể vào mọi câu cam kết của nguồn.
+- **"Không yêu cầu tiếng Anh" trên một trang TIẾNG ANH đọc phi lý** → `No language requirement.`
+- **Giá bán thấp nhất thường KHÔNG đủ ngưỡng quốc tịch** (Axis: căn từ US$284.000 vs ngưỡng US$400.000).
+  Đặt hai con số trong **một câu** có `while`, đừng để hai gạch đầu dòng rời.
+- **Mảng Thổ Nhĩ Kỳ:** thân bài dùng **`Türkiye`**, tính từ **`Turkish citizenship`**; "Turkey" chỉ ở meta/SEO.
+  Tên chủ đầu tư là **Sur Yapı** (có chữ ı), nguồn Việt viết thiếu dấu.
+- **Đối thủ SEO của nhánh CBI là hãng luật và hãng tư vấn**, không phải cổng rao vặt như mảng BĐS châu Âu ⇒
+  meta description nêu **tên dự án đã được phê duyệt + con số ngưỡng**, đừng đua khái niệm.

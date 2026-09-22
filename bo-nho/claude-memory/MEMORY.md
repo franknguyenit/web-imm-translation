@@ -16,3 +16,4 @@
 - [3 trang dự án Síp cuối: điểm chờ CEO](ba-trang-du-an-sip-cuoi-cho-ceo.md) — "European residence" trượt cả ba, mốc Q4/2026 đã tới, bẫy Anh-Anh của template BĐS
 - [thuat-ngu.csv bị nhân đôi sau merge](thuat-ngu-csv-bi-nhan-doi-sau-merge.md) — 509 dòng/200 khoá trùng, cách gộp lại mà không mất khoá
 - [3 trang dự án CBI Caribbean: điểm chờ CEO](ba-trang-du-an-cbi-caribbean-cho-ceo.md) — "lợi nhuận cam kết", ghi chú nội bộ lọt trang lần hai, Grenadian vs Grenada
+- [Axis Istanbul (Thổ Nhĩ Kỳ): điểm chờ CEO](axis-istanbul-tho-nhi-ky-cho-ceo.md) — trang tự đá nhau về cư trú E-2, và 3 lỗi đang nằm trên trang nước đã bàn giao

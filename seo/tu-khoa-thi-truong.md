@@ -164,3 +164,20 @@ Mỗi việc dịch thêm điều học được. Ghi: ngày · việc · chươ
 - **5 kết quả đầu của nhánh Dominica do trang chính phủ `cbiu.gov.dm` thống trị** — khác hẳn mảng Síp (cổng rao
   vặt). Với nhánh CBI, đối thủ thật là **trang chính phủ + hãng luật** (Harvey Law, Global Citizen Solutions),
   nên meta description nên nêu **tên dự án đã được phê duyệt** thay vì đua khái niệm.
+
+## Thổ Nhĩ Kỳ — trang dự án Axis Istanbul (22/09/2026)
+
+- **Mẫu "trang nước lấy cụm trần, trang dự án lấy nhánh real estate" đã đúng ở cả bốn nước CBI** (Dominica,
+  Grenada ×2, Thổ Nhĩ Kỳ): `turkey citizenship by investment real estate` phủ 6/6 thị trường, và biến thể
+  `turkish citizenship by real estate investment` / `turkish passport by real estate investment` cũng 6/6 —
+  người tìm gõ cả hai trật tự, nên để cả hai vào từ khoá phụ.
+- **Đối thủ của nhánh CBI Thổ Nhĩ Kỳ là HÃNG LUẬT và HÃNG TƯ VẤN**, không phải cổng rao vặt: Henley & Partners,
+  Legal 500, Global Citizen Solutions, getgoldenvisa, Pera Property. Khác mảng Síp (Rightmove/Savills/Zyprus)
+  và giống mảng Dominica (cbiu.gov.dm + Harvey Law) ⇒ với nhánh CBI, **meta description nên nêu tên dự án đã
+  được phê duyệt và con số ngưỡng**, không đua khái niệm.
+- **Nhánh địa phương Istanbul rất giàu nhưng lạc đối tượng:** `buy property in istanbul`, `buy apartment in
+  istanbul kadikoy/sisli/bebek/sariyer/fatih`, `apartments in istanbul for students` — đều 6/6 nhưng phần lớn
+  là người **mua để ở / thuê**, không phải người mua để **lấy quốc tịch**. Chỉ lấy `buy property in istanbul`
+  và `buy apartment in istanbul` làm từ khoá phụ.
+- **`minimum investment in turkey for citizenship` là nhánh "con số"** — cùng mẫu với
+  `… citizenship by investment cost` của Caribbean. Người tìm hỏi ngưỡng trước khi hỏi dự án.

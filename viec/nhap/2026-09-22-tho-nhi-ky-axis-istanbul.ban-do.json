@@ -1,0 +1,1516 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/template-bds-imm/du-an/tho-nhi-ky__axis-istanbul/dist/tho-nhi-ky__axis-istanbul.html",
+ "truong_json": null,
+ "doan": [
+  {
+   "tu": 55827,
+   "den": 55870,
+   "raw": "Quốc tịch Thổ Nhĩ Kỳ | Dự án căn hộ cao cấp",
+   "loai": "p",
+   "lop": "imm4-hero__status",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 55900,
+   "den": 55913,
+   "raw": "Axis Istanbul",
+   "loai": "h1",
+   "lop": "",
+   "the": "h1",
+   "ngu_canh": "",
+   "id": "s002"
+  },
+  {
+   "tu": 55946,
+   "den": 56016,
+   "raw": "Căn hộ cao cấp giữa trung tâm Istanbul – Lộ trình quốc tịch Thổ Nhĩ Kỳ",
+   "loai": "p",
+   "lop": "imm4-hero__lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s003"
+  },
+  {
+   "tu": 56103,
+   "den": 56117,
+   "raw": "YÊU CẦU TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s004"
+  },
+  {
+   "tu": 56967,
+   "den": 57107,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">paid</i>Mức đầu tư tối thiểu</span><strong>400.000 USD</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s005"
+  },
+  {
+   "tu": 57170,
+   "den": 57305,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">check_circle</i>Tình trạng</span><strong>Còn suất</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-1",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s006"
+  },
+  {
+   "tu": 57368,
+   "den": 57505,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">apartment</i>Loại hình</span><strong>Căn hộ cao cấp</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-2",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s007"
+  },
+  {
+   "tu": 57705,
+   "den": 57718,
+   "raw": "Axis Istanbul",
+   "loai": "cta",
+   "lop": "imm4-anchor__name",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s008"
+  },
+  {
+   "tu": 57775,
+   "den": 57789,
+   "raw": "Hình ảnh dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s009"
+  },
+  {
+   "tu": 57811,
+   "den": 57831,
+   "raw": "Vị trí &amp; kết nối",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s010"
+  },
+  {
+   "tu": 57856,
+   "den": 57871,
+   "raw": "Tổng quan dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s011"
+  },
+  {
+   "tu": 57895,
+   "den": 57918,
+   "raw": "Thiết kế &amp; tiện ích",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s012"
+  },
+  {
+   "tu": 57941,
+   "den": 57960,
+   "raw": "Chủ đầu tư Sur Yapi",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s013"
+  },
+  {
+   "tu": 57983,
+   "den": 57996,
+   "raw": "Tiến độ dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s014"
+  },
+  {
+   "tu": 58020,
+   "den": 58038,
+   "raw": "Lộ trình quốc tịch",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s015"
+  },
+  {
+   "tu": 58061,
+   "den": 58078,
+   "raw": "Lợi thế quốc tịch",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s016"
+  },
+  {
+   "tu": 61506,
+   "den": 61548,
+   "raw": "Trung tâm kinh tế<br> <em>mạn châu Âu</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s017"
+  },
+  {
+   "tu": 61776,
+   "den": 61889,
+   "raw": "Quận trung tâm kinh doanh <span aria-hidden=\"true\">·</span> Istanbul <span aria-hidden=\"true\">·</span> Thổ Nhĩ Kỳ",
+   "loai": "p",
+   "lop": "imm4-map__meta",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s018"
+  },
+  {
+   "tu": 62006,
+   "den": 62094,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">location_on</span>Google Maps",
+   "loai": "cta",
+   "lop": "imm4-map__link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s019"
+  },
+  {
+   "tu": 62183,
+   "den": 62195,
+   "raw": "Vị trí dự án",
+   "loai": "p",
+   "lop": "imm4-loc__eyebrow",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s020"
+  },
+  {
+   "tu": 62230,
+   "den": 62259,
+   "raw": "Trung tâm kinh tế mạn châu Âu",
+   "loai": "h3",
+   "lop": "imm4-loc__heading",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s021"
+  },
+  {
+   "tu": 62300,
+   "den": 62320,
+   "raw": "Trung tâm kinh doanh",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s022"
+  },
+  {
+   "tu": 62328,
+   "den": 62393,
+   "raw": "Axis Istanbul tọa lạc tại quận trung tâm kinh doanh của Istanbul.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s023"
+  },
+  {
+   "tu": 62410,
+   "den": 62435,
+   "raw": "Vị trí thuộc phần châu Âu",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s024"
+  },
+  {
+   "tu": 62443,
+   "den": 62485,
+   "raw": "Dự án nằm tại phần châu Âu của Thổ Nhĩ Kỳ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s025"
+  },
+  {
+   "tu": 62502,
+   "den": 62528,
+   "raw": "Gần các địa danh nổi tiếng",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s026"
+  },
+  {
+   "tu": 62536,
+   "den": 62608,
+   "raw": "Dễ dàng tiếp cận phố cổ, cung điện Topkapı, Blue Mosque và Hagia Sophia.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s027"
+  },
+  {
+   "tu": 62625,
+   "den": 62640,
+   "raw": "Kết nối khu vực",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s028"
+  },
+  {
+   "tu": 62648,
+   "den": 62702,
+   "raw": "Thuận tiện kết nối các khu vực trọng yếu của Istanbul.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s029"
+  },
+  {
+   "tu": 62972,
+   "den": 63030,
+   "raw": "Axis Istanbul –<br> <em>lộ trình quốc tịch Thổ Nhĩ Kỳ</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s030"
+  },
+  {
+   "tu": 63062,
+   "den": 63122,
+   "raw": "Tọa lạc tại quận trung tâm kinh doanh Istanbul, mạn châu Âu.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s031"
+  },
+  {
+   "tu": 63129,
+   "den": 63212,
+   "raw": "Khu phức hợp căn hộ hiện đại, tích hợp trung tâm thương mại Axis Mall ngay tầng đế.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s032"
+  },
+  {
+   "tu": 63219,
+   "den": 63323,
+   "raw": "Giá căn hộ từ 284.000 USD; mức đầu tư đủ điều kiện quốc tịch Thổ Nhĩ Kỳ từ 400.000 USD qua bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s033"
+  },
+  {
+   "tu": 63330,
+   "den": 63430,
+   "raw": "Nhà đầu tư và gia đình có thể xin quốc tịch, hộ chiếu Thổ Nhĩ Kỳ khi đáp ứng điều kiện chương trình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s034"
+  },
+  {
+   "tu": 63437,
+   "den": 63537,
+   "raw": "Quốc tịch Thổ Nhĩ Kỳ mở lộ trình xin Visa Mỹ E-2, kết quả tùy hồ sơ và xét duyệt của cơ quan Hoa Kỳ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s035"
+  },
+  {
+   "tu": 63657,
+   "den": 63671,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s036"
+  },
+  {
+   "tu": 63899,
+   "den": 63914,
+   "raw": "Thông tin dự án",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s037"
+  },
+  {
+   "tu": 63928,
+   "den": 63934,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s038"
+  },
+  {
+   "tu": 63943,
+   "den": 63990,
+   "raw": "quận trung tâm kinh doanh Istanbul, mạn châu Âu",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s039"
+  },
+  {
+   "tu": 63999,
+   "den": 64008,
+   "raw": "Loại hình",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s040"
+  },
+  {
+   "tu": 64017,
+   "den": 64050,
+   "raw": "căn hộ cao cấp trong khu phức hợp",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s041"
+  },
+  {
+   "tu": 64059,
+   "den": 64073,
+   "raw": "Tiện ích chính",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s042"
+  },
+  {
+   "tu": 64082,
+   "den": 64139,
+   "raw": "Axis Mall, nhà hàng, cửa hàng thương hiệu, rạp chiếu phim",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s043"
+  },
+  {
+   "tu": 64148,
+   "den": 64158,
+   "raw": "Giá căn hộ",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s044"
+  },
+  {
+   "tu": 64167,
+   "den": 64181,
+   "raw": "từ 284.000 USD",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s045"
+  },
+  {
+   "tu": 64190,
+   "den": 64223,
+   "raw": "Mức đầu tư đủ điều kiện quốc tịch",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s046"
+  },
+  {
+   "tu": 64232,
+   "den": 64246,
+   "raw": "từ 400.000 USD",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s047"
+  },
+  {
+   "tu": 64562,
+   "den": 64612,
+   "raw": "Thiết kế &amp; tiện ích<br> <em>Axis Istanbul</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s048"
+  },
+  {
+   "tu": 64694,
+   "den": 64755,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">subway</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s049"
+  },
+  {
+   "tu": 64764,
+   "den": 64769,
+   "raw": "Metro",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s050"
+  },
+  {
+   "tu": 64778,
+   "den": 64807,
+   "raw": "Nằm ngay trên tuyến Metro M1.",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s051"
+  },
+  {
+   "tu": 64830,
+   "den": 64890,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">route</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s052"
+  },
+  {
+   "tu": 64899,
+   "den": 64906,
+   "raw": "Cao tốc",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s053"
+  },
+  {
+   "tu": 64915,
+   "den": 64947,
+   "raw": "Nằm ngay trên tuyến cao tốc O-3.",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s054"
+  },
+  {
+   "tu": 64970,
+   "den": 65029,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">tram</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s055"
+  },
+  {
+   "tu": 65038,
+   "den": 65053,
+   "raw": "Trạm xe điện T4",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s056"
+  },
+  {
+   "tu": 65062,
+   "den": 65080,
+   "raw": "Cách khoảng 100 m.",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s057"
+  },
+  {
+   "tu": 65103,
+   "den": 65172,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">directions_car</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s058"
+  },
+  {
+   "tu": 65181,
+   "den": 65201,
+   "raw": "Metro và cao tốc O-1",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s059"
+  },
+  {
+   "tu": 65210,
+   "den": 65228,
+   "raw": "Cách khoảng 600 m.",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s060"
+  },
+  {
+   "tu": 65323,
+   "den": 65354,
+   "raw": "Khu phức hợp tích hợp Axis Mall",
+   "loai": "h3",
+   "lop": "imm4-amen__sub",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s061"
+  },
+  {
+   "tu": 65392,
+   "den": 65527,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">shopping_bag</span><strong>Trung tâm thương mại Axis Mall đã đi vào hoạt động.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s062"
+  },
+  {
+   "tu": 65536,
+   "den": 65627,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">restaurant</span><strong>Nhà hàng.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s063"
+  },
+  {
+   "tu": 65636,
+   "den": 65739,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">storefront</span><strong>Cửa hàng thương hiệu.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s064"
+  },
+  {
+   "tu": 65748,
+   "den": 65840,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">movie</span><strong>Rạp chiếu phim.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s065"
+  },
+  {
+   "tu": 65929,
+   "den": 65997,
+   "raw": "Phục vụ nhu cầu mua sắm, giải trí và sinh hoạt hằng ngày của cư dân.",
+   "loai": "p",
+   "lop": "imm4-amen__note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s066"
+  },
+  {
+   "tu": 66252,
+   "den": 66284,
+   "raw": "Chủ đầu tư<br> <em>Sur Yapi</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s067"
+  },
+  {
+   "tu": 66328,
+   "den": 66375,
+   "raw": "Nhà phát triển bất động sản lớn tại Thổ Nhĩ Kỳ.",
+   "loai": "p",
+   "lop": "imm4-dev__lead imm4-reveal",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s068"
+  },
+  {
+   "tu": 66422,
+   "den": 66512,
+   "raw": "<span class=\"imm4-dev__badge\" aria-hidden=\"true\">business_center</span>Năng lực và cam kết",
+   "loai": "h3",
+   "lop": "imm4-dev__eyebrow imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s069"
+  },
+  {
+   "tu": 66562,
+   "den": 66625,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">apartment</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s070"
+  },
+  {
+   "tu": 66630,
+   "den": 66653,
+   "raw": "<strong>Quy mô</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s071"
+  },
+  {
+   "tu": 66656,
+   "den": 66714,
+   "raw": "Phát triển nhiều dự án bất động sản quy mô tại Thổ Nhĩ Kỳ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s072"
+  },
+  {
+   "tu": 66734,
+   "den": 66792,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">sell</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s073"
+  },
+  {
+   "tu": 66797,
+   "den": 66827,
+   "raw": "<strong>Giá minh bạch</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s074"
+  },
+  {
+   "tu": 66830,
+   "den": 66926,
+   "raw": "Áp dụng chính sách giá minh bạch, khung giá thống nhất cho nhà đầu tư trong và ngoài Thổ Nhĩ Kỳ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s075"
+  },
+  {
+   "tu": 66946,
+   "den": 67008,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">verified</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s076"
+  },
+  {
+   "tu": 67013,
+   "den": 67037,
+   "raw": "<strong>Cam kết</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s077"
+  },
+  {
+   "tu": 67040,
+   "den": 67123,
+   "raw": "Cam kết bất động sản không có tranh chấp hoặc khiếu nại quyền sở hữu từ bên thứ ba.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s078"
+  },
+  {
+   "tu": 67143,
+   "den": 67202,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">gavel</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s079"
+  },
+  {
+   "tu": 67207,
+   "den": 67235,
+   "raw": "<strong>Phí luật sư</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s080"
+  },
+  {
+   "tu": 67238,
+   "den": 67319,
+   "raw": "Có ưu đãi phí luật sư 5.000 USD cho nhà đầu tư dự án Axis tại thời điểm cập nhật.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s081"
+  },
+  {
+   "tu": 67339,
+   "den": 67410,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">workspace_premium</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s082"
+  },
+  {
+   "tu": 67415,
+   "den": 67440,
+   "raw": "<strong>Ghi nhận</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s083"
+  },
+  {
+   "tu": 67443,
+   "den": 67519,
+   "raw": "Từng được vinh danh là “Siêu Thương hiệu” trong hai năm liên tiếp 2014–2015.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s084"
+  },
+  {
+   "tu": 67630,
+   "den": 67645,
+   "raw": "Dự án tiêu biểu",
+   "loai": "h3",
+   "lop": "imm4-dev__projects-title imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s085"
+  },
+  {
+   "tu": 67880,
+   "den": 67935,
+   "raw": "<span class=\"imm4-dev__title-link\">Axis Istanbul</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s086"
+  },
+  {
+   "tu": 68157,
+   "den": 68222,
+   "raw": "<span class=\"imm4-dev__title-link\">Sur Yapı Antalya Suites</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s087"
+  },
+  {
+   "tu": 68454,
+   "den": 68524,
+   "raw": "<span class=\"imm4-dev__title-link\">Sur Yapı Lavender Sancaktepe</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s088"
+  },
+  {
+   "tu": 68760,
+   "den": 68832,
+   "raw": "<span class=\"imm4-dev__title-link\">Sur Yapı Metrogarden AVM-KONUT</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s089"
+  },
+  {
+   "tu": 69073,
+   "den": 69095,
+   "raw": "Tiến độ <em>dự án</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s090"
+  },
+  {
+   "tu": 69184,
+   "den": 69230,
+   "raw": "<strong>Đang cập nhật...</strong><span></span>",
+   "loai": "p",
+   "lop": "imm4-milestone is-current",
+   "the": "article",
+   "ngu_canh": "",
+   "id": "s091"
+  },
+  {
+   "tu": 69278,
+   "den": 69412,
+   "raw": "Nhà đầu tư nên liên hệ IMM Group để cập nhật tiến độ thi công, tình trạng suất đầu tư và tài liệu dự án mới nhất tại thời điểm tư vấn.",
+   "loai": "p",
+   "lop": "imm4-progress-note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s092"
+  },
+  {
+   "tu": 69753,
+   "den": 70028,
+   "raw": "Sở hữu <strong>bất động sản Thổ Nhĩ Kỳ</strong> không chỉ là một tài sản sinh lời và tích sản an toàn bằng ngoại tệ. Việc sở hữu bất động sản Axis Istanbul còn mở ra đặc quyền quốc tịch Thổ Nhĩ Kỳ vô giá cho cả gia đình, cùng lộ trình visa E-2 đầu tư và sinh sống tại Hoa Kỳ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s093"
+  },
+  {
+   "tu": 70091,
+   "den": 70133,
+   "raw": "Lộ trình quốc tịch<br> <em>Thổ Nhĩ Kỳ</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s094"
+  },
+  {
+   "tu": 70275,
+   "den": 70307,
+   "raw": "Sở hữu bất động sản đủ điều kiện",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s095"
+  },
+  {
+   "tu": 70315,
+   "den": 70401,
+   "raw": "Nhà đầu tư sở hữu bất động sản đủ điều kiện có thể nộp hồ sơ xin quốc tịch Thổ Nhĩ Kỳ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s096"
+  },
+  {
+   "tu": 70454,
+   "den": 70472,
+   "raw": "Thành viên đi cùng",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s097"
+  },
+  {
+   "tu": 70480,
+   "den": 70556,
+   "raw": "Thành viên đi cùng gồm vợ/chồng và con phụ thuộc dưới 18 tuổi theo quy định.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s098"
+  },
+  {
+   "tu": 70609,
+   "den": 70633,
+   "raw": "Lộ trình xin Visa Mỹ E-2",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s099"
+  },
+  {
+   "tu": 70641,
+   "den": 70776,
+   "raw": "Sau khi có quốc tịch Thổ Nhĩ Kỳ, nhà đầu tư có thể xét lộ trình xin Visa Mỹ E-2 nếu đáp ứng điều kiện đầu tư và hồ sơ riêng của Hoa Kỳ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s100"
+  },
+  {
+   "tu": 70846,
+   "den": 70903,
+   "raw": "Kết quả tùy hồ sơ và xét duyệt của cơ quan có thẩm quyền.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s101"
+  },
+  {
+   "tu": 71220,
+   "den": 71261,
+   "raw": "Lợi thế quốc tịch<br> <em>Thổ Nhĩ Kỳ</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s102"
+  },
+  {
+   "tu": 71297,
+   "den": 71336,
+   "raw": "Lợi thế khi sở hữu quốc tịch Thổ Nhĩ Kỳ",
+   "loai": "p",
+   "lop": "imm4-rights__intro",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s103"
+  },
+  {
+   "tu": 71458,
+   "den": 71477,
+   "raw": "<span>public</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s104"
+  },
+  {
+   "tu": 71513,
+   "den": 71515,
+   "raw": "01",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s105"
+  },
+  {
+   "tu": 71526,
+   "den": 71546,
+   "raw": "Tự do đi lại quốc tế",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s106"
+  },
+  {
+   "tu": 71560,
+   "den": 71655,
+   "raw": "Miễn visa hoặc visa điện tử tới hơn 110 quốc gia, gồm Nhật Bản, Hàn Quốc, Hồng Kông, Singapore.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s107"
+  },
+  {
+   "tu": 71756,
+   "den": 71784,
+   "raw": "<span>family_restroom</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s108"
+  },
+  {
+   "tu": 71820,
+   "den": 71822,
+   "raw": "02",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s109"
+  },
+  {
+   "tu": 71833,
+   "den": 71857,
+   "raw": "Phúc lợi cho cả gia đình",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s110"
+  },
+  {
+   "tu": 71871,
+   "den": 71966,
+   "raw": "Cả gia đình được hưởng phúc lợi y tế, giáo dục và làm việc tại Thổ Nhĩ Kỳ với tư cách công dân.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s111"
+  },
+  {
+   "tu": 72067,
+   "den": 72095,
+   "raw": "<span>business_center</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s112"
+  },
+  {
+   "tu": 72131,
+   "den": 72133,
+   "raw": "03",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s113"
+  },
+  {
+   "tu": 72144,
+   "den": 72170,
+   "raw": "Mở rộng kinh doanh quốc tế",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s114"
+  },
+  {
+   "tu": 72184,
+   "den": 72275,
+   "raw": "Tận dụng vị trí chiến lược của Thổ Nhĩ Kỳ giữa châu Âu và châu Á để phát triển giao thương.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s115"
+  },
+  {
+   "tu": 72376,
+   "den": 72394,
+   "raw": "<span>badge</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s116"
+  },
+  {
+   "tu": 72430,
+   "den": 72432,
+   "raw": "04",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s117"
+  },
+  {
+   "tu": 72443,
+   "den": 72473,
+   "raw": "Linh hoạt về tên khi nhập tịch",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s118"
+  },
+  {
+   "tu": 72487,
+   "den": 72590,
+   "raw": "Có thể giữ tên Việt Nam hoặc chọn tên mới theo bảng chữ cái Thổ Nhĩ Kỳ, thuận tiện giao thương quốc tế.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s119"
+  },
+  {
+   "tu": 72691,
+   "den": 72712,
+   "raw": "<span>verified</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s120"
+  },
+  {
+   "tu": 72748,
+   "den": 72750,
+   "raw": "05",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s121"
+  },
+  {
+   "tu": 72761,
+   "den": 72801,
+   "raw": "Lên thẳng quốc tịch - điều kiện đơn giản",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s122"
+  },
+  {
+   "tu": 72815,
+   "den": 72843,
+   "raw": "Không yêu cầu khám sức khỏe.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s123"
+  },
+  {
+   "tu": 72852,
+   "den": 72873,
+   "raw": "Không yêu cầu cư trú.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s124"
+  },
+  {
+   "tu": 72882,
+   "den": 72904,
+   "raw": "Không kê khai tài sản.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s125"
+  },
+  {
+   "tu": 72913,
+   "den": 72948,
+   "raw": "Không giới hạn quốc tịch đương đơn.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s126"
+  },
+  {
+   "tu": 73049,
+   "den": 73074,
+   "raw": "<span>check_circle</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s127"
+  },
+  {
+   "tu": 73110,
+   "den": 73112,
+   "raw": "06",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s128"
+  },
+  {
+   "tu": 73123,
+   "den": 73142,
+   "raw": "Không rào cản hồ sơ",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s129"
+  },
+  {
+   "tu": 73156,
+   "den": 73179,
+   "raw": "Không giới hạn độ tuổi.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s130"
+  },
+  {
+   "tu": 73188,
+   "den": 73236,
+   "raw": "Không yêu cầu bằng cấp hay kinh nghiệm làm việc.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s131"
+  },
+  {
+   "tu": 73245,
+   "den": 73269,
+   "raw": "Không yêu cầu tiếng Anh.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s132"
+  },
+  {
+   "tu": 73370,
+   "den": 73396,
+   "raw": "<span>all_inclusive</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s133"
+  },
+  {
+   "tu": 73432,
+   "den": 73434,
+   "raw": "07",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s134"
+  },
+  {
+   "tu": 73445,
+   "den": 73483,
+   "raw": "Quốc tịch vĩnh viễn, linh hoạt tài sản",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s135"
+  },
+  {
+   "tu": 73497,
+   "den": 73612,
+   "raw": "Quốc tịch có giá trị vĩnh viễn, không ràng buộc duy trì thêm; được bán bất động sản sau 3 năm mà vẫn giữ quốc tịch.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s136"
+  },
+  {
+   "tu": 73713,
+   "den": 73740,
+   "raw": "<span>flight_takeoff</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s137"
+  },
+  {
+   "tu": 73776,
+   "den": 73778,
+   "raw": "08",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s138"
+  },
+  {
+   "tu": 73789,
+   "den": 73815,
+   "raw": "Cơ hội xin visa E-2 vào Mỹ",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s139"
+  },
+  {
+   "tu": 73829,
+   "den": 73942,
+   "raw": "Sau khi sở hữu quốc tịch và cư trú tối thiểu 3 năm, nhà đầu tư có thể xin visa E-2 - theo điều kiện chương trình.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s140"
+  },
+  {
+   "tu": 73951,
+   "den": 74015,
+   "raw": "E-2 là thị thực không định cư, không phải thẻ xanh/quốc tịch Mỹ.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s141"
+  },
+  {
+   "tu": 74289,
+   "den": 74369,
+   "raw": "Nhận tư vấn dự án Axis Istanbul &amp; <br><em>lộ trình quốc tịch Thổ Nhĩ Kỳ</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s142"
+  },
+  {
+   "tu": 74473,
+   "den": 74487,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "btn-primary link-to imm4-consult__button",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s143"
+  },
+  {
+   "tu": 74672,
+   "den": 74757,
+   "raw": "Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s144"
+  },
+  {
+   "tu": 74766,
+   "den": 74835,
+   "raw": "Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s145"
+  },
+  {
+   "tu": 74883,
+   "den": 74956,
+   "raw": "<span class=\"imm4-consult__notice-icon\" aria-hidden=\"true\">balance</span>",
+   "loai": "p",
+   "lop": "imm4-consult__notice",
+   "the": "aside",
+   "ngu_canh": "",
+   "id": "s146"
+  },
+  {
+   "tu": 74966,
+   "den": 74981,
+   "raw": "Lưu ý thông tin",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s147"
+  },
+  {
+   "tu": 74989,
+   "den": 75129,
+   "raw": "Thông tin trên trang này nhằm cung cấp tổng quan về dự án Axis Istanbul, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s148"
+  },
+  {
+   "tu": 75390,
+   "den": 75397,
+   "raw": "&times;",
+   "loai": "cta",
+   "lop": "imm4-icon-btn",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s149"
+  },
+  {
+   "tu": 75516,
+   "den": 75594,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_left</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__prev",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s150"
+  },
+  {
+   "tu": 75758,
+   "den": 75837,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_right</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__next",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s151"
+  }
+ ]
+}

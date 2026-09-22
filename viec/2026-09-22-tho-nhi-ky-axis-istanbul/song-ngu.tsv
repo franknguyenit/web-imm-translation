@@ -1,0 +1,149 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	p	Quốc tịch Thổ Nhĩ Kỳ | Dự án căn hộ cao cấp	Turkish citizenship | Premium apartment project			acf.s001_p
+s002	h1	Axis Istanbul	Axis Istanbul			acf.s002_h1
+s003	p	Căn hộ cao cấp giữa trung tâm Istanbul – Lộ trình quốc tịch Thổ Nhĩ Kỳ	Premium apartments in central Istanbul — a route to Turkish citizenship			acf.s003_p
+s004	cta	YÊU CẦU TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s004_cta
+s005	p	{1}{2}paid{/2}Mức đầu tư tối thiểu{/1}**400.000 USD**	{1}{2}paid{/2}Minimum investment{/1}**US$400,000**	94%: {1}{2}paid{/2}Minimum investment{/1}**US$270,000**		acf.s005_p#1
+s006	p	{1}{2}check_circle{/2}Tình trạng{/1}**Còn suất**	{1}{2}check_circle{/2}Status{/1}**Units available**	100%: {1}{2}check_circle{/2}Status{/1}**Units available**		acf.s006_p#1
+s007	p	{1}{2}apartment{/2}Loại hình{/1}**Căn hộ cao cấp**	{1}{2}apartment{/2}Property type{/1}**Premium apartments**	86%: {1}{2}apartment{/2}Property type{/1}**Serviced apartments**		acf.s007_p#1
+s008	cta	Axis Istanbul	Axis Istanbul		trung:s002	acf.s008_cta
+s009	cta	Hình ảnh dự án	Project gallery	100%: Project gallery		acf.s009_cta
+s010	cta	Vị trí & kết nối	Location & connections	100%: Location & connections		acf.s010_cta#1
+s011	cta	Tổng quan dự án	Project overview	100%: Project overview		acf.s011_cta
+s012	cta	Thiết kế & tiện ích	Design & amenities	100%: Design & amenities		acf.s012_cta#1
+s013	cta	Chủ đầu tư Sur Yapi	Developer Sur Yapı			acf.s013_cta
+s014	cta	Tiến độ dự án	Project timeline	100%: Project timeline		acf.s014_cta
+s015	cta	Lộ trình quốc tịch	A path to citizenship	100%: A path to citizenship		acf.s015_cta
+s016	cta	Lợi thế quốc tịch	Citizenship advantages	100%: Citizenship advantages		acf.s016_cta
+s017	h2	Trung tâm kinh tế{br} {1}mạn châu Âu{/1}	A business hub on{br} {1}Istanbul's European side{/1}			acf.s017_h2#1
+s018	p	Quận trung tâm kinh doanh {1}·{/1} Istanbul {2}·{/2} Thổ Nhĩ Kỳ	Central business district {1}·{/1} Istanbul {2}·{/2} Türkiye			acf.s018_p#1
+s019	cta	Google Maps	Google Maps	100%: Google Maps		acf.s019_cta#1
+s020	p	Vị trí dự án	Project location	100%: Project location		acf.s020_p
+s021	h3	Trung tâm kinh tế mạn châu Âu	A business hub on Istanbul's European side			acf.s021_h3
+s022	h4	Trung tâm kinh doanh	Central business district			acf.s022_h4
+s023	p	Axis Istanbul tọa lạc tại quận trung tâm kinh doanh của Istanbul.	Axis Istanbul sits in Istanbul's central business district.			acf.s023_p
+s024	h4	Vị trí thuộc phần châu Âu	On the European side			acf.s024_h4
+s025	p	Dự án nằm tại phần châu Âu của Thổ Nhĩ Kỳ.	The project is in the European part of Türkiye.			acf.s025_p
+s026	h4	Gần các địa danh nổi tiếng	Close to famous landmarks			acf.s026_h4
+s027	p	Dễ dàng tiếp cận phố cổ, cung điện Topkapı, Blue Mosque và Hagia Sophia.	The old city, Topkapı Palace, the Blue Mosque, and Hagia Sophia are all within easy reach.			acf.s027_p
+s028	h4	Kết nối khu vực	City connections			acf.s028_h4
+s029	p	Thuận tiện kết nối các khu vực trọng yếu của Istanbul.	Well connected to Istanbul's main districts.			acf.s029_p
+s030	h2	Axis Istanbul –{br} {1}lộ trình quốc tịch Thổ Nhĩ Kỳ{/1}	Axis Istanbul —{br} {1}a route to Turkish citizenship{/1}			acf.s030_h2#1
+s031	p	Tọa lạc tại quận trung tâm kinh doanh Istanbul, mạn châu Âu.	In Istanbul's central business district, on the European side.			acf.s031_p
+s032	p	Khu phức hợp căn hộ hiện đại, tích hợp trung tâm thương mại Axis Mall ngay tầng đế.	A modern apartment complex with the Axis Mall shopping center on its lower floors.			acf.s032_p
+s033	p	Giá căn hộ từ 284.000 USD; mức đầu tư đủ điều kiện quốc tịch Thổ Nhĩ Kỳ từ 400.000 USD qua bất động sản.	Apartments start at US$284,000, while the real estate investment that qualifies for Turkish citizenship starts at US$400,000.			acf.s033_p
+s034	p	Nhà đầu tư và gia đình có thể xin quốc tịch, hộ chiếu Thổ Nhĩ Kỳ khi đáp ứng điều kiện chương trình.	You and your family can apply for Turkish citizenship and passports if you meet the program conditions.			acf.s034_p
+s035	p	Quốc tịch Thổ Nhĩ Kỳ mở lộ trình xin Visa Mỹ E-2, kết quả tùy hồ sơ và xét duyệt của cơ quan Hoa Kỳ.	Turkish citizenship can open a route to the US E-2 treaty investor visa; further US conditions apply, and the outcome depends on your case and on the decision of the US authorities.			acf.s035_p
+s036	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s036_cta
+s037	h3	Thông tin dự án	Project information	100%: Project information		acf.s037_h3
+s038	p	Vị trí	Location	100%: Location		acf.s038_p
+s039	p	quận trung tâm kinh doanh Istanbul, mạn châu Âu	Istanbul central business district, European side			acf.s039_p
+s040	p	Loại hình	Property type	100%: Property type		acf.s040_p
+s041	p	căn hộ cao cấp trong khu phức hợp	premium apartments in a mixed-use complex			acf.s041_p
+s042	p	Tiện ích chính	Main amenities			acf.s042_p
+s043	p	Axis Mall, nhà hàng, cửa hàng thương hiệu, rạp chiếu phim	Axis Mall, restaurants, brand-name stores, cinema			acf.s043_p
+s044	p	Giá căn hộ	Apartment price	100%: Apartment price		acf.s044_p
+s045	p	từ 284.000 USD	from US$284,000	92%: From US$280,000		acf.s045_p
+s046	p	Mức đầu tư đủ điều kiện quốc tịch	Investment that qualifies for citizenship			acf.s046_p
+s047	p	từ 400.000 USD	from US$400,000	92%: From US$200,000		acf.s047_p
+s048	h2	Thiết kế & tiện ích{br} {1}Axis Istanbul{/1}	Design & amenities at{br} {1}Axis Istanbul{/1}			acf.s048_h2#1
+s049	p	subway	subway			acf.s049_p#1
+s050	p	Metro	Metro	100%: Metro		acf.s050_p
+s051	p	Nằm ngay trên tuyến Metro M1.	Directly on the M1 metro line.			acf.s051_p
+s052	p	route	route			acf.s052_p#1
+s053	p	Cao tốc	Highway			acf.s053_p
+s054	p	Nằm ngay trên tuyến cao tốc O-3.	Directly on the O-3 highway.			acf.s054_p
+s055	p	tram	tram			acf.s055_p#1
+s056	p	Trạm xe điện T4	T4 tram stop			acf.s056_p
+s057	p	Cách khoảng 100 m.	About 100 m away.			acf.s057_p
+s058	p	directions_car	directions_car	100%: directions_car		acf.s058_p#1
+s059	p	Metro và cao tốc O-1	Metro and the O-1 highway			acf.s059_p
+s060	p	Cách khoảng 600 m.	About 600 m away.			acf.s060_p
+s061	h3	Khu phức hợp tích hợp Axis Mall	A complex built around Axis Mall			acf.s061_h3
+s062	li	{1}shopping_bag{/1}**Trung tâm thương mại Axis Mall đã đi vào hoạt động.**	{1}shopping_bag{/1}**Axis Mall shopping center, already open.**			acf.s062_li#1
+s063	li	{1}restaurant{/1}**Nhà hàng.**	{1}restaurant{/1}**Restaurants.**			acf.s063_li#1
+s064	li	{1}storefront{/1}**Cửa hàng thương hiệu.**	{1}storefront{/1}**Brand-name stores.**			acf.s064_li#1
+s065	li	{1}movie{/1}**Rạp chiếu phim.**	{1}movie{/1}**Cinema.**			acf.s065_li#1
+s066	p	Phục vụ nhu cầu mua sắm, giải trí và sinh hoạt hằng ngày của cư dân.	Shopping, entertainment, and day-to-day needs for residents, all on site.			acf.s066_p
+s067	h2	Chủ đầu tư{br} {1}Sur Yapi{/1}	The developer{br} {1}Sur Yapı{/1}			acf.s067_h2#1
+s068	p	Nhà phát triển bất động sản lớn tại Thổ Nhĩ Kỳ.	A large real estate developer in Türkiye.			acf.s068_p
+s069	h3	{1}business_center{/1}Năng lực và cam kết	{1}business_center{/1}Track record and commitments			acf.s069_h3#1
+s070	li	apartment	apartment	100%: apartment		acf.s070_li#1
+s071	p	Quy mô	Scale	100%: Scale		acf.s071_p#1
+s072	p	Phát triển nhiều dự án bất động sản quy mô tại Thổ Nhĩ Kỳ.	Has developed a number of large real estate projects across Türkiye.			acf.s072_p
+s073	li	sell	sell			acf.s073_li#1
+s074	p	Giá minh bạch	Transparent pricing			acf.s074_p#1
+s075	p	Áp dụng chính sách giá minh bạch, khung giá thống nhất cho nhà đầu tư trong và ngoài Thổ Nhĩ Kỳ.	A transparent pricing policy, with the same price list for buyers inside and outside Türkiye.			acf.s075_p
+s076	li	verified	verified	100%: verified		acf.s076_li#1
+s077	p	Cam kết	Commitment			acf.s077_p#1
+s078	p	Cam kết bất động sản không có tranh chấp hoặc khiếu nại quyền sở hữu từ bên thứ ba.	The developer undertakes that the property is free of disputes and third-party ownership claims.			acf.s078_p
+s079	li	gavel	gavel			acf.s079_li#1
+s080	p	Phí luật sư	Legal fees			acf.s080_p#1
+s081	p	Có ưu đãi phí luật sư 5.000 USD cho nhà đầu tư dự án Axis tại thời điểm cập nhật.	A preferential legal fee of US$5,000 for investors in Axis projects, as of the date of this update.			acf.s081_p
+s082	li	workspace_premium	workspace_premium	100%: workspace_premium		acf.s082_li#1
+s083	p	Ghi nhận	Recognition			acf.s083_p#1
+s084	p	Từng được vinh danh là “Siêu Thương hiệu” trong hai năm liên tiếp 2014–2015.	"Named a ""Superbrand"" in 2014 and 2015."			acf.s084_p
+s085	h3	Dự án tiêu biểu	Selected projects	100%: Selected projects		acf.s085_h3
+s086	p	Axis Istanbul	Axis Istanbul		trung:s002	acf.s086_p#1
+s087	p	Sur Yapı Antalya Suites	Sur Yapı Antalya Suites			acf.s087_p#1
+s088	p	Sur Yapı Lavender Sancaktepe	Sur Yapı Lavender Sancaktepe			acf.s088_p#1
+s089	p	Sur Yapı Metrogarden AVM-KONUT	Sur Yapı Metrogarden AVM-KONUT			acf.s089_p#1
+s090	h2	Tiến độ {1}dự án{/1}	{1}Project{/1} timeline	100% (gắn lại thẻ {1} {/1}): Project timeline		acf.s090_h2#1
+s091	p	Đang cập nhật...	Details coming soon.	100%: Details coming soon.		acf.s091_p#1
+s092	p	Nhà đầu tư nên liên hệ IMM Group để cập nhật tiến độ thi công, tình trạng suất đầu tư và tài liệu dự án mới nhất tại thời điểm tư vấn.	Please contact IMM Group for the latest construction progress, availability, and project documents at the time of your consultation.	100%: Please contact IMM Group for the latest construction progress, availability, and project documents at the time of your consultation.		acf.s092_p
+s093	p	Sở hữu **bất động sản Thổ Nhĩ Kỳ** không chỉ là một tài sản sinh lời và tích sản an toàn bằng ngoại tệ. Việc sở hữu bất động sản Axis Istanbul còn mở ra đặc quyền quốc tịch Thổ Nhĩ Kỳ vô giá cho cả gia đình, cùng lộ trình visa E-2 đầu tư và sinh sống tại Hoa Kỳ.	**Real estate in Türkiye** can be more than an income-producing asset and a store of value held in US dollars. Ownership at Axis Istanbul can also open the way to Turkish citizenship for your whole family and, from there, to the US E-2 visa to invest and live in the United States, subject to US requirements.			acf.s093_p#1
+s094	h2	Lộ trình quốc tịch{br} {1}Thổ Nhĩ Kỳ{/1}	Your route to{br} {1}Turkish citizenship{/1}			acf.s094_h2#1
+s095	h3	Sở hữu bất động sản đủ điều kiện	Own qualifying real estate			acf.s095_h3
+s096	p	Nhà đầu tư sở hữu bất động sản đủ điều kiện có thể nộp hồ sơ xin quốc tịch Thổ Nhĩ Kỳ.	If you own qualifying real estate, you can apply for Turkish citizenship.			acf.s096_p
+s097	h3	Thành viên đi cùng	Family members included			acf.s097_h3
+s098	p	Thành viên đi cùng gồm vợ/chồng và con phụ thuộc dưới 18 tuổi theo quy định.	The application can include your spouse and dependent children under 18, subject to the program rules.			acf.s098_p
+s099	h3	Lộ trình xin Visa Mỹ E-2	The route to the US E-2 visa	90%: A route to the US E-2 treaty investor visa		acf.s099_h3
+s100	p	Sau khi có quốc tịch Thổ Nhĩ Kỳ, nhà đầu tư có thể xét lộ trình xin Visa Mỹ E-2 nếu đáp ứng điều kiện đầu tư và hồ sơ riêng của Hoa Kỳ.	Once you hold Turkish citizenship, you can consider the US E-2 visa route if you meet the investment conditions and the separate US requirements.			acf.s100_p
+s101	p	Kết quả tùy hồ sơ và xét duyệt của cơ quan có thẩm quyền.	The outcome depends on your case and on the decision of the competent authorities.			acf.s101_p
+s102	h2	Lợi thế quốc tịch{br} {1}Thổ Nhĩ Kỳ{/1}	Advantages of{br} {1}Turkish citizenship{/1}			acf.s102_h2#1
+s103	p	Lợi thế khi sở hữu quốc tịch Thổ Nhĩ Kỳ	What Turkish citizenship gives you			acf.s103_p
+s104	p	public	public	100%: public		acf.s104_p#1
+s105	p	01	01			acf.s105_p
+s106	h3	Tự do đi lại quốc tế	International mobility	100%: International mobility		acf.s106_h3
+s107	li	Miễn visa hoặc visa điện tử tới hơn 110 quốc gia, gồm Nhật Bản, Hàn Quốc, Hồng Kông, Singapore.	Visa-free or eVisa access to more than 110 destinations, including Japan, South Korea, Hong Kong, and Singapore.	100%: Visa-free or eVisa access to more than 110 countries, including Japan, South Korea, Hong Kong, and Singapore.		acf.s107_li
+s108	p	family_restroom	family_restroom	100%: family_restroom		acf.s108_p#1
+s109	p	02	02			acf.s109_p
+s110	h3	Phúc lợi cho cả gia đình	Benefits for the whole family	100%: Benefits for the whole family		acf.s110_h3
+s111	li	Cả gia đình được hưởng phúc lợi y tế, giáo dục và làm việc tại Thổ Nhĩ Kỳ với tư cách công dân.	As citizens, the whole family has access to healthcare, education, and the right to work in Türkiye.	100%: As citizens, the whole family has access to healthcare, education, and the right to work in Türkiye.		acf.s111_li
+s112	p	business_center	business_center			acf.s112_p#1
+s113	p	03	03			acf.s113_p
+s114	h3	Mở rộng kinh doanh quốc tế	Expand your international business	100%: Room to grow an international business		acf.s114_h3
+s115	li	Tận dụng vị trí chiến lược của Thổ Nhĩ Kỳ giữa châu Âu và châu Á để phát triển giao thương.	Türkiye sits between Europe and Asia — a useful base for cross-border trade.	100%: Türkiye sits between Europe and Asia, a useful base for cross-border trade.		acf.s115_li
+s116	p	badge	badge	100%: badge		acf.s116_p#1
+s117	p	04	04			acf.s117_p
+s118	h3	Linh hoạt về tên khi nhập tịch	Flexibility over your name when you naturalize	100%: Flexibility over your name		acf.s118_h3
+s119	li	Có thể giữ tên Việt Nam hoặc chọn tên mới theo bảng chữ cái Thổ Nhĩ Kỳ, thuận tiện giao thương quốc tế.	You can keep your current name or take a new one in the Turkish alphabet, which some investors find easier in international business.	100%: You can keep your current name or take a new one in the Turkish alphabet, which some investors find easier in international business.		acf.s119_li
+s120	p	verified	verified	100%: verified	trung:s076	acf.s120_p#1
+s121	p	05	05			acf.s121_p
+s122	h3	Lên thẳng quốc tịch - điều kiện đơn giản	Direct to citizenship, with straightforward requirements	100%: Straight to citizenship, with simple requirements		acf.s122_h3
+s123	li	Không yêu cầu khám sức khỏe.	No medical examination requirement.	100%: No medical examination requirement.		acf.s123_li
+s124	li	Không yêu cầu cư trú.	No requirement to live in Türkiye before or after you apply.	100%: No residence requirement.		acf.s124_li
+s125	li	Không kê khai tài sản.	No declaration of assets is required for the citizenship application.	100%: No declaration of assets.		acf.s125_li
+s126	li	Không giới hạn quốc tịch đương đơn.	Open to applicants of most nationalities, subject to Turkish law.	100%: No restriction based on your current nationality.		acf.s126_li
+s127	p	check_circle	check_circle	100%: check_circle		acf.s127_p#1
+s128	p	06	06			acf.s128_p
+s129	h3	Không rào cản hồ sơ	No age, education, or language barriers	100%: No barriers in the application		acf.s129_h3
+s130	li	Không giới hạn độ tuổi.	No age limit.	100%: No age limit.		acf.s130_li
+s131	li	Không yêu cầu bằng cấp hay kinh nghiệm làm việc.	No degree or work experience is required.	100%: No degree or work experience is required.		acf.s131_li
+s132	li	Không yêu cầu tiếng Anh.	No language requirement.	100%: No English language requirement.		acf.s132_li
+s133	p	all_inclusive	all_inclusive			acf.s133_p#1
+s134	p	07	07			acf.s134_p
+s135	h3	Quốc tịch vĩnh viễn, linh hoạt tài sản	Citizenship for life, and flexibility over your property	100%: Citizenship for life, and flexibility over the asset		acf.s135_h3
+s136	li	Quốc tịch có giá trị vĩnh viễn, không ràng buộc duy trì thêm; được bán bất động sản sau 3 năm mà vẫn giữ quốc tịch.	Turkish citizenship is granted for life and does not have to be maintained through further investment; after 3 years you may sell the property and keep your citizenship.	100%: Citizenship is held for life with no ongoing obligations, and after 3 years you may sell the property without losing your citizenship.		acf.s136_li
+s137	p	flight_takeoff	flight_takeoff			acf.s137_p#1
+s138	p	08	08			acf.s138_p
+s139	h3	Cơ hội xin visa E-2 vào Mỹ	The opportunity to apply for a US E-2 visa	100%: A route to the US E-2 visa		acf.s139_h3
+s140	li	Sau khi sở hữu quốc tịch và cư trú tối thiểu 3 năm, nhà đầu tư có thể xin visa E-2 - theo điều kiện chương trình.	Under US rules, an investor who obtained citizenship by investment must show at least 3 years of residence in Türkiye before applying for an E-2 visa. This is a US condition, not a Turkish one.	100%: Once you hold citizenship and can show 3 continuous years of residence and ties in Türkiye, you can apply for an E-2 visa, subject to the rules of that program.		acf.s140_li
+s141	li	E-2 là thị thực không định cư, không phải thẻ xanh/quốc tịch Mỹ.	The E-2 is a nonimmigrant visa; it is not a green card or US citizenship.	100%: The E-2 is a nonimmigrant visa; it is not a green card or US citizenship.		acf.s141_li
+s142	h2	Nhận tư vấn dự án Axis Istanbul & {br}{1}lộ trình quốc tịch Thổ Nhĩ Kỳ{/1}	Talk to us about Axis Istanbul & {br}{1}the route to Turkish citizenship{/1}			acf.s142_h2#1
+s143	cta	Yêu cầu tư vấn	Book a consultation	100%: Book a consultation	trung:s004	acf.s143_cta
+s144	li	Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.	An IMM advisor will contact you to discuss the project in detail and assess your eligibility.	100%: An IMM advisor will contact you to discuss the project in detail and assess your eligibility.		acf.s144_li
+s145	li	Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.	Your personal information is kept confidential under IMM Group's Privacy Policy.	100%: Your personal information is kept confidential under IMM Group's Privacy Policy.		acf.s145_li
+s146	p	balance	balance	100%: balance		acf.s146_p#1
+s147	h3	Lưu ý thông tin	Important information	100%: Important information		acf.s147_h3
+s148	p	Thông tin trên trang này nhằm cung cấp tổng quan về dự án Axis Istanbul, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.	The information on this page provides an overview of the Axis Istanbul project. It is not legal, securities, or personalized investment advice.	95%: The information on this page provides an overview of the Coral Vista project. It is not legal, securities, or personalized investment advice.		acf.s148_p
