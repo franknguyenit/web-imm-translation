@@ -1,0 +1,105 @@
+[s001] Nova Scotia Entrepreneur Stream
+[s002] Entrepreneur Immigration to Canada{br}The {1}Nova Scotia{/1} Entrepreneur Stream
+[s003] What is the Nova Scotia Entrepreneur Stream?
+[s004] A Canadian permanent residence pathway for business owners and senior managers who want to invest in, start, or acquire a business in Nova Scotia.
+[s005] You must run the business in the province yourself to qualify for a provincial nomination and, from there, Canadian permanent residence.
+[s006] Your spouse and your unmarried children under 22 can be included in the same application.
+[s007|#bo-qua-so: thêm số USD quy đổi từ C$100,000 và C$150,000 theo style guide mục 5] An investment starting at C$100,000 (approximately US$71,000) for a business outside Halifax, or C$150,000 (approximately US$107,000) for a business in Halifax.
+[s008] Nova Scotia has a lower cost of living and more affordable housing than many of Canada's larger provinces, and its position on the Atlantic coast is an advantage for trade.
+[s009] Book a consultation
+[s010] Benefits of immigrating to Nova Scotia
+[s011] Your whole family moves to Nova Scotia
+[s012] You, your spouse, and your dependent children can live, study, and work in Nova Scotia during the work permit stage.
+[s013] Your children study in Canada
+[s014] Children attend public school free of charge through the end of high school; once your family holds permanent residence, they can attend university at domestic tuition rates.
+[s015] A path to permanent residence
+[s016] Once you have met your commitments to the province and operated an eligible business, your family can apply for Canadian permanent residence.
+[s017] A route to Canadian citizenship
+[s018] After obtaining permanent residence and meeting the residency, tax, language and background requirements, your family can consider applying for Canadian citizenship.
+[s019] Why investors choose this program
+[s020] An investment starting at C$100,000
+[s021] This applies when you start a new business or acquire an existing one outside the Halifax area.
+[s022] No requirement for the business to be profitable
+[s023] Your Canadian business is not required to be profitable straight away, but it must genuinely operate and meet your commitments to the province.
+[s024] Affordable cost of living
+[s025] Nova Scotia has a lower cost of living and more affordable housing than many of Canada's larger provinces.
+[s026] A good environment for families
+[s027] The province has settled schools, healthcare, and communities, which suits a long-term settlement plan.
+[s028] An advantage for international trade
+[s029] Its position on the Atlantic coast gives Nova Scotia convenient connections to the United States, Europe, and other international markets.
+[s030] Program requirements
+[s031] Net worth requirements
+[s032|#bo-qua-so: thêm số USD quy đổi từ C$600,000 theo style guide mục 5] Has a personal net worth of at least C$600,000 (approximately US$428,000) if the business is in the Halifax area.
+[s033|#bo-qua-so: thêm số USD quy đổi từ C$400,000 theo style guide mục 5] Has a personal net worth of at least C$400,000 (approximately US$285,000) if the business is outside the Halifax area.
+[s034] Principal applicant requirements
+[s035] Has, within the past 10 years, owned and actively managed a business for at least 3 years, or held a senior management role for at least 5 years.
+[s036] Meets the language requirement of Canadian Language Benchmark (CLB) 5 in English or French, equivalent to IELTS 5.0
+[s037] Investment requirements
+[s038] Invests at least C$150,000 in a business in the Halifax area.
+[s039] Invests at least C$100,000 in a business outside the Halifax area.
+[s040] Presents a viable business plan that delivers economic benefit to the province.
+[s041] Operates the business for at least 12 months to qualify to apply for permanent residence.
+[s042] Creates at least 1 full-time job for a Canadian citizen or permanent resident when starting a new business; maintains the existing jobs when acquiring an established business.
+[s043] The Nova Scotia application process
+[s044] Assessment and case preparation
+[s045] We review your eligibility, net worth, management experience, and overall fit with the stream.
+[s046] Exploratory visit to Nova Scotia
+[s047] You travel to Nova Scotia for an exploratory visit if you are acquiring an existing business.
+[s048] Submit an Expression of Interest (EOI)
+[s049] You file your Expression of Interest with the Government of Nova Scotia.
+[s050] Receive an Invitation to Apply (ITA) and submit your application
+[s051] Once you are invited to apply, you complete your formal application to the province.
+[s052] Provincial interview
+[s053] You attend an interview with the Government of Nova Scotia, in person or online as requested.
+[s054] Sign the business performance agreement
+[s055] When your application is approved, you sign the business performance agreement with the province and apply for your work permit.
+[s056] Move to Canada to invest and run your business
+[s057] You receive your work permit, move to Nova Scotia, make the investment, and run the business.
+[s058] Report your business results
+[s059] Once you have operated the business as required, you submit your report to the province to apply for a nomination.
+[s060] Apply for permanent residence
+[s061] Once you are nominated, you file your permanent residence application with the Canadian federal government.
+[s062] View all projects
+[s063] You may also be interested in
+[s064] You may also be interested in
+[s065] Explore IMM Group's advisory services:
+[s066] Compare Canada's investment immigration programs
+[s067] Prince Edward Island (PEI)
+[s068] Ontario
+[s069] British Columbia
+[s070] New Brunswick
+[s071] Saskatchewan
+[s072] Manitoba
+[s073] Understanding Canada
+[s074] IMM Group's resource hub brings together practical information on the following topics:
+[s075] Living in Canada
+[s076] Education in Canada
+[s077] Canadian culture
+[s078] Working and doing business in Canada
+[s079] Welfare, benefits and social insurance in Canada
+[s080] Travel in Canada
+[s081] Healthcare in Canada
+[s082] Real estate in Canada
+[s083] Inspiring Canadian immigration journeys
+[s084] Frequently asked questions about Nova Scotia
+[s085] Is a work permit the same as permanent residence?
+[s086] Is a work permit the same as permanent residence?
+[s087] No. A work permit gives you temporary permission to live and work in Canada. You must complete your investment, business operating and residency commitments before you can apply for permanent residence.
+[s088] Do I have to run the business myself?
+[s089] Do I have to run the business myself?
+[s090] Yes. You must take part directly in managing and operating the business in Nova Scotia. An advisory firm can help with the business plan, but it cannot run the business on your behalf.
+[s091] Is an exploratory visit to Nova Scotia mandatory?
+[s092] Is an exploratory visit to Nova Scotia mandatory?
+[s093] An exploratory visit is required if you are acquiring an existing business. It is an important step for assessing the business model and preparing your investment plan.
+[s094] Does my family have to live in Nova Scotia?
+[s095] Does my family have to live in Nova Scotia?
+[s096] Before you hold permanent residence, you and your family are expected to settle in the province you applied to and to honor your residence and business commitments.
+[s097] Can we live in another province once we have permanent residence?
+[s098] Can we live in another province once we have permanent residence?
+[s099] Once you hold Canadian permanent residence, you and your family are free to live and work in any province.
+[s100] What are the main risks of the program?
+[s101] What are the main risks of the program?
+[s102] Risk usually comes from a business plan that is not viable, failing to operate the business as committed, failing to create or maintain the required jobs, or weak documentation of your finances.
+[s103] Who is Nova Scotia right for?
+[s104] Who is Nova Scotia right for?
+[s105] It suits experienced business owners and senior managers who want to run a business in Canada themselves, at an investment level that is more accessible than in many of Canada's larger provinces.

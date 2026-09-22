@@ -242,3 +242,58 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
   (tool báo lỗi và không ghi gì nếu một dòng không khớp chỗ nào).
 - **Dịch loạt nhiều trang cùng chủ đầu tư:** nạp bộ nhớ dịch sau mỗi trang thì trang sau tự lấp 50–70% đoạn
   (Síp: 26 → 94 đoạn khớp). Khối "chủ đầu tư", "lộ trình PR", "lợi thế PR" gần như giống hệt nhau.
+- **Tệp export ACF có thể là của TRANG TIẾNG VIỆT (học 22/09/2026, việc Ontario):** `nguon.json` ghi `"lang": "vi"`
+  và `post_id` của **bài Việt**. `moi` và `ghep` **không cảnh báo** (chỉ cảnh báo khi *thiếu* `post_id`) ⇒ nếu team
+  import vào post_id đó thì **bản Anh ghi đè trang Việt đang chạy**. Sau mỗi `moi`, đọc trường `lang`; thấy `vi` thì
+  ghi chú bàn giao phải yêu cầu team export lại JSON của **trang tiếng Anh** (WPML nhân bản → "Translate
+  independently" → Tools → Dịch trang ACF) để lấy đúng post_id.
+- **Trang chương trình ĐÃ ĐÓNG: đổi thời động từ, đừng dịch sát thời hiện tại.** Nguồn thường viết như chương trình
+  đang mở dù chính nó nói đã đóng ⇒ dịch sát là để nhà đầu tư hiểu còn nộp được (rủi ro tuân thủ). Cách đã được cả B5
+  và B6 xác nhận đọc tự nhiên: **quá khứ** cho điều kiện/quyền lợi/quy trình · **hiện tại** cho thông báo đã đóng, dữ
+  kiện về nước đó, và quyền của thường trú nhân · **tiêu đề mục để dạng danh từ** cho khỏi phải chọn thời. Nhớ kiểm lại
+  gợi ý TM 100% vì nó mang thời cũ ("why investors **choose**" → "chose"). Nêu quyết định này ở đầu báo cáo để CEO đảo
+  lại được trong một lượt.
+- **Chữ "Closed" trong meta title là LỢI THẾ SEO:** đối thủ 2026 đặt hẳn "OINP Entrepreneur Stream Closed:
+  Alternatives" vì người tìm đang hỏi chương trình còn mở không (đúng mẫu Ireland). Ghi thẳng trạng thái vào
+  `meta_title` và trả lời ngay trong 150 chữ đầu.
+- **Thuật ngữ Canada (bổ sung bài học PEI):** **"social programs"/"social benefits"**, KHÔNG dùng **"Social Security"**
+  (định chế Mỹ) — TM gợi ý "Welfare, benefits and Social Security in the U.S." ở mức 89% và sửa thành "…in Canada" thì
+  **vẫn sai**; **province** không phải "state"; **net worth** không phải "total assets"; **security deposit** (đặt cọc
+  với tỉnh bang) ≠ **escrow account** (ký quỹ EB-5). Bài học này đã nằm trong `seo/tu-khoa-thi-truong.md` ⇒ **đọc file
+  từ khoá trước khi chốt nhãn liên kết**, đừng chỉ dựa vào cửa 0 (cửa 0 không bắt được loại lỗi này).
+- **Trong Cowork, `tukhoa` và `tygia` bị chặn mạng ở CẢ HAI phía** (shell máy CEO trả `403 Forbidden` qua tunnel;
+  container cloud `curl` tới suggestqueries.google.com / open.er-api.com trả rỗng). Chỉ `WebSearch` chạy được ⇒ xếp
+  hạng từ khoá theo **tiêu đề 20 kết quả đầu**, ghi tay `ty-gia.json` (nêu rõ nguồn), và ghi giới hạn này vào brief +
+  báo cáo. `bash cong-cu/dong-bo-bo-nho.sh` **luôn ĐỎ trong Cowork** vì `~/.claude/projects/<đường-dẫn>/memory` nằm
+  ngoài thư mục được nối và đường dẫn dự án khác nhau giữa các máy (`/Users/mac/...` vs `/Users/kiennh23/...`) —
+  **đừng sửa script cho nó xanh**; ghi memory + bài học vào bản local trong repo (`bo-nho/`) rồi để phiên Claude Code
+  chạy trong thư mục dự án đẩy lên.
+- **Dòng thuật ngữ riêng của MỘT tỉnh bang phải khoá kèm tên tỉnh bang đó (học 22/09/2026, việc Manitoba):** dòng
+  `ngoài khu vực trung tâm` → `outside Regina and Saskatoon` viết từ việc Saskatchewan báo nhầm sang trang Manitoba
+  (Manitoba chia theo **Manitoba Capital Region**, không phải hai CMA Regina/Saskatoon). Cách sửa đúng là **thu hẹp
+  khoá** thành `ngoài khu vực trung tâm (Saskatchewan)`, không phải nới lỏng bộ kiểm. Mọi cụm tiếng Việt chung chung
+  ("khu vực trung tâm", "thang điểm", "mức vốn tối thiểu") mà bản Anh phụ thuộc tỉnh bang đều phải khoá như vậy.
+- **Mẫu từ khoá cho 6 trang tỉnh bang Canada đã dịch:** từ khoá chính = **tên chính thức của diện doanh nhân tỉnh
+  bang đó** (Ontario Entrepreneur Stream · BC PNP Entrepreneur Immigration · New Brunswick Business Immigration
+  Stream · Prince Edward Island Entrepreneur Program · Manitoba Entrepreneur Pathway), viết tắt chương trình
+  (MPNP/OINP/SINP/NBPNP/BC PNP) luôn nằm trong bộ từ khoá phụ. Dùng lại mẫu này cho tỉnh bang tiếp theo.
+- **Manitoba không giống các PNP khác ở tên bước hồ sơ:** sau EOI, Manitoba phát **Letter of Advice to Apply (LAA)**,
+  không phải ITA. Nguồn Việt viết "ITA" ⇒ **giữ đúng nguồn** + đưa lên mục CEO quyết (luật dự án mục 5), đừng tự sửa
+  — nhưng nhớ nêu, vì người trong ngành sẽ nhận ra ngay.
+- **Bộ nhớ dịch cho CHỮ, không cho BỐI CẢNH (học 22/09/2026, việc Nova Scotia — dạng bẫy TM thứ hai):** khi đã dịch
+  nhiều trang cùng template, gợi ý TM 85–100% có thể **đúng nước, đúng chủ đề, nhưng sai bối cảnh**. Ba dạng đã dính
+  trong một việc: (1) **sai thì** — TM trả câu của **Ontario** (chương trình ĐÃ ĐÓNG nên viết quá khứ: "The stream
+  **was designed**…", "Investors **had to run**…", "…**were assessed**") cho một trang Nova Scotia **đang mở**;
+  (2) **sai tên bước** — TM trả câu của **British Columbia** ("Submit your **registration** (EOI)" trong khi Nova
+  Scotia dùng EOI; "Move to **BC** to invest…"); (3) **sai tên tài liệu** theo tỉnh bang. ⇒ **Trước khi đọc gợi ý TM,
+  kiểm chương trình còn mở hay đã đóng**, rồi soi từng gợi ý `TM 100%` về **thì động từ · tên tỉnh bang · tên bước hồ
+  sơ**. Tuyệt đối không `dien --tm100` mù cho trang dùng template `content-product-2026`.
+- **Nova Scotia dùng "Business Performance Agreement" CÓ chữ "business" và viết hoa**, khác British Columbia chỉ gọi
+  "performance agreement". Dòng CSV cũ của B.C. ghi `business performance agreement (sai)` sẽ báo nhầm ⇒ **tách thành
+  hai dòng khoá kèm tên tỉnh bang** (đúng cách đã học ở việc Manitoba: thu hẹp khoá, không nới lỏng bộ kiểm).
+- **Ranh giới địa lý chia mức vốn: nguồn Việt viết trống, bản Anh phải viết đủ.** Nova Scotia chia theo
+  **Halifax Regional Municipality (HRM)** — rộng hơn thành phố Halifax, gồm Dartmouth, Bedford, Sackville; Manitoba
+  chia theo **Manitoba Capital Region**; Saskatchewan theo **Regina và Saskatoon**. Nguồn Việt chỉ viết "trong/ngoài
+  Halifax" ⇒ thân bài viết đủ **Halifax Regional Municipality (HRM)** ở lần đầu (nếu không nhà đầu tư ở Dartmouth
+  hiểu nhầm mình thuộc mức vốn thấp hơn), nhưng **meta description vẫn để chữ "Halifax"** vì người tìm gõ như vậy.
+  Ghi việc viết đủ này vào mục "làm rõ thêm so với nguồn" của báo cáo.

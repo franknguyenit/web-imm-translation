@@ -1,0 +1,495 @@
+[
+    {
+        "post_id": 1060,
+        "post_slug": "/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-188b/",
+        "post_title": "Visa Úc diện đầu tư 188B",
+        "lang": "vi",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "VISA ÚC DIỆN ĐẦU TƯ <span class=\"accent\">188B</span>"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99307",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "Visa 188B là gì?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Visa 188B là diện Đầu tư dành cho nhà đầu tư có kinh nghiệm kinh doanh hoặc đầu tư và năng lực tài chính cao.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Nhà đầu tư cần đầu tư tối thiểu 2.500.000 AUD vào các quỹ đầu tư hợp lệ tại Úc.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Khoản đầu tư cần được duy trì đến khi được cấp visa thường trú 888B, sớm nhất sau 3 năm.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Vợ/chồng và con dưới 23 tuổi có thể đi cùng hồ sơ.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Chương trình hiện đã đóng với hồ sơ mới từ 31/07/2024; nội dung này phù hợp để tham khảo cho hồ sơ đã nộp hoặc lộ trình 888B tiếp theo.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI KHI THAM GIA VISA 188B",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Cả gia đình cùng đi",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Vợ/chồng và con dưới 23 tuổi được cấp visa đi cùng đương đơn."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "home_work",
+                    "product_benefits_item_title": "Sinh sống tại Úc",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Cả gia đình được sinh sống, học tập, làm việc và kinh doanh tại Úc trong thời hạn visa."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Con học tại Úc",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Con được học trường công đến hết lớp 12 theo chính sách của từng bang."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "sync_alt",
+                    "product_benefits_item_title": "Linh hoạt đi lại",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Được tự do đi lại giữa Việt Nam và Úc trong thời hạn visa."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "card_membership",
+                    "product_benefits_item_title": "Hướng tới thường trú 888B",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Có thể xin visa thường trú 888B khi đáp ứng điều kiện đầu tư và cư trú."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM VISA 188B",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "business_center",
+                    "product_advantages_item_title": "Không cần vận hành doanh nghiệp tại Úc",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Nhà đầu tư thực hiện đầu tư qua quỹ hợp lệ, không bắt buộc trực tiếp điều hành doanh nghiệp."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "trending_up",
+                    "product_advantages_item_title": "Có lãi từ khoản đầu tư",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Nhà đầu tư có thể nhận lãi từ quỹ đầu tư theo thực tế vận hành của quỹ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "supervisor_account",
+                    "product_advantages_item_title": "Vợ/chồng có thể thay vai trò chính",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Khi xin visa 888B, vợ/chồng đi cùng hồ sơ có thể thay đương đơn chính để hoàn thành một số điều kiện theo quy định."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "route",
+                    "product_advantages_item_title": "Lộ trình thường trú rõ ràng",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Sau khi duy trì khoản đầu tư và đáp ứng điều kiện cư trú, nhà đầu tư có thể xin thường trú 888B."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "account_balance_wallet",
+                    "product_advantages_item_title": "Phù hợp với nhà đầu tư tài chính",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Dành cho người có năng lực tài chính cao, có kinh nghiệm đầu tư hoặc kinh doanh nhưng không muốn trực tiếp vận hành doanh nghiệp tại Úc."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN THAM GIA 188B",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện đương đơn",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 18–55 tuổi."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Có kinh nghiệm kinh doanh hoặc đầu tư."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Tổng tài sản tối thiểu 2.500.000 AUD."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đạt tối thiểu 65 điểm trong Thang điểm Di trú Úc."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Được một tỉnh bang Úc bảo lãnh."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "work",
+                    "product_conditions_item_title": "Điều kiện kinh nghiệm",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Sở hữu tối thiểu 10% vốn trong công ty đang hoạt động và trực tiếp điều hành tối thiểu 3 năm; hoặc"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh đang vận hành khoản đầu tư tương đương 2.500.000 AUD và có phát sinh lợi nhuận trong tối thiểu 3 năm tài chính."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Điều kiện đầu tư tại Úc",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đầu tư tối thiểu 2.500.000 AUD vào các quỹ đầu tư hợp lệ theo quy định của Chính phủ Úc."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Duy trì khoản đầu tư đến khi được cấp visa thường trú 888B."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "donut_large",
+                    "product_conditions_item_title": "Cơ cấu phân bổ khoản đầu tư",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Tối thiểu 500.000 AUD vào quỹ đầu tư mạo hiểm và cổ phần tư nhân."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Tối thiểu 750.000 AUD vào quỹ đầu tư vào các công ty mới trên sàn chứng khoán Úc."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Tối thiểu 1.250.000 AUD vào quỹ đầu tư cân bằng."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH XIN VISA 188B",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Thẩm định và chuẩn bị hồ sơ",
+                    "product_process_step_desc": "Đánh giá điều kiện đương đơn, tài sản, kinh nghiệm đầu tư và khả năng đạt điểm di trú.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "approval",
+                    "product_process_step_title": "Xin bảo lãnh bang",
+                    "product_process_step_desc": "Chuẩn bị hồ sơ và nộp xin bảo lãnh từ tỉnh bang phù hợp.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Nộp hồ sơ visa 188B",
+                    "product_process_step_desc": "Sau khi có bảo lãnh bang, tiến hành nộp hồ sơ xin visa 188B.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "payments",
+                    "product_process_step_title": "Thực hiện đầu tư khi được yêu cầu",
+                    "product_process_step_desc": "Nhà đầu tư chuyển vốn vào các quỹ hợp lệ theo yêu cầu trước khi được cấp visa.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "account_balance",
+                    "product_process_step_title": "Duy trì khoản đầu tư",
+                    "product_process_step_desc": "Duy trì khoản đầu tư theo quy định để đáp ứng điều kiện lên thường trú 888B.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "how_to_reg",
+                    "product_process_step_title": "Nộp hồ sơ xin visa 888B",
+                    "product_process_step_desc": "Sau khi đáp ứng điều kiện đầu tư và cư trú, nhà đầu tư nộp hồ sơ xin thường trú 888B.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "Có thể bạn quan tâm",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "Có thể bạn quan tâm",
+            "product_care_service_desc": "<p>Tìm hiểu các dịch vụ tư vấn từ IMM Group:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Đầu tư định cư Úc",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Úc diện doanh nhân 188A",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-doanh-nhan-188a/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Úc diện đầu tư trọng yếu 188C",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-trong-yeu-188c/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Úc diện doanh nhân 888A",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-doanh-nhan-888a/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Úc diện đầu tư 888B",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-trai-phieu-888b/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Úc diện đầu tư trọng yếu 888C",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-trong-yeu-888c/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Úc diện National Innovation Visa (NIV)",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/dinh-cu-uc-dien-national-innovation-visa-niv/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Hiểu về nước Úc",
+            "product_care_topics_desc": "<p>Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Cuộc sống tại Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Thuế Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Kinh doanh tại Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Giáo dục tại Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Trợ cấp, phúc lợi, an sinh xã hội Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Du lịch Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Những người Việt thành công trên đất Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n6",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Những câu chuyện định cư Úc truyền cảm hứng",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n7",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Câu hỏi thường gặp về Visa 188B",
+            "product_faq_section_id": "faq-188b",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Visa 188B hiện còn nhận hồ sơ mới không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Trạng thái chương trình",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không. Chương trình subclass 188 đã đóng với hồ sơ mới từ 31/07/2024. Hồ sơ đã nộp trước thời điểm này vẫn được xử lý theo quy định."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "188B có cần trực tiếp kinh doanh tại Úc không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Hình thức đầu tư",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không. 188B là diện đầu tư qua quỹ hợp lệ, không yêu cầu nhà đầu tư trực tiếp vận hành doanh nghiệp tại Úc."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có cần chứng minh nguồn tiền không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Nguồn tiền",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có. Nhà đầu tư cần chứng minh nguồn tiền và tài sản hợp pháp, minh bạch."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có yêu cầu tiếng Anh không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Tiếng Anh",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Tiếng Anh không phải điều kiện bắt buộc để nộp hồ sơ, nhưng tiếng Anh tốt có thể giúp cộng điểm và giảm chi phí bảo trợ ngoại ngữ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Cần cư trú bao lâu để xin 888B?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cư trú",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Đương đơn cần đáp ứng điều kiện cư trú theo quy định trước khi nộp hồ sơ xin visa thường trú 888B."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Vợ/chồng có thể thay đương đơn chính khi lên 888B không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Vai trò vợ/chồng",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có thể, nếu vợ/chồng đi kèm visa 188B và đáp ứng điều kiện theo quy định."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Rủi ro chính của 188B là gì?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Rủi ro chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Rủi ro nằm ở khả năng chứng minh tài sản, nguồn tiền, kinh nghiệm đầu tư và việc duy trì khoản đầu tư hợp lệ theo đúng yêu cầu."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    }
+]

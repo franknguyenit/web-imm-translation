@@ -1,0 +1,742 @@
+[
+    {
+        "post_id": 25246,
+        "post_slug": "/dau-tu-dinh-cu-canada/dinh-cu-canada-dao-hoang-tu-edward-pei/",
+        "post_title": "Prince Edward Island (PEI) Entrepreneur Program – Canada",
+        "lang": "vi",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "<span class=\"accent\">Canada</span> Business Immigration<br>Prince Edward Island Entrepreneur Program"
+            },
+            "product_hero_video": "https://videopress.com/v/ayJN4ozh?hd=1",
+            "product_hero_image": "99325",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is the Prince Edward Island Entrepreneur Program?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The Prince Edward Island Entrepreneur Program is a Canadian permanent residence pathway for business owners and senior managers who invest in and personally run a business in Prince Edward Island (PEI).",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Who it is for:</strong> business owners and senior managers.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Family included:</strong> your spouse and children under 22.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Investment:</strong> from C$150,000 (approximately US$107,000; taxes and fees not included).",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "The cost of living is lower than in many other provinces, with good schools, a steady job market and striking natural surroundings.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Benefits of settling in Prince Edward Island",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Your whole family relocates with you",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Live, study and work freely in Prince Edward Island."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Free public schooling for your children, all the way through",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Public school is free through the end of secondary school."
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Domestic tuition rates at university once your family holds permanent residence (PR)."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "card_membership",
+                    "product_benefits_item_title": "An opportunity to obtain permanent residence",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Once you have met your commitments to the province, your family gains the status of Canadian permanent residents, with access to health care, social benefits and education."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "A path to Canadian citizenship",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "After obtaining PR and meeting the residence, tax and language requirements, you may apply for Canadian citizenship."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Why investors choose this program",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "school",
+                    "product_advantages_item_title": "Modest education requirement",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "A secondary school diploma or higher is all that is required."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "Reasonable investment level",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "From C$150,000."
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "One of the lower thresholds among Canada's provincial entrepreneur programs."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "home_work",
+                    "product_advantages_item_title": "No mandatory exploratory visit",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Saves time and cost before you file."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "trending_up",
+                    "product_advantages_item_title": "Attainable Expression of Interest (EOI) scores",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "PEI is among the provinces with lower EOI selection scores across Canada's provincial nominee programs."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "No profit or job creation requirement",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Your Canadian business is not required to turn a profit or create jobs."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "savings",
+                    "product_advantages_item_title": "Affordable cost of living",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "A high quality of life, with prices below those of many other Canadian provinces."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "PEI Entrepreneur Program requirements",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Age and education",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Aged 21–59, with a secondary school diploma or higher."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "business_center",
+                    "product_conditions_item_title": "Management experience",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Business owner or senior manager for at least 3 of the past 5 years."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "account_balance_wallet",
+                    "product_conditions_item_title": "Finances and language",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "A minimum total net worth of C$600,000 (approximately US$428,000), and English at a level equivalent to IELTS General Training 4.0."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Investment requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Invest at least C$150,000 in a business in Prince Edward Island."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "lightbulb",
+                    "product_conditions_item_title": "Business plan and operations",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "A viable business plan that delivers economic benefit to the province, and at least 12 months operating the business in PEI."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "verified_user",
+                    "product_conditions_item_title": "Documentation requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Clear the required security background and medical checks."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "How the process works",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Assessment and file preparation",
+                    "product_process_step_desc": "We assess your eligibility, then prepare your file to the program's requirements.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Submit your EOI",
+                    "product_process_step_desc": "File an Expression of Interest with the Government of Prince Edward Island.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "mark_email_read",
+                    "product_process_step_title": "Receive an ITA and file your application",
+                    "product_process_step_desc": "Once the province issues an Invitation to Apply (ITA), you submit the formal application.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "record_voice_over",
+                    "product_process_step_title": "Provincial interview",
+                    "product_process_step_desc": "Attend an interview with the Government of Prince Edward Island.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "badge",
+                    "product_process_step_title": "Receive the letter of support for your work permit",
+                    "product_process_step_desc": "The province issues a letter of support for your work permit application.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "flight_takeoff",
+                    "product_process_step_title": "Move to Canada, invest and run your business",
+                    "product_process_step_desc": "With the work permit issued, you move to Canada to make the investment and operate your business in PEI.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "how_to_reg",
+                    "product_process_step_title": "Apply for permanent residence",
+                    "product_process_step_desc": "After 12 months of operating the business, you apply for Canadian permanent residence.<br><em>Note: Timelines at each step depend on your file and on provincial rules.</em>",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "You may also be interested in",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "You may also be interested in",
+            "product_care_service_desc": "<p>Explore IMM Group's advisory services:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Compare Canada's investment immigration programs",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Ontario",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-ontario/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "British Columbia",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-british-columbia-bc/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "New Brunswick",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-dien-doanh-nhan-new-brunswick/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Saskatchewan",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-saskatchewan/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Manitoba",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-manioba/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Nova Scotia",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-nova-scotia/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Understanding Canada",
+            "product_care_topics_desc": "<p>IMM Group's resource hub brings together practical information on the following topics:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Living in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Education in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Canadian culture",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Working and doing business in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Welfare, benefits and social security in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Travel in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Health care in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n6",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Real estate in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n7",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Inspiring Canadian immigration journeys",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n8",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Frequently asked questions about the PEI program",
+            "product_faq_section_id": "faq-pei",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "What are the investment risks?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Three main areas of risk",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "<strong>Operating risk:</strong> a business plan that is not viable or not clearly thought through, leaving the file short of the requirements for permanent residence."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "<strong>Application risk:</strong> inaccurate information, an inability to document management experience, or a criminal conviction on the applicant's record."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "<strong>Advisor selection risk:</strong> choosing a firm without real experience documenting source of funds."
+                                }
+                            ],
+                            "product_faq_item_section_note": "IMM Group vets and assesses each file carefully before taking it on, to reduce these risks. Please note: investing in and personally running a business carries risk; obtaining PR depends on how the business performs and on the province's decision."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Does IMM help with the business plan and operations?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "IMM advises — it does not run the business for you",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group and our partners help investors build the business plan: from the assessment and scoring stage onward, we advise on the business model and concept best positioned to support a work permit application."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Under the rules, the investor must personally manage and operate the business to qualify for permanent residence — IMM cannot operate it on your behalf."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM and our partners in Canada work alongside you, advising and supplying the information you need to meet the requirements for your PR application."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What is a work permit and what does it allow?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The work permit — temporary residence in Canada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "A work permit is a <strong>temporary</strong> right to reside in Canada, issued after roughly 12–24 months of processing — it is not yet permanent residence (PR)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "With a work permit, your whole family can live, work, do business and send the children to school, but <strong>only in the province where you applied</strong>."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The permit runs for a maximum of 2 years; it must be renewed, and you then apply for PR once you qualify."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Family members",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The investor, spouse and children under 22."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Your spouse may also be eligible to work."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Children attend school free from primary through the end of secondary school."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Must you live in the province where you applied?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Residence tied to the province where you applied",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Until permanent residence is granted, the investor must remain with the business in the province where the application was filed."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The applicant must spend at least <strong>75% of the total time the work permit is held</strong> living in that province."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Your home must be near the business (Ontario and B.C., for example, require it to be within 100 km)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Your spouse may not work in a different province on this work permit."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Under no circumstances should the family move elsewhere on their own to live, study, work or do business."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How long is the work permit, and how is it renewed?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Work permit duration and renewal conditions",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Work permits under investor streams usually run for <strong>up to 2 years</strong> (in some cases 12–18 months)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "They can be renewed if you can show that the business is operating, that it has created jobs for Canadian permanent residents or citizens (depending on the province), and that tax filings are up to date."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Typically, after 12–20 months of operation (depending on the province), an investor who meets the conditions can already file for permanent residence."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "While the application is pending, the province issues a <strong>letter of support</strong> that allows the family to remain in Canada (usually 12–18 months)."
+                                }
+                            ],
+                            "product_faq_item_section_note": "The exact rules depend on the province and on the regulations in force."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What is the minimum time you must live in Canada?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Residence requirements for permanent residence",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Most provincial entrepreneur programs that issue a work permit require the investor and family to live in Canada roughly <strong>9 months a year</strong> to qualify for permanent residence."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "This applies to the principal applicant and to the dependents on the application — meaning the whole family must actually settle in Canada."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Time spent by the applicant and by the spouse <strong>cannot</strong> be added together."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What rights come with permanent residence?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Rights of a Canadian permanent resident",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Your family can live and work in any province in Canada."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "As permanent residents, you have access to health care, social benefits and education."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "You can sponsor your parents (an application with a waiting period; while it is pending, parents may apply for a long-stay family visitor visa)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Once you hold PR, you may also close the business you committed to and open a new one."
+                                }
+                            ],
+                            "product_faq_item_section_note": "The program does not require you to keep the original business indefinitely."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the citizenship requirements, and what about tax?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Canadian citizenship requirements",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Permanent resident status, held over a 5-year qualifying period."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Physically present in Canada for at least 3 of the 5 years before you file."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tax filings in Canada for at least 3 of the 5 years."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Language ability at <strong>Canadian Language Benchmark (CLB) 4</strong> or above."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Pass the citizenship test on the rights and responsibilities of citizenship and on knowledge of Canada."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "No criminal convictions inside or outside Canada."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Citizenship processing takes about 1 year."
+                        },
+                        {
+                            "product_faq_item_section_heading": "On tax",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Assets built up <strong>before you become a permanent resident</strong> and brought to Canada are generally not subject to Canadian income tax."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Assets and income arising <strong>after you become a permanent resident</strong> must be declared and taxed under Canadian law."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Under the regulations currently in force."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Where can the investment funds come from?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Source of funds requirements",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The program requires proof of the source of funds for your investment. The review runs to several layers and is demanding, so investors should choose an experienced, reputable immigration lawyer or consultant."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The investor and spouse must declare all assets and document the origin of their income <strong>at the time the application is filed</strong>."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Differences between provinces",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "<strong>PEI:</strong> gifted funds are not accepted."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "<strong>Quebec:</strong> gifted funds must have been given at least 6 months earlier."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "<strong>B.C. and Ontario:</strong> accepted (the person making the gift must document the source of the gifted funds)."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Investment funds are transferred to Canada only once the investor holds the work permit."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the English and age requirements?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "English language requirements",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Two common provincial options — B.C. and Ontario — award points on the initial application for an <strong>IELTS General Training score of 4.0 or above</strong>."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "You may file initially without providing an IELTS result."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "By the time you prepare the permanent residence application, you must take the IELTS and reach at least <strong>CLB 4</strong>."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Age",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "These programs generally do not set an age limit (only a few provinces do)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The investor need only demonstrate business capability and meet the medical requirements."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Which dependents can come with you?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Rules on dependent children",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "A dependent child can be included if they are <strong>under 22</strong> (21 or younger, not yet 22) and unmarried."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Age is locked in at the date the province receives the complete nomination application (after the ITA is issued)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "A child over 22 can still come along if they are in full-time study or postgraduate study, unmarried and financially dependent — more generous than the rules in Australia or the United States."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Adopted children and stepchildren",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Adopted children are accepted only in humanitarian cases (orphans, children from war zones or disaster areas, children rescued from abuse)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Adoption is not accepted where the child is the applicant's own niece or nephew, where the birth parents can still work, or where the adoption is arranged solely for immigration purposes."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Stepchildren of both the investor and the spouse are accepted."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can you file 2 applications in 2 provinces?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Technically possible, but not advisable",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Technically, an investor can file 2 applications with 2 different provinces at the same time."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "This is <strong>not advisable:</strong> each provincial program requires the applicant to commit to living, working and contributing in the province they have chosen."
+                                }
+                            ],
+                            "product_faq_item_section_note": "If a province discovers that an investor has 2 applications running at once, both can be refused."
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        },
+        "seo": {
+            "meta_title": "Prince Edward Island Entrepreneur Program | IMM Group",
+            "meta_description": "The Prince Edward Island Entrepreneur Program offers Canadian permanent residence from C$150,000. See the PEI requirements and book a consultation.",
+            "slug": "prince-edward-island-entrepreneur-program"
+        }
+    }
+]

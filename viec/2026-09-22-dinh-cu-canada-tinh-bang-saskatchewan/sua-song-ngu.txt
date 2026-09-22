@@ -1,0 +1,3 @@
+[s031] A business in Regina or Saskatoon had to create or maintain at least 2 jobs for Canadian citizens or permanent residents.
+[s042] Creation or maintenance of at least 2 jobs for Canadian citizens or permanent residents if the business was in Regina or Saskatoon.
+[s077] Welfare, benefits and social insurance in Canada

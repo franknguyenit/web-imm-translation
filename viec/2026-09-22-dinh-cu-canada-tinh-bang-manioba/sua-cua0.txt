@@ -1,0 +1,7 @@
+[s025] Only 1 job to create or maintain
+[s026] Your Manitoba business must create or maintain at least 1 job for a Canadian citizen or permanent resident.
+[s030] A high school diploma.
+[s038] Hands-on operation of the business, creating or maintaining at least 1 job for a Canadian citizen or permanent resident.
+[s091] Do I have to prove my source of funds?
+[s092] Do I have to prove my source of funds
+[s093] Yes. You must document a lawful source of funds and show that your assets are legitimate and fully traceable. Eligible assets can include real estate, business assets, savings, and shares or stock.

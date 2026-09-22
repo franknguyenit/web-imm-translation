@@ -1,0 +1,108 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	tieu-de	Visa Úc diện doanh nhân 188A	Australia 188A Business Innovation Visa			post_title
+s002	h1	VISA ÚC DIỆN DOANH NHÂN {1}188A{/1}	Australia {1}188A{/1} Business Innovation Visa			acf.product_hero_title.product_hero_title_content#1
+s003	h3	Visa 188A là gì?	What is the 188A visa?	87%: What is the L-1A visa?		acf.product_hero_content[0].product_hero_content_title
+s004	li	Visa 188A là diện Doanh nhân đổi mới, dành cho nhà đầu tư có kinh nghiệm kinh doanh muốn mở mới, mua lại hoặc nhượng quyền doanh nghiệp tại Úc.	The 188A Business Innovation visa was the Business Innovation stream of Australia's Business Innovation and Investment Program, for experienced business owners establishing, acquiring, or franchising a business in Australia.			acf.product_hero_content[0].product_hero_content_text[0].product_hero_content_text_item
+s005	li	Mức đầu tư từ 300.000 AUD, tùy yêu cầu từng bang.	The investment requirement started at A$300,000 and varied with the requirements of each state or territory.			acf.product_hero_content[0].product_hero_content_text[1].product_hero_content_text_item
+s006	li	Vợ/chồng và con dưới 23 tuổi có thể đi cùng hồ sơ.	A spouse or partner and children under 23 could be included in the same application.	98%: Your spouse and children under 22 can be included in the same application.		acf.product_hero_content[0].product_hero_content_text[2].product_hero_content_text_item
+s007	li	Visa 188A là visa tạm trú, có lộ trình lên thường trú 888A khi đáp ứng điều kiện kinh doanh và cư trú.	The 188A is a provisional visa with a pathway to the 888A permanent visa once the business and residence requirements are met.			acf.product_hero_content[0].product_hero_content_text[3].product_hero_content_text_item
+s008	li	Chương trình hiện đã đóng với hồ sơ mới từ 31/07/2024; nội dung này phù hợp để tham khảo cho hồ sơ đã nộp hoặc lộ trình 888A tiếp theo.	The program closed permanently to new applications on July 31, 2024. This page is a reference for applications already lodged and for the 888A stage that follows.		"#bo-qua-so: ngày 31/07/2024 viết theo lối Mỹ ""July 31, 2024"" nên bản Anh không còn số 7 đứng riêng"	acf.product_hero_content[0].product_hero_content_text[4].product_hero_content_text_item
+s009	cta	Đăng ký tư vấn	Book a consultation	100%: Book a consultation		acf.product_hero_cta[0].product_hero_cta_label
+s010	h2	QUYỀN LỢI KHI THAM GIA VISA 188A	Benefits of the 188A visa			acf.product_benefits_title
+s011	h3	Cả gia đình được cấp visa	Visas for the whole family			acf.product_benefits_items[0].product_benefits_item_title
+s012	li	Vợ/chồng và con dưới 23 tuổi được cấp visa đi cùng đương đơn.	A spouse or partner and children under 23 are granted visas alongside the main applicant.	87%: Your spouse and children under 21 receive green cards alongside you.		acf.product_benefits_items[0].product_benefits_item_bullets[0].product_benefits_item_bullet_text
+s013	h3	Con học tại Úc	Schooling in Australia	85%: U.S. schooling for your children		acf.product_benefits_items[1].product_benefits_item_title
+s014	li	Con được học trường công đến hết lớp 12; chính sách học phí tùy bang.	Children can attend public school through Year 12, with fee policies set by each state or territory.			acf.product_benefits_items[1].product_benefits_item_bullets[0].product_benefits_item_bullet_text
+s015	h3	Linh hoạt đi lại	Flexible travel			acf.product_benefits_items[2].product_benefits_item_title
+s016	li	Được tự do đi lại giữa Việt Nam và Úc trong thời hạn visa.	Visa holders can travel freely between Australia and their home country while the visa is valid.			acf.product_benefits_items[2].product_benefits_item_bullets[0].product_benefits_item_bullet_text
+s017	h3	Hướng tới thường trú 888A	A pathway to 888A permanent residence			acf.product_benefits_items[3].product_benefits_item_title
+s018	li	Có thể xin thường trú vĩnh viễn 888A khi đáp ứng điều kiện kinh doanh và cư trú.	Holders can apply for the 888A permanent visa once the business and residence requirements are met.			acf.product_benefits_items[3].product_benefits_item_bullets[0].product_benefits_item_bullet_text
+s019	h2	ƯU ĐIỂM VISA 188A	Advantages of the 188A visa	88%: Advantages of the L-1A visa		acf.product_advantages_title
+s020	h3	Tự sở hữu và điều hành doanh nghiệp	Ownership and hands-on management			acf.product_advantages_items[0].product_advantages_item_title
+s021	li	Nhà đầu tư trực tiếp vận hành doanh nghiệp tại Úc.	The investor runs the Australian business directly.	85%: Hands-on, day-to-day management of the business in BC.		acf.product_advantages_items[0].product_advantages_item_bullets[0].product_advantages_item_bullet_text
+s022	h3	Linh hoạt mô hình kinh doanh	Flexible choice of business	89%: Flexible choice of business		acf.product_advantages_items[1].product_advantages_item_title
+s023	li	Có thể mở mới, mua lại hoặc nhượng quyền doanh nghiệp.	The business can be newly established, acquired, or operated under a franchise.			acf.product_advantages_items[1].product_advantages_item_bullets[0].product_advantages_item_bullet_text
+s024	h3	Chủ động phát triển kinh doanh	Full control over how the business grows			acf.product_advantages_items[2].product_advantages_item_title
+s025	li	Nhà đầu tư có quyền chủ động trong vận hành, nhân sự và định hướng phát triển doanh nghiệp.	The investor decides how the business is run, who it hires, and the direction it takes.			acf.product_advantages_items[2].product_advantages_item_bullets[0].product_advantages_item_bullet_text
+s026	h3	Mức đầu tư dễ tiếp cận	An accessible level of investment			acf.product_advantages_items[3].product_advantages_item_title
+s027	li	Mức đầu tư từ 300.000 AUD, thuộc nhóm thấp trong các diện doanh nhân và đầu tư Úc.	With a threshold from A$300,000, the investment requirement was among the lowest of Australia's business and investor visa streams.			acf.product_advantages_items[3].product_advantages_item_bullets[0].product_advantages_item_bullet_text
+s028	h3	Vợ/chồng có thể hỗ trợ lộ trình	A spouse can help meet the requirements			acf.product_advantages_items[4].product_advantages_item_title
+s029	li	Vợ/chồng có thể thay đương đơn chính hoàn thành một số điều kiện kinh doanh và cư trú theo quy định.	Under the rules, a spouse or partner can meet some of the business and residence requirements in place of the main applicant.			acf.product_advantages_items[4].product_advantages_item_bullets[0].product_advantages_item_bullet_text
+s030	h2	ĐIỀU KIỆN THAM GIA 188A	Who could apply for the 188A visa	87%: Who can apply		acf.product_conditions_title
+s031	h3	Điều kiện đương đơn	Applicant requirements	100%: Applicant requirements		acf.product_conditions_items[0].product_conditions_item_title
+s032	li	Từ 18–55 tuổi.	Aged 18–55.	85%: Aged 19–59		acf.product_conditions_items[0].product_conditions_item_bullets[0].product_conditions_item_bullet_text
+s033	li	Đạt tối thiểu 65 điểm theo Thang điểm Di trú Úc.	A score of at least 65 points on the points test.	96%: Scores at least 65 points on the province's selection factor grid.		acf.product_conditions_items[0].product_conditions_item_bullets[1].product_conditions_item_bullet_text
+s034	li	Tổng tài sản tối thiểu 1.250.000 AUD.	Total net worth in business and personal assets of at least A$1,250,000.	91%: A minimum net worth of C$500,000.		acf.product_conditions_items[0].product_conditions_item_bullets[2].product_conditions_item_bullet_text
+s035	li	Là chủ doanh nghiệp hoặc cổ đông có tham gia quản lý.	Ownership of a business, or a shareholding carrying an active management role.			acf.product_conditions_items[0].product_conditions_item_bullets[3].product_conditions_item_bullet_text
+s036	li	Có kinh nghiệm kinh doanh thành công tại Việt Nam.	A track record of running a successful business in the applicant's home country.			acf.product_conditions_items[0].product_conditions_item_bullets[4].product_conditions_item_bullet_text
+s037	li	Được một tỉnh bang Úc bảo lãnh.	Nomination by an Australian state or territory.			acf.product_conditions_items[0].product_conditions_item_bullets[5].product_conditions_item_bullet_text
+s038	h3	Điều kiện doanh nghiệp tại Việt Nam	Requirements for the existing business			acf.product_conditions_items[1].product_conditions_item_title
+s039	li	Sở hữu tối thiểu 30% vốn trong doanh nghiệp.	At least a 30% ownership stake in the business.			acf.product_conditions_items[1].product_conditions_item_bullets[0].product_conditions_item_bullet_text
+s040	li	Trực tiếp điều hành doanh nghiệp tối thiểu 3 năm.	At least 3 years of direct management of that business.			acf.product_conditions_items[1].product_conditions_item_bullets[1].product_conditions_item_bullet_text
+s041	li	Doanh thu tối thiểu 750.000 AUD/năm trong 2 trên 4 năm tài chính gần nhất.	Annual turnover of at least A$750,000 in 2 of the 4 most recent fiscal years.			acf.product_conditions_items[1].product_conditions_item_bullets[2].product_conditions_item_bullet_text
+s042	h3	Điều kiện đầu tư tại Úc	Requirements for the Australian business			acf.product_conditions_items[2].product_conditions_item_title
+s043	li	Thành lập mới, mua lại hoặc nhượng quyền doanh nghiệp tại Úc.	Establish, acquire, or franchise a business in Australia.			acf.product_conditions_items[2].product_conditions_item_bullets[0].product_conditions_item_bullet_text
+s044	li	Trực tiếp quản lý và vận hành doanh nghiệp.	Manage and run that business directly.			acf.product_conditions_items[2].product_conditions_item_bullets[1].product_conditions_item_bullet_text
+s045	li	Sở hữu tối thiểu 30% vốn trong doanh nghiệp tại Úc.	Hold at least a 30% ownership stake in the Australian business.			acf.product_conditions_items[2].product_conditions_item_bullets[2].product_conditions_item_bullet_text
+s046	li	Mức đầu tư từ 300.000 AUD, tùy bang.	Invest from A$300,000, depending on the state or territory.			acf.product_conditions_items[2].product_conditions_item_bullets[3].product_conditions_item_bullet_text
+s047	h2	QUY TRÌNH XIN VISA 188A	The 188A application process	91%: The L-1A visa application process		acf.product_process_title
+s048	h3	Thẩm định và chuẩn bị hồ sơ	Assessment and case preparation	100%: Assessment and case preparation		acf.product_process_steps[0].product_process_step_title
+s049	p	Đánh giá điều kiện đương đơn, doanh nghiệp, tài sản và khả năng đạt điểm di trú.	Review of the applicant's profile, business, assets, and likely score on the points test.			acf.product_process_steps[0].product_process_step_desc
+s050	h3	Xin bảo lãnh bang	State or territory nomination			acf.product_process_steps[1].product_process_step_title
+s051	p	Chuẩn bị kế hoạch kinh doanh và nộp hồ sơ xin bảo lãnh từ tỉnh bang phù hợp.	Preparing a business plan and applying for nomination from a suitable state or territory.			acf.product_process_steps[1].product_process_step_desc
+s052	h3	Nộp hồ sơ visa 188A	Lodging the 188A application			acf.product_process_steps[2].product_process_step_title
+s053	p	Sau khi có bảo lãnh bang, tiến hành nộp hồ sơ xin visa 188A.	Once a state or territory nomination was granted, the 188A visa application was lodged.			acf.product_process_steps[2].product_process_step_desc
+s054	h3	Nhận chấp thuận hồ sơ	Approval of the application	85%: Receive pre-approval		acf.product_process_steps[3].product_process_step_title
+s055	p	Hồ sơ được xét duyệt theo quy định của Bộ Di trú Úc.	The Department of Home Affairs assessed the application against the visa criteria.			acf.product_process_steps[3].product_process_step_desc
+s056	h3	Khám sức khỏe	Health examinations			acf.product_process_steps[4].product_process_step_title
+s057	p	Đương đơn và gia đình thực hiện kiểm tra sức khỏe theo yêu cầu.	The applicant and accompanying family members completed the required health examinations.			acf.product_process_steps[4].product_process_step_desc
+s058	h3	Nhận visa 188A	Grant of the 188A visa			acf.product_process_steps[5].product_process_step_title
+s059	p	Gia đình được cấp visa tạm trú 188A nếu hồ sơ được chấp thuận.	If the application was approved, the family was granted the 188A provisional visa.			acf.product_process_steps[5].product_process_step_desc
+s060	h3	Sang Úc kinh doanh	Moving to Australia to run the business			acf.product_process_steps[6].product_process_step_title
+s061	p	Nhà đầu tư sang Úc triển khai đầu tư, vận hành doanh nghiệp và chuẩn bị lộ trình lên 888A.	The investor moves to Australia, puts the investment to work, runs the business, and prepares the pathway to the 888A permanent visa.			acf.product_process_steps[6].product_process_step_desc
+s062	cta	Xem tất cả dự án	View all projects	100%: View all projects		acf.product_projects_cta_label
+s063	h2	Có thể bạn quan tâm	You may also be interested in	100%: You may also be interested in		acf.product_care_title
+s064	h3	Có thể bạn quan tâm	You may also be interested in	100%: You may also be interested in	trung:s063	acf.product_care_service_title
+s065	p	Tìm hiểu các dịch vụ tư vấn từ IMM Group:	Explore IMM Group's advisory services:	100%: Explore IMM Group's advisory services:		acf.product_care_service_desc#1
+s066	li	Đầu tư định cư Úc	Australia investment immigration	100%: Australia investment immigration		acf.product_care_service_links[0].product_care_service_link_title
+s067	li	Visa Úc diện đầu tư 188B	Australia 188B Investor visa			acf.product_care_service_links[1].product_care_service_link_title
+s068	li	Visa Úc diện đầu tư trọng yếu 188C	Australia 188C Significant Investor visa			acf.product_care_service_links[2].product_care_service_link_title
+s069	li	Visa Úc diện doanh nhân 888A	Australia 888A Business Innovation visa			acf.product_care_service_links[3].product_care_service_link_title
+s070	li	Visa Úc diện đầu tư 888B	Australia 888B Investor visa			acf.product_care_service_links[4].product_care_service_link_title
+s071	li	Visa Úc diện đầu tư trọng yếu 888C	Australia 888C Significant Investor visa			acf.product_care_service_links[5].product_care_service_link_title
+s072	li	Visa Úc diện National Innovation Visa (NIV)	Australia National Innovation visa (NIV)			acf.product_care_service_links[6].product_care_service_link_title
+s073	h3	Hiểu về nước Úc	Understanding Australia	86%: Understanding America		acf.product_care_topics_title
+s074	p	Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:	IMM Group's resource hub brings together practical information on the following topics:	100%: IMM Group's resource hub brings together practical information on the following topics:		acf.product_care_topics_desc#1
+s075	li	Cuộc sống tại Úc	Living in Australia	87%: Living in the U.S.		acf.product_care_topics_links[0].product_care_topics_link_title
+s076	li	Thuế Úc	Taxes in Australia			acf.product_care_topics_links[1].product_care_topics_link_title
+s077	li	Kinh doanh tại Úc	Doing business in Australia	88%: Doing business in the U.S.		acf.product_care_topics_links[2].product_care_topics_link_title
+s078	li	Giáo dục tại Úc	Education in Australia	86%: Education in the U.S.		acf.product_care_topics_links[3].product_care_topics_link_title
+s079	li	Trợ cấp, phúc lợi, an sinh xã hội Úc	Allowances, benefits and social programs in Australia	94%: Welfare, benefits and Social Security in the U.S.		acf.product_care_topics_links[4].product_care_topics_link_title
+s080	li	Du lịch Úc	Travel in Australia			acf.product_care_topics_links[5].product_care_topics_link_title
+s081	li	Những người Việt thành công trên đất Úc	Immigrant success stories in Australia	94%: Immigrant success stories in the U.S.		acf.product_care_topics_links[6].product_care_topics_link_title
+s082	li	Những câu chuyện định cư Úc truyền cảm hứng	Inspiring Australian immigration journeys	95%: Inspiring U.S. immigration journeys		acf.product_care_topics_links[7].product_care_topics_link_title
+s083	h2	Câu hỏi thường gặp về Visa 188A	188A visa FAQs	93%: L-1A visa FAQs		acf.product_faq_title
+s084	h4	Visa 188A hiện còn nhận hồ sơ mới không?	Is the 188A visa still open to new applications?			acf.product_faq_items[0].product_faq_item_question
+s085	p	Trạng thái chương trình	Program status	100%: Program status		acf.product_faq_items[0].product_faq_item_sections[0].product_faq_item_section_heading
+s086	li	Không. Chương trình subclass 188 đã đóng với hồ sơ mới từ 31/07/2024. Các hồ sơ đã nộp trước thời điểm này vẫn tiếp tục được xử lý theo quy định.	No. The subclass 188 program closed permanently to new applications on July 31, 2024. Applications lodged before that date continue to be processed under the rules in force.		"#bo-qua-so: ngày 31/07/2024 viết theo lối Mỹ ""July 31, 2024"" nên bản Anh không còn số 7 đứng riêng"	acf.product_faq_items[0].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s087	h4	Cần bao nhiêu điểm di trú?	How many points were required?			acf.product_faq_items[1].product_faq_item_question
+s088	p	Điểm di trú	Points test			acf.product_faq_items[1].product_faq_item_sections[0].product_faq_item_section_heading
+s089	li	Đương đơn cần đạt tối thiểu 65 điểm. Điểm được tính theo tuổi, tiếng Anh, bằng cấp, kinh nghiệm, tài chính, doanh thu và các yếu tố liên quan.	Applicants needed at least 65 points. The score was calculated from age, English language ability, qualifications, experience, financial position, business turnover, and related factors.			acf.product_faq_items[1].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s090	h4	Có cần chứng minh nguồn tiền không?	Was proof of source of funds required?	100%: Do I have to prove my source of funds?		acf.product_faq_items[2].product_faq_item_question
+s091	p	Nguồn tiền	Source of funds	100%: Source of funds		acf.product_faq_items[2].product_faq_item_sections[0].product_faq_item_section_heading
+s092	li	Có. Nhà đầu tư cần chứng minh nguồn tiền và tài sản hợp pháp, minh bạch.	Yes. Investors had to document a lawful and transparent source of funds and show how their assets had been accumulated.			acf.product_faq_items[2].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s093	h4	Tài sản nào có thể dùng để chứng minh tài chính?	Which assets counted toward the financial requirement?			acf.product_faq_items[3].product_faq_item_question
+s094	p	Tài sản chứng minh	Eligible assets			acf.product_faq_items[3].product_faq_item_sections[0].product_faq_item_section_heading
+s095	li	Có thể dùng bất động sản, tài sản doanh nghiệp, sổ tiết kiệm, cổ phần hoặc tài sản đứng tên đương đơn/vợ/chồng.	Real estate, business assets, savings accounts, shareholdings, and assets held in the name of the applicant or their spouse or partner could all be counted.			acf.product_faq_items[3].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s096	h4	Có thể thay đổi kế hoạch kinh doanh tại Úc không?	Can the business plan change after arrival in Australia?			acf.product_faq_items[4].product_faq_item_question
+s097	p	Kế hoạch kinh doanh	Business plan	90%: Develop a business plan		acf.product_faq_items[4].product_faq_item_sections[0].product_faq_item_section_heading
+s098	li	Có thể thay đổi trong giai đoạn đầu nếu phù hợp thực tế. Tuy nhiên, doanh nghiệp cần ổn định và đáp ứng điều kiện khi xin thường trú 888A.	Adjustments are possible in the early stage where commercial circumstances call for them. The business still has to be stable and meet the requirements when the 888A permanent visa application is made.			acf.product_faq_items[4].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s099	h4	Con đi kèm đến bao nhiêu tuổi?	Up to what age could children be included?			acf.product_faq_items[5].product_faq_item_question
+s100	p	Người phụ thuộc	Dependents	100%: Dependents		acf.product_faq_items[5].product_faq_item_sections[0].product_faq_item_section_heading
+s101	li	Con dưới 23 tuổi có thể đi cùng hồ sơ theo điều kiện của chương trình.	Children under 23 could be included in the application, subject to the program's conditions.			acf.product_faq_items[5].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s102	h4	Visa 188A có Medicare không?	Does the 188A visa include Medicare?			acf.product_faq_items[6].product_faq_item_question
+s103	p	Medicare	Medicare			acf.product_faq_items[6].product_faq_item_sections[0].product_faq_item_section_heading
+s104	li	Visa 188A là visa tạm trú, thường cần bảo hiểm y tế tự túc. Medicare áp dụng khi đủ điều kiện theo diện thường trú.	The 188A is a provisional visa, so private health insurance is normally required. Medicare eligibility comes with permanent residence.			acf.product_faq_items[6].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text
+s105	h4	Khi nào có thể xin 888A?	When can the 888A application be made?			acf.product_faq_items[7].product_faq_item_question
+s106	p	Lộ trình 888A	Pathway to 888A			acf.product_faq_items[7].product_faq_item_sections[0].product_faq_item_section_heading
+s107	li	Có thể xin 888A khi doanh nghiệp tại Úc đáp ứng điều kiện hoạt động, doanh thu, sở hữu và cư trú theo quy định.	The 888A application can be made once the Australian business meets the required trading, turnover, ownership, and residence conditions.			acf.product_faq_items[7].product_faq_item_sections[0].product_faq_item_section_bullets[0].product_faq_item_section_bullet_text

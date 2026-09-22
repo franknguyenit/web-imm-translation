@@ -1,0 +1,504 @@
+[
+    {
+        "post_id": 1066,
+        "post_slug": "/dau-tu-dinh-cu-uc/visa-uc-dien-doanh-nhan-188a/",
+        "post_title": "Australia 188A Business Innovation Visa",
+        "lang": "vi",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "Australia <span class=\"accent\">188A</span> Business Innovation Visa"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99304",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is the 188A visa?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The 188A Business Innovation visa was the Business Innovation stream of Australia's Business Innovation and Investment Program, for experienced business owners establishing, acquiring, or franchising a business in Australia.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "The investment requirement started at A$300,000 and varied with the requirements of each state or territory.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "A spouse or partner and children under 23 could be included in the same application.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "The 188A is a provisional visa with a pathway to the 888A permanent visa once the business and residence requirements are met.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "The program closed permanently to new applications on July 31, 2024. This page is a reference for applications already lodged and for the 888A stage that follows.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Benefits of the 188A visa",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Visas for the whole family",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "A spouse or partner and children under 23 are granted visas alongside the main applicant."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Schooling in Australia",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Children can attend public school through Year 12, with fee policies set by each state or territory."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "sync_alt",
+                    "product_benefits_item_title": "Flexible travel",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Visa holders can travel freely between Australia and their home country while the visa is valid."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "card_membership",
+                    "product_benefits_item_title": "A pathway to 888A permanent residence",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Holders can apply for the 888A permanent visa once the business and residence requirements are met."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Advantages of the 188A visa",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "business_center",
+                    "product_advantages_item_title": "Ownership and hands-on management",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "The investor runs the Australian business directly."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "storefront",
+                    "product_advantages_item_title": "Flexible choice of business",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "The business can be newly established, acquired, or operated under a franchise."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "trending_up",
+                    "product_advantages_item_title": "Full control over how the business grows",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "The investor decides how the business is run, who it hires, and the direction it takes."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "An accessible level of investment",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "With a threshold from A$300,000, the investment requirement was among the lowest of Australia's business and investor visa streams."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "supervisor_account",
+                    "product_advantages_item_title": "A spouse can help meet the requirements",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Under the rules, a spouse or partner can meet some of the business and residence requirements in place of the main applicant."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Who could apply for the 188A visa",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Applicant requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Aged 18–55."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "A score of at least 65 points on the points test."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Total net worth in business and personal assets of at least A$1,250,000."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Ownership of a business, or a shareholding carrying an active management role."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "A track record of running a successful business in the applicant's home country."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Nomination by an Australian state or territory."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "business",
+                    "product_conditions_item_title": "Requirements for the existing business",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "At least a 30% ownership stake in the business."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "At least 3 years of direct management of that business."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Annual turnover of at least A$750,000 in 2 of the 4 most recent fiscal years."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Requirements for the Australian business",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Establish, acquire, or franchise a business in Australia."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Manage and run that business directly."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Hold at least a 30% ownership stake in the Australian business."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Invest from A$300,000, depending on the state or territory."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "The 188A application process",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Assessment and case preparation",
+                    "product_process_step_desc": "Review of the applicant's profile, business, assets, and likely score on the points test.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "approval",
+                    "product_process_step_title": "State or territory nomination",
+                    "product_process_step_desc": "Preparing a business plan and applying for nomination from a suitable state or territory.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Lodging the 188A application",
+                    "product_process_step_desc": "Once a state or territory nomination was granted, the 188A visa application was lodged.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "mark_email_read",
+                    "product_process_step_title": "Approval of the application",
+                    "product_process_step_desc": "The Department of Home Affairs assessed the application against the visa criteria.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "health_and_safety",
+                    "product_process_step_title": "Health examinations",
+                    "product_process_step_desc": "The applicant and accompanying family members completed the required health examinations.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "card_membership",
+                    "product_process_step_title": "Grant of the 188A visa",
+                    "product_process_step_desc": "If the application was approved, the family was granted the 188A provisional visa.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "flight_takeoff",
+                    "product_process_step_title": "Moving to Australia to run the business",
+                    "product_process_step_desc": "The investor moves to Australia, puts the investment to work, runs the business, and prepares the pathway to the 888A permanent visa.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "You may also be interested in",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "You may also be interested in",
+            "product_care_service_desc": "<p>Explore IMM Group's advisory services:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Australia investment immigration",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Australia 188B Investor visa",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-188b/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Australia 188C Significant Investor visa",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-trong-yeu-188c/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Australia 888A Business Innovation visa",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-doanh-nhan-888a/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Australia 888B Investor visa",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-trai-phieu-888b/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Australia 888C Significant Investor visa",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-trong-yeu-888c/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Australia National Innovation visa (NIV)",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/dinh-cu-uc-dien-national-innovation-visa-niv/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Understanding Australia",
+            "product_care_topics_desc": "<p>IMM Group's resource hub brings together practical information on the following topics:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Living in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Taxes in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Doing business in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Education in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Allowances, benefits and social programs in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Travel in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Immigrant success stories in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n6",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Inspiring Australian immigration journeys",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n7",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "188A visa FAQs",
+            "product_faq_section_id": "faq-188a",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Is the 188A visa still open to new applications?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Program status",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No. The subclass 188 program closed permanently to new applications on July 31, 2024. Applications lodged before that date continue to be processed under the rules in force."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How many points were required?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Points test",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Applicants needed at least 65 points. The score was calculated from age, English language ability, qualifications, experience, financial position, business turnover, and related factors."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Was proof of source of funds required?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Source of funds",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Yes. Investors had to document a lawful and transparent source of funds and show how their assets had been accumulated."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Which assets counted toward the financial requirement?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Eligible assets",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Real estate, business assets, savings accounts, shareholdings, and assets held in the name of the applicant or their spouse or partner could all be counted."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can the business plan change after arrival in Australia?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Business plan",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Adjustments are possible in the early stage where commercial circumstances call for them. The business still has to be stable and meet the requirements when the 888A permanent visa application is made."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Up to what age could children be included?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Dependents",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Children under 23 could be included in the application, subject to the program's conditions."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Does the 188A visa include Medicare?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Medicare",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The 188A is a provisional visa, so private health insurance is normally required. Medicare eligibility comes with permanent residence."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "When can the 888A application be made?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Pathway to 888A",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The 888A application can be made once the Australian business meets the required trading, turnover, ownership, and residence conditions."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        },
+        "seo": {
+            "meta_title": "188A Business Innovation Visa: Closed | IMM Group",
+            "meta_description": "The 188A Business Innovation visa closed to new applications on July 31, 2024. See the requirements, the 888A pathway, and what to do next.",
+            "slug": "australia-188a-business-innovation-visa"
+        }
+    }
+]

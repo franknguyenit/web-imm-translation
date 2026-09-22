@@ -1,0 +1,490 @@
+[
+    {
+        "post_id": 89082,
+        "post_slug": "/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-nova-scotia/",
+        "post_title": "Định cư Canada tỉnh bang Nova Scotia",
+        "lang": "vi",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "ĐỊNH CƯ CANADA DIỆN DOANH NHÂN<br>TỈNH BANG <span class=\"accent\">NOVA SCOTIA</span>"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99344",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "CHƯƠNG TRÌNH DOANH NHÂN NOVA SCOTIA LÀ GÌ?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Chương trình dành cho chủ doanh nghiệp hoặc quản lý cấp cao muốn đầu tư, thành lập hoặc mua lại doanh nghiệp tại Nova Scotia.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Nhà đầu tư cần trực tiếp vận hành doanh nghiệp tại tỉnh bang để đáp ứng điều kiện lên thường trú nhân Canada.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Vợ/chồng và con dưới 22 tuổi, còn độc thân, có thể đi cùng hồ sơ.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Mức đầu tư từ 100.000 CAD nếu kinh doanh ngoài Halifax, hoặc từ 150.000 CAD nếu kinh doanh trong Halifax.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Nova Scotia có chi phí sinh hoạt và giá nhà hợp lý hơn nhiều tỉnh bang lớn, đồng thời có lợi thế giao thương nhờ vị trí ven biển Đại Tây Dương.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI ĐỊNH CƯ NOVA SCOTIA",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Cả gia đình sang Nova Scotia",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Nhà đầu tư, vợ/chồng và con phụ thuộc được sinh sống, học tập và làm việc tại Nova Scotia trong giai đoạn Work Permit."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Con học tại Canada",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Con cái được học trường công miễn phí đến hết THPT; khi có thường trú nhân, có thể học đại học theo mức học phí dành cho người bản xứ."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "card_membership",
+                    "product_benefits_item_title": "Cơ hội trở thành thường trú nhân",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Sau khi hoàn thành cam kết với tỉnh bang, vận hành doanh nghiệp đủ điều kiện, gia đình có thể nộp hồ sơ xin thường trú nhân Canada."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "Lộ trình quốc tịch Canada",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Sau khi có PR và đáp ứng điều kiện cư trú, thuế, ngôn ngữ và lý lịch, gia đình có thể xét nộp hồ sơ nhập quốc tịch Canada."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM NỔI BẬT",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "Mức đầu tư từ 100.000 CAD",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Áp dụng khi mở mới hoặc mua lại doanh nghiệp ngoài khu vực Halifax."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Không yêu cầu lợi nhuận doanh nghiệp",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Doanh nghiệp tại Canada không bắt buộc phải có lợi nhuận ngay, nhưng cần vận hành thực tế và đáp ứng cam kết với tỉnh bang."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "calendar_month",
+                    "product_advantages_item_title": "Chi phí sống hợp lý",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Nova Scotia có chi phí sinh hoạt và giá nhà dễ tiếp cận hơn nhiều tỉnh bang lớn tại Canada."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "business_center",
+                    "product_advantages_item_title": "Môi trường sống phù hợp gia đình",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Tỉnh bang có hệ thống giáo dục, y tế và cộng đồng dân cư ổn định, phù hợp với kế hoạch định cư dài hạn."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "savings",
+                    "product_advantages_item_title": "Lợi thế giao thương quốc tế",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Vị trí ven Đại Tây Dương giúp Nova Scotia kết nối thuận lợi với Hoa Kỳ, châu Âu và các thị trường quốc tế."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Điều kiện chương trình",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "wallet",
+                    "product_conditions_item_title": "Yêu cầu tài sản",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Tài sản tối thiểu 600.000 CAD nếu kinh doanh trong khu vực Halifax."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Tài sản tối thiểu 400.000 CAD nếu kinh doanh ngoài khu vực Halifax."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Yêu cầu đương đơn chính",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Trong vòng 10 năm gần nhất,  là chủ doanh nghiệp và điều hành doanh nghiệp trong tối thiểu 3 năm; hoặc là quản lý cấp cao trong tối thiểu 5 năm."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Thỏa điều kiện ngoại ngữ - CLB 5 của tiếng Anh hoặc tiếng Pháp (tương đương IELTS 5.0)"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Yêu cầu đầu tư",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đầu tư tối thiểu 150.000 CAD nếu kinh doanh trong khu vực Halifax."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đầu tư tối thiểu 100.000 CAD nếu kinh doanh ngoài khu vực Halifax."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Có kế hoạch kinh doanh khả thi, mang lại lợi ích kinh tế cho tỉnh bang."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Vận hành doanh nghiệp tối thiểu 12 tháng để đủ điều kiện nộp hồ sơ PR."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Nếu mở doanh nghiệp mới, tạo tối thiểu 1 việc làm toàn thời gian cho người dân Canada; nếu mua lại doanh nghiệp, cần duy trì việc làm hiện có."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH HỒ SƠ NOVA SCOTIA",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Thẩm định và chuẩn bị hồ sơ",
+                    "product_process_step_desc": "Đánh giá điều kiện đương đơn, tài sản, kinh nghiệm quản lý và khả năng phù hợp với chương trình.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "travel_explore",
+                    "product_process_step_title": "Khảo sát Nova Scotia",
+                    "product_process_step_desc": "Sang Nova Scotia khảo sát nếu mua lại doanh nghiệp có sẵn.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Nộp EOI",
+                    "product_process_step_desc": "Nộp Thư bày tỏ nguyện vọng cho chính quyền tỉnh bang.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "mark_email_read",
+                    "product_process_step_title": "Nhận ITA và nộp hồ sơ",
+                    "product_process_step_desc": "Khi được mời nộp hồ sơ, nhà đầu tư hoàn tất hồ sơ chính thức.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "record_voice_over",
+                    "product_process_step_title": "Phỏng vấn tỉnh bang",
+                    "product_process_step_desc": "Tham dự phỏng vấn với chính quyền Nova Scotia, trực tiếp hoặc online theo yêu cầu.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "badge",
+                    "product_process_step_title": "Ký Business Performance Agreement",
+                    "product_process_step_desc": "Sau khi được chấp thuận, ký thỏa thuận kinh doanh với tỉnh bang và nộp hồ sơ xin Work Permit.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "flight_takeoff",
+                    "product_process_step_title": "Sang Canada đầu tư và vận hành doanh nghiệp",
+                    "product_process_step_desc": "Nhận Work Permit, sang Nova Scotia triển khai đầu tư và vận hành doanh nghiệp.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "how_to_reg",
+                    "product_process_step_title": "Báo cáo kết quả kinh doanh",
+                    "product_process_step_desc": "Sau khi vận hành đủ điều kiện, nộp báo cáo cho tỉnh bang để xin đề cử.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "assignment_turned_in",
+                    "product_process_step_title": "Nộp hồ sơ thường trú nhân",
+                    "product_process_step_desc": "Sau khi được đề cử, nộp hồ sơ xin PR lên chính quyền liên bang Canada.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "Có thể bạn quan tâm",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "Có thể bạn quan tâm",
+            "product_care_service_desc": "<p>Tìm hiểu các dịch vụ tư vấn từ IMM Group:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "So sánh các chương trình đầu tư định cư Canada",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Đảo hoàng tử PEI",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-dao-hoang-tu-edward-pei/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bang Ontario",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-ontario/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bang British Columbia",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-british-columbia-bc/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bang New Brunswick",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-dien-doanh-nhan-new-brunswick/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bang Saskatchewan",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-saskatchewan/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bang Manioba",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-manioba/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Hiểu về Canada",
+            "product_care_topics_desc": "<p>Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Cuộc sống tại Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Giáo dục tại Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Văn hóa Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Lao động / Kinh doanh tại Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Trợ cấp, phúc lợi, an sinh xã hội Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Du lịch Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Y tế tại Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n6",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Bất động sản Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n7",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Những câu chuyện định cư Canada truyền cảm hứng",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n8",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Câu hỏi thường gặp về Nova Scotia",
+            "product_faq_section_id": "faq-nova-scotia",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Work Permit có phải thường trú nhân không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Work Permit có phải thường trú nhân không",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không. Work Permit là quyền cư trú và làm việc tạm thời tại Canada. Nhà đầu tư cần hoàn thành cam kết đầu tư, vận hành doanh nghiệp và cư trú trước khi xin PR."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Nhà đầu tư có cần tự vận hành doanh nghiệp không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Nhà đầu tư có cần tự vận hành doanh nghiệp không",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có. Nhà đầu tư phải trực tiếp tham gia quản lý và vận hành doanh nghiệp tại Nova Scotia. Đơn vị tư vấn có thể hỗ trợ kế hoạch kinh doanh, nhưng không thể vận hành thay."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có bắt buộc khảo sát Nova Scotia không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Có bắt buộc khảo sát Nova Scotia không",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Việc khảo sát được yêu cầu nếu nhà đầu tư mua lại doanh nghiệp có sẵn. Đây là bước quan trọng để thẩm định mô hình kinh doanh và chuẩn bị kế hoạch đầu tư."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Gia đình có phải sống tại Nova Scotia không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Gia đình có phải sống tại Nova Scotia không",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Trước khi có PR, nhà đầu tư và gia đình cần gắn bó với tỉnh bang đã nộp hồ sơ và thực hiện đúng cam kết cư trú, kinh doanh."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Sau khi có PR có được sống ở tỉnh bang khác không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Sau khi có PR có được sống ở tỉnh bang khác không",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Khi đã có thường trú nhân Canada, gia đình có quyền sinh sống và làm việc tại bất kỳ tỉnh bang nào theo quyền của PR."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Rủi ro chính của chương trình là gì?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Rủi ro chính của chương trình là gì",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Rủi ro thường nằm ở kế hoạch kinh doanh không khả thi, không vận hành đúng cam kết, không tạo hoặc duy trì việc làm theo yêu cầu, hoặc hồ sơ chứng minh tài chính chưa chặt chẽ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Nova Scotia phù hợp với ai?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Nova Scotia phù hợp với ai",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Phù hợp với chủ doanh nghiệp hoặc quản lý cấp cao có kinh nghiệm, muốn trực tiếp vận hành doanh nghiệp tại Canada với mức đầu tư dễ tiếp cận hơn nhiều tỉnh bang lớn."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    }
+]

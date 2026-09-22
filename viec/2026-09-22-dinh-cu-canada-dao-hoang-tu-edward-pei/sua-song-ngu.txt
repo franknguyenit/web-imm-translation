@@ -1,0 +1,4 @@
+[s173] Technically, an investor can file 2 applications with 2 different provinces at the same time.
+[s175] If a province discovers that an investor has 2 applications running at once, both can be refused.
+[s004] A Canadian permanent residence pathway for business owners and senior managers who invest in and run a business in Prince Edward Island (PEI).
+[s047] Meets background and medical requirements.

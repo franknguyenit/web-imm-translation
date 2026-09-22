@@ -1,0 +1,7 @@
+# Soát song ngữ — 2026-09-22-dinh-cu-canada-tinh-bang-saskatchewan
+
+- s031 · Thuật ngữ lệch bảng: "tạo mới hoặc duy trì ít nhất 2 việc làm cho người dân Canada" dịch thành "at least 2 jobs for Canadian workers". Bảng thuat-ngu.csv (dòng "người dân Canada") đã chốt dùng "Canadian citizen or permanent resident" / "Canadian citizens and permanent residents" cho đúng điều kiện tạo việc làm của PNP Canada, và ghi rõ lý do "dịch 'Canadian people' là mơ hồ". "Canadian workers" mắc lại đúng kiểu mơ hồ đó (không loại trừ lao động nước ngoài diện tạm trú) — ảnh hưởng độ chính xác pháp lý của điều kiện. · VỪA
+- s042 · Cùng lỗi thuật ngữ như s031 ("Creation or maintenance of at least 2 jobs for Canadian workers") — nên sửa đồng bộ cả hai dòng. · VỪA
+- s077 · "Trợ cấp, phúc lợi, an sinh xã hội Canada" dịch thành "Allowances, benefits and social programs in Canada", trong khi gợi ý bộ nhớ dịch (TM 100%) là "Welfare, benefits and social insurance in Canada" — nhãn liên kết này lặp lại giống hệt trên các trang tỉnh bang Canada khác (Ontario, BC, New Brunswick, Manitoba…) trỏ cùng một trang đích; đổi cách viết ở riêng trang Saskatchewan có thể làm nhãn liên kết không đồng nhất giữa các trang. · NHẸ
+
+Không tìm thấy lỗi sai nghĩa, sót ý, thêm ý ngoài nguồn, sai số liệu/ngày tháng/tên mẫu đơn/tên cơ quan, hay lời hứa vượt nguồn ở các đoạn còn lại. Hai đoạn s088 và s100 (ghi chú "File mẫu PEI cũng…") đã được xử lý đúng theo chủ ý đã biết trước — không tính là lỗi.

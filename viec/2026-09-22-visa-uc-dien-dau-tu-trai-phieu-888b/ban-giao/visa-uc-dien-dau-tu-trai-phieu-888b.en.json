@@ -1,0 +1,451 @@
+[
+    {
+        "post_id": 1062,
+        "post_slug": "/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-trai-phieu-888b/",
+        "post_title": "Australia 888B Investor Visa",
+        "lang": "vi",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "Australia <span class=\"accent\">888B</span> Investor Visa"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99318",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is the 888B visa?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The 888B Investor visa is Australia's permanent residence visa for investors who already hold a 188B visa.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "To move from the 188B provisional visa to 888B permanent residence, investors have to keep the complying investment in place and meet the residence requirement.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "A spouse or partner and dependent children can be granted the visa at the same time.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Once they hold permanent residence and meet the requirements, investors become eligible to apply for Australian citizenship.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "The 888B requires no additional investment once the transition requirements carried over from the 188B have been met.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Benefits of Australian permanent residence",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "home_work",
+                    "product_benefits_item_title": "Live and work in Australia",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "The whole family can live, study, work, and run a business in any state or territory of Australia."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "health_and_safety",
+                    "product_benefits_item_title": "Permanent resident benefits",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "The family is eligible for Medicare, education, and social security as Australian permanent residents."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "sync_alt",
+                    "product_benefits_item_title": "Freedom to travel in and out of Australia",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Permanent residents can enter and leave Australia freely while the travel facility on the permanent visa remains valid."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "A path to Australian citizenship",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Investors become eligible to apply for Australian citizenship once they meet the residence, language, and character requirements."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Advantages of the 888B visa",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "card_membership",
+                    "product_advantages_item_title": "From provisional to permanent",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "The 888B is the step from the 188B provisional visa to Australian permanent residence, available once the requirements are met."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "No further investment required",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "The 888B requires no additional investment once the transition requirements carried over from the 188B have been met."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "family_restroom",
+                    "product_advantages_item_title": "Visas for the whole family",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "A spouse or partner and dependent children can be granted permanent residence at the same time."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "route",
+                    "product_advantages_item_title": "A path to citizenship",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Once they hold permanent residence, investors become eligible to apply for Australian citizenship when they meet the requirements."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Requirements for moving from 188B to 888B",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "account_balance",
+                    "product_conditions_item_title": "Maintain the investment",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Maintain the A$2.5 million (approximately US$1.78 million) complying investment made under the 188B program."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "The investment has to be held for at least 3 years before the 888B is assessed."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "The thresholds are set in Australian dollars; any conversion into another currency is indicative only and moves with the exchange rate."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "calendar_month",
+                    "product_conditions_item_title": "Meet the residence requirement",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Live in Australia for at least 2 years in total within the 3 years before the 888B is granted."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "The period of residence can be counted for either the applicant or the spouse or partner, as the applicable rules allow."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "verified_user",
+                    "product_conditions_item_title": "Comply with Australian law",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Meet the character requirement, evidenced by a police clearance certificate."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "No involvement in criminal activity and no breaches of Australian law."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "The 888B application process",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "account_balance",
+                    "product_process_step_title": "Maintain the investment",
+                    "product_process_step_desc": "Keep the investment in place under the 188B program and complete any further investment or business requirements set by the state or territory.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Lodge the 888B application",
+                    "product_process_step_desc": "Assemble the evidence on the investment, residence, and character requirements, then lodge the 888B visa application.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "card_membership",
+                    "product_process_step_title": "Grant of 888B permanent residence",
+                    "product_process_step_desc": "Permanent residence is granted where the application meets the requirements. Processing times depend on the individual case and on the Department of Home Affairs.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "You may also be interested in",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "You may also be interested in",
+            "product_care_service_desc": "<p>Explore IMM Group's advisory services:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Australia investment immigration",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Australia 188A Business Innovation visa",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-doanh-nhan-188a/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Australia 188B Investor visa",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-188b/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Australia 188C Significant Investor visa",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-trong-yeu-188c/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Australia 888A Business Innovation visa",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-doanh-nhan-888a/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Australia 888C Significant Investor visa",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-trong-yeu-888c/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Australia National Innovation visa (NIV)",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/dinh-cu-uc-dien-national-innovation-visa-niv/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Understanding Australia",
+            "product_care_topics_desc": "<p>IMM Group's resource hub brings together practical information on the following topics:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Living in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Taxes in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Doing business in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Education in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Allowances, benefits and social programs in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Travel in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Immigrant success stories in Australia",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n6",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Inspiring Australian immigration journeys",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n7",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "888B visa FAQs",
+            "product_faq_section_id": "faq-888b",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "How is the 888B visa different from the 188B?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The difference between the 188B and the 888B",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The 188B is a provisional visa in the Investor stream. The 888B is the permanent visa, for investors who have maintained the investment and met the program's residence requirement."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the main requirements for the 888B?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Main requirements",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Investors have to maintain the A$2.5 million complying investment, live in Australia for at least 2 years in total within 3 years, and comply with Australian law."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do I have to prove my source of funds?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Source of funds",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Yes. Investors have to document a lawful and transparent source of funds. Assets commonly used include real estate, business assets, savings accounts, and shareholdings or listed shares."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is the investment at risk?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Investment risk",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Yes. The investment made under the 188B/888B program is an at-risk investment; returns and the recovery of capital depend on how the investment performs and on the terms of the fund."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can the capital be withdrawn after the 888B is granted?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Withdrawing the capital",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The capital can be withdrawn after the 888B application is approved, subject to the rules and the investment terms that apply at that time."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Who has to meet the residence requirement?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The residence requirement",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The residence requirement can be met by either the applicant or the spouse or partner. Time spent in Australia by the applicant and by the spouse or partner cannot be added together, and children are not required to meet it."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Does the 888B visa include Medicare?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Medicare",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Yes. Once 888B permanent residence is granted, the family is eligible for Medicare under the applicable rules. At the 188B stage, families normally need private health cover."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can I apply for Australian citizenship after the 888B?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "A path to citizenship",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Yes. Once they hold permanent residence and meet the residence, language, character, and citizenship test requirements, investors become eligible to apply for Australian citizenship."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        },
+        "seo": {
+            "meta_title": "Australia 888B Investor Visa: 188B to PR | IMM Group",
+            "meta_description": "The 888B Investor visa is the permanent residence step for 188B holders in Australia. See the investment and residence rules with IMM Group.",
+            "slug": "888b-investor-visa"
+        }
+    }
+]

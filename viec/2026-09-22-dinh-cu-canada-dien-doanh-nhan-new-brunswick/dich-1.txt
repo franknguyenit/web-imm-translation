@@ -1,0 +1,110 @@
+[s001] New Brunswick Business Immigration Stream
+[s002] Entrepreneur Immigration to Canada{br}{1}New Brunswick{/1} Business Immigration Stream
+[s003] What is the New Brunswick Business Immigration Stream?
+[s004] A Canadian permanent residence pathway for business owners and senior managers who want to invest in, start, or acquire a business in New Brunswick.
+[s005] You must run the business in the province yourself in order to qualify for a provincial nomination and move toward Canadian permanent residence.
+[s006] Your spouse and your children under 22 can be included in the same application.
+[s007|#bo-qua-so: thêm số USD quy đổi từ C$150,000 theo style guide mục 5] A minimum investment of C$150,000 (approximately US$107,000).
+[s008] New Brunswick is well placed for trade with the United States and Quebec, has a reasonable cost of living, and is home to several major universities and colleges.
+[s009] A recent update: the province now calls this the Business Immigration Stream, replacing the former Entrepreneurial Stream. Under the current rules, you can apply for a nomination once your business has operated for 6 continuous months, provided you meet the program conditions.
+[s010] Book a consultation
+[s011] Benefits of immigrating to New Brunswick
+[s012] Your whole family moves to New Brunswick
+[s013] You, your spouse, and your dependent children can live, study, and work in New Brunswick during the work permit stage.
+[s014] Your children study in Canada
+[s015] Children attend public school free of charge through the end of high school. Once the family holds permanent residence, they can attend university at domestic tuition rates.
+[s016] A pathway to permanent residence
+[s017] After you complete your investment commitment, operate the business, and meet the province's conditions, your family can apply for Canadian permanent residence.
+[s018] A route to Canadian citizenship
+[s019] Once you hold permanent residence and meet the residence, tax, language, and background requirements, your family can consider applying for Canadian citizenship.
+[s020] Why investors choose this program
+[s021|#bo-qua-so: mức C$150,000 đã quy đổi USD ở s007, tiêu đề không lặp lại số USD] An investment from C$150,000
+[s022] This is one of the more accessible investment levels among Canada's provincial entrepreneur programs.
+[s023] Nomination after 6 months of operation
+[s024] You can apply for a provincial nomination letter once you have run an eligible business for at least 6 months.
+[s025] No mandatory exploratory visit
+[s026] You are not required to make an exploratory visit to New Brunswick before you apply.
+[s027] A basic education requirement
+[s028] A high school diploma is enough.
+[s029] Basic English is enough
+[s030] The language requirement is English at a level equivalent to IELTS General Training 4.0.
+[s031] A reasonable cost of living
+[s032] New Brunswick has a lower cost of living and more affordable housing than many of Canada's larger provinces.
+[s033] Applicant requirements
+[s034] Aged 19–59.
+[s035] Has been a business owner or senior manager for at least 2 of the past 5 years.
+[s036] Holds a high school diploma or higher.
+[s037] Has English at a level equivalent to IELTS General Training 4.0.
+[s038|#bo-qua-so: thêm số USD quy đổi từ C$500,000 và C$300,000 theo style guide mục 5] Has a personal net worth of at least C$500,000 (approximately US$357,000), or C$300,000 (approximately US$214,000) if investing in agriculture.
+[s039] Scores at least 65 points on the province's immigration points grid.
+[s040] Meets background security and medical requirements.
+[s041] Investment requirements
+[s042] Invests at least C$150,000 in a business in New Brunswick.
+[s043] Presents a viable business plan that delivers economic benefit to the province.
+[s044] Runs the business in New Brunswick in person.
+[s045] Operates the business for at least 6 months to qualify for a provincial nomination letter.
+[s046] Creates at least 1 full-time job.
+[s047] The New Brunswick application process
+[s048] Assessment and file preparation
+[s049] We review your eligibility, net worth, management experience, English level, and overall fit with the program.
+[s050] Submit an Expression of Interest (EOI)
+[s051] You submit your Expression of Interest to the Government of New Brunswick.
+[s052] Receive an Invitation to Apply (ITA) and file your application
+[s053] Once you are invited to apply, you complete your formal application to the province.
+[s054] Provincial interview
+[s055] You attend an interview with the Government of New Brunswick.
+[s056] Receive the work permit support letter
+[s057] When your application is approved, the province issues a support letter that you use to apply for a work permit.
+[s058] Move to Canada, invest, and run the business
+[s059] You receive your work permit, move to New Brunswick, make the investment, and run the business yourself.
+[s060] Apply for the provincial nomination
+[s061] After at least 6 months of eligible business operation, you apply to the province for a nomination letter.
+[s062] Apply for permanent residence
+[s063] Once you are nominated, you file your permanent residence application with Immigration, Refugees and Citizenship Canada (IRCC).
+[s064] View all projects
+[s065] You may also be interested in
+[s066] You may also be interested in
+[s067] Explore IMM Group's advisory services:
+[s068] Compare Canada's investment immigration programs
+[s069] Prince Edward Island (PEI)
+[s070] Ontario
+[s071] British Columbia
+[s072] Saskatchewan
+[s073] Manitoba
+[s074] Nova Scotia
+[s075] Understanding Canada
+[s076] IMM Group's resource hub brings together practical information on the following topics:
+[s077] Living in Canada
+[s078] Education in Canada
+[s079] Canadian culture
+[s080] Working and doing business in Canada
+[s081] Welfare, benefits, and social security in Canada
+[s082] Travel in Canada
+[s083] Healthcare in Canada
+[s084] Real estate in Canada
+[s085] Inspiring Canadian immigration journeys
+[s086] Frequently asked questions about New Brunswick
+[s087] Is a work permit the same as permanent residence?
+[s088] Is a work permit the same as permanent residence
+[s089] No. A work permit gives you the temporary right to live and work in Canada. You need to complete your investment commitment, operate the business, and meet the residence conditions before you can apply for permanent residence.
+[s090] Do you have to run the business yourself?
+[s091] Do you have to run the business yourself
+[s092] Yes. You must manage and run the business in New Brunswick in person. IMM Group and our partners can support you with the business plan, but we cannot operate the business on your behalf.
+[s093] Is an exploratory visit to New Brunswick mandatory?
+[s094] Is an exploratory visit to New Brunswick mandatory
+[s095] An exploratory visit is not required before you apply. That said, visiting in person can help you understand the local market and prepare a stronger business plan.
+[s096] When can you apply for the provincial nomination?
+[s097] When can you apply for the provincial nomination
+[s098] You can apply for a nomination once you have operated your business in New Brunswick for at least 6 continuous months and met the program conditions.
+[s099] Does your family have to live in New Brunswick?
+[s100] Does your family have to live in New Brunswick
+[s101] Before you hold permanent residence, you and your family are expected to settle in the province you applied to and to honor your residence and business commitments.
+[s102] Can you live in another province once you hold permanent residence?
+[s103] Can you live in another province once you hold permanent residence
+[s104] Once you hold Canadian permanent residence, your family has the right to live and work in any province, as permanent residence allows.
+[s105] What are the main risks of the program?
+[s106] What are the main risks of the program
+[s107] The most common risks are a business plan that does not hold up, failing to operate the business as committed, not creating the required job, or weak documentation of your funds and management experience.
+[s108] Who is New Brunswick right for?
+[s109] Who is New Brunswick right for
+[s110|#bo-qua-so: thêm số USD quy đổi từ C$150,000 theo style guide mục 5] It suits experienced business owners and senior managers who want to run a business in Canada themselves, with an investment from C$150,000 and only a basic English requirement.
