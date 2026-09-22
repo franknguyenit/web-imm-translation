@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Bộ công cụ dịch web IMM Group (Việt -> Anh). Chỉ dùng thư viện chuẩn + bs4 + python-docx.
+"""Bộ công cụ dịch web IMM Group (Việt -> Anh). Chỉ dùng thư viện chuẩn + bs4 + python-docx (+ openpyxl cho lệnh ganlink).
 
 Lệnh:
   moi    <url|tệp> [--ten slug]   tạo thư mục việc, tách đoạn ra song-ngu.tsv, gợi ý từ bộ nhớ dịch
@@ -13,6 +13,10 @@ Lệnh:
   kiemtn                          kiểm bảng thuật ngữ (trùng, thiếu cột)
   xem    <thư-mục-việc> [--tu s001] [--den s150] [--anh]   in gọn nguồn (và bản Anh nếu --anh) để đọc/dịch
   dien   <thư-mục-việc> <tệp.txt>... [--tm100] [--trung]  điền bản dịch/bản sửa dạng "[s001] text" hoặc "[s008|#bo: lý do] [BO]"
+  ganlink <thư-mục-việc>... | --tat-ca   ghi link bản dịch trên GitHub vào lien-ket/ban-dich-vi-en.tsv
+         [--link <url trang gốc>] ép dòng cho MỘT việc khi slug không khớp (lần sau tự nhớ) · --thu = chỉ xem
+         [--xlsx <tệp.xlsx>] ghi thêm vào MỘT bảng Excel có sẵn (trang "translate new", cột link/vi/en) — cần openpyxl
+  ganlink --xuat <tệp.xlsx>       dựng bảng Excel MỚI từ ban-dich-vi-en.tsv để gửi team (không đụng tệp của team)
 """
 import copy, csv, datetime as dt, difflib, fnmatch, html, json, re, subprocess, sys, time, unicodedata
 import urllib.parse, urllib.request
@@ -24,6 +28,9 @@ TMX = GOC / "bo-nho-dich" / "bo-nho-dich.tmx"
 THUAT_NGU = GOC / "thuat-ngu" / "thuat-ngu.csv"
 BO_CHUYEN = GOC / "bo-chuyen"
 LIEN_KET = GOC / "lien-ket" / "lien-ket-vi-en.tsv"
+BANG_BAN_DICH = GOC / "lien-ket" / "ban-dich-vi-en.tsv"
+REPO_BLOB = "https://github.com/kelvinimm/web-imm-translation/blob/main"
+SHEET_DOI_CHIEU = "translate new"
 COT =["id", "loai", "vi", "en", "tm", "ghi_chu", "src"]
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/126 Safari/537.36"
 KHOI = ["h1", "h2", "h3", "h4", "h5", "h6", "p", "li", "blockquote", "figcaption", "td", "th", "dt", "dd", "button"]
@@ -1209,9 +1216,163 @@ def lenh_dien(args):
     print(f"Điền {len(dien)} đoạn · còn trống {con}/{len(dong)}")
 
 
+# ---------- gắn link bản dịch vào bảng đối chiếu ----------
+def slug_trang(viec):
+    """Slug cuối của trang gốc: ưu tiên post_slug trong meta.json, rồi tới URL nguồn, cuối cùng là tên thư mục việc."""
+    meta = doc_meta(viec)
+    s = (meta.get("post_slug") or "").strip("/")
+    if s:
+        return s.split("/")[-1]
+    ng = (meta.get("nguon") or "")
+    if ng.startswith("http"):
+        duong = urllib.parse.urlparse(ng).path.strip("/")
+        if duong:
+            return duong.split("/")[-1]
+    return re.sub(r"^\d{4}-\d{2}-\d{2}-", "", viec.name)
+
+
+def lenh_ganlink(args):
+    """Ghi link bản dịch trên GitHub vào lien-ket/ban-dich-vi-en.tsv (nguồn sự thật, diff được trong git).
+    Bảng Excel của team KHÔNG nằm trong repo: dựng bản mới bằng --xuat, hoặc ghi thêm vào một tệp cụ thể bằng --xlsx."""
+    if "--xuat" in args:
+        return xuat_bang_excel(Path(args[args.index("--xuat") + 1]))
+    thu = "--thu" in args
+    xlsx = Path(args[args.index("--xlsx") + 1]) if "--xlsx" in args else None
+    sheet = args[args.index("--sheet") + 1] if "--sheet" in args else SHEET_DOI_CHIEU
+    repo = args[args.index("--repo") + 1].rstrip("/") if "--repo" in args else REPO_BLOB
+    ep_link = args[args.index("--link") + 1] if "--link" in args else ""
+    if "--tat-ca" in args:
+        viecs = sorted(p for p in (GOC / "viec").iterdir()
+                       if p.is_dir() and (p / "ban-giao" / "bai-dich.en.md").exists())
+    else:
+        viecs, bo_qua = [], False
+        for a in args:
+            if bo_qua:
+                bo_qua = False; continue
+            if a.startswith("--"):
+                bo_qua = a in ("--xlsx", "--sheet", "--repo", "--link", "--xuat"); continue
+            viecs.append(Path(a))
+    if not viecs:
+        print("✗ Chưa nêu thư mục việc (hoặc dùng --tat-ca)"); sys.exit(2)
+    if ep_link and len(viecs) != 1:
+        print("✗ --link chỉ dùng cho đúng một việc"); sys.exit(2)
+    bang = doc_bang_ban_dich()
+    # từ điển slug -> URL trang gốc: gom từ bảng đã có, và từ cột "link" của tệp Excel nếu có nêu --xlsx
+    lien = {}
+    for d in bang.values():
+        lien.setdefault(urllib.parse.urlparse(d["link"]).path.strip("/").split("/")[-1], []).append(d["link"])
+    ws = None
+    if xlsx:
+        ws, c_link, c_vi, c_en = mo_bang_excel(xlsx, sheet)
+        for r in range(2, ws.max_row + 1):
+            v = ws.cell(r, c_link).value
+            if isinstance(v, str) and v.startswith("http"):
+                khoa = urllib.parse.urlparse(v).path.strip("/").split("/")[-1]
+                if v not in lien.setdefault(khoa, []):
+                    lien[khoa].append(v)
+    xong = loi = 0
+    for viec in viecs:
+        if not (viec / "ban-giao" / "bai-dich.en.md").exists():
+            print(f"  ✗ {viec.name}: chưa có ban-giao/bai-dich.en.md — dịch xong rồi mới gắn link"); loi += 1; continue
+        if not (viec / "ban-giao" / "bai-dich.vi.md").exists():
+            print(f"  ✗ {viec.name}: thiếu ban-giao/bai-dich.vi.md — chạy `ghep {viec} --chi-vi` trước"); loi += 1; continue
+        slug = slug_trang(viec)
+        da_nho = next((d["link"] for d in bang.values() if d.get("viec") == viec.name and d.get("link")), "")
+        url = ep_link or da_nho
+        if not url:
+            hit = lien.get(slug, [])
+            if len(hit) != 1:
+                gap = "chưa biết URL trang gốc" if not hit else f"khớp {len(hit)} URL: {', '.join(hit)}"
+                print(f"  ✗ {viec.name}: slug «{slug}» {gap} — chạy lại kèm --link <url trang gốc>"); loi += 1; continue
+            url = hit[0]
+        vi = f"{repo}/viec/{viec.name}/ban-giao/bai-dich.vi.md"
+        en = f"{repo}/viec/{viec.name}/ban-giao/bai-dich.en.md"
+        cu = bang.get(url, {})
+        dau = "≡" if (cu.get("vi"), cu.get("en")) == (vi, en) else ("↻" if cu else "+")
+        bang[url] = {"link": url, "vi": vi, "en": en, "viec": viec.name, "ngay": f"{dt.date.today():%Y-%m-%d}"}
+        if ws is not None and not thu:
+            ghi_dong_excel(ws, c_link, c_vi, c_en, url, vi, en)
+        print(f"  {dau} {slug:<44} ← {viec.name}")
+        xong += 1
+    if not thu and xong:
+        ghi_bang_ban_dich(bang)
+        if ws is not None:
+            ws.parent.save(xlsx)
+    dich_den = BANG_BAN_DICH.name + (f" + {xlsx.name}" if xlsx else "")
+    print(f"{'(thử) ' if thu else ''}Gắn link: {xong} việc → {dich_den}" + (f" · {loi} việc chưa gắn được" if loi else ""))
+    if loi:
+        sys.exit(1)
+
+
+def mo_bang_excel(xlsx, sheet):
+    """Mở bảng Excel có sẵn, trả về (worksheet, cột link, cột vi, cột en)."""
+    try:
+        import openpyxl
+    except ImportError:
+        print("✗ Thiếu thư viện openpyxl — cài bằng: pip3 install openpyxl"); sys.exit(1)
+    if not xlsx.exists():
+        print(f"✗ Không thấy bảng Excel: {xlsx}"); sys.exit(1)
+    wb = openpyxl.load_workbook(xlsx)
+    if sheet not in wb.sheetnames:
+        print(f"✗ Không thấy trang tính «{sheet}» trong {xlsx.name} — có: {', '.join(wb.sheetnames)}"); sys.exit(1)
+    ws = wb[sheet]
+    tieu_de = {str(c.value).strip().lower(): c.column for c in ws[1] if c.value}
+    for cot in ("link", "vi", "en"):
+        if cot not in tieu_de:
+            print(f"✗ Trang tính «{sheet}» thiếu cột «{cot}» ở dòng 1"); sys.exit(1)
+    return ws, tieu_de["link"], tieu_de["vi"], tieu_de["en"]
+
+
+def ghi_dong_excel(ws, c_link, c_vi, c_en, url, vi, en):
+    for r in range(2, ws.max_row + 1):
+        v = ws.cell(r, c_link).value
+        if isinstance(v, str) and v.rstrip("/") == url.rstrip("/"):
+            ws.cell(r, c_vi).value, ws.cell(r, c_en).value = vi, en
+            return r
+    return 0
+
+
+def xuat_bang_excel(dich_den):
+    """Dựng bảng Excel MỚI từ ban-dich-vi-en.tsv — để gửi team, không đụng tệp làm việc của họ."""
+    try:
+        import openpyxl
+    except ImportError:
+        print("✗ Thiếu thư viện openpyxl — cài bằng: pip3 install openpyxl"); sys.exit(1)
+    bang = doc_bang_ban_dich()
+    if not bang:
+        print(f"✗ {BANG_BAN_DICH.name} chưa có dòng nào — chạy `ganlink` trước"); sys.exit(1)
+    wb = openpyxl.Workbook(); ws = wb.active; ws.title = SHEET_DOI_CHIEU
+    ws.append(["link", "vi", "en", "viec", "ngay"])
+    for d in sorted(bang.values(), key=lambda x: x["link"]):
+        ws.append([d["link"], d["vi"], d["en"], d.get("viec", ""), d.get("ngay", "")])
+    for cot, rong in zip("ABCDE", (70, 95, 95, 46, 12)):
+        ws.column_dimensions[cot].width = rong
+    ws.freeze_panes = "A2"
+    dich_den.parent.mkdir(parents=True, exist_ok=True)
+    wb.save(dich_den)
+    print(f"Xuất {len(bang)} dòng từ {BANG_BAN_DICH.name} → {dich_den}")
+
+
+def doc_bang_ban_dich():
+    if not BANG_BAN_DICH.exists():
+        return {}
+    with BANG_BAN_DICH.open(encoding="utf-8", newline="") as f:
+        return {d["link"]: d for d in csv.DictReader(f, delimiter="\t")}
+
+
+def ghi_bang_ban_dich(bang):
+    BANG_BAN_DICH.parent.mkdir(exist_ok=True)
+    with BANG_BAN_DICH.open("w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, ["link", "vi", "en", "viec", "ngay"], delimiter="\t", lineterminator="\n")
+        w.writeheader()
+        for d in sorted(bang.values(), key=lambda x: x["link"]):
+            w.writerow(d)
+
+
 if __name__ == "__main__":
     lenh = {"moi": lenh_moi, "tukhoa": lenh_tukhoa, "tygia": lenh_tygia, "ghep": lenh_ghep,
-            "kiem": lenh_kiem, "nap": lenh_nap, "kiemtn": lenh_kiemtn, "xem": lenh_xem, "dien": lenh_dien}
+            "kiem": lenh_kiem, "nap": lenh_nap, "kiemtn": lenh_kiemtn, "xem": lenh_xem, "dien": lenh_dien,
+            "ganlink": lenh_ganlink}
     if len(sys.argv) < 2 or sys.argv[1] not in lenh:
         print(__doc__); sys.exit(2)
     lenh[sys.argv[1]](sys.argv[2:])

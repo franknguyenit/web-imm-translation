@@ -34,7 +34,7 @@ này. Việc còn lại team khác làm."*). Đăng WordPress, chuyển hướng
 ## 2. Bản đồ thư mục
 
 ```
-cong-cu/dich.py            mọi việc cơ học: moi · xem · dien · tukhoa · tygia · ghep · kiem · nap · kiemtn
+cong-cu/dich.py            mọi việc cơ học: moi · xem · dien · tukhoa · tygia · ghep · kiem · nap · kiemtn · ganlink
 cong-cu/dong-bo-bo-nho.sh  chép memory + skill của Claude về bo-nho/
 quy-trinh/style-guide.md   giọng, dịch sát/viết lại, tuân thủ, số-tiền-ngày, SEO — ĐỌC TRƯỚC MỖI VIỆC
 thuat-ngu/thuat-ngu.csv    bảng thuật ngữ (nguồn sự thật duy nhất) — cột: vi,en,bien_the_en,loai,trang_thai,ghi_chu,nguon
@@ -42,6 +42,9 @@ bo-nho-dich/               bộ nhớ dịch (translation memory): .jsonl (máy 
 seo/tu-khoa-thi-truong.md  từ khoá đã học theo thị trường, dồn qua các việc
 bo-chuyen/<tên>.json       mỗi template ACF một tệp: trường nào dịch (loại h1/h2/p/li/cta), trường nào giữ (icon, ảnh…), url, id
 lien-ket/lien-ket-vi-en.tsv  bảng link trang Việt → trang Anh (và ID bài) — `ghep` đổi link/ID theo bảng; thêm dòng khi có trang /en/ mới
+lien-ket/ban-dich-vi-en.tsv  **nguồn sự thật** cho bảng đối chiếu: link trang Việt · link bản dịch vi/en trên GitHub ·
+                           việc · ngày. `ganlink` ghi tệp này; bảng Excel của team KHÔNG vào repo (nhị phân, không
+                           merge được) — dựng bản mới để gửi team bằng `ganlink --xuat <tệp.xlsx>`
 viec/<ngày>-<slug>/        một việc: meta.json · song-ngu.tsv · ty-gia.json · tu-khoa.json · soat-*.md · kiem-bao-cao.md
                            (việc JSON thêm nguon.json — bản gốc để dựng lại, không sửa tay)
   ban-giao/                bai-dich.en.md · bai-dich.en.html · seo.json · bao-cao.md   ← bản lưu local, nguồn để viết vào chat
@@ -141,6 +144,13 @@ thật → sửa luật + thêm ca kiểm + `python3 -m unittest discover -s tes
 chỗ đã làm mềm vì tuân thủ · góp ý của B5/B6 đã bác và lý do · điều nguồn có vẻ sai hoặc lỗi thời (đã dịch đúng
 nguồn, cần CEO xác nhận) · slug cũ cần chuyển hướng 301 · kết quả cửa 0 · nhãn **"chưa qua soi độc lập"**.
 
+**Gắn link bảng đối chiếu (máy, sau khi `ghep` xong):** `python3 cong-cu/dich.py ganlink <việc> --link <url trang gốc>`
+→ ghi link GitHub của `ban-giao/bai-dich.vi.md` và `bai-dich.en.md` vào `lien-ket/ban-dich-vi-en.tsv`. Lần dịch lại cùng
+trang thì bỏ `--link`, máy tự nhớ. `--thu` xem trước · `--tat-ca` chạy cho mọi việc đã có bản giao ·
+`--xlsx <tệp.xlsx>` ghi thêm vào một bảng Excel cụ thể (chỉ khi CEO đưa tệp) · `--xuat <tệp.xlsx>` dựng bảng Excel mới
+từ TSV để gửi team. Không biết URL trang gốc thì **để trống và hỏi CEO**, không đoán. Link chỉ sống khi thư mục việc đã
+được push lên GitHub → nêu trong ghi chú bàn giao nếu chưa push.
+
 **Bàn giao trong chat — đúng thứ tự, không gửi tệp:**
 1. **Khối SEO** (bảng): meta title · meta description · slug · từ khoá chính · từ khoá phụ · alt ảnh (nếu có).
 2. **Bài dịch tiếng Anh hoàn chỉnh**, dạng Markdown (heading, danh sách, in đậm, liên kết), chép nguyên từ
@@ -150,6 +160,7 @@ nguồn, cần CEO xác nhận) · slug cũ cần chuyển hướng 301 · kết
    nhãn "chưa qua soi độc lập".
 4. **Việc JSON:** đường dẫn tệp `ban-giao/<slug>.en.json` · link và ID bài còn trỏ bản Việt (cảnh báo `JSON:` của `ghep`)
    để team quyết · nhắc: import vào **trang tiếng Anh** (bản WPML đã "Translate independently"), không vào trang Việt.
+5. **Dòng đã gắn trong bảng đối chiếu:** URL trang gốc tương ứng trong `lien-ket/ban-dich-vi-en.tsv`.
 
 ### Giai đoạn 3 — Tự học sau mỗi việc (B10, B11)
 
@@ -207,3 +218,6 @@ Còn lại (thuật ngữ chưa chắc, chọn từ khoá, quy đổi tiền, l�
    export JSON **trang tiếng Anh** (có `post_id`, giá trị gốc) → `moi` → 11 bước → `ghep` → team nhập ở cùng trang đó
    (Chạy thử → Nhập, có sao lưu). Tệp từ export cũ (Tools → ACF Page Importer) không có `post_id` → không nhập được
    bằng luồng mới; `moi` đã cảnh báo.
+5. (22/09/2026) Sau mỗi việc dịch, Claude tự chạy `ganlink` ghi link bản dịch trên GitHub vào
+   `lien-ket/ban-dich-vi-en.tsv` — **nguồn sự thật, dạng văn bản**. Bảng Excel của team **không để trong repo**
+   (nhị phân, không merge được, team còn sửa tay); cần gửi team thì `ganlink --xuat <tệp.xlsx>` dựng bản mới.

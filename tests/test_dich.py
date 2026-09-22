@@ -417,5 +417,95 @@ class JsonAcf(unittest.TestCase):
         self.assertEqual(dich.doc_meta(next((self.tmp / "viec").glob("*-khac")))["post_id"], 9)
 
 
+class GanLink(unittest.TestCase):
+    """ganlink: gắn link bản dịch trên GitHub vào bảng đối chiếu xlsx."""
+
+    def setUp(self):
+        try:
+            import openpyxl
+        except ImportError:
+            self.skipTest("máy chưa có openpyxl")
+        self.tmp = Path(tempfile.mkdtemp())
+        self.viec = self.tmp / "viec" / "2026-09-22-trang-thu"
+        (self.viec / "ban-giao").mkdir(parents=True)
+        (self.viec / "meta.json").write_text(json.dumps({"post_slug": "/trang-thu/"}), encoding="utf-8")
+        for t in ("en", "vi"):
+            (self.viec / "ban-giao" / f"bai-dich.{t}.md").write_text("# x\n", encoding="utf-8")
+        self.xlsx = self.tmp / "bang.xlsx"
+        wb = openpyxl.Workbook(); ws = wb.active; ws.title = "translate new"
+        ws.append(["link", "vi", "en"])
+        ws.append(["https://immgroup.com/muc-cha/trang-thu/", "x", None])
+        ws.append(["https://immgroup.com/muc-khac/trang-khac/", None, None])
+        wb.save(self.xlsx)
+        self.bang_cu = dich.BANG_BAN_DICH
+        dich.BANG_BAN_DICH = self.tmp / "ban-dich-vi-en.tsv"
+
+    def tearDown(self):
+        dich.BANG_BAN_DICH = self.bang_cu
+        shutil.rmtree(self.tmp)
+
+    def o(self, dong, cot):
+        import openpyxl
+        return openpyxl.load_workbook(self.xlsx)["translate new"].cell(dong, cot).value
+
+    def test_gan_dung_dong_theo_slug(self):
+        dich.lenh_ganlink([str(self.viec), "--xlsx", str(self.xlsx), "--repo", "https://ví-dụ/blob/main"])
+        self.assertEqual(self.o(2, 2), "https://ví-dụ/blob/main/viec/2026-09-22-trang-thu/ban-giao/bai-dich.vi.md")
+        self.assertEqual(self.o(2, 3), "https://ví-dụ/blob/main/viec/2026-09-22-trang-thu/ban-giao/bai-dich.en.md")
+        self.assertIsNone(self.o(3, 2))  # dòng khác không bị đụng
+        self.assertIn("2026-09-22-trang-thu", dich.BANG_BAN_DICH.read_text(encoding="utf-8"))
+
+    def test_thu_khong_ghi(self):
+        dich.lenh_ganlink([str(self.viec), "--xlsx", str(self.xlsx), "--thu"])
+        self.assertEqual(self.o(2, 2), "x")  # giữ nguyên ô cũ
+        self.assertFalse(dich.BANG_BAN_DICH.exists())
+
+    def test_khong_khop_slug_thi_bao_loi_va_khong_ghi(self):
+        (self.viec / "meta.json").write_text(json.dumps({"post_slug": "/khong-co-trong-bang/"}), encoding="utf-8")
+        with self.assertRaises(SystemExit):
+            dich.lenh_ganlink([str(self.viec), "--xlsx", str(self.xlsx)])
+        self.assertEqual(self.o(2, 2), "x")
+
+    def test_chua_ghep_thi_khong_gan(self):
+        (self.viec / "ban-giao" / "bai-dich.vi.md").unlink()
+        with self.assertRaises(SystemExit):
+            dich.lenh_ganlink([str(self.viec), "--xlsx", str(self.xlsx)])
+        self.assertEqual(self.o(2, 2), "x")
+
+    def test_chi_ghi_tsv_khi_khong_neu_xlsx(self):
+        dich.lenh_ganlink([str(self.viec), "--link", "https://immgroup.com/muc-cha/trang-thu/"])
+        d = list(csv.DictReader(dich.BANG_BAN_DICH.open(encoding="utf-8"), delimiter="\t"))
+        self.assertEqual(d[0]["link"], "https://immgroup.com/muc-cha/trang-thu/")
+        self.assertTrue(d[0]["en"].endswith("bai-dich.en.md"))
+        self.assertEqual(self.o(2, 2), "x")  # tệp Excel của team không bị đụng
+
+    def test_lan_sau_tu_nho_url_khong_can_link(self):
+        dich.lenh_ganlink([str(self.viec), "--link", "https://immgroup.com/muc-cha/trang-thu/"])
+        dich.lenh_ganlink([str(self.viec)])  # không nêu --link, không nêu --xlsx
+        d = list(csv.DictReader(dich.BANG_BAN_DICH.open(encoding="utf-8"), delimiter="\t"))
+        self.assertEqual(len(d), 1)
+
+    def test_chua_biet_url_thi_bao_loi(self):
+        with self.assertRaises(SystemExit):
+            dich.lenh_ganlink([str(self.viec)])  # bảng trống, không có --link, không có --xlsx
+        self.assertFalse(dich.BANG_BAN_DICH.exists())
+
+    def test_xuat_bang_excel_moi(self):
+        import openpyxl
+        dich.lenh_ganlink([str(self.viec), "--link", "https://immgroup.com/muc-cha/trang-thu/"])
+        ra = self.tmp / "gui-team.xlsx"
+        dich.lenh_ganlink(["--xuat", str(ra)])
+        ws = openpyxl.load_workbook(ra).active
+        self.assertEqual([c.value for c in ws[1]], ["link", "vi", "en", "viec", "ngay"])
+        self.assertEqual(ws.cell(2, 1).value, "https://immgroup.com/muc-cha/trang-thu/")
+        self.assertEqual(ws.cell(2, 4).value, "2026-09-22-trang-thu")
+
+    def test_ep_link_khi_slug_lech(self):
+        (self.viec / "meta.json").write_text(json.dumps({"post_slug": "/slug-lech/"}), encoding="utf-8")
+        dich.lenh_ganlink([str(self.viec), "--xlsx", str(self.xlsx),
+                           "--link", "https://immgroup.com/muc-cha/trang-thu/"])
+        self.assertTrue(str(self.o(2, 3)).endswith("bai-dich.en.md"))
+
+
 if __name__ == "__main__":
     unittest.main()

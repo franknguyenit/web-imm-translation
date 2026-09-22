@@ -125,13 +125,13 @@ Explore IMM Group's advisory services:
 
 - Greek real estate projects
 - European citizenship and residency
-- Ireland residency by investment
-- Cyprus residency by investment
+- Ireland Golden Visa
+- Cyprus Golden Visa
 - Latvia residency by investment
-- Malta residency by investment
+- Malta Golden Visa
 - Portugal Golden Visa
 - Hungary residency by investment
-- Bulgaria residency by investment
+- Bulgaria Golden Visa
 
 ### Understanding Greece
 

@@ -122,7 +122,7 @@ Explore IMM Group's advisory services:
 
 - Cyprus real estate projects
 - European citizenship and residency
-- Ireland residency by investment
+- Ireland Golden Visa
 - Greece Golden Visa
 - Latvia residency by investment
 - Malta Golden Visa

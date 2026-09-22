@@ -13,6 +13,9 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
 4. Song song: B5 song ngữ (general-purpose, sonnet) + B6 bản xứ/chuyên môn (general-purpose, opus) → mỗi agent ghi `soat-*.md` + `sua-*.txt`.
 5. Gom tay → `gom-sua.txt` → `dien` → `seo.json` → `kiem` XANH → `ghep`.
 6. Bàn giao **viết thẳng trong chat**: bảng SEO · bài Markdown (chép từ `ban-giao/bai-dich.en.md`) · ghi chú cho team ≤8 gạch.
+6b. `python3 cong-cu/dich.py ganlink <việc> --link <url trang gốc>` — ghi link GitHub của `bai-dich.vi.md` và
+   `.en.md` vào `lien-ket/ban-dich-vi-en.tsv` (nguồn sự thật). Dịch lại cùng trang thì bỏ `--link`, máy tự nhớ.
+   Gửi team bảng Excel: `ganlink --xuat <tệp.xlsx>`. Link chỉ sống khi thư mục việc đã được push lên GitHub.
 7. Tự học: `nap` · thuật ngữ mới `goi-y` · `seo/tu-khoa-thi-truong.md` · memory · skill này · `bash cong-cu/dong-bo-bo-nho.sh` · nhật ký.
 
 ## Bài học đã trả giá
@@ -121,3 +124,20 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
 - **Nguồn Việt của trang châu Âu hay lỗi thời ở phần thuế:** thuế doanh nghiệp Síp 12,5% đã lên **15% từ 01/01/2026**
   (mức tối thiểu toàn cầu OECD). Dịch đúng nguồn + hạ câu tuyệt đối ("historically one of the lower rates in Europe")
   + đưa lên mục CEO quyết.
+- **Bảng đối chiếu link cho team (học 22/09/2026):** CEO dùng `link-compare-vi-en.xlsx` (cột `link` = URL trang Việt,
+  cột `vi`/`en` = link bản dịch trên GitHub). Đặt trong `lien-ket/` cạnh `lien-ket-vi-en.tsv`. Nguồn sự thật để diff
+  trong git là `lien-ket/ban-dich-vi-en.tsv` do `ganlink` ghi kèm — xlsx là bản cho người đọc. Lưu ý: openpyxl ghi lại
+  tệp sẽ bỏ `calcChain.xml`, `sharedStrings.xml`, `persons/person.xml` (vô hại) nhưng **có thể làm rơi biểu đồ, pivot,
+  comment thread** nếu tệp có — kiểm danh sách phần trong zip trước/sau khi ghi nếu tệp của team phức tạp hơn.
+- **Việc dịch từ nội dung dán (không có URL trang)** thì `ganlink` không khớp được — để trống và hỏi CEO URL, đừng đoán.
+- **Nhãn liên kết = TÊN TRANG của trang đích** (CEO chốt 22/09/2026, đã đồng bộ lại Hy Lạp · Ireland · Cyprus · Malta):
+  lấy đúng chuỗi ở dòng `tieu-de` (s001) của việc đã dịch trang đó — `Ireland Golden Visa`, `Greece Golden Visa`,
+  `Cyprus Golden Visa`, `Malta Golden Visa`, `Bulgaria Golden Visa`, `Montenegro Citizenship by Investment`,
+  `Grenada Citizenship by Investment`. Trang **chưa dịch** thì để dạng mô tả viết thường (`Latvia residency by
+  investment`, `Hungary residency by investment`) và đổi khi dịch xong. **Đừng lấy gợi ý bộ nhớ dịch cũ làm nhãn** —
+  TM giữ cách gọi của trang dịch trước, dễ thành ba kiểu song song trên ba trang.
+  Lệnh soát nhanh: đọc cột `src` chứa `care_service_link_title` ở mọi `song-ngu.tsv` rồi so với `s001` của từng việc.
+  Sửa nhãn xong: `kiem` (phải XANH) → `ghep` → `nap` → nhắc team **import lại tệp JSON** nếu đã import bản cũ.
+- **Bảng Excel của team KHÔNG để trong repo** (CEO chốt 22/09/2026): tệp `.xlsx` là nhị phân, git không merge được —
+  team sửa tay một bên, máy ghi đè một bên là mất trắng một bản. Nguồn sự thật là `lien-ket/ban-dich-vi-en.tsv`;
+  `ganlink --xuat <tệp.xlsx>` dựng bản mới khi cần gửi, `--xlsx <tệp>` chỉ dùng khi CEO đưa đúng tệp muốn ghi thêm.

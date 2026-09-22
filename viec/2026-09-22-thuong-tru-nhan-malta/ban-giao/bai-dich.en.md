@@ -102,7 +102,7 @@ View all projects
 Explore IMM Group's advisory services:
 
 - European citizenship and residency
-- Ireland residency by investment
+- Ireland Golden Visa
 - Greece Golden Visa
 - Cyprus Golden Visa
 - Latvia residency by investment

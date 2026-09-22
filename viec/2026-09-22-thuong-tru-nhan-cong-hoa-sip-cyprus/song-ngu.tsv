@@ -70,7 +70,7 @@ s068	h3	Có thể bạn quan tâm	You may also be interested in	100%: You may al
 s069	p	Tìm hiểu các dịch vụ tư vấn từ IMM Group:	Explore IMM Group's advisory services:	100%: Explore IMM Group's advisory services:		acf.product_care_service_desc#1
 s070	li	Các dự án bất động sản Cộng hòa Síp	Cyprus real estate projects			acf.product_care_service_links[0].product_care_service_link_title
 s071	li	Quốc tịch & thường trú nhân châu Âu	European citizenship and residency	100%: European citizenship and residency	#bo-qua-tn: nhãn liên kết dùng lại đúng bản đã dùng ở các trang khác để nhất quán toàn site	acf.product_care_service_links[1].product_care_service_link_title
-s072	li	Thường trú nhân Ireland	Ireland residency by investment	100%: Ireland residency by investment	#bo-qua-tn: nhãn liên kết — tên trang tiếng Anh của Ireland	acf.product_care_service_links[2].product_care_service_link_title
+s072	li	Thường trú nhân Ireland	Ireland Golden Visa	100%: Ireland residency by investment	#bo-qua-tn: nhãn liên kết — tên trang tiếng Anh của Ireland	acf.product_care_service_links[2].product_care_service_link_title
 s073	li	Thường trú nhân Hy Lạp	Greece Golden Visa	100%: Greece Golden Visa		acf.product_care_service_links[3].product_care_service_link_title
 s074	li	Thương trú nhân Latvia	Latvia residency by investment	100%: Latvia residency by investment		acf.product_care_service_links[4].product_care_service_link_title
 s075	li	Thường trú nhân Malta	Malta Golden Visa	100%: Malta residency by investment	#bo-qua-tn: nhãn liên kết — tên trang tiếng Anh của Malta	acf.product_care_service_links[5].product_care_service_link_title

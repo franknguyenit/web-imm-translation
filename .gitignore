@@ -8,3 +8,7 @@ nhat-ky/nhat-ky.md
 bo-nho-dich/bo-nho-dich.jsonl
 bo-nho-dich/bo-nho-dich.jsonl
 bo-nho/claude-memory/bon-trang-chau-au-22-09-cho-ceo.md
+
+# Bảng Excel của team không vào repo (nhị phân, không merge được) — nguồn sự thật là lien-ket/ban-dich-vi-en.tsv
+lien-ket/*.xlsx
+~$*

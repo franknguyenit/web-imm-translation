@@ -74,3 +74,15 @@
 - Nhập vào **đúng trang tiếng Anh post_id 100890**, không nhập vào trang Việt.
 
 **Nhãn: chưa qua soi độc lập.**
+
+## Cập nhật 22/09/2026 — đồng bộ nhãn liên kết (CEO chốt trong phiên)
+
+Nhãn ở khối "Có thể bạn quan tâm" nay dùng **đúng tên trang tiếng Anh của trang đích**, thống nhất trên mọi trang châu Âu:
+`European citizenship and residency` · `Ireland Golden Visa` · `Greece Golden Visa` · `Cyprus Golden Visa` ·
+`Malta Golden Visa` · `Bulgaria Golden Visa` · `Portugal Golden Visa` · `Latvia residency by investment` ·
+`Hungary residency by investment`.
+
+- Trang **đã có bản dịch** → nhãn là tên trang đó (Title Case, tên sản phẩm).
+- Trang **chưa dịch** (Latvia, Hungary) → giữ dạng mô tả viết thường, đổi khi dịch xong.
+- Cửa 0 chạy lại: **XANH**; tệp JSON dựng lại, đã kiểm khớp hệt tập trường bản gốc; bộ nhớ dịch đã nạp lại.
+- ⚠ **Nếu team đã import tệp JSON trước ngày 22/09/2026 thì cần import lại bản mới** — chỉ khác ở các nhãn liên kết này.

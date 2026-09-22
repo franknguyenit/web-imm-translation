@@ -1,11 +1,12 @@
-# CỬA 0 — 2026-09-21-thuong-tru-nhan-hy-lap — 2026-09-21 15:45
-Kết quả: XANH · 0 lỗi chặn · 25 cảnh báo · 205/205 đoạn đã dịch
+# CỬA 0 — 2026-09-21-thuong-tru-nhan-hy-lap — 2026-09-22 11:49
+Kết quả: XANH · 0 lỗi chặn · 23 cảnh báo · 205/205 đoạn đã dịch
 
 ## LỖI CHẶN (phải sửa hết)
 - (không)
 
 ## CẢNH BÁO (đọc từng dòng, sửa hoặc ghi lý do vào báo cáo)
 - s002 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «{1}Greece Golden Visa{/1} {br}(Residency by Investment)»
+- s005 THUẬT NGỮ «hình thức đầu tư» gợi ý dịch là «how you invest» — bản Anh: «It is open to non-EU investors and their families through an investmen»
 - s007 VND 7,600,000,000 ≈ US$292,365 không thấy (đã ghi #bo-qua-so)
 - s008 THUẬT NGỮ «bất động sản» gợi ý dịch là «real estate | property» — bản Anh: «The €250,000 threshold applies to properties converted from commercial»
 - s014 số 6 không thấy ở bản Anh (đã ghi #bo-qua-so)
@@ -16,12 +17,9 @@ Kết quả: XANH · 0 lỗi chặn · 25 cảnh báo · 205/205 đoạn đã d�
 - s065 THUẬT NGỮ «thẻ cư trú» gợi ý dịch là «residence permit | residency card» — bản Anh: «Receive formal approval; the residence card is sent to you in your hom»
 - s066 THUẬT NGỮ «thẻ cư trú» gợi ý dịch là «residence permit | residency card» — bản Anh: «Renew your residence card»
 - s074 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «European citizenship and residency»
-- s075 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Ireland residency by investment»
-- s076 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Cyprus residency by investment»
-- s078 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Malta residency by investment»
+- s075 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Ireland Golden Visa»
 - s079 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Portugal Golden Visa»
 - s080 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Hungary residency by investment»
-- s081 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Bulgaria residency by investment»
 - s097 THUẬT NGỮ «tự do đi lại Schengen» gợi ý dịch là «visa-free travel in the schengen area | schengen travel» — bản Anh: «Does the Golden Visa allow free movement in the Schengen Area and the »
 - s099 số 6 không thấy ở bản Anh (đã ghi #bo-qua-so)
 - s139 VND 7,600,000,000 ≈ US$292,365 không thấy (đã ghi #bo-qua-so)
