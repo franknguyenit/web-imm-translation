@@ -1,129 +1,129 @@
 id	loai	vi	en	tm	ghi_chu	src
-s001	p	Thường trú nhân Cộng Hòa Síp | Siêu dự án				acf.s001_p
-s002	h1	Limassol Marina				acf.s002_h1
-s003	p	Biệt thự & căn hộ hạng sang bên bến du thuyền – Lộ trình thường trú nhân Cộng Hòa Síp				acf.s003_p#1
+s001	p	Thường trú nhân Cộng Hòa Síp | Siêu dự án	Cyprus real estate | Flagship project			acf.s001_p
+s002	h1	Limassol Marina	Limassol Marina			acf.s002_h1
+s003	p	Biệt thự & căn hộ hạng sang bên bến du thuyền – Lộ trình thường trú nhân Cộng Hòa Síp	Luxury villas and apartments at the marina — a route to permanent residence in Cyprus			acf.s003_p#1
 s004	cta	YÊU CẦU TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s004_cta
-s005	p	{1}{2}villa{/2}Mức đầu tư tối thiểu{/1}**3.900.000 EUR**		92%: {1}{2}villa{/2}Minimum investment{/1}**€480,000**		acf.s005_p#1
-s006	p	{1}{2}holiday_village{/2}Tình trạng{/1}**Còn suất**				acf.s006_p#1
-s007	p	{1}{2}bed{/2}Loại hình{/1}**Biệt thự & căn hộ hạng sang**				acf.s007_p#1
-s008	cta	Limassol Marina			trung:s002	acf.s008_cta
+s005	p	{1}{2}villa{/2}Mức đầu tư tối thiểu{/1}**3.900.000 EUR**	{1}{2}villa{/2}Minimum investment{/1}**€3,900,000**	92%: {1}{2}villa{/2}Minimum investment{/1}**€480,000**		acf.s005_p#1
+s006	p	{1}{2}holiday_village{/2}Tình trạng{/1}**Còn suất**	{1}{2}holiday_village{/2}Status{/1}**Units available**			acf.s006_p#1
+s007	p	{1}{2}bed{/2}Loại hình{/1}**Biệt thự & căn hộ hạng sang**	{1}{2}bed{/2}Property type{/1}**Luxury villas & apartments**			acf.s007_p#1
+s008	cta	Limassol Marina	Limassol Marina		trung:s002	acf.s008_cta
 s009	cta	Hình ảnh dự án	Project gallery	100%: Project gallery		acf.s009_cta
 s010	cta	Vị trí & kết nối	Location & connections	100%: Location & connections		acf.s010_cta#1
 s011	cta	Tổng quan dự án	Project overview	100%: Project overview		acf.s011_cta
 s012	cta	Thiết kế & tiện ích	Design & amenities	100%: Design & amenities		acf.s012_cta#1
-s013	cta	Nhà phát triển Cybarco				acf.s013_cta
+s013	cta	Nhà phát triển Cybarco	Developer Cybarco			acf.s013_cta
 s014	cta	Tiến độ dự án	Project timeline	100%: Project timeline		acf.s014_cta
 s015	cta	Lộ trình thường trú nhân	The permanent residence route	100%: The permanent residence route		acf.s015_cta
 s016	cta	Lợi thế thường trú nhân	Permanent residence advantages	100%: Permanent residence advantages		acf.s016_cta
-s017	img	Video giới thiệu siêu dự án Limassol Marina				acf.s017_cta#1@alt
-s018	cta	{1}play_arrow{/1}{2}Video giới thiệu Limassol Marina{/2}				acf.s017_cta#2
-s019	h2	Vị trí bên biển &{br} {1}trung tâm Limassol{/1}				acf.s018_h2#1
-s020	p	Limassol Marina {1}·{/1} Bến du thuyền Limassol {2}·{/2} Cộng Hòa Síp				acf.s019_p#1
+s017	img	Video giới thiệu siêu dự án Limassol Marina	Limassol Marina flagship project video			acf.s017_cta#1@alt
+s018	cta	{1}play_arrow{/1}{2}Video giới thiệu Limassol Marina{/2}	{1}play_arrow{/1}{2}Limassol Marina project video{/2}			acf.s017_cta#2
+s019	h2	Vị trí bên biển &{br} {1}trung tâm Limassol{/1}	By the sea &{br} {1}in central Limassol{/1}			acf.s018_h2#1
+s020	p	Limassol Marina {1}·{/1} Bến du thuyền Limassol {2}·{/2} Cộng Hòa Síp	Limassol Marina {1}·{/1} Limassol marina {2}·{/2} Cyprus			acf.s019_p#1
 s021	cta	Google Maps	Google Maps	100%: Google Maps		acf.s020_cta#1
 s022	p	Kết nối thuận tiện	Convenient access	100%: Convenient access		acf.s021_p
-s023	h3	Vị trí “kim cương” bên bến du thuyền				acf.s022_h3
-s024	h4	Trung tâm Limassol				acf.s023_h4
-s025	p	Khoảng 2 phút đến khu trung tâm kinh tế tài chính, trung tâm thương mại, trường quốc tế và bệnh viện.				acf.s024_p
-s026	h4	Công viên Molos				acf.s025_h4
-s027	p	Liền kề công viên ven biển Molos dài khoảng 1 km.				acf.s026_p
-s028	h4	Kết nối đường biển				acf.s027_h4
-s029	p	Thuận tiện kết nối với các bến du thuyền và điểm đến tại châu Âu.				acf.s028_p
-s030	h4	Bến du thuyền quốc tế				acf.s029_h4
-s031	p	Limassol Marina đạt Giải thưởng 5 Gold Anchor Platinum Award.				acf.s030_p
-s032	h2	Biệt thự & căn hộ hạng sang tại {1}Limassol Marina{/1}				acf.s031_h2#1
-s033	p	Tọa lạc ngay bến du thuyền Limassol Marina, biểu tượng sống đẳng cấp của Cộng Hòa Síp.				acf.s032_p
-s034	p	Không gian sống bên biển hiếm có, kết hợp biệt thự, căn hộ hạng sang và bến neo du thuyền riêng.				acf.s033_p
-s035	p	Dự án đã hoàn thiện và bàn giao từ tháng 6/2021; số lượng sản phẩm còn lại hạn chế.				acf.s034_p
-s036	p	Sản phẩm còn lại tại Limassol Marina tham khảo từ khoảng 3,9 triệu EUR; mức đầu tư bất động sản đủ điều kiện xét thường trú nhân Síp từ 300.000 EUR, chưa gồm VAT và chi phí liên quan.				acf.s035_p
+s023	h3	Vị trí “kim cương” bên bến du thuyền	A prime position on the marina			acf.s022_h3
+s024	h4	Trung tâm Limassol	Central Limassol			acf.s023_h4
+s025	p	Khoảng 2 phút đến khu trung tâm kinh tế tài chính, trung tâm thương mại, trường quốc tế và bệnh viện.	About 2 minutes to the financial district, malls, international schools, and hospitals.			acf.s024_p
+s026	h4	Công viên Molos	Molos Park			acf.s025_h4
+s027	p	Liền kề công viên ven biển Molos dài khoảng 1 km.	Next to the Molos seafront park, about 1 km long.			acf.s026_p
+s028	h4	Kết nối đường biển	Sea connections			acf.s027_h4
+s029	p	Thuận tiện kết nối với các bến du thuyền và điểm đến tại châu Âu.	Easy sailing links to marinas and destinations across Europe.			acf.s028_p
+s030	h4	Bến du thuyền quốc tế	An international marina			acf.s029_h4
+s031	p	Limassol Marina đạt Giải thưởng 5 Gold Anchor Platinum Award.	Limassol Marina holds the 5 Gold Anchor Platinum Award.			acf.s030_p
+s032	h2	Biệt thự & căn hộ hạng sang tại {1}Limassol Marina{/1}	Luxury villas & apartments at {1}Limassol Marina{/1}			acf.s031_h2#1
+s033	p	Tọa lạc ngay bến du thuyền Limassol Marina, biểu tượng sống đẳng cấp của Cộng Hòa Síp.	Set right at Limassol Marina, a landmark address in Cyprus.			acf.s032_p
+s034	p	Không gian sống bên biển hiếm có, kết hợp biệt thự, căn hộ hạng sang và bến neo du thuyền riêng.	A rare waterfront setting combining villas, luxury apartments, and private berths.			acf.s033_p
+s035	p	Dự án đã hoàn thiện và bàn giao từ tháng 6/2021; số lượng sản phẩm còn lại hạn chế.	The project was completed and handed over in June 2021; only a limited number of units remain.		"#bo-qua-so: ""tháng 6/2021"" viết thành tên tháng theo style guide mục 5"	acf.s034_p
+s036	p	Sản phẩm còn lại tại Limassol Marina tham khảo từ khoảng 3,9 triệu EUR; mức đầu tư bất động sản đủ điều kiện xét thường trú nhân Síp từ 300.000 EUR, chưa gồm VAT và chi phí liên quan.	Remaining units at Limassol Marina start at about €3.9 million as a guide; the property investment that qualifies for Cyprus permanent residence starts at €300,000, before VAT and related costs.			acf.s035_p
 s037	p	Nhà đầu tư và gia đình có thể nộp hồ sơ xin thường trú nhân vĩnh viễn Síp khi đáp ứng điều kiện chương trình.	You and your family can apply for permanent residence in Cyprus once you meet the program conditions.	100%: You and your family can apply for permanent residence in Cyprus once you meet the program conditions.		acf.s036_p
 s038	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s037_cta
 s039	h3	Thông tin dự án	Project information	100%: Project information		acf.s038_h3
 s040	p	Vị trí	Location	100%: Location		acf.s039_p
-s041	p	Bến du thuyền Limassol Marina				acf.s040_p
-s042	p	Thành phố				acf.s041_p
-s043	p	Limassol, Cộng Hòa Síp				acf.s042_p
+s041	p	Bến du thuyền Limassol Marina	Limassol Marina			acf.s040_p
+s042	p	Thành phố	City			acf.s041_p
+s043	p	Limassol, Cộng Hòa Síp	Limassol, Cyprus			acf.s042_p
 s044	p	Loại hình	Property type	100%: Property type		acf.s043_p
-s045	p	Biệt thự và căn hộ hạng sang				acf.s044_p
+s045	p	Biệt thự và căn hộ hạng sang	Luxury villas and apartments			acf.s044_p
 s046	p	Điểm nổi bật	What stands out	100%: What stands out		acf.s045_p
-s047	p	Bến neo du thuyền riêng				acf.s046_p
+s047	p	Bến neo du thuyền riêng	Private berth			acf.s046_p
 s048	p	Tình trạng	Status	100%: Status		acf.s047_p
-s049	p	Hoàn thiện từ tháng 6/2021				acf.s048_p
+s049	p	Hoàn thiện từ tháng 6/2021	Completed in June 2021		"#bo-qua-so: ""tháng 6/2021"" viết thành tên tháng theo style guide mục 5"	acf.s048_p
 s050	p	Mức đầu tư	Investment	100%: Investment		acf.s049_p
-s051	p	Từ 3.900.000 EUR		93%: From €300,000		acf.s050_p
+s051	p	Từ 3.900.000 EUR	From €3,900,000	93%: From €300,000		acf.s050_p
 s052	p	Nhà phát triển	Developer	100%: Developer		acf.s051_p
-s053	p	Cybarco				acf.s052_p
+s053	p	Cybarco	Cybarco			acf.s052_p
 s054	h2	Thiết kế & tiện ích {1}đậm chất Địa Trung Hải{/1}	Design & amenities {1}with a Mediterranean feel{/1}	100%: Design & amenities {1}with a Mediterranean feel{/1}		acf.s053_h2#1
 s055	p	holiday_village	holiday_village	100%: holiday_village		acf.s054_p#1
 s056	p	Loại hình	Property type	100%: Property type	trung:s044	acf.s055_p
-s057	p	Biệt thự & căn hộ				acf.s056_p#1
-s058	p	sailing				acf.s057_p#1
+s057	p	Biệt thự & căn hộ	Villas & apartments			acf.s056_p#1
+s058	p	sailing	sailing			acf.s057_p#1
 s059	p	Điểm nổi bật	What stands out	100%: What stands out	trung:s046	acf.s058_p
-s060	p	Bến neo du thuyền riêng			trung:s047	acf.s059_p
+s060	p	Bến neo du thuyền riêng	Private berth		trung:s047	acf.s059_p
 s061	p	location_on	location_on	100%: location_on		acf.s060_p#1
 s062	p	Vị trí	Location	100%: Location	trung:s040	acf.s061_p
-s063	p	Trung tâm Limassol			trung:s024	acf.s062_p
+s063	p	Trung tâm Limassol	Central Limassol		trung:s024	acf.s062_p
 s064	p	euro_symbol	euro_symbol	100%: euro_symbol		acf.s063_p#1
 s065	p	Mức đầu tư	Investment	100%: Investment	trung:s050	acf.s064_p
-s066	p	Từ 3.900.000 EUR		93%: From €300,000	trung:s051	acf.s065_p
-s067	p	sync				acf.s066_p#1
+s066	p	Từ 3.900.000 EUR	From €3,900,000	93%: From €300,000	trung:s051	acf.s065_p
+s067	p	sync	sync			acf.s066_p#1
 s068	p	Tình trạng	Status	100%: Status	trung:s048	acf.s067_p
 s069	p	Còn suất	Units available	100%: Units available		acf.s068_p
-s070	h3	Chuẩn sống tinh túy bên mặt nước				acf.s069_h3
-s071	li	{1}pool{/1}**Hồ bơi riêng**				acf.s070_li#1
-s072	li	{1}deck{/1}**Sân vườn rộng**				acf.s071_li#1
-s073	li	{1}sailing{/1}**Bến neo du thuyền riêng**				acf.s072_li#1
-s074	li	{1}restaurant{/1}**Nhà hàng và quán bar**				acf.s073_li#1
-s075	li	{1}shopping_bag{/1}**Khu mua sắm**				acf.s074_li#1
-s076	li	{1}spa{/1}**Spa chăm sóc sức khỏe**				acf.s075_li#1
-s077	li	{1}fitness_center{/1}**Phòng gym tiêu chuẩn**				acf.s076_li#1
-s078	li	{1}support_agent{/1}**Dịch vụ lễ tân 24/7**				acf.s077_li#1
-s079	p	Biệt thự có hồ bơi riêng, sân vườn rộng và bến neo du thuyền phía sau; căn hộ mở tầm nhìn ra biển Địa Trung Hải và khu marina.				acf.s078_p
-s080	h2	Chủ đầu tư &{br} {1}đơn vị phát triển{/1}		100% (gắn lại thẻ {br} {1} {/1}): Developer & track record		acf.s079_h2#1
-s081	p	Cybarco - Thành viên Tập đoàn Lanitis hơn 100 năm lịch sử				acf.s080_p
+s070	h3	Chuẩn sống tinh túy bên mặt nước	Refined waterfront living			acf.s069_h3
+s071	li	{1}pool{/1}**Hồ bơi riêng**	{1}pool{/1}**Private pool**			acf.s070_li#1
+s072	li	{1}deck{/1}**Sân vườn rộng**	{1}deck{/1}**Large garden**			acf.s071_li#1
+s073	li	{1}sailing{/1}**Bến neo du thuyền riêng**	{1}sailing{/1}**Private berth**			acf.s072_li#1
+s074	li	{1}restaurant{/1}**Nhà hàng và quán bar**	{1}restaurant{/1}**Restaurants and bars**			acf.s073_li#1
+s075	li	{1}shopping_bag{/1}**Khu mua sắm**	{1}shopping_bag{/1}**Shopping**			acf.s074_li#1
+s076	li	{1}spa{/1}**Spa chăm sóc sức khỏe**	{1}spa{/1}**Wellness spa**			acf.s075_li#1
+s077	li	{1}fitness_center{/1}**Phòng gym tiêu chuẩn**	{1}fitness_center{/1}**Fully equipped gym**			acf.s076_li#1
+s078	li	{1}support_agent{/1}**Dịch vụ lễ tân 24/7**	{1}support_agent{/1}**24/7 concierge**			acf.s077_li#1
+s079	p	Biệt thự có hồ bơi riêng, sân vườn rộng và bến neo du thuyền phía sau; căn hộ mở tầm nhìn ra biển Địa Trung Hải và khu marina.	The villas have a private pool, a large garden, and a berth at the rear; the apartments look out over the Mediterranean and the marina.			acf.s078_p
+s080	h2	Chủ đầu tư &{br} {1}đơn vị phát triển{/1}	The developer &{br} {1}its track record{/1}	100% (gắn lại thẻ {br} {1} {/1}): Developer & track record		acf.s079_h2#1
+s081	p	Cybarco - Thành viên Tập đoàn Lanitis hơn 100 năm lịch sử	Cybarco — part of the Lanitis Group, with more than 100 years of history			acf.s080_p
 s082	h3	{1}diamond{/1}Năng lực và kinh nghiệm	{1}diamond{/1}Capability and experience	100%: {1}diamond{/1}Capability and experience		acf.s081_h3#1
 s083	li	verified_user	verified_user	100%: verified_user		acf.s082_li#1
-s084	p	Cybarco được thành lập năm 1945				acf.s083_p#1
-s085	p	trực thuộc Tập đoàn Lanitis.				acf.s084_p
-s086	li	workspace_premium				acf.s085_li#1
-s087	p	Lanitis có lịch sử từ năm 1896				acf.s086_p#1
-s088	p	và đã phát triển qua 4 thế hệ.				acf.s087_p
+s084	p	Cybarco được thành lập năm 1945	Cybarco was founded in 1945			acf.s083_p#1
+s085	p	trực thuộc Tập đoàn Lanitis.	as part of the Lanitis Group.			acf.s084_p
+s086	li	workspace_premium	workspace_premium			acf.s085_li#1
+s087	p	Lanitis có lịch sử từ năm 1896	Lanitis dates back to 1896			acf.s086_p#1
+s088	p	và đã phát triển qua 4 thế hệ.	and has grown across 4 generations.			acf.s087_p
 s089	li	apartment	apartment	100%: apartment		acf.s088_li#1
-s090	p	Hoạt động trong nhiều lĩnh vực				acf.s089_p#1
-s091	p	gồm xây dựng, bất động sản, du lịch, khách sạn, bến du thuyền và năng lượng.				acf.s090_p
-s092	li	workspace_premium			trung:s086	acf.s091_li#1
-s093	p	Chuyên phát triển bất động sản cao cấp				acf.s092_p#1
-s094	p	dành cho nhóm khách hàng thượng lưu tại châu Âu.				acf.s093_p
+s090	p	Hoạt động trong nhiều lĩnh vực	It operates in several sectors			acf.s089_p#1
+s091	p	gồm xây dựng, bất động sản, du lịch, khách sạn, bến du thuyền và năng lượng.	including construction, real estate, tourism, hotels, marinas, and energy.			acf.s090_p
+s092	li	workspace_premium	workspace_premium		trung:s086	acf.s091_li#1
+s093	p	Chuyên phát triển bất động sản cao cấp	It specializes in premium real estate			acf.s092_p#1
+s094	p	dành cho nhóm khách hàng thượng lưu tại châu Âu.	for high-net-worth clients in Europe.			acf.s093_p
 s095	h3	Dự án tiêu biểu	Selected projects	100%: Selected projects		acf.s094_h3
-s096	p	Limassol Marina			trung:s002	acf.s095_p#1
-s097	p	The Oval				acf.s096_p#1
-s098	p	Trilogy				acf.s097_p#1
-s099	p	Akamas Bay				acf.s098_p#1
-s100	h2	Tiến độ {1}dự án{/1}		100% (gắn lại thẻ {1} {/1}): Project timeline		acf.s099_h2#1
+s096	p	Limassol Marina	Limassol Marina		trung:s002	acf.s095_p#1
+s097	p	The Oval	The Oval			acf.s096_p#1
+s098	p	Trilogy	Trilogy			acf.s097_p#1
+s099	p	Akamas Bay	Akamas Bay			acf.s098_p#1
+s100	h2	Tiến độ {1}dự án{/1}	{1}Project{/1} timeline	100% (gắn lại thẻ {1} {/1}): Project timeline		acf.s099_h2#1
 s101	p	Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.	For current construction progress, unit availability, and project documents, please contact IMM Group.	100%: For current construction progress, unit availability, and project documents, please contact IMM Group.		acf.s100_p
-s102	p	Đầu tư sở hữu biệt thự hoặc căn hộ tại **Limassol Marina**, nhà đầu tư và gia đình có thể xét lộ trình thường trú vĩnh viễn Cộng Hòa Síp khi đáp ứng điều kiện chương trình.				acf.s101_p#1
+s102	p	Đầu tư sở hữu biệt thự hoặc căn hộ tại **Limassol Marina**, nhà đầu tư và gia đình có thể xét lộ trình thường trú vĩnh viễn Cộng Hòa Síp khi đáp ứng điều kiện chương trình.	Owning a villa or an apartment at **Limassol Marina** can open the way to permanent residence in Cyprus for you and your family, once you meet the program conditions.			acf.s101_p#1
 s103	h2	Lộ trình thường trú nhân{br} {1}vĩnh viễn tại Cộng Hòa Síp{/1}	Your route to{br} {1}permanent residence in Cyprus{/1}	100%: Your route to{br} {1}permanent residence in Cyprus{/1}		acf.s102_h2#1
 s104	h3	Đầu tư bất động sản đủ điều kiện	A qualifying real estate purchase	100%: A qualifying real estate purchase		acf.s103_h3
 s105	p	Giá trị đầu tư từ 300.000 EUR + VAT, mua mới từ chủ đầu tư.	A qualifying property starts at €300,000 plus VAT and must be bought new from the developer.	100%: A qualifying property starts at €300,000 plus VAT and must be bought new from the developer.		acf.s104_p
 s106	h3	Chuẩn bị hồ sơ	Prepare the file	100%: Prepare the file		acf.s105_h3
 s107	p	Hồ sơ có thể gồm nhà đầu tư cùng vợ/chồng và con phụ thuộc. Ngoài sở hữu bất động sản, cần chứng minh có đủ mức thu nhập hàng năm.	The application can include you, your spouse, and your dependent children. Besides owning the property, you need to show a secured annual income.	100%: The application can include you, your spouse, and your dependent children. Besides owning the property, you need to show a secured annual income.		acf.s106_p
 s108	h3	Trở thành thường trú nhân vĩnh viễn	Become a permanent resident	100%: Become a permanent resident		acf.s107_h3
-s109	p	Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.	You need to visit Cyprus once every 2 years to keep the status.	100%: You need to visit Cyprus once every 2 years to keep the status.		acf.s108_p
+s109	p	Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.	You need to visit Cyprus once every 2 years to keep the status.	100%: You need to visit Cyprus once every 2 years to keep the status.	"#bo-qua-so: ""1 lần"" viết thành ""once"" cho tự nhiên"	acf.s108_p
 s110	p	Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp hoặc quyền sinh sống, làm việc tại toàn bộ EU.	Cyprus permanent residence is not Cypriot citizenship, and it does not give the right to live or work across the whole EU.	100%: Cyprus permanent residence is not Cypriot citizenship, and it does not give the right to live or work across the whole EU.		acf.s109_p
 s111	h2	Lợi thế thường trú nhân{br} {1}Cộng Hòa Síp{/1}	Advantages of{br} {1}Cyprus permanent residence{/1}	100%: Advantages of{br} {1}Cyprus permanent residence{/1}		acf.s110_h2#1
 s112	p	Quyền lợi khi có thường trú nhân Síp	What Cyprus permanent residence gives you	100%: What Cyprus permanent residence gives you		acf.s111_p
 s113	p	holiday_village	holiday_village	100%: holiday_village	trung:s055	acf.s112_p#1
-s114	p	01				acf.s113_p
+s114	p	01	01			acf.s113_p
 s115	h3	Sinh sống tại Cộng Hòa Síp	Living in Cyprus	100%: Living in Cyprus		acf.s114_h3
 s116	li	Nhà đầu tư và gia đình được sinh sống, học tập và kinh doanh tại Cộng Hòa Síp.	You and your family can live, study, and do business in Cyprus.	100%: You and your family can live, study, and do business in Cyprus.		acf.s115_li
 s117	li	Được tiếp cận môi trường sống tiêu chuẩn châu Âu, khí hậu Địa Trung Hải và cộng đồng quốc tế.	Access to a European standard of living, a Mediterranean climate, and an international community.	100%: Access to a European standard of living, a Mediterranean climate, and an international community.		acf.s116_li
 s118	p	{1}school{/1}{2}business_center{/2}	{1}school{/1}{2}business_center{/2}	100%: {1}school{/1}{2}business_center{/2}		acf.s117_p#1
-s119	p	02				acf.s118_p
+s119	p	02	02			acf.s118_p
 s120	h3	Giáo dục, kinh doanh và thuế	Education, business, and tax	100%: Education, business, and tax		acf.s119_h3
 s121	li	Hệ thống giáo dục chịu ảnh hưởng chuẩn Anh Quốc.	An education system shaped by the British model.	100%: An education system shaped by the British model.		acf.s120_li
 s122	li	Môi trường kinh doanh minh bạch; thuế doanh nghiệp 12,5% (đối chiếu ngày 18/08/2026).	A transparent business environment; corporate tax of 12.5% (as of August 18, 2026).	100%: A transparent business environment; corporate tax of 12.5% (as of August 18, 2026).		acf.s121_li
 s123	li	Chính sách thuế cá nhân phụ thuộc tình trạng cư trú thuế, nguồn thu nhập và quy định hiện hành.	Personal tax depends on your tax residence status, your sources of income, and the rules in force.	100%: Personal tax depends on your tax residence status, your sources of income, and the rules in force.		acf.s122_li
-s124	p	{1}verified_user{/1}{2}badge{/2}				acf.s123_p#1
-s125	p	03				acf.s124_p
+s124	p	{1}verified_user{/1}{2}badge{/2}	{1}verified_user{/1}{2}badge{/2}			acf.s123_p#1
+s125	p	03	03			acf.s124_p
 s126	h3	Lưu ý về quyền thường trú	Points to note about permanent residence	100%: Points to note about permanent residence		acf.s125_h3
 s127	li	Quyền làm việc, kinh doanh và hưởng chính sách thuế cần xét theo điều kiện cụ thể.	Your right to work and do business, and the tax treatment that applies, must be assessed case by case.	100%: Your right to work and do business, and the tax treatment that applies, must be assessed case by case.		acf.s126_li
 s128	li	Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp.	Cyprus permanent residence is not Cypriot citizenship.	100%: Cyprus permanent residence is not Cypriot citizenship.		acf.s127_li
@@ -135,10 +135,10 @@ s133	h4	Đáp ứng điều kiện cư trú và ngôn ngữ	Meet the residence a
 s134	p	Cư trú thực tế tối thiểu 8 năm trong vòng 11 năm. Đạt trình độ tiếng Hy Lạp B1 và đạt bài kiểm tra hội nhập văn hóa.	At least 8 years of physical residence within an 11-year period, Greek language at CEFR level B1, and a pass in the cultural integration test.	100%: At least 8 years of physical residence within an 11-year period, Greek language at CEFR level B1, and a pass in the cultural integration test.		acf.s133_p
 s135	h4	Công dân EU	Cypriot (EU) citizenship	100%: Cypriot (EU) citizenship		acf.s134_h4
 s136	p	Cho phép đa tịch. Sở hữu Hộ chiếu Síp – Tự do di chuyển hơn 170 quốc gia.	Dual citizenship is allowed. A Cypriot passport gives visa-free travel to more than 170 destinations.	100%: Dual citizenship is allowed. A Cypriot passport gives visa-free travel to more than 170 destinations.		acf.s135_p
-s137	h2	Nhận tư vấn dự án Limassol Marina & {br}{1}lộ trình thường trú nhân Síp{/1}		87%: Talk to us about Coral Vista & {br}{1}the Cyprus permanent residence route{/1}		acf.s136_h2#1
+s137	h2	Nhận tư vấn dự án Limassol Marina & {br}{1}lộ trình thường trú nhân Síp{/1}	Talk to us about Limassol Marina & {br}{1}the Cyprus permanent residence route{/1}	87%: Talk to us about Coral Vista & {br}{1}the Cyprus permanent residence route{/1}		acf.s136_h2#1
 s138	cta	Yêu cầu tư vấn	Book a consultation	100%: Book a consultation	trung:s004	acf.s137_cta
 s139	li	Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.	An IMM advisor will contact you to discuss the project in detail and assess your eligibility.	100%: An IMM advisor will contact you to discuss the project in detail and assess your eligibility.		acf.s138_li
 s140	li	Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.	Your personal information is kept confidential under IMM Group's Privacy Policy.	100%: Your personal information is kept confidential under IMM Group's Privacy Policy.		acf.s139_li
 s141	p	balance	balance	100%: balance		acf.s140_p#1
 s142	h3	Lưu ý thông tin	Important information	100%: Important information		acf.s141_h3
-s143	p	Thông tin trên trang này nhằm cung cấp tổng quan về dự án Limassol Marina, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.		94%: The information on this page provides an overview of the Coral Vista project. It is not legal, securities, or personalized investment advice.		acf.s142_p
+s143	p	Thông tin trên trang này nhằm cung cấp tổng quan về dự án Limassol Marina, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.	The information on this page provides an overview of the Limassol Marina project. It is not legal, securities, or personalized investment advice.	94%: The information on this page provides an overview of the Coral Vista project. It is not legal, securities, or personalized investment advice.		acf.s142_p

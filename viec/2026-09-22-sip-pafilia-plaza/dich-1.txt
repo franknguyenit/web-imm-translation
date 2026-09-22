@@ -1,0 +1,53 @@
+[s001] Cyprus real estate | Premium apartment project
+[s003] A 5-star mixed-use apartment building in Paphos — a route to permanent residence in Cyprus
+[s005] {1}{2}euro_symbol{/2}Minimum investment{/1}**€378,000**
+[s006] {1}{2}apartment{/2}Project size{/1}**82 apartments**
+[s015] Permanent residence benefits
+[s016] Pafilia Plaza 5-star mixed-use apartment project video
+[s017] {1}play_arrow{/1}{2}Pafilia Plaza project video{/2}
+[s018] A central location &{br} {1}easy connections{/1}
+[s019] Central Paphos {1}·{/1} Cyprus
+[s022] A connection point in Paphos
+[s024] Right in the center of Paphos, a city on the UNESCO World Heritage list.
+[s025] Kato Paphos
+[s026] Close to the Kato Paphos Archaeological Park and the city's main sights.
+[s028] About a 5–10 minute drive to everyday amenities such as shopping, restaurants, hospitals, and schools.
+[s029] Airport connections
+[s030] About a 12-minute drive to Paphos airport and about 40 minutes to Limassol.
+[s031] Pafilia Plaza &{br} {1}the Cyprus permanent residence route{/1}
+[s032] Right in the center of Paphos, the former capital of Cyprus and a UNESCO World Heritage city.
+[s033] An 8-story mixed-use building, with retail on the ground floor and 82 premium apartments above.
+[s034] The unit mix runs from studios and 1- and 2-bedroom apartments to 3-bedroom penthouses.
+[s035] The property investment that qualifies for Cyprus permanent residence starts at €300,000, before VAT and related costs.
+[s036] You and your family can apply for permanent residence in Cyprus once you meet the program conditions.
+[s042] A 5-star mixed-use apartment building
+[s044] 8 stories, 82 apartments
+[s046] Studios, 1- and 2-bedroom apartments, 3-bedroom penthouses
+[s048] From €378,000
+[s051] Design & amenities to a {1}5-star standard{/1}
+[s054] Contemporary architecture
+[s057] Sea and city views over Paphos
+[s060] Modern, open, and well equipped
+[s063] A 5-star mixed-use building
+[s068] {1}pool{/1}**Communal pool**
+[s069] {1}fitness_center{/1}**Gym**
+[s070] {1}local_cafe{/1}**Cafe**
+[s071] {1}storefront{/1}**Boutique shops**
+[s072] The apartments suit city residents, professionals, families, and long-term tenants.
+[s073] The developer &{br} {1}its track record{/1}
+[s093] Renderings &{br} {1}project timeline{/1}
+[s095] Owning an apartment at **Pafilia Plaza** can open the way to permanent residence in Cyprus for you and your family, once you meet the program conditions.
+[s103] Cyprus permanent residence is the right to live in Cyprus; it is not Cypriot citizenship, and it does not give the right to live or work across the whole EU.
+[s105] What Cyprus permanent residence gives you
+[s107] 01
+[s110] Access to a European standard of living, modern infrastructure, and an international community.
+[s112] 02
+[s114] Cyprus has healthcare and education systems built to European standards.
+[s115] The education system is shaped by the British model, which suits families planning a long-term education for their children.
+[s117] 03
+[s118] Business environment and tax
+[s119] Cyprus has a transparent business environment and a clear regulatory system.
+[s120] Corporate tax in Cyprus is 12.5%, among the more competitive rates in Europe.
+[s121] Personal tax benefits depend on your tax residence status and on each investor's own file.
+[s129] Talk to us about Pafilia Plaza & {br}{1}the Cyprus permanent residence route{/1}
+[s135] The information on this page provides an overview of the Pafilia Plaza project. It is not legal, securities, or personalized investment advice.

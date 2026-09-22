@@ -1,0 +1,74 @@
+[s001] Cyprus real estate | Flagship project
+[s002] Limassol Marina
+[s003] Luxury villas and apartments at the marina — a route to permanent residence in Cyprus
+[s005] {1}{2}villa{/2}Minimum investment{/1}**€3,900,000**
+[s006] {1}{2}holiday_village{/2}Status{/1}**Units available**
+[s007] {1}{2}bed{/2}Property type{/1}**Luxury villas & apartments**
+[s008] Limassol Marina
+[s013] Developer Cybarco
+[s017] Limassol Marina flagship project video
+[s018] {1}play_arrow{/1}{2}Limassol Marina project video{/2}
+[s019] By the sea &{br} {1}in central Limassol{/1}
+[s020] Limassol Marina {1}·{/1} Limassol marina {2}·{/2} Cyprus
+[s023] A prime position on the marina
+[s024] Central Limassol
+[s025] About 2 minutes to the financial district, malls, international schools, and hospitals.
+[s026] Molos Park
+[s027] Next to the Molos seafront park, about 1 km long.
+[s028] Sea connections
+[s029] Easy sailing links to marinas and destinations across Europe.
+[s030] An international marina
+[s031] Limassol Marina holds the 5 Gold Anchor Platinum Award.
+[s032] Luxury villas & apartments at {1}Limassol Marina{/1}
+[s033] Set right at Limassol Marina, a landmark address in Cyprus.
+[s034] A rare waterfront setting combining villas, luxury apartments, and private berths.
+[s035|#bo-qua-so: "tháng 6/2021" viết thành tên tháng theo style guide mục 5] The project was completed and handed over in June 2021; only a limited number of units remain.
+[s036] Remaining units at Limassol Marina start at about €3.9 million as a guide; the property investment that qualifies for Cyprus permanent residence starts at €300,000, before VAT and related costs.
+[s041] Limassol Marina
+[s042] City
+[s043] Limassol, Cyprus
+[s045] Luxury villas and apartments
+[s047] Private berth
+[s049|#bo-qua-so: "tháng 6/2021" viết thành tên tháng theo style guide mục 5] Completed in June 2021
+[s051] From €3,900,000
+[s053] Cybarco
+[s057] Villas & apartments
+[s058] sailing
+[s060] Private berth
+[s063] Central Limassol
+[s066] From €3,900,000
+[s067] sync
+[s070] Refined waterfront living
+[s071] {1}pool{/1}**Private pool**
+[s072] {1}deck{/1}**Large garden**
+[s073] {1}sailing{/1}**Private berth**
+[s074] {1}restaurant{/1}**Restaurants and bars**
+[s075] {1}shopping_bag{/1}**Shopping**
+[s076] {1}spa{/1}**Wellness spa**
+[s077] {1}fitness_center{/1}**Fully equipped gym**
+[s078] {1}support_agent{/1}**24/7 concierge**
+[s079] The villas have a private pool, a large garden, and a berth at the rear; the apartments look out over the Mediterranean and the marina.
+[s080] The developer &{br} {1}its track record{/1}
+[s081] Cybarco — part of the Lanitis Group, with more than 100 years of history
+[s084] Cybarco was founded in 1945
+[s085] as part of the Lanitis Group.
+[s086] workspace_premium
+[s087] Lanitis dates back to 1896
+[s088] and has grown across 4 generations.
+[s090] It operates in several sectors
+[s091] including construction, real estate, tourism, hotels, marinas, and energy.
+[s092] workspace_premium
+[s093] It specializes in premium real estate
+[s094] for high-net-worth clients in Europe.
+[s096] Limassol Marina
+[s097] The Oval
+[s098] Trilogy
+[s099] Akamas Bay
+[s100] {1}Project{/1} timeline
+[s102] Owning a villa or an apartment at **Limassol Marina** can open the way to permanent residence in Cyprus for you and your family, once you meet the program conditions.
+[s114] 01
+[s119] 02
+[s124] {1}verified_user{/1}{2}badge{/2}
+[s125] 03
+[s137] Talk to us about Limassol Marina & {br}{1}the Cyprus permanent residence route{/1}
+[s143] The information on this page provides an overview of the Limassol Marina project. It is not legal, securities, or personalized investment advice.

@@ -1,10 +1,10 @@
 id	loai	vi	en	tm	ghi_chu	src
-s001	p	Thường trú nhân Cộng Hòa Síp | Dự án căn hộ cao cấp		87%: Cyprus permanent residence | Premium villa community		acf.s001_p
+s001	p	Thường trú nhân Cộng Hòa Síp | Dự án căn hộ cao cấp	Cyprus real estate | Premium apartment project	87%: Cyprus permanent residence | Premium villa community		acf.s001_p
 s002	h1	Pafilia Plaza	Pafilia Plaza	100%: Pafilia Plaza		acf.s002_h1
-s003	p	Căn hộ phức hợp 5 sao tại Paphos – Lộ trình thường trú nhân Cộng Hòa Síp				acf.s003_p
+s003	p	Căn hộ phức hợp 5 sao tại Paphos – Lộ trình thường trú nhân Cộng Hòa Síp	A 5-star mixed-use apartment building in Paphos — a route to permanent residence in Cyprus			acf.s003_p
 s004	cta	YÊU CẦU TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s004_cta
-s005	p	{1}{2}euro_symbol{/2}Mức đầu tư tối thiểu{/1}**378.000 EUR**				acf.s005_p#1
-s006	p	{1}{2}apartment{/2}Quy mô dự án{/1}**82 căn hộ**				acf.s006_p#1
+s005	p	{1}{2}euro_symbol{/2}Mức đầu tư tối thiểu{/1}**378.000 EUR**	{1}{2}euro_symbol{/2}Minimum investment{/1}**€378,000**			acf.s005_p#1
+s006	p	{1}{2}apartment{/2}Quy mô dự án{/1}**82 căn hộ**	{1}{2}apartment{/2}Project size{/1}**82 apartments**			acf.s006_p#1
 s007	p	{1}{2}check_circle{/2}Tình trạng{/1}**Còn suất**	{1}{2}check_circle{/2}Status{/1}**Units available**	100%: {1}{2}check_circle{/2}Status{/1}**Units available**		acf.s007_p#1
 s008	cta	Pafilia Plaza	Pafilia Plaza	100%: Pafilia Plaza	trung:s002	acf.s008_cta
 s009	cta	Hình ảnh dự án	Project gallery	100%: Project gallery		acf.s009_cta
@@ -13,65 +13,65 @@ s011	cta	Tổng quan dự án	Project overview	100%: Project overview		acf.s011_
 s012	cta	Thiết kế & tiện ích	Design & amenities	100%: Design & amenities		acf.s012_cta#1
 s013	cta	Nhà phát triển Pafilia	Developer Pafilia	100%: Developer Pafilia		acf.s013_cta
 s014	cta	Tiến độ dự án	Project timeline	100%: Project timeline		acf.s014_cta
-s015	cta	Quyền lợi thường trú				acf.s015_cta
-s016	img	Video dự án căn hộ phức hợp 5 sao Pafilia Plaza				acf.s016_cta#1@alt
-s017	cta	{1}play_arrow{/1}{2}Video giới thiệu Pafilia Plaza{/2}				acf.s016_cta#2
-s018	h2	Vị trí trung tâm &{br} {1}kết nối thuận tiện{/1}				acf.s017_h2#1
-s019	p	Trung tâm Paphos {1}·{/1} Cộng Hòa Síp		95%: Central Paphos, Cyprus		acf.s018_p#1
+s015	cta	Quyền lợi thường trú	Permanent residence benefits			acf.s015_cta
+s016	img	Video dự án căn hộ phức hợp 5 sao Pafilia Plaza	Pafilia Plaza 5-star mixed-use apartment project video			acf.s016_cta#1@alt
+s017	cta	{1}play_arrow{/1}{2}Video giới thiệu Pafilia Plaza{/2}	{1}play_arrow{/1}{2}Pafilia Plaza project video{/2}			acf.s016_cta#2
+s018	h2	Vị trí trung tâm &{br} {1}kết nối thuận tiện{/1}	A central location &{br} {1}easy connections{/1}			acf.s017_h2#1
+s019	p	Trung tâm Paphos {1}·{/1} Cộng Hòa Síp	Central Paphos {1}·{/1} Cyprus	95%: Central Paphos, Cyprus		acf.s018_p#1
 s020	cta	Google Maps	Google Maps	100%: Google Maps		acf.s019_cta#1
 s021	p	Vị trí dự án	Project location	100%: Project location		acf.s020_p
-s022	h3	Tâm điểm kết nối tại Paphos				acf.s021_h3
+s022	h3	Tâm điểm kết nối tại Paphos	A connection point in Paphos			acf.s021_h3
 s023	h4	Trung tâm Paphos	Central Paphos	100%: Central Paphos		acf.s022_h4
-s024	p	Nằm ngay trung tâm Paphos, thành phố thuộc danh sách Di sản Thế giới của UNESCO.				acf.s023_p
-s025	h4	Kato Paphos				acf.s024_h4
-s026	p	Gần Công viên khảo cổ Kato Paphos và các địa điểm tham quan nổi bật của thành phố.				acf.s025_p
+s024	p	Nằm ngay trung tâm Paphos, thành phố thuộc danh sách Di sản Thế giới của UNESCO.	Right in the center of Paphos, a city on the UNESCO World Heritage list.			acf.s023_p
+s025	h4	Kato Paphos	Kato Paphos			acf.s024_h4
+s026	p	Gần Công viên khảo cổ Kato Paphos và các địa điểm tham quan nổi bật của thành phố.	Close to the Kato Paphos Archaeological Park and the city's main sights.			acf.s025_p
 s027	h4	Tiện ích thiết yếu	Everyday amenities	100%: Everyday amenities		acf.s026_h4
-s028	p	Chỉ mất khoảng 5-10 phút lái xe đến các tiện ích thiết yếu như khu mua sắm, nhà hàng, bệnh viện và trường học.				acf.s027_p
-s029	h4	Kết nối sân bay				acf.s028_h4
-s030	p	Cách sân bay Paphos khoảng 12 phút lái xe và cách Limassol khoảng 40 phút lái xe.				acf.s029_p
-s031	h2	Pafilia Plaza &{br} {1}lộ trình thường trú nhân Síp{/1}				acf.s030_h2#1
-s032	p	Tọa lạc ngay trung tâm Paphos, cố đô của Cộng Hòa Síp và là thành phố được UNESCO công nhận Di sản thế giới.				acf.s031_p
-s033	p	Tòa phức hợp 8 tầng, gồm khu thương mại tầng trệt và 82 căn hộ cao cấp phía trên.				acf.s032_p
-s034	p	Các loại căn hộ gồm studio, căn 1-2 phòng ngủ và penthouse 3 phòng ngủ.				acf.s033_p
-s035	p	Mức đầu tư bất động sản đủ điều kiện xét thường trú nhân Síp từ 300.000 EUR, chưa gồm VAT và các chi phí liên quan.		85%: The project starts at €633,000; the property threshold that qualifies for Cyprus permanent residence starts at €300,000, before VAT and related costs.		acf.s034_p
-s036	p	Nhà đầu tư và gia đình có thể nộp hồ sơ xin thường trú nhân vĩnh viễn Cộng Hòa Síp khi đáp ứng điều kiện chương trình.		96%: You and your family can apply for permanent residence in Cyprus once you meet the program conditions.		acf.s035_p
+s028	p	Chỉ mất khoảng 5-10 phút lái xe đến các tiện ích thiết yếu như khu mua sắm, nhà hàng, bệnh viện và trường học.	About a 5–10 minute drive to everyday amenities such as shopping, restaurants, hospitals, and schools.			acf.s027_p
+s029	h4	Kết nối sân bay	Airport connections			acf.s028_h4
+s030	p	Cách sân bay Paphos khoảng 12 phút lái xe và cách Limassol khoảng 40 phút lái xe.	About a 12-minute drive to Paphos airport and about 40 minutes to Limassol.			acf.s029_p
+s031	h2	Pafilia Plaza &{br} {1}lộ trình thường trú nhân Síp{/1}	Pafilia Plaza &{br} {1}the Cyprus permanent residence route{/1}			acf.s030_h2#1
+s032	p	Tọa lạc ngay trung tâm Paphos, cố đô của Cộng Hòa Síp và là thành phố được UNESCO công nhận Di sản thế giới.	Right in the center of Paphos, the former capital of Cyprus and a UNESCO World Heritage city.			acf.s031_p
+s033	p	Tòa phức hợp 8 tầng, gồm khu thương mại tầng trệt và 82 căn hộ cao cấp phía trên.	An 8-story mixed-use building, with retail on the ground floor and 82 premium apartments above.			acf.s032_p
+s034	p	Các loại căn hộ gồm studio, căn 1-2 phòng ngủ và penthouse 3 phòng ngủ.	The unit mix runs from studios and 1- and 2-bedroom apartments to 3-bedroom penthouses.			acf.s033_p
+s035	p	Mức đầu tư bất động sản đủ điều kiện xét thường trú nhân Síp từ 300.000 EUR, chưa gồm VAT và các chi phí liên quan.	The property investment that qualifies for Cyprus permanent residence starts at €300,000, before VAT and related costs.	85%: The project starts at €633,000; the property threshold that qualifies for Cyprus permanent residence starts at €300,000, before VAT and related costs.		acf.s034_p
+s036	p	Nhà đầu tư và gia đình có thể nộp hồ sơ xin thường trú nhân vĩnh viễn Cộng Hòa Síp khi đáp ứng điều kiện chương trình.	You and your family can apply for permanent residence in Cyprus once you meet the program conditions.	96%: You and your family can apply for permanent residence in Cyprus once you meet the program conditions.		acf.s035_p
 s037	cta	YÊU CẦU TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s004	acf.s036_cta
 s038	h3	Thông tin dự án	Project information	100%: Project information		acf.s037_h3
 s039	p	Vị trí	Location	100%: Location		acf.s038_p
 s040	p	Trung tâm Paphos, Cộng Hòa Síp	Central Paphos, Cyprus	100%: Central Paphos, Cyprus		acf.s039_p
 s041	p	Loại hình	Property type	100%: Property type		acf.s040_p
-s042	p	Căn hộ phức hợp 5 sao				acf.s041_p
+s042	p	Căn hộ phức hợp 5 sao	A 5-star mixed-use apartment building			acf.s041_p
 s043	p	Quy mô	Scale	100%: Scale		acf.s042_p
-s044	p	8 tầng, 82 căn hộ				acf.s043_p
+s044	p	8 tầng, 82 căn hộ	8 stories, 82 apartments			acf.s043_p
 s045	p	Loại căn	Unit types	100%: Unit types		acf.s044_p
-s046	p	Studio, căn 1-2 phòng ngủ, penthouse 3 phòng ngủ				acf.s045_p
+s046	p	Studio, căn 1-2 phòng ngủ, penthouse 3 phòng ngủ	Studios, 1- and 2-bedroom apartments, 3-bedroom penthouses			acf.s045_p
 s047	p	Mức đầu tư	Investment	100%: Investment		acf.s046_p
-s048	p	Từ 378.000 EUR		92%: From €375,000		acf.s047_p
+s048	p	Từ 378.000 EUR	From €378,000	92%: From €375,000		acf.s047_p
 s049	p	Nhà phát triển	Developer	100%: Developer		acf.s048_p
 s050	p	Pafilia	Pafilia	100%: Pafilia		acf.s049_p
-s051	h2	Thiết kế & tiện ích {1}đẳng cấp 5 sao{/1}				acf.s050_h2#1
+s051	h2	Thiết kế & tiện ích {1}đẳng cấp 5 sao{/1}	Design & amenities to a {1}5-star standard{/1}			acf.s050_h2#1
 s052	p	architecture	architecture	100%: architecture		acf.s051_p#1
 s053	p	Phong cách	Style	100%: Style		acf.s052_p
-s054	p	Kiến trúc đương đại				acf.s053_p
+s054	p	Kiến trúc đương đại	Contemporary architecture			acf.s053_p
 s055	p	landscape	landscape	100%: landscape		acf.s054_p#1
 s056	p	Tầm nhìn	Views	100%: Views		acf.s055_p
-s057	p	Hướng biển và thành phố Paphos				acf.s056_p
+s057	p	Hướng biển và thành phố Paphos	Sea and city views over Paphos			acf.s056_p
 s058	p	open_in_full	open_in_full	100%: open_in_full		acf.s057_p#1
 s059	p	Không gian sống	Living space	100%: Living space		acf.s058_p
-s060	p	Hiện đại, thoáng mở và tiện nghi				acf.s059_p
+s060	p	Hiện đại, thoáng mở và tiện nghi	Modern, open, and well equipped			acf.s059_p
 s061	p	hotel_class	hotel_class	100%: hotel_class		acf.s060_p#1
 s062	p	Tiêu chuẩn tiện ích	Amenity standard	100%: Amenity standard		acf.s061_p
-s063	p	Phức hợp 5 sao				acf.s062_p
+s063	p	Phức hợp 5 sao	A 5-star mixed-use building			acf.s062_p
 s064	p	check_circle	check_circle	100%: check_circle		acf.s063_p#1
 s065	p	Tình trạng	Status	100%: Status		acf.s064_p
 s066	p	Còn suất	Units available	100%: Units available		acf.s065_p
 s067	h3	Tiện ích nội khu	On-site amenities	100%: On-site amenities		acf.s066_h3
-s068	li	{1}pool{/1}**Bể bơi chung**				acf.s067_li#1
-s069	li	{1}fitness_center{/1}**Phòng gym**		87%: {1}fitness_center{/1}**Gym**		acf.s068_li#1
-s070	li	{1}local_cafe{/1}**Quán cà phê**				acf.s069_li#1
-s071	li	{1}storefront{/1}**Cửa hàng boutique**				acf.s070_li#1
-s072	p	Không gian sống phù hợp với cư dân đô thị, chuyên gia, gia đình và khách thuê dài hạn.				acf.s071_p
-s073	h2	Chủ đầu tư &{br} {1}đơn vị phát triển{/1}		100% (gắn lại thẻ {br} {1} {/1}): Developer & track record		acf.s072_h2#1
+s068	li	{1}pool{/1}**Bể bơi chung**	{1}pool{/1}**Communal pool**			acf.s067_li#1
+s069	li	{1}fitness_center{/1}**Phòng gym**	{1}fitness_center{/1}**Gym**	87%: {1}fitness_center{/1}**Gym**		acf.s068_li#1
+s070	li	{1}local_cafe{/1}**Quán cà phê**	{1}local_cafe{/1}**Cafe**			acf.s069_li#1
+s071	li	{1}storefront{/1}**Cửa hàng boutique**	{1}storefront{/1}**Boutique shops**			acf.s070_li#1
+s072	p	Không gian sống phù hợp với cư dân đô thị, chuyên gia, gia đình và khách thuê dài hạn.	The apartments suit city residents, professionals, families, and long-term tenants.			acf.s071_p
+s073	h2	Chủ đầu tư &{br} {1}đơn vị phát triển{/1}	The developer &{br} {1}its track record{/1}	100% (gắn lại thẻ {br} {1} {/1}): Developer & track record		acf.s072_h2#1
 s074	p	Pafilia - Nhà phát triển bất động sản nhà ở cao cấp hàng đầu tại Síp	Pafilia — an established developer of premium residential real estate in Cyprus	100%: Pafilia — an established developer of premium residential real estate in Cyprus		acf.s073_p
 s075	h3	{1}diamond{/1}Năng lực và kinh nghiệm	{1}diamond{/1}Capability and experience	100%: {1}diamond{/1}Capability and experience		acf.s074_h3#1
 s076	li	verified_user	verified_user	100%: verified_user		acf.s075_li#1
@@ -91,35 +91,35 @@ s089	p	Pafilia Plaza	Pafilia Plaza	100%: Pafilia Plaza	trung:s002	acf.s088_p#1
 s090	cta	Coral Vista	Coral Vista	100%: Coral Vista		acf.s089_cta
 s091	cta	Beachside Villa	Beachside Villa	100%: Beachside Villa		acf.s090_cta
 s092	cta	Elysia Blu	Elysia Blu	100%: Elysia Blu		acf.s091_cta
-s093	h2	Thiết kế mô phỏng &{br} {1}tiến độ dự án{/1}				acf.s092_h2#1
+s093	h2	Thiết kế mô phỏng &{br} {1}tiến độ dự án{/1}	Renderings &{br} {1}project timeline{/1}			acf.s092_h2#1
 s094	p	Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.	For current construction progress, unit availability, and project documents, please contact IMM Group.	100%: For current construction progress, unit availability, and project documents, please contact IMM Group.		acf.s093_p
-s095	p	Đầu tư sở hữu căn hộ tại dự án **Pafilia Plaza**, nhà đầu tư và gia đình có thể xét lộ trình thường trú vĩnh viễn Cộng Hòa Síp khi đáp ứng điều kiện chương trình.				acf.s094_p#1
+s095	p	Đầu tư sở hữu căn hộ tại dự án **Pafilia Plaza**, nhà đầu tư và gia đình có thể xét lộ trình thường trú vĩnh viễn Cộng Hòa Síp khi đáp ứng điều kiện chương trình.	Owning an apartment at **Pafilia Plaza** can open the way to permanent residence in Cyprus for you and your family, once you meet the program conditions.			acf.s094_p#1
 s096	h2	Lộ trình thường trú nhân{br} {1}vĩnh viễn tại Cộng Hòa Síp{/1}	Your route to{br} {1}permanent residence in Cyprus{/1}	100%: Your route to{br} {1}permanent residence in Cyprus{/1}		acf.s095_h2#1
 s097	h3	Đầu tư bất động sản đủ điều kiện	A qualifying real estate purchase	100%: A qualifying real estate purchase		acf.s096_h3
 s098	p	Giá trị đầu tư từ 300.000 EUR + VAT, mua mới từ chủ đầu tư.	A qualifying property starts at €300,000 plus VAT and must be bought new from the developer.	100%: A qualifying property starts at €300,000 plus VAT and must be bought new from the developer.		acf.s097_p
 s099	h3	Chuẩn bị hồ sơ	Prepare the file	100%: Prepare the file		acf.s098_h3
 s100	p	Hồ sơ có thể gồm nhà đầu tư cùng vợ/chồng và con phụ thuộc. Ngoài sở hữu bất động sản, cần chứng minh có đủ mức thu nhập hàng năm.	The application can include you, your spouse, and your dependent children. Besides owning the property, you need to show a secured annual income.	100%: The application can include you, your spouse, and your dependent children. Besides owning the property, you need to show a secured annual income.		acf.s099_p
 s101	h3	Trở thành thường trú nhân vĩnh viễn	Become a permanent resident	100%: Become a permanent resident		acf.s100_h3
-s102	p	Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.	You need to visit Cyprus once every 2 years to keep the status.	100%: You need to visit Cyprus once every 2 years to keep the status.		acf.s101_p
-s103	p	Thường trú nhân Síp là quyền cư trú tại Cộng Hòa Síp, không đồng nghĩa với quốc tịch Síp hoặc quyền sinh sống, làm việc tại toàn bộ EU.		99%: Cyprus permanent residence is the right to live in Cyprus; it is not Cypriot citizenship, and it does not give the right to live or work across the whole EU.		acf.s102_p
+s102	p	Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.	You need to visit Cyprus once every 2 years to keep the status.	100%: You need to visit Cyprus once every 2 years to keep the status.	"#bo-qua-so: ""1 lần"" viết thành ""once"" cho tự nhiên"	acf.s101_p
+s103	p	Thường trú nhân Síp là quyền cư trú tại Cộng Hòa Síp, không đồng nghĩa với quốc tịch Síp hoặc quyền sinh sống, làm việc tại toàn bộ EU.	Cyprus permanent residence is the right to live in Cyprus; it is not Cypriot citizenship, and it does not give the right to live or work across the whole EU.	99%: Cyprus permanent residence is the right to live in Cyprus; it is not Cypriot citizenship, and it does not give the right to live or work across the whole EU.		acf.s102_p
 s104	h2	Lợi thế thường trú nhân{br} {1}Cộng Hòa Síp{/1}	Advantages of{br} {1}Cyprus permanent residence{/1}	100%: Advantages of{br} {1}Cyprus permanent residence{/1}		acf.s103_h2#1
-s105	p	Quyền lợi khi có thường trú nhân vĩnh viễn Síp		87%: What Cyprus permanent residence gives you		acf.s104_p
+s105	p	Quyền lợi khi có thường trú nhân vĩnh viễn Síp	What Cyprus permanent residence gives you	87%: What Cyprus permanent residence gives you		acf.s104_p
 s106	p	verified_user	verified_user	100%: verified_user	trung:s076	acf.s105_p#1
-s107	p	01				acf.s106_p
+s107	p	01	01			acf.s106_p
 s108	h3	Sinh sống tại Cộng Hòa Síp	Living in Cyprus	100%: Living in Cyprus		acf.s107_h3
 s109	li	Nhà đầu tư và gia đình được sinh sống, học tập và kinh doanh tại Cộng Hòa Síp theo quyền của thường trú nhân.	You and your family can live, study, and do business in Cyprus with the rights of a permanent resident.	100%: You and your family can live, study, and do business in Cyprus with the rights of a permanent resident.		acf.s108_li
-s110	li	Được tiếp cận môi trường sống tiêu chuẩn châu Âu, hạ tầng hiện đại và cộng đồng quốc tế.		88%: Access to a European standard of living, a Mediterranean climate, and an international community.		acf.s109_li
+s110	li	Được tiếp cận môi trường sống tiêu chuẩn châu Âu, hạ tầng hiện đại và cộng đồng quốc tế.	Access to a European standard of living, modern infrastructure, and an international community.	88%: Access to a European standard of living, a Mediterranean climate, and an international community.		acf.s109_li
 s111	p	verified_user	verified_user	100%: verified_user	trung:s076	acf.s110_p#1
-s112	p	02				acf.s111_p
+s112	p	02	02			acf.s111_p
 s113	h3	Y tế và giáo dục	Healthcare and education	100%: Healthcare and education		acf.s112_h3
-s114	li	Cộng Hòa Síp có hệ thống y tế và giáo dục theo tiêu chuẩn châu Âu.				acf.s113_li
-s115	li	Hệ thống giáo dục chịu ảnh hưởng chuẩn Anh Quốc, phù hợp với các gia đình có kế hoạch học tập dài hạn cho con.				acf.s114_li
+s114	li	Cộng Hòa Síp có hệ thống y tế và giáo dục theo tiêu chuẩn châu Âu.	Cyprus has healthcare and education systems built to European standards.			acf.s113_li
+s115	li	Hệ thống giáo dục chịu ảnh hưởng chuẩn Anh Quốc, phù hợp với các gia đình có kế hoạch học tập dài hạn cho con.	The education system is shaped by the British model, which suits families planning a long-term education for their children.			acf.s114_li
 s116	p	verified_user	verified_user	100%: verified_user	trung:s076	acf.s115_p#1
-s117	p	03				acf.s116_p
-s118	h3	Môi trường kinh doanh và thuế				acf.s117_h3
-s119	li	Síp có môi trường kinh doanh minh bạch, hệ thống quy định rõ ràng.				acf.s118_li
-s120	li	Thuế doanh nghiệp tại Síp là 12,5%, thuộc nhóm cạnh tranh tại châu Âu.				acf.s119_li
-s121	li	Các quyền lợi thuế cá nhân phụ thuộc tình trạng cư trú thuế và hồ sơ cụ thể của từng nhà đầu tư.				acf.s120_li
+s117	p	03	03			acf.s116_p
+s118	h3	Môi trường kinh doanh và thuế	Business environment and tax			acf.s117_h3
+s119	li	Síp có môi trường kinh doanh minh bạch, hệ thống quy định rõ ràng.	Cyprus has a transparent business environment and a clear regulatory system.			acf.s118_li
+s120	li	Thuế doanh nghiệp tại Síp là 12,5%, thuộc nhóm cạnh tranh tại châu Âu.	Corporate tax in Cyprus is 12.5%, among the more competitive rates in Europe.			acf.s119_li
+s121	li	Các quyền lợi thuế cá nhân phụ thuộc tình trạng cư trú thuế và hồ sơ cụ thể của từng nhà đầu tư.	Personal tax benefits depend on your tax residence status and on each investor's own file.			acf.s120_li
 s122	h3	Lộ trình nhập quốc tịch Síp	The route to Cypriot citizenship	100%: The route to Cypriot citizenship		acf.s121_h3
 s123	h4	Sở hữu quyền thường trú vĩnh viễn (PR)	Hold permanent residence (PR)	100%: Hold permanent residence (PR)		acf.s122_h4
 s124	p	Gia hạn thẻ thường trú (vật lý) mỗi 5 năm với điều kiện còn duy trì bất động sản.	The physical permanent residence card is renewed every 5 years, provided you still own the property.	100%: The physical permanent residence card is renewed every 5 years, provided you still own the property.		acf.s123_p
@@ -127,10 +127,10 @@ s125	h4	Đáp ứng điều kiện cư trú và ngôn ngữ	Meet the residence a
 s126	p	Cư trú thực tế tối thiểu 8 năm trong vòng 11 năm. Đạt trình độ tiếng Hy Lạp B1 và đạt bài kiểm tra hội nhập văn hóa.	At least 8 years of physical residence within an 11-year period, Greek language at CEFR level B1, and a pass in the cultural integration test.	100%: At least 8 years of physical residence within an 11-year period, Greek language at CEFR level B1, and a pass in the cultural integration test.		acf.s125_p
 s127	h4	Công dân EU	Cypriot (EU) citizenship	100%: Cypriot (EU) citizenship		acf.s126_h4
 s128	p	Cho phép đa tịch. Sở hữu Hộ chiếu Síp – Tự do di chuyển hơn 170 quốc gia.	Dual citizenship is allowed. A Cypriot passport gives visa-free travel to more than 170 destinations.	100%: Dual citizenship is allowed. A Cypriot passport gives visa-free travel to more than 170 destinations.		acf.s127_p
-s129	h2	Nhận tư vấn dự án Pafilia Plaza & {br}{1}lộ trình thường trú nhân Síp{/1}		89%: Talk to us about Elysia Blu & {br}{1}the Cyprus permanent residence route{/1}		acf.s128_h2#1
+s129	h2	Nhận tư vấn dự án Pafilia Plaza & {br}{1}lộ trình thường trú nhân Síp{/1}	Talk to us about Pafilia Plaza & {br}{1}the Cyprus permanent residence route{/1}	89%: Talk to us about Elysia Blu & {br}{1}the Cyprus permanent residence route{/1}		acf.s128_h2#1
 s130	cta	Yêu cầu tư vấn	Book a consultation	100%: Book a consultation	trung:s004	acf.s129_cta
 s131	li	Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.	An IMM advisor will contact you to discuss the project in detail and assess your eligibility.	100%: An IMM advisor will contact you to discuss the project in detail and assess your eligibility.		acf.s130_li
 s132	li	Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.	Your personal information is kept confidential under IMM Group's Privacy Policy.	100%: Your personal information is kept confidential under IMM Group's Privacy Policy.		acf.s131_li
 s133	p	balance	balance	100%: balance		acf.s132_p#1
 s134	h3	Lưu ý thông tin	Important information	100%: Important information		acf.s133_h3
-s135	p	Thông tin trên trang này nhằm cung cấp tổng quan về dự án Pafilia Plaza, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.		95%: The information on this page provides an overview of the Elysia Blu project. It is not legal, securities, or personalized investment advice.		acf.s134_p
+s135	p	Thông tin trên trang này nhằm cung cấp tổng quan về dự án Pafilia Plaza, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.	The information on this page provides an overview of the Pafilia Plaza project. It is not legal, securities, or personalized investment advice.	95%: The information on this page provides an overview of the Elysia Blu project. It is not legal, securities, or personalized investment advice.		acf.s134_p

@@ -1,0 +1,1446 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/web-imm-translation/viec/nhap/goc-sip/seaview-heights.html",
+ "truong_json": null,
+ "doan": [
+  {
+   "tu": 55713,
+   "den": 55768,
+   "raw": "Bất động sản Cộng Hòa Síp | Dự án căn hộ &amp; biệt thự",
+   "loai": "p",
+   "lop": "imm4-hero__status",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 55798,
+   "den": 55813,
+   "raw": "Seaview Heights",
+   "loai": "h1",
+   "lop": "",
+   "the": "h1",
+   "ngu_canh": "",
+   "id": "s002"
+  },
+  {
+   "tu": 55846,
+   "den": 55988,
+   "raw": "Vị trí đắc địa tại thành phố biển Limassol, trải nghiệm sống hài hòa giữa nhịp sống đô thị sôi động và thiên nhiên Địa Trung Hải phóng khoáng.",
+   "loai": "p",
+   "lop": "imm4-hero__lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s003"
+  },
+  {
+   "tu": 56075,
+   "den": 56089,
+   "raw": "YÊU CẦU TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s004"
+  },
+  {
+   "tu": 57801,
+   "den": 57944,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">euro_symbol</i>Giá khởi điểm</span><strong>Từ 320.000 EUR</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s005"
+  },
+  {
+   "tu": 58007,
+   "den": 58147,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">event</i>Dự kiến hoàn thành</span><strong>Tháng 3/2029</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-1",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s006"
+  },
+  {
+   "tu": 58210,
+   "den": 58341,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">apartment</i>Chủ đầu tư</span><strong>Cybarco</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-2",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s007"
+  },
+  {
+   "tu": 58541,
+   "den": 58556,
+   "raw": "Seaview Heights",
+   "loai": "cta",
+   "lop": "imm4-anchor__name",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s008"
+  },
+  {
+   "tu": 58613,
+   "den": 58627,
+   "raw": "Hình ảnh dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s009"
+  },
+  {
+   "tu": 58649,
+   "den": 58669,
+   "raw": "Vị trí &amp; kết nối",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s010"
+  },
+  {
+   "tu": 58694,
+   "den": 58709,
+   "raw": "Tổng quan dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s011"
+  },
+  {
+   "tu": 58733,
+   "den": 58756,
+   "raw": "Thiết kế &amp; tiện ích",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s012"
+  },
+  {
+   "tu": 58779,
+   "den": 58801,
+   "raw": "Nhà phát triển Cybarco",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s013"
+  },
+  {
+   "tu": 58824,
+   "den": 58837,
+   "raw": "Tiến độ dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s014"
+  },
+  {
+   "tu": 58861,
+   "den": 58885,
+   "raw": "Lộ trình thường trú nhân",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s015"
+  },
+  {
+   "tu": 58908,
+   "den": 58931,
+   "raw": "Lợi thế thường trú nhân",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s016"
+  },
+  {
+   "tu": 61687,
+   "den": 61749,
+   "raw": "Limassol - Trái tim sầm uất<br> <em>và đáng sống bậc nhất</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s017"
+  },
+  {
+   "tu": 62021,
+   "den": 62126,
+   "raw": "Seaview Heights <span aria-hidden=\"true\">·</span> Limassol <span aria-hidden=\"true\">·</span> Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "imm4-map__meta",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s018"
+  },
+  {
+   "tu": 62243,
+   "den": 62331,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">location_on</span>Google Maps",
+   "loai": "cta",
+   "lop": "imm4-map__link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s019"
+  },
+  {
+   "tu": 62455,
+   "den": 62505,
+   "raw": "Limassol - Trái tim sầm uất và đáng sống bậc nhất:",
+   "loai": "h3",
+   "lop": "imm4-loc__heading",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s020"
+  },
+  {
+   "tu": 62546,
+   "den": 62561,
+   "raw": "Chất lượng sống",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s021"
+  },
+  {
+   "tu": 62569,
+   "den": 62664,
+   "raw": "Trung tâm quốc tế sầm uất, kết hợp giữa bề dày lịch sử và dịch vụ thương mại phát triển mạnh mẽ",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s022"
+  },
+  {
+   "tu": 62681,
+   "den": 62697,
+   "raw": "Tâm điểm kết nối",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s023"
+  },
+  {
+   "tu": 62705,
+   "den": 62774,
+   "raw": "3km đến trung tâm thành phố, cận kề các cơ sở giáo dục chất lượng cao",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s024"
+  },
+  {
+   "tu": 62791,
+   "den": 62814,
+   "raw": "Hạ tầng đại lộ ven biển",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s025"
+  },
+  {
+   "tu": 62822,
+   "den": 62924,
+   "raw": "Nằm dọc theo tuyến đường đi bộ ven biển dài 17km sầm uất bậc nhất của thành phố, cách bãi biển chỉ 4km",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s026"
+  },
+  {
+   "tu": 62941,
+   "den": 62961,
+   "raw": "Văn hóa &amp; di sản",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s027"
+  },
+  {
+   "tu": 62969,
+   "den": 63028,
+   "raw": "Cận kề khu trung tâm văn hóa cổ kính của thành phố Limassol",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s028"
+  },
+  {
+   "tu": 63298,
+   "den": 63366,
+   "raw": "Tổ hợp Căn hộ &amp; Biệt thự cao cấp<br> <em>giữa lòng Limassol</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s029"
+  },
+  {
+   "tu": 63398,
+   "den": 63513,
+   "raw": "Tọa lạc tại thành phố biển Limassol – trung tâm tài chính, thương mại và du lịch sầm uất bậc nhất của Cộng hòa Síp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s030"
+  },
+  {
+   "tu": 63520,
+   "den": 63601,
+   "raw": "Tổ hợp căn hộ và biệt thự sang trọng, tối ưu không gian xanh và tầm nhìn rộng mở.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s031"
+  },
+  {
+   "tu": 63608,
+   "den": 63674,
+   "raw": "Đơn vị phát triển Cybarco lâu đời và uy tín hàng đầu Cộng hòa Síp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s032"
+  },
+  {
+   "tu": 63681,
+   "den": 63788,
+   "raw": "Mức giá từ 320.000 EUR, hoàn toàn đáp ứng điều kiện chương trình đầu tư nhận Thường trú nhân vĩnh viễn Síp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s033"
+  },
+  {
+   "tu": 63795,
+   "den": 63839,
+   "raw": "Quy mô dự án gồm 81 căn hộ và 9 căn biệt thự",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s034"
+  },
+  {
+   "tu": 63959,
+   "den": 63973,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s035"
+  },
+  {
+   "tu": 64201,
+   "den": 64220,
+   "raw": "Bảng thông số dự án",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s036"
+  },
+  {
+   "tu": 64234,
+   "den": 64240,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s037"
+  },
+  {
+   "tu": 64249,
+   "den": 64271,
+   "raw": "Limassol, Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s038"
+  },
+  {
+   "tu": 64280,
+   "den": 64289,
+   "raw": "Loại hình",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s039"
+  },
+  {
+   "tu": 64298,
+   "den": 64357,
+   "raw": "Căn hộ cao cấp (1 - 3 PN) và Biệt thự sang trọng (3 - 4 PN)",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s040"
+  },
+  {
+   "tu": 64366,
+   "den": 64378,
+   "raw": "Quy mô dự án",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s041"
+  },
+  {
+   "tu": 64387,
+   "den": 64414,
+   "raw": "81 căn hộ và 9 căn biệt thự",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s042"
+  },
+  {
+   "tu": 64423,
+   "den": 64430,
+   "raw": "Giá bán",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s043"
+  },
+  {
+   "tu": 64439,
+   "den": 64453,
+   "raw": "Từ 320.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s044"
+  },
+  {
+   "tu": 64462,
+   "den": 64472,
+   "raw": "Chủ đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s045"
+  },
+  {
+   "tu": 64481,
+   "den": 64519,
+   "raw": "Cybarco (thuộc Tập đoàn Lanitis Group)",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s046"
+  },
+  {
+   "tu": 64528,
+   "den": 64548,
+   "raw": "Hiệu suất năng lượng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s047"
+  },
+  {
+   "tu": 64557,
+   "den": 64598,
+   "raw": "Đạt chứng nhận hiệu quả năng lượng Hạng A",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s048"
+  },
+  {
+   "tu": 64607,
+   "den": 64623,
+   "raw": "Tình trạng dự án",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s049"
+  },
+  {
+   "tu": 64632,
+   "den": 64654,
+   "raw": "Đang thi công xây dựng",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s050"
+  },
+  {
+   "tu": 64663,
+   "den": 64671,
+   "raw": "Bàn giao",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s051"
+  },
+  {
+   "tu": 64680,
+   "den": 64700,
+   "raw": "Dự kiến tháng 3/2029",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s052"
+  },
+  {
+   "tu": 64961,
+   "den": 65007,
+   "raw": "Tiện ích &amp; Thiết kế <em>chuẩn châu Âu</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s053"
+  },
+  {
+   "tu": 65089,
+   "den": 65156,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">architecture</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s054"
+  },
+  {
+   "tu": 65165,
+   "den": 65175,
+   "raw": "Phong cách",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s055"
+  },
+  {
+   "tu": 65184,
+   "den": 65205,
+   "raw": "Hiện đại và sinh thái",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s056"
+  },
+  {
+   "tu": 65228,
+   "den": 65300,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">workspace_premium</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s057"
+  },
+  {
+   "tu": 65309,
+   "den": 65328,
+   "raw": "Tiêu chuẩn tiện ích",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s058"
+  },
+  {
+   "tu": 65337,
+   "den": 65370,
+   "raw": "Đẳng cấp quốc tế tối ưu mảng xanh",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s059"
+  },
+  {
+   "tu": 65393,
+   "den": 65457,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">landscape</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s060"
+  },
+  {
+   "tu": 65466,
+   "den": 65474,
+   "raw": "Tầm nhìn",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s061"
+  },
+  {
+   "tu": 65483,
+   "den": 65522,
+   "raw": "hướng biển và hướng thành phố toàn cảnh",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s062"
+  },
+  {
+   "tu": 65545,
+   "den": 65619,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">energy_savings_leaf</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s063"
+  },
+  {
+   "tu": 65637,
+   "den": 65675,
+   "raw": "Tiêu chuẩn tiết kiệm năng lượng Hạng A",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s064"
+  },
+  {
+   "tu": 65698,
+   "den": 65764,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">location_on</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s065"
+  },
+  {
+   "tu": 65773,
+   "den": 65779,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s066"
+  },
+  {
+   "tu": 65788,
+   "den": 65810,
+   "raw": "Limassol, Cộng hòa Síp",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s067"
+  },
+  {
+   "tu": 65833,
+   "den": 65900,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">check_circle</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s068"
+  },
+  {
+   "tu": 65909,
+   "den": 65919,
+   "raw": "Tình trạng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s069"
+  },
+  {
+   "tu": 65928,
+   "den": 65941,
+   "raw": "Đang xây dựng",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s070"
+  },
+  {
+   "tu": 66036,
+   "den": 66060,
+   "raw": "Không gian sống khép kín",
+   "loai": "h3",
+   "lop": "imm4-amen__sub",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s071"
+  },
+  {
+   "tu": 66098,
+   "den": 66187,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">pool</span><strong>Hồ bơi cư dân</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s072"
+  },
+  {
+   "tu": 66196,
+   "den": 66290,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">park</span><strong>Cảnh quan xanh mát</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s073"
+  },
+  {
+   "tu": 66299,
+   "den": 66403,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">local_parking</span><strong>Hầm giữ xe hiện đại</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s074"
+  },
+  {
+   "tu": 66412,
+   "den": 66502,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">shield</span><strong>An ninh 24/7</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s075"
+  },
+  {
+   "tu": 66511,
+   "den": 66625,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">fitness_center</span><strong>Khu vực rèn luyện ngoài trời</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s076"
+  },
+  {
+   "tu": 66634,
+   "den": 66731,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">child_care</span><strong>Sân chơi trẻ em</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s077"
+  },
+  {
+   "tu": 66740,
+   "den": 66843,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">deck</span><strong>Khu vực tiện ích ngoài trời</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s078"
+  },
+  {
+   "tu": 66932,
+   "den": 67086,
+   "raw": "Seaview Heights hướng tới một không gian sống tối ưu, kết hợp hài hòa giữa nhịp sống đô thị hiện đại và sự tự do khoáng đạt của thiên nhiên Địa Trung Hải.",
+   "loai": "p",
+   "lop": "imm4-amen__note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s079"
+  },
+  {
+   "tu": 67341,
+   "den": 67388,
+   "raw": "Chủ đầu tư &amp;<br> <em>đơn vị phát triển</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s080"
+  },
+  {
+   "tu": 67432,
+   "den": 67495,
+   "raw": "Cybarco - Nhà phát triển bất động sản điểm đến hàng đầu tại Síp",
+   "loai": "p",
+   "lop": "imm4-dev__lead imm4-reveal",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s081"
+  },
+  {
+   "tu": 67542,
+   "den": 67628,
+   "raw": "<span class=\"imm4-dev__badge\" aria-hidden=\"true\">diamond</span>Năng lực và kinh nghiệm",
+   "loai": "h3",
+   "lop": "imm4-dev__eyebrow imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s082"
+  },
+  {
+   "tu": 67678,
+   "den": 67745,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">verified_user</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s083"
+  },
+  {
+   "tu": 67750,
+   "den": 67789,
+   "raw": "<strong>Hơn 80 năm kinh nghiệm</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s084"
+  },
+  {
+   "tu": 67792,
+   "den": 67815,
+   "raw": "Năng lực và kinh nghiệm",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s085"
+  },
+  {
+   "tu": 67835,
+   "den": 67900,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">engineering</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s086"
+  },
+  {
+   "tu": 67905,
+   "den": 67958,
+   "raw": "<strong>Top 3 nhà thầu lớn nhất Cộng hòa Síp</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s087"
+  },
+  {
+   "tu": 67961,
+   "den": 68054,
+   "raw": "Tổng thầu quốc tế thực hiện 40 dự án hạ tầng công trị giá hơn 140 triệu EUR cho Chính phủ Síp",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s088"
+  },
+  {
+   "tu": 68074,
+   "den": 68137,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">apartment</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s089"
+  },
+  {
+   "tu": 68142,
+   "den": 68179,
+   "raw": "<strong>Các dự án biểu tượng</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s090"
+  },
+  {
+   "tu": 68182,
+   "den": 68266,
+   "raw": "Hàng tỷ EUR giá trị siêu dự án đứng sau Limassol Marina và Trilogy Limassol Seafront",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s091"
+  },
+  {
+   "tu": 68377,
+   "den": 68392,
+   "raw": "Dự án tiêu biểu",
+   "loai": "h3",
+   "lop": "imm4-dev__projects-title imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s092"
+  },
+  {
+   "tu": 68654,
+   "den": 68711,
+   "raw": "<span class=\"imm4-dev__title-link\">Seaview Heights</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s093"
+  },
+  {
+   "tu": 68952,
+   "den": 69009,
+   "raw": "<span class=\"imm4-dev__title-link\">Centro Limassol</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s094"
+  },
+  {
+   "tu": 69270,
+   "den": 69329,
+   "raw": "<span class=\"imm4-dev__title-link\">Aktea Residence 4</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s095"
+  },
+  {
+   "tu": 69582,
+   "den": 69638,
+   "raw": "<span class=\"imm4-dev__title-link\">Park Residence</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s096"
+  },
+  {
+   "tu": 69879,
+   "den": 69917,
+   "raw": "Tiến độ dự án <em>Seaview Heights</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s097"
+  },
+  {
+   "tu": 70006,
+   "den": 70049,
+   "raw": "<strong>Đang cập nhật</strong><span></span>",
+   "loai": "p",
+   "lop": "imm4-milestone is-current",
+   "the": "article",
+   "ngu_canh": "",
+   "id": "s098"
+  },
+  {
+   "tu": 70097,
+   "den": 70210,
+   "raw": "Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.",
+   "loai": "p",
+   "lop": "imm4-progress-note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s099"
+  },
+  {
+   "tu": 70542,
+   "den": 70764,
+   "raw": "Sở hữu <strong>bất động sản Cộng Hòa Síp</strong> không chỉ là một tài sản sinh lời và tích sản an toàn bằng ngoại tệ. Việc sở hữu bất động sản Seaview Heights còn mở ra đặc quyền thường trú châu Âu vô giá cho cả gia đình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s100"
+  },
+  {
+   "tu": 70827,
+   "den": 70891,
+   "raw": "Lộ trình thường trú nhân<br> <em>vĩnh viễn tại Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s101"
+  },
+  {
+   "tu": 71033,
+   "den": 71065,
+   "raw": "Đầu tư bất động sản đủ điều kiện",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s102"
+  },
+  {
+   "tu": 71073,
+   "den": 71132,
+   "raw": "Giá trị đầu tư từ 300.000 EUR + VAT, mua mới từ chủ đầu tư.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s103"
+  },
+  {
+   "tu": 71185,
+   "den": 71199,
+   "raw": "Chuẩn bị hồ sơ",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s104"
+  },
+  {
+   "tu": 71207,
+   "den": 71337,
+   "raw": "Hồ sơ có thể gồm nhà đầu tư cùng vợ/chồng và con phụ thuộc. Ngoài sở hữu bất động sản, cần chứng minh có đủ mức thu nhập hàng năm.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s105"
+  },
+  {
+   "tu": 71390,
+   "den": 71425,
+   "raw": "Trở thành thường trú nhân vĩnh viễn",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s106"
+  },
+  {
+   "tu": 71433,
+   "den": 71487,
+   "raw": "Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s107"
+  },
+  {
+   "tu": 71557,
+   "den": 71658,
+   "raw": "Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp hoặc quyền sinh sống, làm việc tại toàn bộ EU.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s108"
+  },
+  {
+   "tu": 71975,
+   "den": 72024,
+   "raw": "Lợi thế thường trú nhân<br> <em>Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s109"
+  },
+  {
+   "tu": 72060,
+   "den": 72096,
+   "raw": "Quyền lợi khi có thường trú nhân Síp",
+   "loai": "p",
+   "lop": "imm4-rights__intro",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s110"
+  },
+  {
+   "tu": 72218,
+   "den": 72246,
+   "raw": "<span>holiday_village</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s111"
+  },
+  {
+   "tu": 72282,
+   "den": 72284,
+   "raw": "01",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s112"
+  },
+  {
+   "tu": 72295,
+   "den": 72321,
+   "raw": "Sinh sống tại Cộng Hòa Síp",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s113"
+  },
+  {
+   "tu": 72335,
+   "den": 72413,
+   "raw": "Nhà đầu tư và gia đình được sinh sống, học tập và kinh doanh tại Cộng Hòa Síp.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s114"
+  },
+  {
+   "tu": 72422,
+   "den": 72515,
+   "raw": "Được tiếp cận môi trường sống tiêu chuẩn châu Âu, khí hậu Địa Trung Hải và cộng đồng quốc tế.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s115"
+  },
+  {
+   "tu": 72616,
+   "den": 72663,
+   "raw": "<span>school</span><span>business_center</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s116"
+  },
+  {
+   "tu": 72699,
+   "den": 72701,
+   "raw": "02",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s117"
+  },
+  {
+   "tu": 72712,
+   "den": 72740,
+   "raw": "Giáo dục, kinh doanh và thuế",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s118"
+  },
+  {
+   "tu": 72754,
+   "den": 72802,
+   "raw": "Hệ thống giáo dục chịu ảnh hưởng chuẩn Anh Quốc.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s119"
+  },
+  {
+   "tu": 72811,
+   "den": 72896,
+   "raw": "Môi trường kinh doanh minh bạch; thuế doanh nghiệp 12,5% (đối chiếu ngày 18/08/2026).",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s120"
+  },
+  {
+   "tu": 72905,
+   "den": 73000,
+   "raw": "Chính sách thuế cá nhân phụ thuộc tình trạng cư trú thuế, nguồn thu nhập và quy định hiện hành.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s121"
+  },
+  {
+   "tu": 73119,
+   "den": 73165,
+   "raw": "<span>verified_user</span><span>license</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s122"
+  },
+  {
+   "tu": 73201,
+   "den": 73203,
+   "raw": "03",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s123"
+  },
+  {
+   "tu": 73214,
+   "den": 73239,
+   "raw": "Lưu ý về quyền thường trú",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s124"
+  },
+  {
+   "tu": 73253,
+   "den": 73335,
+   "raw": "Quyền làm việc, kinh doanh và hưởng chính sách thuế cần xét theo điều kiện cụ thể.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s125"
+  },
+  {
+   "tu": 73344,
+   "den": 73399,
+   "raw": "Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s126"
+  },
+  {
+   "tu": 73408,
+   "den": 73565,
+   "raw": "Quyền sinh sống, làm việc tại các nước EU khác chỉ phát sinh khi nhà đầu tư có quốc tịch EU hoặc giấy phép cư trú, giấy phép làm việc hợp lệ tại quốc gia đó.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s127"
+  },
+  {
+   "tu": 73677,
+   "den": 73704,
+   "raw": "Lộ trình nhập quốc tịch Síp",
+   "loai": "h3",
+   "lop": "imm4-citizen-route__title",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s128"
+  },
+  {
+   "tu": 73839,
+   "den": 73877,
+   "raw": "Sở hữu quyền thường trú vĩnh viễn (PR)",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s129"
+  },
+  {
+   "tu": 73885,
+   "den": 73966,
+   "raw": "Gia hạn thẻ thường trú (vật lý) mỗi 5 năm với điều kiện còn duy trì bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s130"
+  },
+  {
+   "tu": 74073,
+   "den": 74109,
+   "raw": "Đáp ứng điều kiện cư trú và ngôn ngữ",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s131"
+  },
+  {
+   "tu": 74117,
+   "den": 74233,
+   "raw": "Cư trú thực tế tối thiểu 8 năm trong vòng 11 năm. Đạt trình độ tiếng Hy Lạp B1 và đạt bài kiểm tra hội nhập văn hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s132"
+  },
+  {
+   "tu": 74340,
+   "den": 74351,
+   "raw": "Công dân EU",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s133"
+  },
+  {
+   "tu": 74359,
+   "den": 74432,
+   "raw": "Cho phép đa tịch. Sở hữu Hộ chiếu Síp – Tự do di chuyển hơn 170 quốc gia.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s134"
+  },
+  {
+   "tu": 74699,
+   "den": 74780,
+   "raw": "Nhận tư vấn dự án Seaview Heights &amp; <br><em>lộ trình thường trú nhân Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s135"
+  },
+  {
+   "tu": 74884,
+   "den": 74898,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "btn-primary link-to imm4-consult__button",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s136"
+  },
+  {
+   "tu": 75083,
+   "den": 75168,
+   "raw": "Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s137"
+  },
+  {
+   "tu": 75177,
+   "den": 75246,
+   "raw": "Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s138"
+  },
+  {
+   "tu": 75294,
+   "den": 75367,
+   "raw": "<span class=\"imm4-consult__notice-icon\" aria-hidden=\"true\">balance</span>",
+   "loai": "p",
+   "lop": "imm4-consult__notice",
+   "the": "aside",
+   "ngu_canh": "",
+   "id": "s139"
+  },
+  {
+   "tu": 75377,
+   "den": 75392,
+   "raw": "Lưu ý thông tin",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s140"
+  },
+  {
+   "tu": 75400,
+   "den": 75542,
+   "raw": "Thông tin trên trang này nhằm cung cấp tổng quan về dự án Seaview Heights, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s141"
+  },
+  {
+   "tu": 75803,
+   "den": 75810,
+   "raw": "&times;",
+   "loai": "cta",
+   "lop": "imm4-icon-btn",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s142"
+  },
+  {
+   "tu": 75929,
+   "den": 76007,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_left</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__prev",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s143"
+  },
+  {
+   "tu": 76171,
+   "den": 76250,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_right</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__next",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s144"
+  }
+ ]
+}

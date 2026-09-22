@@ -1,75 +1,75 @@
 id	loai	vi	en	tm	ghi_chu	src
-s001	p	Thường trú nhân Cộng Hòa Síp | Dự án biệt thự nhà phố		87%: Cyprus permanent residence | Premium villa community		acf.s001_p
-s002	h1	Konia Green				acf.s002_h1
-s003	p	Biệt thự & nhà phố cao cấp tại cố đô Paphos – Lộ trình thường trú nhân Cộng Hòa Síp				acf.s003_p#1
+s001	p	Thường trú nhân Cộng Hòa Síp | Dự án biệt thự nhà phố	Cyprus real estate | Villa and townhouse project	87%: Cyprus permanent residence | Premium villa community		acf.s001_p
+s002	h1	Konia Green	Konia Green			acf.s002_h1
+s003	p	Biệt thự & nhà phố cao cấp tại cố đô Paphos – Lộ trình thường trú nhân Cộng Hòa Síp	Premium villas and townhouses in the old capital, Paphos — a route to permanent residence in Cyprus			acf.s003_p#1
 s004	cta	YÊU CẦU TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s004_cta
-s005	p	{1}{2}euro_symbol{/2}Mức đầu tư tối thiểu{/1}**Từ 345.000 EUR**				acf.s005_p#1
-s006	p	{1}{2}home_work{/2}Quy mô dự án{/1}**34 biệt thự & 26 nhà phố**				acf.s006_p#1
+s005	p	{1}{2}euro_symbol{/2}Mức đầu tư tối thiểu{/1}**Từ 345.000 EUR**	{1}{2}euro_symbol{/2}Minimum investment{/1}**From €345,000**			acf.s005_p#1
+s006	p	{1}{2}home_work{/2}Quy mô dự án{/1}**34 biệt thự & 26 nhà phố**	{1}{2}home_work{/2}Project size{/1}**34 villas & 26 townhouses**			acf.s006_p#1
 s007	p	{1}{2}check_circle{/2}Tình trạng{/1}**Còn suất**	{1}{2}check_circle{/2}Status{/1}**Units available**	100%: {1}{2}check_circle{/2}Status{/1}**Units available**		acf.s007_p#1
-s008	cta	Konia Green			trung:s002	acf.s008_cta
+s008	cta	Konia Green	Konia Green		trung:s002	acf.s008_cta
 s009	cta	Hình ảnh dự án	Project gallery	100%: Project gallery		acf.s009_cta
 s010	cta	Vị trí & kết nối	Location & connections	100%: Location & connections		acf.s010_cta#1
 s011	cta	Tổng quan dự án	Project overview	100%: Project overview		acf.s011_cta
 s012	cta	Thiết kế & tiện ích	Design & amenities	100%: Design & amenities		acf.s012_cta#1
 s013	cta	Nhà phát triển Pafilia	Developer Pafilia	100%: Developer Pafilia		acf.s013_cta
 s014	cta	Tiến độ dự án	Project timeline	100%: Project timeline		acf.s014_cta
-s015	cta	Quyền lợi thường trú				acf.s015_cta
-s016	img	Video dự án biệt thự và nhà phố Konia Green				acf.s016_cta#1@alt
-s017	cta	{1}play_arrow{/1}{2}Video giới thiệu Konia Green{/2}				acf.s016_cta#2
-s018	h2	Vị trí đắc địa &{br} {1}kết nối thuận tiện{/1}				acf.s017_h2#1
-s019	p	Konia {1}·{/1} Paphos {2}·{/2} Cộng Hòa Síp				acf.s018_p#1
+s015	cta	Quyền lợi thường trú	Permanent residence benefits			acf.s015_cta
+s016	img	Video dự án biệt thự và nhà phố Konia Green	Konia Green villa and townhouse project video			acf.s016_cta#1@alt
+s017	cta	{1}play_arrow{/1}{2}Video giới thiệu Konia Green{/2}	{1}play_arrow{/1}{2}Konia Green project video{/2}			acf.s016_cta#2
+s018	h2	Vị trí đắc địa &{br} {1}kết nối thuận tiện{/1}	A prime location &{br} {1}easy connections{/1}			acf.s017_h2#1
+s019	p	Konia {1}·{/1} Paphos {2}·{/2} Cộng Hòa Síp	Konia {1}·{/1} Paphos {2}·{/2} Cyprus			acf.s018_p#1
 s020	cta	Google Maps	Google Maps	100%: Google Maps		acf.s019_cta#1
 s021	p	Vị trí dự án	Project location	100%: Project location		acf.s020_p
-s022	h3	Gần trung tâm Paphos		88%: Central Paphos		acf.s021_h3
+s022	h3	Gần trung tâm Paphos	Close to central Paphos	88%: Central Paphos		acf.s021_h3
 s023	h4	Trung tâm Paphos	Central Paphos	100%: Central Paphos		acf.s022_h4
-s024	p	Dự án nằm gần ngay trung tâm thành phố Paphos, chỉ cách trung tâm 5 phút và bãi biển 15 phút lái xe.				acf.s023_p
-s025	h4	Sân bay Paphos				acf.s024_h4
-s026	p	Dự án cách sân bay Paphos chỉ 12 phút lái xe.				acf.s025_p
-s027	h4	Limassol				acf.s026_h4
-s028	p	Dự án cách thành phố Limassol chỉ 40 phút lái xe.				acf.s027_p
+s024	p	Dự án nằm gần ngay trung tâm thành phố Paphos, chỉ cách trung tâm 5 phút và bãi biển 15 phút lái xe.	The project sits close to the center of Paphos — 5 minutes from the center and 15 minutes from the beach by car.			acf.s023_p
+s025	h4	Sân bay Paphos	Paphos airport			acf.s024_h4
+s026	p	Dự án cách sân bay Paphos chỉ 12 phút lái xe.	A 12-minute drive to Paphos airport.			acf.s025_p
+s027	h4	Limassol	Limassol			acf.s026_h4
+s028	p	Dự án cách thành phố Limassol chỉ 40 phút lái xe.	A 40-minute drive to Limassol.			acf.s027_p
 s029	h4	Tiện ích xung quanh	Amenities nearby	100%: Amenities nearby		acf.s028_h4
-s030	p	Vô số quán cafe ven biển, nhà hàng sang trọng, trường tư, bãi biển, thậm chí là các điểm tham quan khảo cổ – tất cả chỉ cách nhà vài phút lái xe.				acf.s029_p
-s031	h2	Konia Green &{br} {1}lộ trình thường trú nhân Síp{/1}				acf.s030_h2#1
-s032	p	Tọa lạc ngay gần trung tâm của thành phố được UNESCO công nhận là Di sản thế giới - Paphos, Cộng Hòa Síp.				acf.s031_p
-s033	p	Quần thể biệt thự và nhà phố với lối thiết kế tinh tế, sang trọng và đẳng cấp.				acf.s032_p
-s034	p	Lấy quyền thường trú vĩnh viễn Cộng Hòa Síp nhanh chóng, chỉ trong khoảng 12 tháng.				acf.s033_p
+s030	p	Vô số quán cafe ven biển, nhà hàng sang trọng, trường tư, bãi biển, thậm chí là các điểm tham quan khảo cổ – tất cả chỉ cách nhà vài phút lái xe.	Seafront cafes, fine restaurants, private schools, beaches, and even archaeological sites are all a few minutes' drive away.			acf.s029_p
+s031	h2	Konia Green &{br} {1}lộ trình thường trú nhân Síp{/1}	Konia Green &{br} {1}the Cyprus permanent residence route{/1}			acf.s030_h2#1
+s032	p	Tọa lạc ngay gần trung tâm của thành phố được UNESCO công nhận là Di sản thế giới - Paphos, Cộng Hòa Síp.	Set close to the center of Paphos, Cyprus, a UNESCO World Heritage city.			acf.s031_p
+s033	p	Quần thể biệt thự và nhà phố với lối thiết kế tinh tế, sang trọng và đẳng cấp.	A community of villas and townhouses with a refined, understated design.			acf.s032_p
+s034	p	Lấy quyền thường trú vĩnh viễn Cộng Hòa Síp nhanh chóng, chỉ trong khoảng 12 tháng.	A route to permanent residence in Cyprus in about 12 months.			acf.s033_p
 s035	cta	YÊU CẦU TƯ VẤN	Book a consultation	100%: Book a consultation	trung:s004	acf.s034_cta
 s036	h3	Thông tin dự án	Project information	100%: Project information		acf.s035_h3
 s037	p	Vị trí	Location	100%: Location		acf.s036_p
-s038	p	Gần trung tâm Paphos, Cộng Hòa Síp		93%: Central Paphos, Cyprus		acf.s037_p
+s038	p	Gần trung tâm Paphos, Cộng Hòa Síp	Close to central Paphos, Cyprus	93%: Central Paphos, Cyprus		acf.s037_p
 s039	p	Loại hình	Property type	100%: Property type		acf.s038_p
-s040	p	Biệt thự đơn lập và nhà phố				acf.s039_p
+s040	p	Biệt thự đơn lập và nhà phố	Detached villas and townhouses			acf.s039_p
 s041	p	Quy mô	Scale	100%: Scale		acf.s040_p
-s042	p	34 biệt thự đơn lập và 26 nhà phố				acf.s041_p
+s042	p	34 biệt thự đơn lập và 26 nhà phố	34 detached villas and 26 townhouses			acf.s041_p
 s043	p	Mức đầu tư	Investment	100%: Investment		acf.s042_p
-s044	p	Từ 345.000 EUR		92%: From €375,000		acf.s043_p
+s044	p	Từ 345.000 EUR	From €345,000	92%: From €375,000		acf.s043_p
 s045	p	Nhà phát triển	Developer	100%: Developer		acf.s044_p
 s046	p	Pafilia	Pafilia	100%: Pafilia		acf.s045_p
 s047	p	Tình trạng	Status	100%: Status		acf.s046_p
 s048	p	Còn suất	Units available	100%: Units available		acf.s047_p
-s049	h2	Sống sang – sống xanh &{br} {1}tiện ích đẳng cấp{/1}				acf.s048_h2#1
+s049	h2	Sống sang – sống xanh &{br} {1}tiện ích đẳng cấp{/1}	Green living &{br} {1}quality amenities{/1}			acf.s048_h2#1
 s050	p	architecture	architecture	100%: architecture		acf.s049_p#1
 s051	p	Phong cách	Style	100%: Style		acf.s050_p
-s052	p	Địa Trung Hải				acf.s051_p
-s053	p	park				acf.s052_p#1
+s052	p	Địa Trung Hải	The Mediterranean			acf.s051_p
+s053	p	park	park			acf.s052_p#1
 s054	p	Cảnh quan	Views	100%: Views		acf.s053_p
-s055	p	Công viên cây xanh trung tâm				acf.s054_p
+s055	p	Công viên cây xanh trung tâm	A central green park			acf.s054_p
 s056	p	open_in_full	open_in_full	100%: open_in_full		acf.s055_p#1
 s057	p	Không gian sống	Living space	100%: Living space		acf.s056_p
-s058	p	Thấp tầng, riêng tư và gần thiên nhiên				acf.s057_p
+s058	p	Thấp tầng, riêng tư và gần thiên nhiên	Low-rise, private, and close to nature			acf.s057_p
 s059	p	location_on	location_on	100%: location_on		acf.s058_p#1
 s060	p	Kết nối	Connections	100%: Connections		acf.s059_p
-s061	p	Gần trung tâm Paphos và bãi biển				acf.s060_p
+s061	p	Gần trung tâm Paphos và bãi biển	Close to central Paphos and the beach			acf.s060_p
 s062	p	construction	construction	100%: construction		acf.s061_p#1
 s063	p	Tình trạng	Status	100%: Status	trung:s047	acf.s062_p
 s064	p	Đang xây dựng	Under construction	100%: Under construction		acf.s063_p
 s065	h3	Không gian sống	Living space	100%: Living space	trung:s057	acf.s064_h3
-s066	li	{1}pool{/1}**Hồ bơi riêng**				acf.s065_li#1
-s067	li	{1}landscape{/1}**Sườn đồi**				acf.s066_li#1
-s068	li	{1}park{/1}**Công viên**				acf.s067_li#1
-s069	li	{1}architecture{/1}**Hoàn thiện**				acf.s068_li#1
-s070	p	Một sự lựa chọn hoàn hảo cho cả gia đình.				acf.s069_p
-s071	h2	Chủ đầu tư &{br} {1}đơn vị phát triển{/1}		100% (gắn lại thẻ {br} {1} {/1}): Developer & track record		acf.s070_h2#1
+s066	li	{1}pool{/1}**Hồ bơi riêng**	{1}pool{/1}**Private pool**			acf.s065_li#1
+s067	li	{1}landscape{/1}**Sườn đồi**	{1}landscape{/1}**Hillside setting**			acf.s066_li#1
+s068	li	{1}park{/1}**Công viên**	{1}park{/1}**Park**			acf.s067_li#1
+s069	li	{1}architecture{/1}**Hoàn thiện**	{1}architecture{/1}**Finishes**			acf.s068_li#1
+s070	p	Một sự lựa chọn hoàn hảo cho cả gia đình.	A sound choice for the whole family.			acf.s069_p
+s071	h2	Chủ đầu tư &{br} {1}đơn vị phát triển{/1}	The developer &{br} {1}its track record{/1}	100% (gắn lại thẻ {br} {1} {/1}): Developer & track record		acf.s070_h2#1
 s072	p	Pafilia - Nhà phát triển bất động sản nhà ở cao cấp hàng đầu tại Síp	Pafilia — an established developer of premium residential real estate in Cyprus	100%: Pafilia — an established developer of premium residential real estate in Cyprus		acf.s071_p
 s073	h3	{1}diamond{/1}Năng lực và kinh nghiệm	{1}diamond{/1}Capability and experience	100%: {1}diamond{/1}Capability and experience		acf.s072_h3#1
 s074	li	verified_user	verified_user	100%: verified_user		acf.s073_li#1
@@ -85,39 +85,39 @@ s083	li	landscape	landscape	100%: landscape		acf.s082_li#1
 s084	p	60% đất ven biển	60% seafront land bank	100%: 60% seafront land bank		acf.s083_p#1
 s085	p	Quỹ đất sở hữu vị trí đắc địa ngay sát bờ biển.	A land bank in prime positions directly on the coast.	100%: A land bank in prime positions directly on the coast.		acf.s084_p
 s086	h3	Dự án tiêu biểu	Selected projects	100%: Selected projects		acf.s085_h3
-s087	p	Konia Green			trung:s002	acf.s086_p#1
+s087	p	Konia Green	Konia Green		trung:s002	acf.s086_p#1
 s088	cta	Pafilia Plaza	Pafilia Plaza	100%: Pafilia Plaza		acf.s087_cta
 s089	cta	Coral Vista	Coral Vista	100%: Coral Vista		acf.s088_cta
 s090	cta	Beachside Villa	Beachside Villa	100%: Beachside Villa		acf.s089_cta
-s091	h2	Thiết kế mô phỏng &{br} {1}tiến độ dự án{/1}				acf.s090_h2#1
+s091	h2	Thiết kế mô phỏng &{br} {1}tiến độ dự án{/1}	Renderings &{br} {1}project timeline{/1}			acf.s090_h2#1
 s092	p	Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.	For current construction progress, unit availability, and project documents, please contact IMM Group.	100%: For current construction progress, unit availability, and project documents, please contact IMM Group.		acf.s091_p
-s093	p	Đầu tư sở hữu bất động sản tại dự án **Konia Green**, nhà đầu tư và gia đình có thể xét lộ trình thường trú vĩnh viễn Cộng Hòa Síp khi đáp ứng điều kiện chương trình.				acf.s092_p#1
+s093	p	Đầu tư sở hữu bất động sản tại dự án **Konia Green**, nhà đầu tư và gia đình có thể xét lộ trình thường trú vĩnh viễn Cộng Hòa Síp khi đáp ứng điều kiện chương trình.	Owning a property at **Konia Green** can open the way to permanent residence in Cyprus for you and your family, once you meet the program conditions.			acf.s092_p#1
 s094	h2	Lộ trình thường trú nhân{br} {1}vĩnh viễn tại Cộng Hòa Síp{/1}	Your route to{br} {1}permanent residence in Cyprus{/1}	100%: Your route to{br} {1}permanent residence in Cyprus{/1}		acf.s093_h2#1
 s095	h3	Đầu tư bất động sản đủ điều kiện	A qualifying real estate purchase	100%: A qualifying real estate purchase		acf.s094_h3
 s096	p	Giá trị đầu tư từ 300.000 EUR + VAT, mua mới từ chủ đầu tư.	A qualifying property starts at €300,000 plus VAT and must be bought new from the developer.	100%: A qualifying property starts at €300,000 plus VAT and must be bought new from the developer.		acf.s095_p
 s097	h3	Chuẩn bị hồ sơ	Prepare the file	100%: Prepare the file		acf.s096_h3
 s098	p	Hồ sơ có thể gồm nhà đầu tư cùng vợ/chồng và con phụ thuộc. Ngoài sở hữu bất động sản, cần chứng minh có đủ mức thu nhập hàng năm.	The application can include you, your spouse, and your dependent children. Besides owning the property, you need to show a secured annual income.	100%: The application can include you, your spouse, and your dependent children. Besides owning the property, you need to show a secured annual income.		acf.s097_p
 s099	h3	Trở thành thường trú nhân vĩnh viễn	Become a permanent resident	100%: Become a permanent resident		acf.s098_h3
-s100	p	Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.	You need to visit Cyprus once every 2 years to keep the status.	100%: You need to visit Cyprus once every 2 years to keep the status.		acf.s099_p
-s101	p	Các thông tin trên website chỉ mang tính chất tham khảo và có thể chưa cập nhật đầy đủ các thông tin, yêu cầu chương trình hay quy định pháp lý mới nhất.				acf.s100_p
+s100	p	Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.	You need to visit Cyprus once every 2 years to keep the status.	100%: You need to visit Cyprus once every 2 years to keep the status.	"#bo-qua-so: ""1 lần"" viết thành ""once"" cho tự nhiên"	acf.s099_p
+s101	p	Các thông tin trên website chỉ mang tính chất tham khảo và có thể chưa cập nhật đầy đủ các thông tin, yêu cầu chương trình hay quy định pháp lý mới nhất.	The information on this website is for general reference and may not reflect the latest information, program requirements, or legal rules.			acf.s100_p
 s102	h2	Lợi thế thường trú nhân{br} {1}Cộng Hòa Síp{/1}	Advantages of{br} {1}Cyprus permanent residence{/1}	100%: Advantages of{br} {1}Cyprus permanent residence{/1}		acf.s101_h2#1
-s103	p	Đầu tư sở hữu căn hộ tại dự án Konia Green, nhà đầu tư và gia đình có thể lấy quyền thường trú vĩnh viễn Cộng Hòa Síp và nhận được những quyền lợi sau:				acf.s102_p
+s103	p	Đầu tư sở hữu căn hộ tại dự án Konia Green, nhà đầu tư và gia đình có thể lấy quyền thường trú vĩnh viễn Cộng Hòa Síp và nhận được những quyền lợi sau:	Owning an apartment at Konia Green can lead to permanent residence in Cyprus for you and your family, with the following benefits:			acf.s102_p
 s104	p	verified_user	verified_user	100%: verified_user	trung:s074	acf.s103_p#1
-s105	p	01				acf.s104_p
+s105	p	01	01			acf.s104_p
 s106	h3	Sinh sống tại Cộng Hòa Síp	Living in Cyprus	100%: Living in Cyprus		acf.s105_h3
-s107	li	Tự do sinh sống, học tập, làm ăn kinh doanh tại Cộng Hòa Síp.		94%: Live, study, and run a business in Cyprus.		acf.s106_li
-s108	li	Chất lượng cuộc sống cao. Cơ sở hạ tầng tiện nghi đầy đủ.				acf.s107_li
+s107	li	Tự do sinh sống, học tập, làm ăn kinh doanh tại Cộng Hòa Síp.	You can live, study, and do business freely in Cyprus.	94%: Live, study, and run a business in Cyprus.		acf.s106_li
+s108	li	Chất lượng cuộc sống cao. Cơ sở hạ tầng tiện nghi đầy đủ.	A high quality of life, with well-developed infrastructure.			acf.s107_li
 s109	p	verified_user	verified_user	100%: verified_user	trung:s074	acf.s108_p#1
-s110	p	02				acf.s109_p
+s110	p	02	02			acf.s109_p
 s111	h3	Y tế và giáo dục	Healthcare and education	100%: Healthcare and education		acf.s110_h3
-s112	li	Hệ thống y tế hiện đại, tiêu chuẩn châu Âu, hoàn toàn miễn phí cho công dân và thường trú nhân.				acf.s111_li
-s113	li	Hệ thống giáo dục chất lượng theo tiêu chuẩn Anh Quốc được công nhận toàn cầu, với mức chi phí phù hợp (thấp hơn so với các trường quốc tế cao cấp tại Việt Nam).				acf.s112_li
+s112	li	Hệ thống y tế hiện đại, tiêu chuẩn châu Âu, hoàn toàn miễn phí cho công dân và thường trú nhân.	A modern healthcare system to European standards, free of charge for citizens and permanent residents.			acf.s111_li
+s113	li	Hệ thống giáo dục chất lượng theo tiêu chuẩn Anh Quốc được công nhận toàn cầu, với mức chi phí phù hợp (thấp hơn so với các trường quốc tế cao cấp tại Việt Nam).	A quality education system on the British model, recognized worldwide, at a reasonable cost (lower than top-tier international schools in many home markets).			acf.s112_li
 s114	p	verified_user	verified_user	100%: verified_user	trung:s074	acf.s113_p#1
-s115	p	03				acf.s114_p
-s116	h3	Môi trường kinh doanh và thuế				acf.s115_h3
-s117	li	Môi trường kinh doanh cởi mở, minh bạch với hệ thống quy định rõ ràng.				acf.s116_li
-s118	li	Síp là một trong những quốc gia có mức thuế doanh nghiệp thấp nhất châu Âu, chỉ 12,5%.				acf.s117_li
-s119	li	Chính sách thuế thuận lợi: không đánh thuế toàn cầu, miễn thuế thừa kế.				acf.s118_li
+s115	p	03	03			acf.s114_p
+s116	h3	Môi trường kinh doanh và thuế	Business environment and tax			acf.s115_h3
+s117	li	Môi trường kinh doanh cởi mở, minh bạch với hệ thống quy định rõ ràng.	An open, transparent business environment with a clear regulatory system.			acf.s116_li
+s118	li	Síp là một trong những quốc gia có mức thuế doanh nghiệp thấp nhất châu Âu, chỉ 12,5%.	Cyprus has one of the lowest corporate tax rates in Europe, at 12.5%.			acf.s117_li
+s119	li	Chính sách thuế thuận lợi: không đánh thuế toàn cầu, miễn thuế thừa kế.	Favorable tax policy: no tax on worldwide income and no inheritance tax.			acf.s118_li
 s120	h3	Lộ trình nhập quốc tịch Síp	The route to Cypriot citizenship	100%: The route to Cypriot citizenship		acf.s119_h3
 s121	h4	Sở hữu quyền thường trú vĩnh viễn (PR)	Hold permanent residence (PR)	100%: Hold permanent residence (PR)		acf.s120_h4
 s122	p	Gia hạn thẻ thường trú (vật lý) mỗi 5 năm với điều kiện còn duy trì bất động sản.	The physical permanent residence card is renewed every 5 years, provided you still own the property.	100%: The physical permanent residence card is renewed every 5 years, provided you still own the property.		acf.s121_p
@@ -125,10 +125,10 @@ s123	h4	Đáp ứng điều kiện cư trú và ngôn ngữ	Meet the residence a
 s124	p	Cư trú thực tế tối thiểu 8 năm trong vòng 11 năm. Đạt trình độ tiếng Hy Lạp B1 và đạt bài kiểm tra hội nhập văn hóa.	At least 8 years of physical residence within an 11-year period, Greek language at CEFR level B1, and a pass in the cultural integration test.	100%: At least 8 years of physical residence within an 11-year period, Greek language at CEFR level B1, and a pass in the cultural integration test.		acf.s123_p
 s125	h4	Công dân EU	Cypriot (EU) citizenship	100%: Cypriot (EU) citizenship		acf.s124_h4
 s126	p	Cho phép đa tịch. Sở hữu Hộ chiếu Síp – Tự do di chuyển hơn 170 quốc gia.	Dual citizenship is allowed. A Cypriot passport gives visa-free travel to more than 170 destinations.	100%: Dual citizenship is allowed. A Cypriot passport gives visa-free travel to more than 170 destinations.		acf.s125_p
-s127	h2	Nhận tư vấn dự án Konia Green & {br}{1}lộ trình thường trú nhân Síp{/1}		87%: Talk to us about Elysia Blu & {br}{1}the Cyprus permanent residence route{/1}		acf.s126_h2#1
+s127	h2	Nhận tư vấn dự án Konia Green & {br}{1}lộ trình thường trú nhân Síp{/1}	Talk to us about Konia Green & {br}{1}the Cyprus permanent residence route{/1}	87%: Talk to us about Elysia Blu & {br}{1}the Cyprus permanent residence route{/1}		acf.s126_h2#1
 s128	cta	Yêu cầu tư vấn	Book a consultation	100%: Book a consultation	trung:s004	acf.s127_cta
 s129	li	Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.	An IMM advisor will contact you to discuss the project in detail and assess your eligibility.	100%: An IMM advisor will contact you to discuss the project in detail and assess your eligibility.		acf.s128_li
 s130	li	Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.	Your personal information is kept confidential under IMM Group's Privacy Policy.	100%: Your personal information is kept confidential under IMM Group's Privacy Policy.		acf.s129_li
 s131	p	balance	balance	100%: balance		acf.s130_p#1
 s132	h3	Lưu ý thông tin	Important information	100%: Important information		acf.s131_h3
-s133	p	Thông tin trên trang này nhằm cung cấp tổng quan về dự án Konia Green, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.		94%: The information on this page provides an overview of the Elysia Blu project. It is not legal, securities, or personalized investment advice.		acf.s132_p
+s133	p	Thông tin trên trang này nhằm cung cấp tổng quan về dự án Konia Green, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.	The information on this page provides an overview of the Konia Green project. It is not legal, securities, or personalized investment advice.	94%: The information on this page provides an overview of the Elysia Blu project. It is not legal, securities, or personalized investment advice.		acf.s132_p
