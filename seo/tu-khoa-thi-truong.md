@@ -43,3 +43,78 @@ Mỗi việc dịch thêm điều học được. Ghi: ngày · việc · chươ
 | 22/09/2026 | hy-lap-kastella-bay | Dự án BĐS Hy Lạp (căn hộ cao cấp) | cả 6 (us gb au ca sg ae) | greece golden visa property · properties for sale · greece golden visa 250 000 · buy property in greece for residency | Trang **dự án bất động sản** khác trang chương trình: H1 phải là **tên dự án**, từ khoá chính đặt ở dòng `p` đầu trang + meta (cửa 0 sẽ cảnh báo "H1 không chứa từ khoá" — cố ý). Gợi ý đắt nhất: "greece golden visa properties for sale **that meet €400k**" — người tìm đang mặc định mức 400k, nên **mức 250.000 EUR của diện chuyển đổi công năng là điểm khác biệt phải đưa vào meta description**. Nhánh "can foreigners buy property in greece" và "can a uk citizen buy property in greece" cho thấy nhiều người đọc còn ở bước hỏi có được mua không |
 | 22/09/2026 | hy-lap-etolikou-11 | Dự án BĐS Hy Lạp (căn hộ dịch vụ) | cả 6 (us gb au ca sg ae) | greece golden visa real estate · real estate for sale · real estate requirements · greece golden visa cost | **Hai trang dự án cùng nước phải tách từ khoá** để không giành nhau cùng truy vấn: trang này lấy `greece golden visa real estate`, trang Kastella Bay lấy `greece golden visa property` — cả hai cụm đều phủ 6/6 thị trường và gần như tương đương về độ mạnh, nên chia được mà không thiệt trang nào |
 | 22/09/2026 | sip-elysia-blu · sip-beachside-villa · sip-coral-vista | 3 trang dự án BĐS Cộng Hòa Síp (cùng chủ đầu tư Pafilia) | cả 6 (us gb au ca sg ae) | elysia-blu: `cyprus golden visa property` · beachside-villa: `cyprus permanent residency by investment` · coral-vista: `cyprus real estate investment` | **Ba trang cùng nước, cùng chủ đầu tư ⇒ phải tách ba từ khoá chính** để không giành nhau cùng truy vấn; cả ba cụm đều phủ 6/6 thị trường và gần tương đương độ mạnh. Gợi ý Google cho Síp khác hẳn Hy Lạp: nhánh **nghi ngờ/an toàn** rất mạnh ("is buying property in cyprus a good investment" 18, "is it safe to buy property in cyprus", "buying property in cyprus big problems forum") và nhánh **hậu Brexit** ("can uk citizens buy property in cyprus", "can i buy a property in cyprus after brexit", "buying property in cyprus from uk") ⇒ **người Anh là nhóm đọc lớn nhất**, và trang nên trả lời thẳng câu "có an toàn không". Có cả "buy property in cyprus with crypto" và "north cyprus real estate investment" — hai chủ đề nhạy, tránh. Lưu ý SEO: **H1 là tên dự án** nên cửa 0 luôn cảnh báo "H1 không chứa từ khoá"; cụm từ khoá đặt ở meta title/description, và chỉ nhồi vào thân bài khi vào được TỰ NHIÊN (Coral Vista vào được câu mức đầu tư; Elysia Blu và Beachside Villa thì không, vì thân bài phải dùng "permanent residence" theo bảng thuật ngữ) |
+| 22/09/2026 | dinh-cu-canada-dien-doanh-nhan-new-brunswick | Diện doanh nhân tỉnh bang New Brunswick (NBPNP) | WebSearch (`tukhoa` 0 gợi ý — Cowork chặn mạng dòng lệnh tới Google) | new brunswick business immigration stream · new brunswick entrepreneurial stream · new brunswick entrepreneur immigration · nbpnp business immigration stream | **Bài học mới: tên chương trình vừa đổi thì phải đặt CẢ HAI tên.** Tỉnh bang đã đổi *Entrepreneurial Stream* → *Business Immigration Stream*, nhưng đối thủ chia làm hai phe: phe theo tên mới (MAK "NBBIS 2026", Elaar, JustForCanada, Leduc) và phe còn giữ tên cũ (Canadim, Adapt Immigration, VGIS, XIPHIAS) → đặt tên mới làm từ khoá chính (đúng nguồn chính thức, sống lâu hơn), tên cũ làm từ khoá phụ để không mất lưu lượng đang có. Khác hẳn mẫu châu Âu (Hy Lạp, Ireland, Malta) nơi người tìm gõ tên ngành "golden visa" chứ không gõ tên pháp lý: với PNP Canada, **tên chính thức của tỉnh bang CHÍNH LÀ từ khoá thật** vì không có tên ngành thay thế. Cụm chính dài 41 ký tự — vẫn vừa meta title 30–60 ký tự kèm `| IMM Group`. Lưu ý thuật ngữ: thang điểm gọi là **selection factor grid**, không phải points grid. |
+| 22/09/2026 | dinh-cu-canada-dao-hoang-tu-edward-pei | Chương trình doanh nhân PEI (Business Impact – Work Permit Stream) | chưa tra được (Cowork chặn mạng dòng lệnh tới Google) | prince edward island entrepreneur program · pei pnp business impact category · pei work permit stream · canada entrepreneur immigration | Trang Canada đầu tiên trong bộ. Khác hẳn nhóm golden visa châu Âu và CBI Caribbean: **không có cụm ngành chung** kiểu "golden visa" hay "citizenship by investment" — đối thủ đặt title theo **tên tỉnh bang + entrepreneur program** (elaarimmigration, canadapass, getincanada, internationalexperience, evergreenimmigration đều dùng "Prince Edward Island Entrepreneur Program"). Viết tắt tỉnh bang ("PEI", "BC", "NB") **không đứng một mình được** với người tìm ngoài Canada → luôn viết đủ tên tỉnh bang trong meta title và H1, để viết tắt cho thân bài. Tên chính thức của tỉnh bang ("Business Impact Category", "Work Permit Stream") có được dùng làm từ khoá nhưng yếu hơn tên ngành phổ biến — đặt ở H2/thân bài. Thuật ngữ ngành Canada: **provincial nominee program (PNP)**, không phải "provincial immigration program"; **letter of support**, không phải "supporting letter"; **social benefits**, không phải "social security" (đó là định chế Mỹ) |
+| 22/09/2026 | dinh-cu-canada-ontario | Ontario Entrepreneur Stream (OINP — đã đóng 04/11/2024) | WebSearch (`tukhoa` 0 gợi ý — mạng bị chặn ở CẢ shell máy CEO và container cloud) | ontario entrepreneur stream · oinp entrepreneur stream · ontario immigrant nominee program · ontario business immigration · canada entrepreneur immigration | Lặp lại đúng mẫu PEI và New Brunswick: PNP Canada **không có cụm ngành chung** kiểu "golden visa" — đối thủ đặt title theo **tên stream** (canadavisa, canadim, moving2canada, nationwidevisas: 8/10 kết quả đầu có nguyên cụm "Ontario Entrepreneur Stream"), không ai đặt theo lối dịch sát "Canada immigration Ontario province". **Điểm mới: chương trình đã đóng thì chữ "closed" là lợi thế SEO, không phải điều cần che.** Nhiều trang 2026 của đối thủ (nihanglaw, amirismail) đặt hẳn "OINP Entrepreneur Stream Closed: Alternatives 2026" vì người tìm đang hỏi chương trình còn mở không — giống mẫu Ireland ("does ireland have a golden visa program" 24 lần). Vì vậy `meta_title` ghi thẳng "Program Closed": vừa trung thực vừa đúng ý định tìm kiếm. Lưu ý thuật ngữ Canada (bổ sung cho bài học PEI): **"social programs"/"social benefits"**, KHÔNG dùng "Social Security" (định chế Mỹ) — bộ nhớ dịch gợi ý "Welfare, benefits and Social Security in the U.S." ở mức 89%, lấy nguyên là sai; **"province"** không phải "state"; **"net worth"** không phải "total assets"; **"security deposit"** (đặt cọc với tỉnh bang) khác **"escrow account"** (ký quỹ EB-5) |
+| 22/09/2026 | dinh-cu-canada-tinh-bang-british-columbia-bc | BC PNP Entrepreneur Immigration (diện doanh nhân tỉnh bang BC) | WebSearch (Cowork chặn mạng tới Google nên `tukhoa` trả 0) | bc pnp entrepreneur immigration · british columbia entrepreneur immigration · bc entrepreneur visa · british columbia investor visa · bc pnp base stream | Trang Canada tỉnh bang khác hẳn trang châu Âu và Caribbean: **không ai gõ "golden visa" hay "citizenship by investment"** — người tìm gõ đúng **tên viết tắt chương trình của tỉnh bang** (`bc pnp`), giống mẫu "d7" của Bồ Đào Nha. Toàn bộ đối thủ 2026 (BridgePoint Law, GenesisLink, Elaar, Amir Ismail, NextStars, Y-Axis, Croyez) đặt nguyên cụm "BC PNP Entrepreneur Immigration" trong title và gắn thêm "2026 Guide" hoặc "Base Category". Nhánh thứ hai là **"investor visa"** (Croyez, investorimmigrationcanada) — người tìm không phân biệt entrepreneur với investor, nên nên có từ khoá phụ `british columbia investor visa`. ⚠ Tên diện đã đổi: **Base Stream** (tên hiện hành trên welcomebc.ca), "base category" là tên cũ nhưng vẫn là cụm đối thủ dùng nhiều → giữ làm biến thể, không dùng trong thân bài. Mẫu đặt tên nên dùng chung cho mọi trang tỉnh bang Canada còn lại: `<viết tắt tỉnh bang> PNP Entrepreneur Immigration` (OINP, SINP, MPNP, NSNP, NBPNP, PEI) |
+
+## Saskatchewan (SINP) — 22/09/2026
+
+- **Từ khoá chính chốt:** `SINP Entrepreneur Category` (tên chính thức saskatchewan.ca). Saskatchewan dùng chữ
+  **category**, Ontario dùng **stream**, British Columbia dùng **registration** rồi mới tới ITA — mỗi tỉnh bang
+  một bộ tên, không dùng lại tên của tỉnh bang khác.
+- **Hai nhánh tiêu đề đối thủ chia đôi khá đều:** nhánh tên chính thức (`SINP Entrepreneur Category` —
+  canadavisa.com, elaarimmigration.com, titanlaw.ca) và nhánh tên mô tả (`Saskatchewan Entrepreneur Program` —
+  nationwidevisas.com, xiphiasimmigration.com, adaptimmigration.com, alghoul.com). Lấy tên chính thức làm chính,
+  tên mô tả làm phụ đầu bảng.
+- Mẫu chung cho trang tỉnh bang Canada vẫn đúng: người tìm gõ **viết tắt chương trình của tỉnh bang**
+  (SINP, OINP, BC PNP, MPNP, NSNP, PEI), **không** gõ "golden visa" hay "citizenship by investment" cho Canada.
+- **Chương trình đã đóng vẫn đáng đặt từ khoá theo tên diện**, vì người tìm đang hỏi "còn mở không" — đặt sự
+  thật đóng vào meta description và vào đoạn đầu để trả lời đúng câu hỏi đó (giống trang Ontario).
+- ⚠ Vẫn chưa có số lượt tìm kiếm; Cowork chặn mạng dòng lệnh nên `tukhoa` trả 0 gợi ý Google.
+
+## Canada — Manitoba (22/09/2026, việc `2026-09-22-dinh-cu-canada-tinh-bang-manioba`)
+- Người bản xứ tìm theo **tên nhánh chương trình**, không theo tên tỉnh bang chung: `Manitoba Entrepreneur Pathway`
+  phủ nhiều tiêu đề đối thủ nhất (moving2canada, y-axis, Amir Ismail RCIC, Nationwide Visas, XIPHIAS,
+  businessimmigrationvisas). `Manitoba Business Investor Stream` là tên chính thức của cả luồng, dùng làm từ khoá phụ.
+- Mẫu chung của 6 trang tỉnh bang Canada đã dịch: **từ khoá chính = tên chính thức của diện doanh nhân tỉnh bang đó**
+  (Ontario Entrepreneur Stream · BC PNP Entrepreneur Immigration · New Brunswick Business Immigration Stream ·
+  Prince Edward Island Entrepreneur Program · Manitoba Entrepreneur Pathway). Dùng lại mẫu này cho tỉnh bang tiếp theo.
+- Viết tắt của chương trình (`MPNP`, `OINP`, `SINP`, `NBPNP`, `BC PNP`) luôn nên có trong bộ từ khoá phụ — nhiều
+  người tìm bằng viết tắt.
+- ⚠ Từ 18/09/2026 lệnh `tukhoa` trả 0 gợi ý khi chạy trong Cowork vì máy không ra được Google. Cách thay thế đang
+  dùng: `WebSearch` rồi đếm độ phủ cụm từ trong tiêu đề 8–10 đối thủ đầu. Vẫn **không có số lượt tìm kiếm**.
+
+## Canada — Nova Scotia (22/09/2026, việc `2026-09-22-dinh-cu-canada-tinh-bang-nova-scotia`)
+- **Từ khoá chính chốt:** `nova scotia entrepreneur stream`. Đây là trường hợp **hiếm và dễ nhất** trong 7 trang
+  tỉnh bang Canada: tên chính thức của tỉnh bang và cụm đối thủ đặt ở tiêu đề **trùng nhau hoàn toàn** (Wild Mountain
+  Immigration "Nova Scotia Entrepreneur Stream (NSNP): 2026 Guide", Canadim, Borders Law Firm, Amir Ismail RCIC).
+  Không phải chọn giữa nhánh tên chính thức và nhánh tên mô tả như Saskatchewan hay Manitoba.
+- Nova Scotia dùng chữ **stream** (giống Ontario và New Brunswick), không dùng **category** như Saskatchewan,
+  không dùng **program** như PEI, không dùng **registration** như British Columbia. Mỗi tỉnh bang một bộ tên —
+  tra trang chính thức trước khi đặt từ khoá, đừng suy từ tỉnh bang trước.
+- Mẫu chung của 7 trang tỉnh bang Canada vẫn đúng: **từ khoá chính = tên chính thức của diện doanh nhân tỉnh bang đó**,
+  **viết tắt chương trình** (`NSNP`, `MPNP`, `OINP`, `SINP`, `NBPNP`, `BC PNP`) luôn nằm trong bộ từ khoá phụ.
+- **Điểm mới học được ở việc này — ranh giới địa lý là từ khoá ngầm.** Nova Scotia chia mức vốn theo
+  **Halifax Regional Municipality (HRM)**. Người tìm gõ "halifax" chứ không gõ "HRM", nên: giữ chữ **Halifax**
+  trong meta description (người đọc hiểu ngay), nhưng trong thân bài phải viết đủ **Halifax Regional Municipality (HRM)**
+  ở lần đầu, vì HRM rộng hơn thành phố Halifax và quyết định nhà đầu tư thuộc mức vốn nào. Tỉnh bang nào chia mức
+  vốn theo vùng (Manitoba có Manitoba Capital Region, Nova Scotia có HRM) thì áp dụng cùng cách xử lý này.
+- ⚠ Vẫn chưa có số lượt tìm kiếm; `tukhoa` tiếp tục trả 0 gợi ý vì Cowork chặn mạng dòng lệnh tới Google.
+  Thay bằng `WebSearch` rồi đếm độ phủ cụm từ trong tiêu đề 8–10 đối thủ đầu.
+
+## Úc — bộ ba trang thường trú 888A / 888B / 888C (22/09/2026)
+
+- **Mẫu tìm của Úc khác hẳn châu Âu, Caribbean và Canada:** người tìm gõ **số subclass** (`888 visa`,
+  `subclass 888`), không gõ "golden visa", không gõ "citizenship by investment", và cũng không gõ tên tỉnh bang
+  như PNP Canada. Gần nhất với mẫu "d7" của Bồ Đào Nha: **con số chính là từ khoá**.
+- **Viết tắt 888A / 888B / 888C là từ khoá thật, do chính ngành di trú Úc dùng** — NSW Government đặt URL
+  `/visas-and-migration/business-and-investor-visas/subclass-888c`; Work Visa Lawyers "Significant Investor
+  (SIV) – 888C"; Gold Medal Visa "Significant Investor (888C) – Permanent". Khác PEI/BC/NB ở Canada, nơi viết
+  tắt tỉnh bang **không** đứng một mình được với người tìm ngoài nước.
+- **Từ khoá chính đã chốt** (đặt cùng mẫu với nhãn liên kết của ba trang 188A/188B/188C cùng bộ):
+  `888a business innovation visa` · `888b investor visa` · `888c significant investor visa`. Cả ba đều vừa
+  meta title 30–60 ký tự kèm `| IMM Group`, và đều đưa được nguyên cụm vào H1 lẫn gạch đầu dòng đầu tiên.
+- **Tên chính thức của từng nhánh là từ khoá phụ mạnh:** `subclass 888 business innovation stream` ·
+  `subclass 888 investor stream` · `subclass 888 significant investor stream` — chính quyền bang dùng nguyên
+  văn ở tiêu đề (Live in Melbourne, NSW Government, Migration Queensland), nên đây là nhánh "tên chính thức"
+  giống Saskatchewan, còn nhánh mô tả là `888 visa australia`.
+- **Bẫy tên sản phẩm:** tên trang tiếng Việt "Visa Úc diện đầu tư **trái phiếu** 888B" đã lỗi thời — từ
+  01/07/2021 diện 188B/888B dùng **complying investment** (quỹ VCPE, quỹ quản lý, khoản cân bằng), không còn là
+  trái phiếu chính quyền bang. **Không đặt từ khoá "bond investment visa".**
+- **Nhánh "còn mở không" lặp lại mẫu Ireland và Ontario:** BIIP đóng nhận hồ sơ mới **31/07/2024** nhưng
+  subclass 888 **vẫn mở** cho người đang giữ 188 ⇒ khác trang Ireland/Ontario, ở đây **không** đặt "closed" vào
+  meta title; thay vào đó meta description nói rõ đây là **bước lên thường trú cho người đang giữ 188**.
+- ⚠ Vẫn chưa có số lượt tìm kiếm; `tukhoa` tiếp tục trả 0 gợi ý vì Cowork chặn mạng dòng lệnh tới Google.
+  Thay bằng `WebSearch` rồi đếm độ phủ cụm từ trong tiêu đề 8–10 đối thủ đầu.
+| 22/09/2026 | visa-uc-188a/188b/188c | Australia BIIP subclass 188 (đã đóng 31/07/2024) | AU + cả 6 (us gb au ca sg ae) | 188A Business Innovation visa · 188B Investor visa · 188C Significant Investor visa · SIV | **Úc đi theo đúng mẫu đã học ở PNP Canada: người tìm gõ MÃ DIỆN, không gõ "golden visa" hay "citizenship by investment".** Tiêu đề đối thủ chia hai nhánh: mã diện + tên stream chính thức ("Subclass 188A – Business Innovation Stream", "188C Significant Investor Stream Visa") và tên thị trường ("Australia 188B Investor Visa 2026", "Australia 188C SIV"). Lấy tên chính thức làm từ khoá chính, tên thị trường làm phụ đầu bảng. Riêng 188C có viết tắt **SIV** rất phổ biến — đáng đưa vào từ khoá phụ, khác hẳn 188A/188B không có viết tắt riêng. Nhánh phụ đáng lấy: `subclass <mã> requirements` (người tìm hỏi điều kiện) và `BIIP closure` (người tìm hỏi chương trình còn mở không). Vì chương trình đã đóng, `meta_title` ghi thẳng "Closed" và `meta_description` mở đầu bằng mốc đóng — cùng lợi thế SEO đã học ở trang Ontario. ⚠ Xếp hạng theo độ phủ tiêu đề đối thủ, chưa có số lượt tìm (tukhoa 0 gợi ý). |

@@ -1,0 +1,466 @@
+[
+    {
+        "post_id": 37040,
+        "post_slug": "/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-manioba/",
+        "post_title": "Manitoba Entrepreneur Pathway",
+        "lang": "vi",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "Entrepreneur Immigration to Canada<br>The <span class=\"accent\">Manitoba</span> Entrepreneur Pathway"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99342",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is the Manitoba Entrepreneur Pathway?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The Manitoba Entrepreneur Pathway, part of the Business Investor Stream under the Manitoba Provincial Nominee Program (MPNP), is designed for business owners and senior managers who want to invest in, acquire or operate a business in the province.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "You must run the business in Manitoba yourself to qualify for Canadian permanent residence.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Your spouse and children under 22 can be included in the same application.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "The minimum investment is C$150,000 for a business outside the Manitoba Capital Region, or C$250,000 for a business within it.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Benefits of immigrating to Manitoba",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Your whole family moves to Manitoba",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "You are free to live, study and work in Manitoba while you hold your work permit."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Your children study in Canada",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Children attend public school free of charge through the end of high school; once your family holds permanent residence, they can attend university at domestic tuition rates."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "card_membership",
+                    "product_benefits_item_title": "A path to permanent residence",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Once you have met your commitments to the province, you and your family can apply for Canadian permanent residence."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "A route to Canadian citizenship",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "After obtaining permanent residence and meeting the residency, tax, language and background requirements, your family can consider applying for Canadian citizenship."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Why investors choose this program",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "No age limit",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "The program sets no maximum age, although applicants aged 25–49 are given priority."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "No deposit required",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "The province does not require you to place a deposit to take part in the program."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "calendar_month",
+                    "product_advantages_item_title": "An investment starting at C$150,000",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "This level applies outside the Manitoba Capital Region; a business inside the Capital Region requires a minimum investment of C$250,000."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "business_center",
+                    "product_advantages_item_title": "Just 1 job to create or maintain",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Your Manitoba business must create or maintain at least 1 job for a Canadian citizen or permanent resident."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Applicant requirements",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "You are a business owner or senior manager",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "At least 3 years of business management experience in the past 5 years."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "A high school diploma."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "English at a level equivalent to IELTS General Training 5.0."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "A minimum net worth of C$500,000."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Clear security, background and medical checks."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Investment requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "A minimum investment of C$250,000 for a business in the Manitoba Capital Region."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "A minimum investment of C$150,000 for a business outside the capital region."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "A viable business plan that delivers economic benefit to the province."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Hands-on operation of the business, creating or maintaining at least 1 job for a Canadian citizen or permanent resident."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "The Manitoba application process",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Assessment and case preparation",
+                    "product_process_step_desc": "We assess your eligibility, your assets, your management experience, your English-language ability and your overall fit with the program.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "travel_explore",
+                    "product_process_step_title": "Business research visit to Manitoba",
+                    "product_process_step_desc": "You travel to Manitoba to research the local business environment and prepare your investment plan.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Submit your Expression of Interest (EOI)",
+                    "product_process_step_desc": "You submit your Expression of Interest to the Government of Manitoba.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "mark_email_read",
+                    "product_process_step_title": "Receive an Invitation to Apply (ITA) and submit your application",
+                    "product_process_step_desc": "Once you are invited, you complete and submit your full application to the province.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "record_voice_over",
+                    "product_process_step_title": "Provincial interview",
+                    "product_process_step_desc": "You attend an interview with the Government of Manitoba.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "badge",
+                    "product_process_step_title": "Work permit application",
+                    "product_process_step_desc": "Once the province approves your application, you apply to the federal government, Immigration, Refugees and Citizenship Canada (IRCC), for a work permit.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "flight_takeoff",
+                    "product_process_step_title": "Move to Manitoba to invest and run your business",
+                    "product_process_step_desc": "With your work permit issued, you move to Manitoba, make the investment and run the business in person.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "how_to_reg",
+                    "product_process_step_title": "Apply for permanent residence",
+                    "product_process_step_desc": "After meeting the business and residency conditions, you apply for Canadian permanent residence.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "You may also be interested in",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "You may also be interested in",
+            "product_care_service_desc": "<p>Explore IMM Group's advisory services:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Compare Canada's investment immigration programs",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Prince Edward Island (PEI)",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-dao-hoang-tu-edward-pei/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Ontario",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-ontario/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "British Columbia",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-british-columbia-bc/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "New Brunswick",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-dien-doanh-nhan-new-brunswick/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Saskatchewan",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-saskatchewan/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Nova Scotia",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-nova-scotia/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Understanding Canada",
+            "product_care_topics_desc": "<p>IMM Group's resource hub brings together practical information on the following topics:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Living in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Education in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Canadian culture",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Working and doing business in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Welfare, benefits and social insurance in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Travel in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Healthcare in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n6",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Real estate in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n7",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Inspiring Canadian immigration journeys",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n8",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Frequently asked questions about the Manitoba Entrepreneur Pathway",
+            "product_faq_section_id": "faq-manitoba",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Is a work permit the same as permanent residence?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Is a work permit the same as permanent residence",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No. A work permit gives you temporary permission to live and work in Canada. You must complete your investment, business operating and residency commitments before you can apply for permanent residence."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do I have to run the business myself?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Do I have to run the business myself",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Yes. You must personally manage and operate the business in Manitoba. IMM Group and our partners can help with the business plan, but we cannot run the business on your behalf."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Does my family have to live in Manitoba?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Does my family have to live in Manitoba",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Before you hold permanent residence, you need to stay closely involved with the business in the province you applied to. Your family must live there in line with the commitments you made under the program."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "When can I move up to permanent residence?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "When can I move up to permanent residence",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Once you have operated the business, met the residency conditions and completed your commitments to the province, you can apply for permanent residence."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do I have to prove my source of funds?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Do I have to prove my source of funds",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Yes. You must document a lawful source of funds and show that your assets are legitimate and fully traceable. Eligible assets can include real estate, business assets, cash savings, and shares in private or publicly traded companies."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "After permanent residence, can the family live in another province?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "After permanent residence, can the family live in another province",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Once you hold Canadian permanent residence, you and your family are free to live and work in any province."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the main risks of the program?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "What are the main risks of the program",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Risk usually comes from a business plan that is not viable, failing to operate the business as committed, not creating or maintaining the required job, or weak documentation of your finances."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        },
+        "seo": {
+            "meta_title": "Manitoba Entrepreneur Pathway (MPNP) | IMM Group",
+            "meta_description": "The Manitoba Entrepreneur Pathway leads to Canadian permanent residence from a C$150,000 investment and 1 job created. Book a consultation with IMM Group.",
+            "slug": "manitoba-entrepreneur-pathway"
+        }
+    }
+]

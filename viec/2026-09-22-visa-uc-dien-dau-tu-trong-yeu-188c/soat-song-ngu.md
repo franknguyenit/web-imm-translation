@@ -1,0 +1,3 @@
+# Soát song ngữ — 188C (visa-uc-dien-dau-tu-trong-yeu-188c)
+
+- [s031] VỪA: Lệch quy tắc thì động từ của dự án. Câu "Để xét 888C, đương đơn chính cần cư trú tối thiểu 40 ngày/năm, hoặc vợ/chồng đi kèm cư trú tối thiểu 180 ngày/năm" nói về điều kiện của LỘ TRÌNH LÊN 888C (còn áp dụng cho người đang giữ visa 188C hiện nay), theo brief phải dùng THÌ HIỆN TẠI — như các dòng lộ trình 888C khác trên cùng trang: s006 ("has to be held"), s020 ("can apply ... once ... are met"), s094 ("is held as required"). Nhưng bản dịch lại dùng THÌ QUÁ KHỨ "had to spend", giống nhóm câu về điều kiện tham gia/quy trình nộp hồ sơ đã đóng — không nhất quán và sai với quy tắc thì đã định.

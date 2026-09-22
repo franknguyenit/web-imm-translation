@@ -1,0 +1,516 @@
+[
+    {
+        "post_id": 25169,
+        "post_slug": "/dau-tu-dinh-cu-canada/dinh-cu-canada-dien-doanh-nhan-new-brunswick/",
+        "post_title": "New Brunswick Business Immigration Stream",
+        "lang": "vi",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "Entrepreneur Immigration to Canada<br><span class=\"accent\">New Brunswick</span> Business Immigration Stream"
+            },
+            "product_hero_video": "https://videopress.com/v/R0zJugWE",
+            "product_hero_image": "99338",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is the New Brunswick Business Immigration Stream?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The New Brunswick Business Immigration Stream is a Canadian permanent residence pathway for business owners and senior managers who want to invest in, start, or acquire a business in the province.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "You must run the business in the province yourself to qualify for a provincial nomination and, from there, to apply for Canadian permanent residence.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Your spouse and children under 22 can be included in the same application.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "A minimum investment of C$150,000 (approximately US$107,000).",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "New Brunswick is well placed for trade with the United States and Quebec, has a reasonable cost of living, and is home to several major universities and colleges.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "A recent update: the province now calls this the Business Immigration Stream, replacing the former Entrepreneurial Stream. Under the current rules, you can apply for a nomination once your business has operated for 6 continuous months, provided you meet the program conditions.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Benefits of immigrating to New Brunswick",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Your whole family moves to New Brunswick",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "You, your spouse, and your dependent children can live, study, and work in New Brunswick during the work permit stage."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Your children study in Canada",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Your children attend public school free of charge through the end of high school. Once your family holds permanent residence, they can attend university at domestic tuition rates."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "card_membership",
+                    "product_benefits_item_title": "A pathway to permanent residence",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "After you complete your investment commitment, operate the business, and meet the province's conditions, your family can apply for Canadian permanent residence."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "A route to Canadian citizenship",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Once you hold permanent residence and meet the residence, tax, language, and background requirements, your family can consider applying for Canadian citizenship."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Why investors choose this program",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "An investment starting at C$150,000",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "This is one of the more accessible entry points among Canada's provincial entrepreneur programs."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Nomination after 6 months of operation",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You can apply for a provincial nomination letter once you have run an eligible business for at least 6 months."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "calendar_month",
+                    "product_advantages_item_title": "No mandatory exploratory visit",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You are not required to make an exploratory visit to New Brunswick before you apply."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "business_center",
+                    "product_advantages_item_title": "A basic education requirement",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "A high school diploma is enough."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "savings",
+                    "product_advantages_item_title": "Basic English is enough",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "The language requirement is English at a level equivalent to IELTS General Training 4.0."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "trending_up",
+                    "product_advantages_item_title": "A reasonable cost of living",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "New Brunswick has a lower cost of living and more affordable housing than many of Canada's larger provinces."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Applicant requirements",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Aged 19–59",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Has been a business owner or senior manager for at least 2 of the past 5 years."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Holds a high school diploma or higher."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Has English at a level equivalent to IELTS General Training 4.0."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Has a personal net worth of at least C$500,000 (approximately US$357,000), or C$300,000 (approximately US$214,000) if investing in agriculture."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Scores at least 65 points on the province's selection factor grid."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Meets background security and medical requirements."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Investment requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Invests at least C$150,000 in a business in New Brunswick."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Presents a viable business plan that delivers economic benefit to the province."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Actively runs the business in New Brunswick."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Operates the business for at least 6 months to qualify for a provincial nomination letter."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Creates at least 1 full-time job."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "The New Brunswick application process",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Assessment and file preparation",
+                    "product_process_step_desc": "We review your eligibility, net worth, management experience, English ability, and overall fit with the program.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "travel_explore",
+                    "product_process_step_title": "Submit an Expression of Interest (EOI)",
+                    "product_process_step_desc": "You submit your Expression of Interest to the Government of New Brunswick.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Receive an Invitation to Apply (ITA) and file your application",
+                    "product_process_step_desc": "Once you are invited to apply, you complete your formal application to the province.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "mark_email_read",
+                    "product_process_step_title": "Provincial interview",
+                    "product_process_step_desc": "You attend an interview with the Government of New Brunswick.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "record_voice_over",
+                    "product_process_step_title": "Receive the work permit support letter",
+                    "product_process_step_desc": "When your application is approved, the province issues a support letter that you use to apply for a work permit.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "badge",
+                    "product_process_step_title": "Move to Canada, invest, and run the business",
+                    "product_process_step_desc": "You receive your work permit, move to New Brunswick, make the investment, and run the business yourself.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "flight_takeoff",
+                    "product_process_step_title": "Apply for the provincial nomination",
+                    "product_process_step_desc": "After at least 6 months of eligible business operation, you apply to the province for a nomination letter.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "how_to_reg",
+                    "product_process_step_title": "Apply for permanent residence",
+                    "product_process_step_desc": "Once you are nominated, you file your permanent residence application with Immigration, Refugees and Citizenship Canada (IRCC).",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "You may also be interested in",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "You may also be interested in",
+            "product_care_service_desc": "<p>Explore IMM Group's advisory services:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Compare Canada's investment immigration programs",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Prince Edward Island (PEI)",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-dao-hoang-tu-edward-pei/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Ontario",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-ontario/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "British Columbia",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-british-columbia-bc/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Saskatchewan",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-saskatchewan/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Manitoba",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-manioba/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Nova Scotia",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-nova-scotia/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Understanding Canada",
+            "product_care_topics_desc": "<p>IMM Group's resource hub brings together practical information on the following topics:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Living in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Education in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Culture in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Working and doing business in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Welfare, benefits, and social programs in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Travel in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Healthcare in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n6",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Real estate in Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n7",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Inspiring Canadian immigration journeys",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n8",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Frequently asked questions about New Brunswick",
+            "product_faq_section_id": "faq-new-brunswick",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Is a work permit the same as permanent residence?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Is a work permit the same as permanent residence",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No. A work permit gives you the temporary right to live and work in Canada. You need to complete your investment commitment, operate the business, and meet the residence conditions before you can apply for permanent residence."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do you have to run the business yourself?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Do you have to run the business yourself",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Yes. You must actively manage and run the business in New Brunswick yourself. IMM Group and our partners can support you with the business plan, but we cannot operate the business on your behalf."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is an exploratory visit to New Brunswick mandatory?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Is an exploratory visit to New Brunswick mandatory",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "An exploratory visit is not required before you apply. That said, visiting in person can help you understand the local market and prepare a stronger business plan."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "When can you apply for the provincial nomination?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "When can you apply for the provincial nomination",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You can apply for a nomination once you have operated your business in New Brunswick for at least 6 continuous months and met the program conditions."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Does your family have to live in New Brunswick?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Does your family have to live in New Brunswick",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Before you hold permanent residence, you and your family are expected to settle in the province you applied to and to honor your residence and business commitments."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can you live in another province once you hold permanent residence?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Can you live in another province once you hold permanent residence",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Once you hold Canadian permanent residence, your family has the right to live and work in any province in Canada."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the main risks of the program?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "What are the main risks of the program",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The most common risks are a business plan that does not hold up in review, failure to operate the business as committed, failure to create the required full-time job, and weak documentation of your funds and management experience."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Who is New Brunswick right for?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Who is New Brunswick right for",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "It suits experienced business owners and senior managers who want to run a business in Canada themselves, with an investment starting at C$150,000 and a basic English requirement."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        },
+        "seo": {
+            "meta_title": "New Brunswick Business Immigration Stream | IMM Group",
+            "meta_description": "The New Brunswick Business Immigration Stream offers Canadian PR from a C$150,000 investment and basic English. Book a consultation with IMM Group.",
+            "slug": "new-brunswick-business-immigration-stream"
+        }
+    }
+]

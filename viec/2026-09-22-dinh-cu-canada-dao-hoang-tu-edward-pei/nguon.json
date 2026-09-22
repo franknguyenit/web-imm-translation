@@ -1,0 +1,737 @@
+[
+    {
+        "post_id": 25246,
+        "post_slug": "/dau-tu-dinh-cu-canada/dinh-cu-canada-dao-hoang-tu-edward-pei/",
+        "post_title": "Định cư Canada Đảo Hoàng Tử Edward (PEI)",
+        "lang": "vi",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "ĐỊNH CƯ <span class=\"accent\">CANADA</span> DIỆN DOANH NHÂN<br>ĐẢO HOÀNG TỬ EDWARD (PEI)"
+            },
+            "product_hero_video": "https://videopress.com/v/ayJN4ozh?hd=1",
+            "product_hero_image": "99325",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "Chương trình Đầu tư Doanh nhân PEI là gì?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Lộ trình định cư Canada cho chủ doanh nghiệp / quản lý cấp cao đầu tư & vận hành doanh nghiệp tại PEI.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Đối tượng:</strong> chủ DN / quản lý cấp cao.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Gia đình đi cùng:</strong> vợ/chồng + con dưới 22 tuổi.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Mức đầu tư:</strong> từ 150.000 CAD (tham khảo ~2,8 tỷ đồng theo tỷ giá tham khảo; chưa gồm thuế/phí).",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Chi phí sống hợp lý hơn nhiều tỉnh bang khác; trường học chất lượng, nhiều việc làm, thiên nhiên đẹp.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Cộng đồng người Việt sẵn có:</strong> hơn 1.000 người Việt &amp; ~50 doanh nghiệp người Việt tại PEI.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI ĐỊNH CƯ PEI",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Cả gia đình sang PEI",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Tự do sinh sống, học tập, làm việc tại Đảo Hoàng Tử Edward."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Con học miễn phí toàn lộ trình",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Trường công miễn phí đến hết THPT."
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Học đại học với học phí như người bản xứ khi gia đình đã có thường trú nhân (PR)."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "card_membership",
+                    "product_benefits_item_title": "Cơ hội trở thành thường trú nhân (PR)",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Khi hoàn thành cam kết với tỉnh bang, gia đình được hưởng quyền của thường trú nhân Canada (y tế, an sinh, giáo dục)."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "Lộ trình lên quốc tịch Canada",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Sau khi có PR và đáp ứng điều kiện cư trú, thuế và ngôn ngữ, có thể xét nộp hồ sơ nhập quốc tịch Canada."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM NỔI BẬT",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "school",
+                    "product_advantages_item_title": "Yêu cầu học vấn cơ bản",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Chỉ cần tốt nghiệp THPT trở lên."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "Mức đầu tư hợp lý",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Từ 150.000 CAD (~2,8 tỷ đồng)."
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Thuộc nhóm thấp trong các chương trình doanh nhân tỉnh bang Canada."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "home_work",
+                    "product_advantages_item_title": "Không bắt buộc khảo sát địa phương",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Tiết kiệm thời gian & chi phí trước khi nộp hồ sơ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "trending_up",
+                    "product_advantages_item_title": "Điểm EOI dễ tiếp cận",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "PEI thuộc nhóm tỉnh bang có ngưỡng chọn hồ sơ EOI thấp trong các chương trình định cư Canada tỉnh bang."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Không yêu cầu lợi nhuận hoặc tạo việc làm",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Doanh nghiệp tại Canada không bắt buộc phải tạo lợi nhuận hoặc tạo việc làm."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "savings",
+                    "product_advantages_item_title": "Chi phí sống hợp lý",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Chất lượng sống cao, mặt bằng giá cả thấp hơn nhiều tỉnh bang khác tại Canada."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN THAM GIA PEI",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Độ tuổi & học vấn",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 21-59 tuổi, tốt nghiệp THPT trở lên."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "business_center",
+                    "product_conditions_item_title": "Kinh nghiệm quản lý",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Là chủ doanh nghiệp hoặc quản lý cấp cao tối thiểu 3 năm trong 5 năm gần nhất."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "account_balance_wallet",
+                    "product_conditions_item_title": "Tài chính & ngoại ngữ",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Có tổng tài sản tối thiểu 600.000 CAD (~11,2 tỷ đồng) và tiếng Anh tương đương IELTS 4.0 General."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Yêu cầu đầu tư",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đầu tư tối thiểu 150.000 CAD (~2,8 tỷ đồng) vào doanh nghiệp tại Đảo Hoàng Tử (PEI)."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "lightbulb",
+                    "product_conditions_item_title": "Kế hoạch & vận hành kinh doanh",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Có kế hoạch kinh doanh khả thi, mang lại lợi ích kinh tế cho tỉnh bang và vận hành doanh nghiệp tại PEI tối thiểu 12 tháng."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "verified_user",
+                    "product_conditions_item_title": "Điều kiện hồ sơ",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Thỏa điều kiện về lý lịch an ninh và sức khỏe."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "LỘ TRÌNH THỰC HIỆN",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Thẩm định & chuẩn bị hồ sơ",
+                    "product_process_step_desc": "Đánh giá điều kiện ban đầu và hoàn thiện hồ sơ theo yêu cầu chương trình.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Nộp EOI",
+                    "product_process_step_desc": "Nộp Thư bày tỏ nguyện vọng cho chính quyền tỉnh bang PEI.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "mark_email_read",
+                    "product_process_step_title": "Nhận ITA & nộp hồ sơ",
+                    "product_process_step_desc": "Sau khi được mời nộp hồ sơ từ tỉnh bang, tiến hành nộp hồ sơ chính thức.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "record_voice_over",
+                    "product_process_step_title": "Phỏng vấn tỉnh bang",
+                    "product_process_step_desc": "Tham dự phỏng vấn với chính quyền tỉnh bang PEI.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "badge",
+                    "product_process_step_title": "Nhận thư hỗ trợ Work Permit",
+                    "product_process_step_desc": "Tỉnh bang cấp thư hỗ trợ để nộp hồ sơ xin giấy phép lao động.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "flight_takeoff",
+                    "product_process_step_title": "Sang Canada đầu tư & vận hành doanh nghiệp",
+                    "product_process_step_desc": "Nhận Work Permit, đến Canada triển khai đầu tư và vận hành doanh nghiệp tại PEI.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "how_to_reg",
+                    "product_process_step_title": "Nộp hồ sơ thường trú nhân",
+                    "product_process_step_desc": "Sau 12 tháng kinh doanh, nộp hồ sơ xin lên thường trú nhân Canada.<br><em>Lưu ý: Thời gian từng bước tùy hồ sơ &amp; quy định tỉnh bang.</em>",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "Có thể bạn quan tâm",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "Có thể bạn quan tâm",
+            "product_care_service_desc": "<p>Tìm hiểu các dịch vụ tư vấn từ IMM Group:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "So sánh các chương trình đầu tư định cư Canada",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bang Ontario",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-ontario/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bang British Columbia",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-british-columbia-bc/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bang New Brunswick",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-dien-doanh-nhan-new-brunswick/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bang Saskatchewan",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-saskatchewan/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bang Manioba",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-manioba/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Bang Nova Scotia",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-canada/dinh-cu-canada-tinh-bang-nova-scotia/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Hiểu về Canada",
+            "product_care_topics_desc": "<p>Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Cuộc sống tại Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Giáo dục tại Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Văn hóa Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Lao động / Kinh doanh tại Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Trợ cấp, phúc lợi, an sinh xã hội Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Du lịch Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Y tế tại Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n6",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Bất động sản Canada",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n7",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Những câu chuyện định cư Canada truyền cảm hứng",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-canada/#n8",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Câu hỏi thường gặp về chương trình PEI",
+            "product_faq_section_id": "faq-pei",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Rủi ro đầu tư?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Ba nhóm rủi ro chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "<strong>Rủi ro vận hành:</strong> phương án kinh doanh không khả thi, không được lên kế hoạch rõ ràng dẫn đến hồ sơ không đủ điều kiện xin thường trú nhân."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "<strong>Rủi ro hồ sơ visa:</strong> thông tin sai lệch, không chứng minh được kinh nghiệm quản lý, hoặc đương đơn có án tích."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "<strong>Rủi ro chọn đơn vị tư vấn</strong> thiếu kinh nghiệm chứng minh nguồn tiền."
+                                }
+                            ],
+                            "product_faq_item_section_note": "IMM Group thẩm tra, thẩm định kỹ hồ sơ trước khi nhận hỗ trợ để giảm thiểu các rủi ro này. Lưu ý: đầu tư và tự vận hành doanh nghiệp là hoạt động có rủi ro; việc đạt PR phụ thuộc kết quả kinh doanh và xét duyệt của tỉnh bang."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "IMM hỗ trợ kế hoạch & vận hành?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "IMM hỗ trợ tư vấn, không vận hành thay",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group và đối tác hỗ trợ nhà đầu tư lên kế hoạch kinh doanh: ngay từ bước thẩm định và tính điểm hồ sơ, IMM tư vấn chọn mô hình và ý tưởng phù hợp nhất để xin được Work Permit."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Theo quy định, nhà đầu tư phải trực tiếp quản lý và vận hành doanh nghiệp để đủ điều kiện xin lên thường trú nhân - IMM không thể vận hành thay."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM cùng đối tác tại Canada luôn đồng hành tư vấn và cung cấp các thông tin cần thiết để đương đơn đạt đủ điều kiện nộp hồ sơ xin PR."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Work Permit là gì? Quyền lợi?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Work Permit - cư trú tạm thời tại Canada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Work Permit (giấy phép lao động) là quyền cư trú <strong>TẠM THỜI</strong> tại Canada, cấp sau khoảng 12-24 tháng làm hồ sơ - chưa phải thường trú nhân (PR)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Khi có Work Permit, cả gia đình được sinh sống, làm việc, kinh doanh và cho con đi học, nhưng <strong>CHỈ tại tỉnh bang đã nộp hồ sơ</strong>."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thẻ có thời hạn tối đa 2 năm, cần gia hạn và sau đó xin lên PR khi đủ điều kiện."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Gia đình đi cùng",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Nhà đầu tư, vợ/chồng và con dưới 22 tuổi."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Vợ/chồng được quyền đi làm."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Con học miễn phí từ tiểu học đến hết THPT."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Phải sống tại tỉnh bang đã nộp?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Yêu cầu cư trú gắn với tỉnh bang đã nộp",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Trước khi có thường trú nhân, nhà đầu tư phải gắn bó với doanh nghiệp tại tỉnh bang đã nộp hồ sơ."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đương đơn cần dành ít nhất <strong>75% tổng thời gian giữ Work Permit</strong> để sinh sống tại tỉnh bang đó."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Không ở quá xa địa điểm doanh nghiệp (vd Ontario và B.C quy định nơi ở trong bán kính 100km tới doanh nghiệp)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Vợ/chồng không được đi làm tại tỉnh bang khác với Work Permit."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Cả gia đình tuyệt đối không tự ý chuyển sang nơi khác để sinh sống, học tập, làm việc hay kinh doanh."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thời hạn & gia hạn Work Permit?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Thời hạn Work Permit & điều kiện gia hạn",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Work Permit cho diện đầu tư thường có thời hạn <strong>tối đa 2 năm</strong> (một số trường hợp 12-18 tháng)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Có thể gia hạn nếu chứng minh: doanh nghiệp có hoạt động kinh doanh, có tạo việc làm cho thường trú nhân/công dân Canada (tùy tỉnh bang) và có khai thuế."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thông thường sau 12-20 tháng vận hành (tùy tỉnh bang), nếu đáp ứng điều kiện, nhà đầu tư đã có thể nộp hồ sơ xin thường trú nhân."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Trong thời gian chờ, tỉnh bang cấp <strong>thư hỗ trợ (Supporting Letter)</strong> để gia đình ở lại Canada (thường 12-18 tháng)."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Quy định cụ thể tùy tỉnh bang và quy định hiện hành."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thời gian cư trú tối thiểu?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Yêu cầu cư trú để xin PR",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Hầu hết chương trình định cư diện doanh nhân của các tỉnh bang (cấp Work Permit) yêu cầu nhà đầu tư và gia đình cư trú tại Canada khoảng <strong>9 tháng/năm</strong> để đủ điều kiện xin thường trú nhân."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Yêu cầu này áp dụng cho cả đương đơn và những người phụ thuộc đi cùng hồ sơ - nghĩa là cả gia đình đều phải định cư tại Canada."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "<strong>KHÔNG</strong> được cộng dồn thời gian của đương đơn với vợ/chồng."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Quyền khi có Thường trú nhân?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Quyền lợi của thường trú nhân Canada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Gia đình được sinh sống và làm việc tại bất kỳ tỉnh bang nào ở Canada."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Hưởng các phúc lợi về y tế, an sinh xã hội và giáo dục theo diện thường trú nhân."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Có thể bảo lãnh cha mẹ (làm hồ sơ và chờ xét duyệt; trong thời gian chờ có thể xin visa thăm thân dài hạn cho cha mẹ)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau khi có PR, nhà đầu tư cũng có thể đóng doanh nghiệp đã cam kết và mở doanh nghiệp mới."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Chương trình không bắt buộc duy trì vĩnh viễn doanh nghiệp ban đầu."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Điều kiện & thuế khi nhập quốc tịch?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Điều kiện nhập quốc tịch Canada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Cư trú đủ 5 năm và đã có thường trú nhân."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sống thực tế tại Canada ít nhất 3 trong 5 năm trước ngày nộp."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Có nộp thuế tại Canada ít nhất 3 trong 5 năm."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đạt trình độ ngôn ngữ <strong>CLB 4</strong> trở lên."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Vượt qua bài kiểm tra về quyền lợi, nghĩa vụ và kiến thức Canada."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Không có tiền án tiền sự trong/ngoài Canada."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Thời gian xét tịch khoảng 1 năm."
+                        },
+                        {
+                            "product_faq_item_section_heading": "Về thuế",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Tài sản hình thành <strong>trước khi có PR</strong> mang sang Canada không phải đóng thuế."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tài sản và thu nhập phát sinh <strong>sau khi thành PR</strong> phải khai và đóng thuế theo luật."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Theo quy định hiện hành."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Nguồn tiền đầu tư?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Yêu cầu chứng minh nguồn tiền",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chương trình yêu cầu chứng minh nguồn tiền đầu tư, gồm nhiều lớp và khá phức tạp - nhà đầu tư nên chọn đơn vị di trú/luật sư uy tín, nhiều kinh nghiệm."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nhà đầu tư và vợ/chồng cần kê khai toàn bộ tài sản và chứng minh nguồn gốc thu nhập <strong>ngay tại thời điểm nộp hồ sơ</strong>."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Khác biệt giữa các tỉnh bang",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "<strong>PEI:</strong> KHÔNG chấp thuận tài sản trao tặng."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "<strong>Quebec:</strong> yêu cầu tài sản được tặng ít nhất 6 tháng trước."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "<strong>B.C và Ontario:</strong> chấp thuận (người cho tặng phải giải trình khả năng tài chính)."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Tiền đầu tư chỉ chuyển sang Canada sau khi nhà đầu tư đã có Work Permit."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Tiếng Anh & độ tuổi?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Yêu cầu tiếng Anh",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Hai lựa chọn phổ biến (B.C và Ontario): có bằng <strong>IELTS General từ 4.0 trở lên</strong> sẽ được cộng điểm khi nộp hồ sơ ban đầu."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Ban đầu có thể nộp mà chưa cần cung cấp IELTS."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đến bước chuẩn bị hồ sơ xin thường trú nhân, đương đơn cần thi IELTS và đạt trình độ tối thiểu <strong>CLB 4</strong>."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Độ tuổi",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chương trình nhìn chung không giới hạn (chỉ số ít tỉnh bang có quy định)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Nhà đầu tư chỉ cần chứng minh năng lực kinh doanh và đạt yêu cầu sức khỏe."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Người phụ thuộc đi cùng?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Quy định con phụ thuộc",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Con phụ thuộc được đi kèm khi <strong>dưới 22 tuổi</strong> (21 trở xuống, chưa bước qua 22) và còn độc thân."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thời điểm chốt tuổi là ngày tỉnh bang nhận hồ sơ đề cử hoàn chỉnh (sau khi ITA ban hành)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Con trên 22 tuổi vẫn có thể đi cùng nếu đang theo học toàn thời gian/cao học, còn độc thân và phụ thuộc tài chính - quy định khá thoải mái so với Úc, Mỹ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Con nuôi & con riêng",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Con nuôi chỉ được chấp thuận trong các trường hợp nhân đạo (trẻ mồ côi, vùng chiến tranh/thiên tai, cứu khỏi bạo hành)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Không chấp thuận khi nhận nuôi cháu ruột, bố mẹ ruột còn lao động được, hoặc nhận nuôi chỉ để định cư."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Con riêng của nhà đầu tư và của vợ/chồng đều được chấp thuận."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Làm 2 bộ hồ sơ 2 tỉnh bang?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Về mặt kỹ thuật có thể, nhưng KHÔNG khuyến khích",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Về mặt kỹ thuật, nhà đầu tư có thể nộp cùng lúc 2 bộ hồ sơ cho 2 tỉnh bang khác nhau."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đây là phương án <strong>KHÔNG được khuyến khích:</strong> mỗi chương trình tỉnh bang đều yêu cầu đương đơn cam kết sinh sống, làm việc và cống hiến cho tỉnh bang đã chọn."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Nếu tỉnh bang phát hiện nhà đầu tư nộp 2 bộ hồ sơ cùng lúc, cả hai bộ đều có thể bị bác."
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    }
+]

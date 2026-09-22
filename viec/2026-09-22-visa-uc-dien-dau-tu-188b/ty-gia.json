@@ -1,0 +1,13 @@
+{
+  "nguon": "open.er-api.com (ExchangeRate-API) — lấy trong cùng ngày cho việc PEI; lệnh tygia của việc này bị chặn mạng (403 ở shell máy CEO và ở container cloud)",
+  "cap_nhat": "Tue, 22 Sep 2026 00:02:31 +0000",
+  "lay_luc": "2026-09-22 (chep lai tu viec/2026-09-22-dinh-cu-canada-ontario/ty-gia.json)",
+  "vnd_moi_usd": 25969.65414,
+  "usd_moi_eur": 1.1471,
+  "usd_moi_gbp": 1.3373,
+  "usd_moi_aud": 0.7121,
+  "usd_moi_cad": 0.7131,
+  "usd_moi_nzd": 0.5715,
+  "usd_moi_sgd": 0.7837,
+  "ghi_chu": "Trang KHONG co so tien VND nen khong phai quy doi. Cac muc A$300.000 / 750.000 / 1.250.000 / 2.500.000 / 5.000.000 la muc von luat dinh cua chuong trinh Uc -> giu tien goc theo style guide muc 5.2, KHONG thay bang USD, khong them (approximately US$...) de ban dich khong mang con so nguon khong co. Ty gia ghi o day chi de tra cuu (1 AUD ~ 0,7121 USD)."
+}

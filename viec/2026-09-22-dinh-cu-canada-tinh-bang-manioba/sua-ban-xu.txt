@@ -1,0 +1,12 @@
+[s004] The Entrepreneur Pathway, part of the Manitoba Provincial Nominee Program (MPNP) Business Investor Stream, is designed for business owners and senior managers who want to invest in, acquire or operate a business in Manitoba.
+[s005] You must run the business in Manitoba yourself to qualify for Canadian permanent residence.
+[s007] The minimum investment is C$150,000 for a business outside the Manitoba Capital Region, or C$250,000 for a business within it.
+[s024] This level applies outside the Manitoba Capital Region; a business inside the Capital Region requires a minimum investment of C$250,000.
+[s025] You only need to create or maintain 1 job
+[s029] At least 3 years of business management experience in the past 5 years.
+[s042] Business research visit to Manitoba
+[s043] You travel to Manitoba to research the local business environment and prepare your investment plan.
+[s047] Once you are invited, you complete and submit your full application to the province.
+[s051] Once the province approves your application, you apply to Immigration, Refugees and Citizenship Canada (IRCC) for a work permit.
+[s087] Before you hold permanent residence, you need to stay closely involved with the business in the province you applied to. Your family must live there in line with the commitments you made under the program.
+[s093] Yes. You must document a lawful source of funds and show that your assets are legitimate and fully traceable. Eligible assets can include real estate, business assets, cash savings, and shares in private or publicly traded companies.

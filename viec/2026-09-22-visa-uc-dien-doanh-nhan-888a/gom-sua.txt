@@ -1,0 +1,15 @@
+[s005] Investors can move from the 188A provisional visa to 888A permanent residence once they have run the business and met the residence requirements in Australia.
+[s008] The 888A visa lets the investor continue to own and manage the Australian business as a permanent resident.
+[s014] The family is eligible for public health care, education, and social security as Australian permanent residents.
+[s016] Entering and leaving Australia is straightforward while the travel facility on the permanent visa remains valid.
+[s018] Investors can apply for Australian citizenship once they meet the residence and character requirements that apply at the time.
+[s021] Holders of the 188A provisional visa move to 888A permanent residence once the requirements are met.
+[s023] The investor continues to own, manage, and grow the Australian business.
+[s032] Hold at least a 30% ownership stake in the business, or the stake prescribed where the business turnover exceeds the prescribed level.
+[s034|#bo-qua-so: US$214,000 là số quy đổi tham chiếu từ A$300,000 theo ty-gia.json, nguồn không có] Record annual turnover of at least A$300,000 (approximately US$214,000) in the Australian business in at least 1 year.
+[s044] Start trading once the 188A visa is granted, then maintain the business, its turnover, its assets, and your residence in Australia in line with the requirements.
+[s072] 188A versus 888A
+[s079] Yes. Investors have to show that the invested capital is lawful and fully documented. How the source of funds is explained differs from case to case.
+[s082] Yes. The business you acquire should match your management experience and your business plan. Careful due diligence before the purchase matters, because a poorly chosen acquisition puts the application at risk.
+[s085] Adjustments are possible in the early stage where circumstances warrant. Before the 888A application, the business has to be trading steadily and meeting the requirements that apply.
+[s088] The residence requirement can be met by either the applicant or the spouse or partner, as the applicable rules allow. Time spent in Australia by the applicant and by the spouse or partner cannot be added together.

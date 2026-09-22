@@ -1,0 +1,3 @@
+# Soát song ngữ — 188A (visa-uc-dien-doanh-nhan-188a)
+
+- [s054] VỪA: "Nhận chấp thuận hồ sơ" (nghĩa là hồ sơ được phê duyệt) dịch thành tiêu đề trung tính "Decision on the application" — làm nhạt nghĩa "được chấp thuận". Trong khi đó s059 cùng một ý ("nếu hồ sơ được chấp thuận") lại dịch đúng là "If the application was approved". Hai chỗ cùng nói về việc chấp thuận hồ sơ nhưng dùng hai mức nghĩa khác nhau (trung tính vs tích cực) — không nhất quán trong cùng trang, và các bước còn lại trong quy trình (vd s058 "Nhận visa 188A" → "Grant of the 188A visa") đều giữ nguyên kết quả tích cực của nguồn, không có lý do gì riêng s054 phải trung tính hoá.

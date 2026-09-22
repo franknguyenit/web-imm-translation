@@ -1,0 +1,19 @@
+[s007] An investment starting at C$100,000 (approximately US$71,000) for a business outside Halifax Regional Municipality (HRM), or C$150,000 (approximately US$107,000) for a business inside HRM.
+[s021] This applies when you start a new business or acquire an existing one outside HRM.
+[s022] No profitability requirement
+[s023] Your Canadian business is not required to be profitable right away, but it must be genuinely operating and must meet the commitments you made to the province.
+[s027] The province has well-established schools, healthcare, and communities, all of which suit a long-term settlement plan.
+[s029] Its position on the Atlantic coast gives Nova Scotia strong trade links to the United States, Europe, and other international markets.
+[s032] Has a personal net worth of at least C$600,000 (approximately US$428,000) if the business is in HRM.
+[s033] Has a personal net worth of at least C$400,000 (approximately US$285,000) if the business is outside HRM.
+[s036] Meets the language requirement of Canadian Language Benchmark (CLB) 5 in English or French, roughly equivalent to an IELTS score of 5.0.
+[s038] Invests at least C$150,000 in a business in HRM.
+[s039] Invests at least C$100,000 in a business outside HRM.
+[s041] Operates the business for at least 12 months to qualify to apply for a provincial nomination and, from there, permanent residence.
+[s042] Creates at least 1 full-time job for a Canadian citizen or permanent resident when starting a new business, or maintains the existing jobs when acquiring an established business.
+[s049] You submit your EOI to the Government of Nova Scotia.
+[s057] You receive your work permit, move to Nova Scotia, make the investment, and run your business.
+[s061] Once you are nominated, you file your permanent residence application with Immigration, Refugees and Citizenship Canada (IRCC).
+[s090] Yes. You must be actively involved in managing and operating the business in Nova Scotia. An advisory firm can help with the business plan, but it cannot run the business on your behalf.
+[s093] An exploratory visit is required if you are acquiring an existing business. It is an important step in assessing the business model and preparing your investment plan.
+[s102] Risk usually comes from a business plan that is not viable, a failure to operate the business as committed, a failure to create or maintain the required jobs, or weak documentation of your finances.

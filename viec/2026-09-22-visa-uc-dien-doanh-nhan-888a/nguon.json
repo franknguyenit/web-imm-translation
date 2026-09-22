@@ -1,0 +1,460 @@
+[
+    {
+        "post_id": 1064,
+        "post_slug": "/dau-tu-dinh-cu-uc/visa-uc-dien-doanh-nhan-888a/",
+        "post_title": "Visa Úc diện doanh nhân 888A",
+        "lang": "vi",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "VISA ÚC DIỆN DOANH NHÂN <span class=\"accent\">888A</span>"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99315",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "Visa 888A là gì?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Visa 888A là visa thường trú Úc dành cho nhà đầu tư đã có visa 188A diện Doanh nhân đổi mới.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Nhà đầu tư chuyển từ 188A tạm trú sang 888A thường trú sau khi duy trì kinh doanh và cư trú tại Úc đủ điều kiện.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Vợ/chồng và con phụ thuộc có thể cùng được cấp visa.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Sau khi có 888A và đáp ứng điều kiện cư trú, nhà đầu tư có thể nộp hồ sơ xin quốc tịch Úc.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Visa 888A cho phép nhà đầu tư tiếp tục sở hữu và quản lý doanh nghiệp tại Úc theo diện thường trú.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI THƯỜNG TRÚ NHÂN ÚC",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "home_work",
+                    "product_benefits_item_title": "Sinh sống tự do tại Úc",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Cả gia đình được sinh sống, học tập, làm việc và kinh doanh tại bất kỳ bang nào của Úc."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "health_and_safety",
+                    "product_benefits_item_title": "Phúc lợi thường trú nhân",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Gia đình được tiếp cận y tế công, giáo dục và an sinh xã hội theo diện thường trú nhân Úc."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "sync_alt",
+                    "product_benefits_item_title": "Tự do đi lại Việt Nam – Úc",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Ra vào Úc thuận tiện trong thời hạn thẻ thường trú."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "Lộ trình quốc tịch Úc",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Có thể xin quốc tịch Úc khi đáp ứng điều kiện cư trú và nhân thân theo quy định."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM VISA 888A",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "card_membership",
+                    "product_advantages_item_title": "Thường trú nhân Úc",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Từ visa 188A tạm trú chuyển sang 888A thường trú khi đáp ứng điều kiện."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "business_center",
+                    "product_advantages_item_title": "Tiếp tục kinh doanh tại Úc",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Nhà đầu tư tiếp tục sở hữu, quản lý và phát triển doanh nghiệp tại Úc."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "family_restroom",
+                    "product_advantages_item_title": "Gia đình cùng hưởng quyền thường trú",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Vợ/chồng và con phụ thuộc có thể cùng được cấp visa."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "route",
+                    "product_advantages_item_title": "Lộ trình quốc tịch",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Sau khi có thường trú và đáp ứng điều kiện, có thể xét quốc tịch Úc."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN CHUYỂN 188A → 888A",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "business_center",
+                    "product_conditions_item_title": "Kinh doanh và sở hữu",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Thành lập hoặc mua lại doanh nghiệp tại Úc."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Trực tiếp điều hành, quản lý doanh nghiệp."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Sở hữu tối thiểu 30% vốn trong doanh nghiệp, hoặc theo ngưỡng quy định nếu doanh thu doanh nghiệp cao hơn mức quy định."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Doanh thu và tài sản",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Doanh nghiệp tại Úc có tối thiểu 1 năm đạt doanh thu từ 300.000 AUD/năm."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Trong 12 tháng trước khi nộp hồ sơ, đáp ứng 2 trong 3 điều kiện: tổng tài sản cá nhân và vốn trong doanh nghiệp Úc đạt mức quy định; tổng giá trị đầu tư vào doanh nghiệp tại Úc đạt mức quy định; hoặc tạo tối thiểu 2 việc làm toàn thời gian cho công dân hoặc thường trú nhân Úc, không tính người thân."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "calendar_month",
+                    "product_conditions_item_title": "Cư trú tại Úc",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đáp ứng yêu cầu lưu trú tại Úc theo quy định của visa subclass 888 tại thời điểm nộp hồ sơ."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "IMM Group tư vấn mốc cư trú cụ thể theo hồ sơ, bang bảo lãnh và thời điểm nộp."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "verified_user",
+                    "product_conditions_item_title": "Tuân thủ pháp luật",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Lý lịch tư pháp trong sạch."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Không vi phạm pháp luật Úc."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH XIN VISA 888A",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "business_center",
+                    "product_process_step_title": "Đầu tư và kinh doanh tại Úc",
+                    "product_process_step_desc": "Triển khai kinh doanh sau khi có visa 188A; duy trì hoạt động doanh nghiệp, doanh thu, tài sản và điều kiện cư trú.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Nộp hồ sơ 888A",
+                    "product_process_step_desc": "Tổng hợp hồ sơ chứng minh điều kiện kinh doanh, tài chính, cư trú và nộp đơn xin visa 888A.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "card_membership",
+                    "product_process_step_title": "Nhận thường trú 888A",
+                    "product_process_step_desc": "Được cấp visa 888A nếu hồ sơ đáp ứng điều kiện. Thời gian xử lý tùy hồ sơ và tiến độ của Bộ Di trú Úc.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "Có thể bạn quan tâm",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "Có thể bạn quan tâm",
+            "product_care_service_desc": "<p>Tìm hiểu các dịch vụ tư vấn từ IMM Group:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Đầu tư định cư Úc",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Úc diện doanh nhân 188A",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-doanh-nhan-188a/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Úc diện đầu tư 188B",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-188b/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Úc diện đầu tư trọng yếu 188C",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-trong-yeu-188c/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Úc diện đầu tư 888B",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-trai-phieu-888b/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Úc diện đầu tư trọng yếu 888C",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/visa-uc-dien-dau-tu-trong-yeu-888c/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "Visa Úc diện National Innovation Visa (NIV)",
+                    "product_care_service_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/dau-tu-dinh-cu-uc/dinh-cu-uc-dien-national-innovation-visa-niv/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Hiểu về nước Úc",
+            "product_care_topics_desc": "<p>Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Cuộc sống tại Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Thuế Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Kinh doanh tại Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Giáo dục tại Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Trợ cấp, phúc lợi, an sinh xã hội Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n4",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Du lịch Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n5",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Những người Việt thành công trên đất Úc",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n6",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Những câu chuyện định cư Úc truyền cảm hứng",
+                    "product_care_topics_link_url": "https://staging-41de-immgroupcom.wpcomstaging.com/hieu-ve-nuoc-uc/#n7",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Câu hỏi thường gặp về Visa 888A",
+            "product_faq_section_id": "faq-888a",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Visa 888A khác 188A như thế nào?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Khác biệt 188A và 888A",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "188A là visa tạm trú diện Doanh nhân đổi mới. 888A là visa thường trú, dành cho nhà đầu tư đã kinh doanh và cư trú đủ điều kiện tại Úc."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Điều kiện chính để xin 888A là gì?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Điều kiện chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Nhà đầu tư cần trực tiếp điều hành doanh nghiệp tại Úc, sở hữu vốn theo quy định, đạt yêu cầu doanh thu, đáp ứng điều kiện tài sản hoặc tạo việc làm, và đủ thời gian cư trú."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có cần chứng minh nguồn tiền không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Nguồn tiền",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có. Nhà đầu tư cần chứng minh nguồn vốn đầu tư là hợp pháp và minh bạch. Mỗi hồ sơ có cách diễn giải nguồn tiền khác nhau."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có thể mua lại doanh nghiệp tại Úc không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Mua lại doanh nghiệp",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có thể. Doanh nghiệp mua lại cần phù hợp với kinh nghiệm quản lý và kế hoạch kinh doanh. Cần thẩm định kỹ trước khi mua để tránh rủi ro hồ sơ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có được đổi ngành nghề kinh doanh không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Đổi ngành nghề",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có thể điều chỉnh trong giai đoạn đầu nếu phù hợp thực tế. Trước khi xin 888A, doanh nghiệp cần hoạt động ổn định và đạt điều kiện theo quy định."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Ai cần đáp ứng điều kiện cư trú?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Cư trú",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Yêu cầu cư trú có thể do đương đơn hoặc vợ/chồng đáp ứng theo quy định. Thời gian cư trú không cộng dồn giữa hai người."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Visa 888A có Medicare không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Medicare",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có. Sau khi có 888A, gia đình đủ điều kiện tiếp cận Medicare theo diện thường trú nhân Úc. Ở giai đoạn 188A, nhà đầu tư thường cần bảo hiểm y tế tự túc."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Sau 888A có thể xin quốc tịch Úc không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Lộ trình quốc tịch",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có thể. Sau khi có thường trú và đáp ứng điều kiện cư trú, nhân thân, ngoại ngữ và kỳ thi quốc tịch, nhà đầu tư có thể nộp hồ sơ nhập tịch."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    }
+]

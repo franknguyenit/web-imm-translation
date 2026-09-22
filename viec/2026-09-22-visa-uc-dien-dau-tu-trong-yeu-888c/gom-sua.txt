@@ -1,0 +1,20 @@
+[s002] Australian Permanent Residence — {1}888C{/1} Significant Investor Visa
+[s005] The whole family — spouse or partner and dependent children — can be granted PR at the same time.
+[s012] Freedom to live, study, work, and run a business in any state or territory of Australia.
+[s014] Medicare, social security, and public education are available, subject to the residence conditions, once the 888C is granted.
+[s016] Travel in and out of Australia freely as a permanent resident.
+[s018] A path to Australian citizenship opens once the physical residence requirements and the other citizenship criteria are met; citizenship is assessed separately from PR.
+[s025] The applicant needs to spend 40 days or more a year in Australia, or the spouse or partner 180 days or more a year, while holding the 188C.
+[s032] The applicant needs to spend 40 days or more a year in Australia, or the spouse or partner 180 days or more a year.
+[s033] Time spent in Australia by the applicant and by the spouse or partner cannot be added together.
+[s036] A commitment to Australia
+[s037] An intention to continue investing or doing business in Australia (the Commitment to State).
+[s044] You receive the 888C visa, which grants permanent residence, once the application is approved.
+[s069] The 188C and 888C streams have no age limit, no points test, and a flexible residence requirement (40 days per year). Processing times depend on the individual case and on current policy. The trade-off is a higher level of investment than for the 188A and the 188B.
+[s073] Application risk comes from choosing a fund that does not meet the standard, from a source-of-funds explanation that is not fully documented, or from an advisor without the right experience.
+[s082] Eligible assets include real estate, business assets, savings, and shareholdings or listed shares — held in the name of the applicant and/or the spouse or partner.
+[s086] Yes, once the investment has been held for the required period and the 888C application has been lodged. The timing of any withdrawal should be planned with your advisor, so that it does not affect the application.
+[s092] Yes. Once the 188 visa is granted, children can attend public school from primary through senior secondary, under the policy that applies to permanent residents and eligible visa holders; the exact conditions are set by each state.
+[s095] At the 188 (provisional) stage there is normally no Medicare access, so private health cover is needed. Once the 888C (PR) is granted, the family is eligible for Medicare.
+[s101] The citizenship criteria are assessed separately from PR: generally 4 years of lawful residence in Australia, of which at least 1 year as a permanent resident; no more than 90 days outside Australia in the final year; passing the citizenship test; good character; and meeting the language requirement.
+[s104] There is no such thing as using "connections" to have an application prioritized or the requirements relaxed — that would be against Australian law. Applications are decided on the data and the evidence.

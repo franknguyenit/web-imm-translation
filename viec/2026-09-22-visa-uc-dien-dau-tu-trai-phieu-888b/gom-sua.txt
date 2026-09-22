@@ -1,0 +1,17 @@
+[s007] Once they hold permanent residence and meet the requirements, investors become eligible to apply for Australian citizenship.
+[s008] The 888B requires no additional investment once the transition requirements carried over from the 188B have been met.
+[s014] The family is eligible for Medicare, education, and social security as Australian permanent residents.
+[s016] Permanent residents can enter and leave Australia freely while the travel facility on the permanent visa remains valid.
+[s018] Investors become eligible to apply for Australian citizenship once they meet the residence, language, and character requirements.
+[s021] The 888B is the step from the 188B provisional visa to Australian permanent residence, available once the requirements are met.
+[s023] The 888B requires no additional investment once the transition requirements carried over from the 188B have been met.
+[s027] Once they hold permanent residence, investors become eligible to apply for Australian citizenship when they meet the requirements.
+[s028] Requirements for moving from 188B to 888B
+[s030|#bo-qua-so: US$1.78 million là số quy đổi tham chiếu từ A$2.500.000 theo ty-gia.json, nguồn không có] Maintain the A$2.5 million (approximately US$1.78 million) complying investment made under the 188B program.
+[s032] The thresholds are set in Australian dollars; any conversion into another currency is indicative only and moves with the exchange rate.
+[s045] Permanent residence is granted where the application meets the requirements. Processing times depend on the individual case and on the Department of Home Affairs.
+[s073] Investors have to maintain the A$2.5 million complying investment, live in Australia for at least 2 years in total within 3 years, and comply with Australian law.
+[s076] Yes. Investors have to document a lawful and transparent source of funds. Assets commonly used include real estate, business assets, savings accounts, and shareholdings or listed shares.
+[s079] Yes. The investment made under the 188B/888B program is an at-risk investment; returns and the recovery of capital depend on how the investment performs and on the terms of the fund.
+[s085] The residence requirement can be met by either the applicant or the spouse or partner. Time spent in Australia by the applicant and by the spouse or partner cannot be added together, and children are not required to meet it.
+[s091] Yes. Once they hold permanent residence and meet the residence, language, character, and citizenship test requirements, investors become eligible to apply for Australian citizenship.
