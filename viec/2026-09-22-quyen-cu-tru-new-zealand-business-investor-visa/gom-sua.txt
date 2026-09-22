@@ -1,0 +1,25 @@
+[s005] The minimum investment is NZ$1 million.
+[s006] In the first stage, you and your family are granted a visa valid for up to 4 years so that you can manage and grow the business yourself.
+[s007] There are 2 investment options: from NZ$1 million, with a Resident Visa application after 3 years; or from NZ$2 million on the fast route, with a Resident Visa application after 12 months.
+[s008] Once you hold the Resident Visa and have lived in New Zealand for the required time, you can consider the route to citizenship.
+[s012] You, your spouse, and your dependent children can live, study, and work in New Zealand, subject to the conditions of the visa.
+[s018] You can be considered for a New Zealand Resident Visa after at least 12 months or 3 years of running the business, depending on your investment route and whether you meet the conditions in full.
+[s020] Once you hold the Resident Visa and meet the physical residence conditions, you can consider applying for New Zealand citizenship.
+[s025] A more accessible entry level than the Active Investor Plus Visa
+[s026] The investment starts at NZ$1 million, below the threshold for the Active Investor Plus Visa.
+[s034] Meets the health and police clearance certificate requirements.
+[s036] At least a further NZ$500,000 in settlement funds for your family's first period in New Zealand.
+[s039] You can buy the business outright or hold at least 25% of its shares.
+[s045] After running the business and meeting the conditions for 3 years, you can apply for a Resident Visa.
+[s047] After running the business and meeting the conditions for 12 months, you can apply for a Resident Visa.
+[s050] At least 184 days a year in New Zealand.
+[s055] We look for an operating New Zealand business that is a suitable investment. We assess its finances, its legal standing, and its operating potential in detail.
+[s057] We gather your personal documents, evidence of your experience, and your English certificate. We prepare the evidence of your source of funds and your settlement funds, together with the business plan.
+[s059] The complete application is submitted to Immigration New Zealand for a Business Investor Work Visa, valid for up to 4 years.
+[s061] Once your application is approved, you follow the next steps as instructed to complete the investment and have the visa issued.
+[s064] Apply for the Resident Visa
+[s065] After 12 months on the fast route, or 3 years on the standard route, you can apply for a Business Investor Resident Visa, provided you meet all the conditions.
+[s067] Once you have held residence and physically lived in New Zealand for the required time, you can consider applying for New Zealand citizenship.
+[s088] Yes. The program requires you to manage and grow the business in New Zealand yourself, under the conditions of the visa.
+[s096] Yes. Your spouse and dependent children can be included. They need to meet the health, character, and documentation requirements that apply.
+[s100] It is possible. Once you hold the Resident Visa and have physically lived in New Zealand for the required 5 years, you can consider applying for citizenship.

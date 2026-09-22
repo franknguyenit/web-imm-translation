@@ -197,3 +197,16 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
   thêm dữ kiện nguồn không nói.
 - **B5 và B6 đá nhau về H1 chứa từ khoá:** B5 hay đòi H1 bám sát nguồn. Giữ từ khoá — style guide mục 7 bắt buộc,
   bỏ đi là cửa 0 ĐỎ; ghi lý do bác vào báo cáo.
+- **New Zealand: Resident Visa ≠ Permanent Resident Visa.** Nguồn Việt của IMM gọi Resident Visa là "Visa Thường
+  trú"; dịch thành "permanent residence" là **nói quá quyền lợi khách** (Resident Visa còn bị giới hạn travel
+  conditions). Căn cứ để quyết: tên tiếng Anh mà **chính nguồn** nêu ở bước quy trình.
+- **Nguồn hedge thì bản dịch phải hedge:** "có thể **xét** nộp hồ sơ nhập quốc tịch" → "you can **consider
+  applying** for citizenship", không phải "you can apply". Nói chắc về quyền nhập tịch là hứa một kết quả do cơ
+  quan nhà nước quyết.
+- **Gạch nối làm vỡ khớp bảng thuật ngữ:** "source-of-funds evidence" KHÔNG khớp dòng `chot` "source of funds" →
+  cửa 0 ĐỎ. Agent soát hay đề xuất gạch nối; bác và giữ dạng không gạch nối.
+- **H1 hai dòng có `{br}`:** muốn H1 chứa **nguyên cụm** từ khoá chính thì **xếp lại chữ giữa hai dòng**
+  (vd "New Zealand{br}{1}Business Investor Visa{/1}"), đừng chèn thêm chữ — bộ kiểm ghép hai dòng lại rồi mới tìm cụm.
+- **Chương trình cư trú-đầu tư nước nào cũng bị gọi là "golden visa"**, kể cả nước không dùng tên đó: gợi ý
+  "new zealand golden visa" (cost, benefits, to citizenship, rules, for indians, cost in inr) mạnh hơn cả tên chính
+  thức "Active Investor Plus Visa" ⇒ H1 dùng tên chính thức, meta description nhồi thêm "golden visa".

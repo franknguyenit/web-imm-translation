@@ -1,0 +1,564 @@
+[
+    {
+        "post_id": 100925,
+        "post_slug": "/dau-tu-dinh-cu-new-zealand/quyen-cu-tru-new-zealand-active-investor-plus-visa/",
+        "post_title": "New Zealand residency (Active Investor Plus Visa)",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "New Zealand residency<br><span class=\"accent\">Active Investor Plus Visa</span>"
+            },
+            "product_hero_video": "https://www.youtube.com/watch?v=86xzTeeAvD4",
+            "product_hero_image": "99461",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is the Active Investor Plus Visa?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The Active Investor Plus Visa is a New Zealand residency program for investors with substantial financial capacity who invest in approved categories in New Zealand.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "You can choose between 2 categories, Growth and Balanced, with minimum investments of NZ$5 million and NZ$10 million respectively.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Once the visa is granted, you and your family can live, study, and work in New Zealand.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "The application covers your spouse and dependent children aged 24 or under.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "After 3 or 5 years of holding the investment and meeting the residence conditions, you can be considered for a Permanent Resident Visa.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "After a period of actually living in New Zealand, and once you meet the conditions set by New Zealand law, you may be able to pursue New Zealand citizenship.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://immgroup.com/en/contact/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Active Investor Plus Visa benefits",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "home",
+                    "product_benefits_item_title": "Live, study, and work in New Zealand",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "You and your family can live, study, and work in New Zealand with the rights of a Resident Visa holder. This is long-term residence, but it is not yet a Permanent Resident Visa."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "family_restroom",
+                    "product_benefits_item_title": "Family members on the application",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Your spouse and dependent children aged 24 or under can be included, provided they meet the requirements on family relationship, financial dependency, health, and character."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "card_membership",
+                    "product_benefits_item_title": "A route to the Permanent Resident Visa",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "You can apply for a Permanent Resident Visa once you have completed the investment conditions and the required time in New Zealand:"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Growth: after 3 years of holding the investment"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Balanced: after 5 years of holding the investment"
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "A route to New Zealand citizenship",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Once you meet the requirements on physical presence, intention to continue living in New Zealand, English language, and character, you can apply for New Zealand citizenship. The current rules require at least 240 days of presence in New Zealand in each 12-month period, and 1,350 days in total over the 5 years before you apply."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "public",
+                    "product_benefits_item_title": "A New Zealand passport at a later stage",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Once you are granted citizenship, you and your family can hold New Zealand passports. This is a right of citizens; it does not come automatically with the Active Investor Plus Visa or the Permanent Resident Visa."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Advantages of the Active Investor Plus Visa",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "No migration points test",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "The program is not assessed against a points system, unlike some skilled, entrepreneur, and traditional migration categories."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "home_work",
+                    "product_advantages_item_title": "No requirement to set up a business",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You are not required to set up, manage, or run a business in New Zealand yourself."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "person",
+                    "product_advantages_item_title": "No upper age limit",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "The main applicant must be 18 or older. On IMM Group's information, the program sets no upper age limit."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "language",
+                    "product_advantages_item_title": "No English requirement at the visa stage",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Invest New Zealand states that the program currently has no English requirement at the Active Investor Plus Visa stage. If you later apply for New Zealand citizenship, you will need to meet the English requirement set by citizenship law."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "event_available",
+                    "product_advantages_item_title": "A low physical presence requirement",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Growth: at least 21 days of presence over 3 years"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Balanced: at least 105 days of presence over 5 years"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Under the Balanced category, the required presence can be reduced if you commit additional capital to a qualifying Growth investment, as provided in the rules."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "A choice of investment categories",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You can choose Growth or Balanced depending on your financial goals, your risk appetite, and how long you want to keep the capital committed."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Active Investor Plus Visa requirements",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Applicant requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "You are aged 18 or older."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "You meet the health and character requirements."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "You are a suitable person to be granted a visa under the \"fit and proper person\" test."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "You can document a lawful source for the investment funds."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "You transfer the investment funds to New Zealand after approval in principle."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Requirements for dependents",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Your spouse must show a genuine and stable relationship."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Dependent children aged 24 or under can be included in the application."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Children aged 21–24 must show that they are still financially dependent on their parents."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "trending_up",
+                    "product_conditions_item_title": "The Growth category",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Minimum investment: NZ$5 million."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Minimum holding period: 36 months."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "At least 21 days of presence in New Zealand during the investment period."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "The investment can include direct investment, approved managed funds, or philanthropy, with philanthropy capped at 20% of the total investment."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "account_balance_wallet",
+                    "product_conditions_item_title": "The Balanced category",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Minimum investment: NZ$10 million."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Minimum holding period: 60 months."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "At least 105 days of presence in New Zealand during the investment period."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "The investment can include direct investment, managed funds, listed shares, bonds, property development projects, or qualifying philanthropy."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "The Active Investor Plus Visa process",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Consultation and file review",
+                    "product_process_step_desc": "We assess your eligibility, asset structure, source of funds, residence goals, and the investment option that fits.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "tune",
+                    "product_process_step_title": "Choose your investment category",
+                    "product_process_step_desc": "We identify whether your file fits Growth or Balanced, based on the capital involved, the holding period, the presence requirement, and your family's risk appetite.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "folder_open",
+                    "product_process_step_title": "Prepare the file",
+                    "product_process_step_desc": "We prepare your identity documents, financial file, source of funds evidence, investment plan, medical certificates, and police certificates.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "File the visa application",
+                    "product_process_step_desc": "The application is filed with Immigration New Zealand for assessment. Immigration New Zealand currently publishes a time to approval in principle of about 10.5 weeks for 80% of applications; actual timelines depend on your file and on when you file it.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "mark_email_read",
+                    "product_process_step_title": "Receive approval in principle",
+                    "product_process_step_desc": "Once you have approval in principle, you have 6 months to transfer the committed funds to New Zealand and make the investment. In some cases you can request a further 6 months, with good reason.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "payments",
+                    "product_process_step_title": "Make the investment",
+                    "product_process_step_desc": "You transfer the funds and make the investment in approved categories in New Zealand.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "badge",
+                    "product_process_step_title": "Receive your Resident Visa",
+                    "product_process_step_desc": "Once the transfer and the qualifying investment are complete, you and your family can be granted a Resident Visa under the Active Investor Plus category.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "event_available",
+                    "product_process_step_title": "Keep meeting the investment and residence conditions",
+                    "product_process_step_desc": "You hold the investment for 36 or 60 months, depending on the category, and provide evidence that the investment is still in place at the milestones Immigration New Zealand sets.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "how_to_reg",
+                    "product_process_step_title": "Apply for the Permanent Resident Visa",
+                    "product_process_step_desc": "Once you have completed the investment, residence, and related requirements, you can file for a Permanent Resident Visa.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "You may also be interested in",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "You may also be interested in",
+            "product_care_service_desc": "<p>Explore IMM Group's advisory services:</p>\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "New Zealand investor visa",
+                    "product_care_service_link_url": "https://immgroup.com/dau-tu-dinh-cu-new-zealand/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "New Zealand residency (Business Investor Visa)",
+                    "product_care_service_link_url": "https://immgroup.com/dau-tu-dinh-cu-new-zealand/quyen-cu-tru-new-zealand-business-investor-visa/",
+                    "product_care_service_link_blank": ""
+                },
+                {
+                    "product_care_service_link_title": "An overview of New Zealand investment immigration (Active Investor Plus Visa)",
+                    "product_care_service_link_url": "https://immgroup.com/new-zealand/tong-quan-ve-chuong-trinh-dinh-cu-new-zealand-dien-dau-tu-active-investor-plus-visa/",
+                    "product_care_service_link_blank": ""
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Understanding New Zealand",
+            "product_care_topics_desc": "<p>IMM Group's resource hub brings together practical information on the following topics:</p>\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Life in New Zealand",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-new-zealand/#n0",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Education in New Zealand",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-new-zealand/#n1",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "New Zealand culture",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-new-zealand/#n2",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Working and doing business in New Zealand",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-new-zealand/#n3",
+                    "product_care_topics_link_blank": ""
+                },
+                {
+                    "product_care_topics_link_title": "Benefits, welfare, and social security in New Zealand",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-nuoc-new-zealand/#n4",
+                    "product_care_topics_link_blank": ""
+                }
+            ],
+            "product_faq_title": "Active Investor Plus Visa FAQs",
+            "product_faq_section_id": "faq-active-investor-plus-new-zealand",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Is the Active Investor Plus Visa a Permanent Resident Visa?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No. It is a Resident Visa, which lets you live, study, and work in New Zealand indefinitely. Your travel conditions are limited at first, and they depend on the investment category. Once you complete the conditions, you can apply for a Permanent Resident Visa."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How do Growth and Balanced differ?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Growth requires a minimum investment of NZ$5 million for 36 months, focused on growth assets such as direct investment or managed funds. Balanced requires a minimum of NZ$10 million for 60 months, with a broader portfolio that can include listed shares, bonds, property development, and qualifying philanthropy."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do I have to live in New Zealand full time?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No. The main applicant needs at least 21 days of presence over 3 years under Growth, or 105 days over 5 years under Balanced."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is there an English requirement?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "At the Active Investor Plus Visa stage the program has no English requirement. If you later apply for New Zealand citizenship, you will need to meet the English requirement under citizenship rules."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Which family members can be included?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The application can include your spouse and dependent children aged 24 or under. Children aged 21–24 must show that they are still financially dependent on their parents."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Does the family have to travel to New Zealand as soon as the visa is granted?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Family members included in the Resident Visa must enter New Zealand within 12 months of the date the visa is granted. Otherwise they may have to file a new residence application."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is a return on the investment guaranteed?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No. Invest New Zealand states clearly that an investment appearing on its platform or in its materials does not mean the agency recommends, endorses, or guarantees its performance. You need to carry out your own due diligence and take financial and tax advice before deciding."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How soon can I withdraw the capital?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You can consider withdrawing the capital once you have completed the holding period and met the visa conditions: at least 36 months under Growth, or 60 months under Balanced. Any withdrawal should be reviewed against your visa conditions and your investment documents, with legal and financial advice."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can I obtain New Zealand citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "It is possible. You can apply for citizenship once you meet the requirements on physical presence, intention to continue living in New Zealand, English language, and character. The current rules require at least 240 days of presence in New Zealand each year, and 1,350 days in total over the 5 years before you apply."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the main risks?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The main risks are choosing an investment that does not qualify, gaps in your source of funds documentation, failing to hold the investment for the full period, failing to meet the presence days, market movements, and tax obligations when you relocate to or invest in New Zealand."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": ""
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": ""
+            }
+        },
+        "seo": {
+            "meta_title": "Active Investor Plus Visa: New Zealand Residency",
+            "meta_description": "The Active Investor Plus Visa, New Zealand's golden visa: Growth from NZ$5 million or Balanced from NZ$10 million, plus the route to permanent residence.",
+            "slug": "new-zealand-active-investor-plus-visa"
+        }
+    }
+]

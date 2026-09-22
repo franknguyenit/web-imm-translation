@@ -10,3 +10,4 @@
 - [3 trang châu Âu 22/09: điểm chờ CEO](ba-trang-chau-au-22-09-cho-ceo.md) — Bồ Đào Nha mốc nhập tịch 10 năm và "3 lựa chọn" chỉ có 2, Latvia nhiều dữ kiện nghi lỗi thời
 - [5 trang trục 22/09: điểm chờ CEO](nam-trang-truc-22-09-cho-ceo.md) — UK Investor visa đã đóng 2022 vẫn ghi mở, RCIC không phải luật sư, 188C hứa lãi 8–10%
 - [Trang trục dùng cụm từ khoá gộp](trang-truc-dung-cum-tu-khoa-gop.md) — hub không lấy tên một chương trình; người đọc hỏi khái niệm và so sánh
+- [New Zealand: Resident Visa không phải PR](new-zealand-resident-visa-khong-phai-pr.md) — nguồn Việt gọi nhầm là "Visa Thường trú"; dịch thành permanent residence là nói quá quyền lợi
