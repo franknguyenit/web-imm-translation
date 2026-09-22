@@ -46,6 +46,8 @@ viec/<ngày>-<slug>/        một việc: meta.json · song-ngu.tsv · ty-gia.js
                            (việc JSON thêm nguon.json — bản gốc để dựng lại, không sửa tay)
   ban-giao/                bai-dich.en.md · bai-dich.en.html · seo.json · bao-cao.md   ← bản lưu local, nguồn để viết vào chat
                            (việc JSON thêm <slug>.en.json — tệp import vào web)
+                           bai-dich.vi.md — bản Việt dựng cùng lúc, cùng số dòng cùng cấp heading với bản Anh,
+                           CHỈ để đối chiếu và soát lại; không dán vào chat, không gửi ra ngoài
 bo-nho/                    bản local của memory + skill trên Claude
 nhat-ky/nhat-ky.md         nhật ký từng việc
 tests/                     cửa kiểm máy của bộ công cụ: python3 -m unittest discover -s tests
@@ -53,6 +55,8 @@ tests/                     cửa kiểm máy của bộ công cụ: python3 -m u
 
 `song-ngu.tsv` là **bảng dịch song ngữ, mỗi dòng một đoạn** (heading, đoạn văn, gạch đầu dòng, alt ảnh, nút bấm).
 Bản giao được **máy ghép** từ bảng này ⇒ kiểm bảng là kiểm bản giao. Không sửa tay tệp trong `ban-giao/` trừ `seo.json` và `bao-cao.md`.
+`ghep` dựng luôn `bai-dich.vi.md` từ cột `vi`, **bỏ đúng những đoạn bản Anh bỏ** (đoạn `[BO]`, đoạn chưa dịch, tiêu đề trang)
+nên hai tệp thẳng hàng từng khối — mở cạnh nhau trong VS Code là so được. Đoạn đã bỏ vẫn tra ở `bao-cao.md` và `song-ngu.tsv`.
 
 ## 3. Quy trình 11 bước
 
@@ -127,7 +131,8 @@ thủ. Ghi `soat-ban-xu.md` và `sua-ban-xu.txt`.
 Rà lại H1, H2, 150 chữ đầu, alt ảnh để có từ khoá **tự nhiên**; sửa qua `dien`. Trang có hỏi đáp → `schema_faq: true`.
 
 **Cửa 0 (bắt buộc, máy):** `python3 cong-cu/dich.py kiem <việc>` → **XANH**. Cảnh báo phải đọc từng dòng: sửa,
-hoặc nêu lý do trong báo cáo. Sau đó `python3 cong-cu/dich.py ghep <việc>`.
+hoặc nêu lý do trong báo cáo. Sau đó `python3 cong-cu/dich.py ghep <việc>` (ra cả `bai-dich.en.md`/`.html` và
+`bai-dich.vi.md` để đối chiếu; `ghep <việc> --chi-vi` chỉ dựng lại bản Việt cho việc cũ, không đụng bản Anh đã qua cửa 0).
 ⛔ Không được sửa `dich.py`, `thuat-ngu.csv` hay bộ ca kiểm để **cho qua** một lỗi của bài đang dịch. Luật kiểm sai
 thật → sửa luật + thêm ca kiểm + `python3 -m unittest discover -s tests` xanh + ghi nhật ký lý do.
 

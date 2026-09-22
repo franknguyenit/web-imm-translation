@@ -1,0 +1,765 @@
+[
+    {
+        "post_id": 100873,
+        "post_slug": "/quoc-tich-grenada/",
+        "post_title": "Grenada Citizenship by Investment",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "<span class=\"accent\">Grenada</span> Citizenship by Investment"
+            },
+            "product_hero_video": "https://www.youtube.com/watch?v=P-u8pZVcUus",
+            "product_hero_image": "99474",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is the Grenada Citizenship by Investment program?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Grenada citizenship by investment (CBI) at a realistic cost",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "A Grenadian passport: visa-free travel to 147 countries",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Access to the US <a style=\"color:white; text-decoration: underline;\" href=\"https://immgroup.com/dau-tu-dinh-cu-my/visa-my-e2/\">E-2 visa</a> — a non-immigrant investor visa, once you meet the domicile requirement",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Investment routes:</strong>",
+                            "product_hero_content_text_subs": [
+                                {
+                                    "product_hero_content_text_sub_item": "<strong>Donation:</strong> from US$235,000 for a family application of up to 4 people — non-refundable"
+                                },
+                                {
+                                    "product_hero_content_text_sub_item": "<strong>Real estate:</strong> from US$270,000 in an approved project, held for at least 5 years"
+                                }
+                            ]
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>IMM Group</strong> — the first and only Vietnamese firm licensed by the Government of Grenada to advise on and file applications directly in Vietnam",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://immgroup.com/en/contact/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Benefits of Grenadian citizenship",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "flag",
+                    "product_benefits_item_title": "Access to the US E-2 visa",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "The E-2 is a long-term US investor and business visa that can be extended without limit while the business continues to operate and you continue to qualify; it is a non-immigrant visa, not a green card."
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "You become eligible to file an E-2 application after at least 3 continuous years of domicile in Grenada — a stricter test than simply holding the passport"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Available to the investor and the family"
+                        }
+                    ],
+                    "product_benefits_item_footnote": "<a href=\"https://immgroup.com/dau-tu-dinh-cu-my/visa-my-e2/\">Read more about the E-2 visa</a>"
+                },
+                {
+                    "product_benefits_item_icon": "flight_takeoff",
+                    "product_benefits_item_title": "Visa-free travel to more than 140 countries and territories",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Visa-free access to the Schengen Area: up to 90 days in any 180-day period"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Visa-free access to many European countries, China and others"
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "Straightforward entry to the UK",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Visa-free for UK travel; an Electronic Travel Authorisation (ETA) is required before you travel"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Available to the whole family — for tourism, visiting relatives, business or transit"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Stays of up to 6 months per visit"
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "What sets the Grenada program apart",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "family_restroom",
+                    "product_advantages_item_title": "3 generations in one application",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Grandparents, parents and children from both sides of the family can obtain citizenship in a single application."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "home_work",
+                    "product_advantages_item_title": "The entire process is handled remotely",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "No site visit to Grenada is required"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "No travel to Grenada at any stage of the process"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Straightforward requirements",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "No education requirement"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "No management experience requirement"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "no_accounts",
+                    "product_advantages_item_title": "No residence requirement",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You do not need to live in Grenada to keep your citizenship."
+                        }
+                    ],
+                    "product_advantages_item_footnote": "<span style=\"font-style: italic; font-weight: 300;\">Regional rules for the Eastern Caribbean (ECCIRA), expected to take effect in mid-2026, would require a total of 30 days of presence during the first 5 years; applications filed before those rules take effect remain under the current requirements.</span>"
+                },
+                {
+                    "product_advantages_item_icon": "savings",
+                    "product_advantages_item_title": "No tax on worldwide income",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Grenada does not tax the worldwide income of its citizens. A second citizenship does not by itself change where you are tax resident, so your own position should be reviewed with an independent tax advisor."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "groups",
+                    "product_advantages_item_title": "A member of the Commonwealth",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Grenada is a member of the Commonwealth"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Easier trade, study and travel within the Commonwealth"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "elderly",
+                    "product_advantages_item_title": "Citizenship that passes to the next generation",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Citizenship can be passed on to your children and grandchildren"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Supports long-term planning for the whole family"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "public",
+                    "product_advantages_item_title": "Direct flights to major financial centers",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Convenient for business travel, investment and international expansion"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "account_balance",
+                    "product_advantages_item_title": "A wealth planning tool",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Diversifying your assets across several jurisdictions — long-term financial protection for the whole family"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Grenada citizenship by investment requirements",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Applicant requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Aged 18 or older"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "No upper age limit"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Meets background security and medical requirements"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "One application that secures the future of 3 generations",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Your legal spouse"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Children under 30 who are unmarried and financially dependent"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Parents and grandparents on both sides, who are financially dependent, with no age limit."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Siblings on both sides, over 18, unmarried and without children."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Every family member must meet the background security and medical requirements."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "account_balance_wallet",
+                    "product_conditions_item_title": "Lawful source of funds and investment routes",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Evidence that the investment capital comes from a lawful source"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "<strong>Option A — Donation:</strong> US$235,000 for a family of 4 — non-refundable"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "<strong>Option B — Real estate investment:</strong> from US$270,000 in the InterContinental Grenada Resort, held for at least 5 years"
+                        }
+                    ],
+                    "product_conditions_item_footnote": "You choose 1 of the 2 routes, whichever fits your financial objectives."
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "The Grenada citizenship process, step by step",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "handshake",
+                    "product_process_step_title": "Deposit and due diligence",
+                    "product_process_step_desc": "Sign the deposit agreement and complete the initial due diligence on your file.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "edit_document",
+                    "product_process_step_title": "Sign the contracts and prepare your file",
+                    "product_process_step_desc": "Sign the service agreement and begin preparing the application documents.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "send",
+                    "product_process_step_title": "File, interview and assessment",
+                    "product_process_step_desc": "",
+                    "product_process_step_bullets": [
+                        {
+                            "product_process_step_bullet_text": "File the source-of-funds report and the formal application with the Government of Grenada."
+                        },
+                        {
+                            "product_process_step_bullet_text": "A mandatory interview for the main applicant and every dependent aged 16 and over — online or in person."
+                        },
+                        {
+                            "product_process_step_bullet_text": "Wait for the assessment."
+                        }
+                    ]
+                },
+                {
+                    "product_process_step_icon": "verified",
+                    "product_process_step_title": "Approval and completion of the investment",
+                    "product_process_step_desc": "Receive approval in principle, then complete the donation or the remaining 90% of the investment.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "flight_takeoff",
+                    "product_process_step_title": "Receive your Grenadian passport",
+                    "product_process_step_desc": "Receive final approval, complete the oath of allegiance online, and receive your certificate of citizenship and Grenadian passport.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "Projects",
+            "product_projects_posts": [
+                "62055",
+                "100851"
+            ],
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "You may also be interested in",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "You may also be interested in",
+            "product_care_service_desc": "<p>Explore IMM Group's other advisory services:</p>\r\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Grenada real estate projects",
+                    "product_care_service_link_url": "https://immgroup.com/cac-nuoc-vung-caribbean/quoc-tich-grenada/cac-du-an-bat-dong-san-grenada/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Caribbean citizenship programs",
+                    "product_care_service_link_url": "https://immgroup.com/cac-nuoc-vung-caribbean/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Dominica Citizenship by Investment",
+                    "product_care_service_link_url": "https://immgroup.com/cac-nuoc-vung-caribbean/quoc-tich-dominica/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "St. Kitts and Nevis Citizenship by Investment",
+                    "product_care_service_link_url": "https://immgroup.com/cac-nuoc-vung-caribbean/quoc-tich-st-kitts-and-nevis/",
+                    "product_care_service_link_blank": "0"
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Understanding Grenada",
+            "product_care_topics_desc": "<p>IMM Group's resource hub brings together practical information on the following topics:</p>\r\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Living in Grenada",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-grenada/#n0",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Travel in Grenada",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-grenada/#n1",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Grenadian culture",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-grenada/#n2",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Education in Grenada",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-grenada/#n3",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Healthcare in Grenada",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-grenada/#n4",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Taxation in Grenada",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-grenada/#n5",
+                    "product_care_topics_link_blank": "0"
+                }
+            ],
+            "product_faq_title": "Grenada citizenship by investment: frequently asked questions",
+            "product_faq_section_id": "faq-grenada",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Does the total cost depend on how many family members are included?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Yes — the total cost depends on how many family members are included",
+                            "product_faq_item_section_bullets": false,
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "The core investment",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Donation: US$235,000 for a family of up to 4 people"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Real estate: from US$270,000 in a government-approved project"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Government fees and processing fees",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "These vary with the number, age and relationship of the dependents"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The total cost is quoted in detail for each individual application"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What does the real estate route actually cost?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "An equity investment from US$270,000 in a government-approved project, plus a US$50,000 government contribution."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "After the 5-year holding period you may transfer the investment and recover your capital; your citizenship is not conditional on continued ownership."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Figures quoted as \"from US$270,000\" refer to the equity investment only; the US$50,000 government contribution is payable on top."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What happens to my citizenship if the project fails?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Once granted, your citizenship does not depend on the outcome of the project",
+                            "product_faq_item_section_bullets": false,
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "How long it takes to obtain citizenship",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Assessment takes 6–8 months"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Investor protection if a project fails",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The failure of a project is not a ground for withdrawing citizenship that has already been granted"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Whether you can recover your capital if a project is not completed depends on the terms of your purchase agreement with the developer, so review those terms carefully before you sign"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Recovering your capital once the holding requirement has been met does not affect your citizenship"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the risks of obtaining Grenadian citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "How the investment is structured",
+                            "product_faq_item_section_bullets": false,
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "The project",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The InterContinental Grenada Resort is approved by the Government of Grenada under the CBI program"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Separately, the government carries out its own due diligence into every investor"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Capital is transferred only after your application receives approval in principle"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "The application",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The most common reason for refusal is an unsuccessful due diligence check — typically a criminal record, or a source of funds that cannot be evidenced"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group reviews your file thoroughly before any contract is signed"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What benefits do Grenadian citizens receive?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Benefits for Grenadian citizens",
+                            "product_faq_item_section_bullets": false,
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Education",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Free tuition from primary through the end of secondary school"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "St. George's University (SGU) — up to 90% off tuition, depending on the program"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Strong academic results at SGU can open internship and training opportunities in the US"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Healthcare",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "A well-developed healthcare system"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Free basic public healthcare services, including consultations and diagnostics"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What does Grenada's economy rely on?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Grenada's economy — tourism as the mainstay",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Steady GDP growth"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tourism is the mainstay of the economy, accounting for more than half of GDP — a factor investors weigh when assessing rental demand in resort real estate"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Visitor numbers up 20.45% compared with 2017"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The US is adding direct flights to Grenada"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The government is actively promoting tourism real estate projects"
+                                }
+                            ],
+                            "product_faq_item_section_note": "Key sectors: tourism, agriculture and education."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What is the education system like in Grenada?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The education system in Grenada",
+                            "product_faq_item_section_bullets": false,
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Built on the British model",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Most schools teach in English"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "227 schools: 113 preschools, 78 primary and secondary schools, and several universities"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "St. George's University (SGU)",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Around 8,000 international students, 70% of them from the US"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "One of the larger sources of physicians for the US healthcare system"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Grenadian citizens receive up to 90% off tuition on selected programs"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What does schooling cost for children under 18 and at university level?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Tuition for the children of Grenadian citizens",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Under 18: free from primary through the end of secondary school"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "University: up to 90% off tuition on selected programs"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "When does the US–Grenada E-2 treaty expire?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The E-2 treaty has no expiry date",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Signed in 1989"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "More than 30 years in force, without amendment"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "A stable treaty with no expiry date"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do I have to travel to Grenada to obtain citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "You do not need to travel to Grenada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "There is no requirement to visit Grenada before or after you obtain citizenship"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "The oath of allegiance",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You may travel to Grenada, or"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Take the oath at a Grenadian consulate"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do I need to have lived in Grenada to apply for an E-2 visa?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The E-2 visa requires 3 years of domicile in Grenada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Grenadian citizens who acquired citizenship through investment must be domiciled in Grenada for 3 continuous years before filing an E-2 application — a US requirement that applies to citizenship obtained through an investment program. Domicile means actual residence with the intention of remaining, which is a stricter test than holding the passport."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "It is the only route to the E-2 visa in the Caribbean: Grenada is the only Caribbean country with an E-2 treaty with the US, in force since 1989."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Up to what age can children be included?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "One of the broadest dependent policies in the Caribbean — children under 30, and siblings and grandparents from both sides of the family"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Did Covid-19 affect the assessment of applications?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Covid-19 did not affect the assessment of applications",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Grenada managed the outbreak effectively"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Operations returned to normal"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Applications continued to be assessed on schedule"
+                                }
+                            ],
+                            "product_faq_item_section_note": "Tip: choose an experienced, reputable immigration firm to keep the timeline short."
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": ""
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": ""
+            }
+        },
+        "seo": {
+            "meta_title": "Grenada Citizenship by Investment: Cost & E-2 | IMM Group",
+            "meta_description": "Grenada citizenship by investment starts at US$235,000 for a family of four, with visa-free travel and access to the US E-2 visa. Book a consultation.",
+            "slug": "grenada-citizenship-by-investment"
+        }
+    }
+]

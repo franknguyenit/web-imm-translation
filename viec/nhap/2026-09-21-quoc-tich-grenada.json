@@ -1,0 +1,760 @@
+[
+    {
+        "post_id": 100873,
+        "post_slug": "/quoc-tich-grenada/",
+        "post_title": "Quốc tịch Grenada",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "Quốc tịch <span class=\"accent\">Grenada</span>"
+            },
+            "product_hero_video": "https://www.youtube.com/watch?v=P-u8pZVcUus",
+            "product_hero_image": "99474",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "Chương trình Quốc tịch Grenada là gì?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Chương trình đầu tư nhập tịch (CBI) với chi phí hợp lý",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Hộ chiếu Grenada: tự do đi lại 147 quốc gia",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Cơ hội tiếp cận <a style=\"color:white; text-decoration: underline;\" href=\"https://immgroup.com/dau-tu-dinh-cu-my/visa-my-e2/\">visa E-2</a> Mỹ - visa không định cư, khi đáp ứng điều kiện cư trú",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Hình thức đầu tư:</strong>",
+                            "product_hero_content_text_subs": [
+                                {
+                                    "product_hero_content_text_sub_item": "<strong>Trao tặng:</strong> từ 235.000 USD/hồ sơ gia đình tối đa 4 người - khoản không hoàn lại"
+                                },
+                                {
+                                    "product_hero_content_text_sub_item": "<strong>Bất động sản:</strong> từ 270.000 USD vào dự án được phê duyệt (duy trì tối thiểu 5 năm)"
+                                }
+                            ]
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>IMM Group</strong> - công ty Việt Nam đầu tiên và duy nhất được Chính phủ Grenada cấp phép tư vấn và trực tiếp thực hiện hồ sơ tại Việt Nam",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://immgroup.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Quyền lợi quốc tịch Grenada",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "flag",
+                    "product_benefits_item_title": "Cơ hội tiếp cận visa E-2 Mỹ",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Visa E-2 là visa đầu tư - kinh doanh dài hạn tại Mỹ, gia hạn không giới hạn khi doanh nghiệp còn hoạt động; không phải thẻ xanh."
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Đủ điều kiện nộp hồ sơ E-2 sau khi cư trú tối thiểu 3 năm liên tiếp tại Grenada"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Áp dụng cho nhà đầu tư và gia đình"
+                        }
+                    ],
+                    "product_benefits_item_footnote": "<a href=\"https://immgroup.com/dau-tu-dinh-cu-my/visa-my-e2/\">Tìm hiểu Visa E-2</a>"
+                },
+                {
+                    "product_benefits_item_icon": "flight_takeoff",
+                    "product_benefits_item_title": "Tự do đi lại hơn 140 quốc gia & vùng lãnh thổ",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Miễn visa Schengen: tối đa 90 ngày trong mỗi 180 ngày"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Miễn visa nhiều quốc gia châu Âu, Trung Quốc…"
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "Nhập cảnh Anh Quốc thuận lợi",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Miễn thị thực Anh; cần xin giấy phép du lịch điện tử ETA trước khi nhập cảnh"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Áp dụng cho cả gia đình - mục đích: du lịch, thăm thân, công tác, quá cảnh"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Lưu trú tối đa 6 tháng mỗi lần"
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Ưu điểm nổi bật của chương trình Grenada",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "family_restroom",
+                    "product_advantages_item_title": "3 thế hệ một hồ sơ",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Ông bà, cha mẹ, con cái hai bên cùng vào quốc tịch trong một hồ sơ."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "home_work",
+                    "product_advantages_item_title": "Toàn bộ quy trình tại Việt Nam",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không cần sang Grenada khảo sát"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Không cần bay đến Grenada ở bất kỳ giai đoạn nào"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Điều kiện đơn giản",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không yêu cầu học vấn"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Không yêu cầu kinh nghiệm quản lý"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "no_accounts",
+                    "product_advantages_item_title": "Không yêu cầu cư trú",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không cần ở Grenada để duy trì quốc tịch."
+                        }
+                    ],
+                    "product_advantages_item_footnote": "<span style=\"font-style: italic; font-weight: 300;\">Quy định vùng Caribbean (ECCIRA) dự kiến áp dụng từ giữa 2026 yêu cầu tổng cộng 30 ngày hiện diện trong 5 năm đầu - hồ sơ nộp trước thời điểm áp dụng được giữ theo quy định hiện hành.</span>"
+                },
+                {
+                    "product_advantages_item_icon": "savings",
+                    "product_advantages_item_title": "Không đánh thuế thu nhập toàn cầu",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Tối ưu nghĩa vụ thuế cho nhà đầu tư."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "groups",
+                    "product_advantages_item_title": "Thành viên Khối Thịnh vượng chung Anh",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Grenada là quốc gia thuộc Commonwealth"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Thuận lợi giao thương, học tập và đi lại trong khối"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "elderly",
+                    "product_advantages_item_title": "Truyền quốc tịch cho thế hệ sau",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Quốc tịch có thể truyền cho con cháu"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Bảo đảm lợi ích dài hạn cho cả gia đình"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "public",
+                    "product_advantages_item_title": "Tự do bay thẳng tới các trung tâm tài chính",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Thuận tiện cho công tác, đầu tư và mở rộng kinh doanh quốc tế"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "account_balance",
+                    "product_advantages_item_title": "Giải pháp hoạch định tài sản",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Đa dạng hóa tài sản qua nhiều quốc gia - lá chắn tài chính dài hạn cho cả gia đình"
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Điều kiện tham gia chương trình",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện đương đơn",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 18 tuổi trở lên"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Không giới hạn tuổi tối đa"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đạt yêu cầu lý lịch an ninh và sức khỏe"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Một hồ sơ bảo chứng tương lai cho 3 thế hệ",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Vợ/chồng hợp pháp"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Con dưới 30 tuổi - độc thân và phụ thuộc tài chính"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Cha mẹ và ông bà hai bên vợ chồng - phụ thuộc tài chính, không giới hạn tuổi."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Anh chị em ruột hai bên - trên 18 tuổi, độc thân, chưa có con."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Tất cả thành viên cần đạt yêu cầu an ninh và sức khỏe."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "account_balance_wallet",
+                    "product_conditions_item_title": "Nguồn vốn hợp pháp & phương án đầu tư",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh nguồn gốc hợp pháp của vốn đầu tư"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "<strong>Phương án A - Trao tặng:</strong> 235.000 USD cho gia đình 4 người - không hoàn lại"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "<strong>Phương án B - Đầu tư Bất động sản:</strong> tối thiểu 270.000 USD vào InterContinental Grenada Resort (duy trì tối thiểu 5 năm)"
+                        }
+                    ],
+                    "product_conditions_item_footnote": "Nhà đầu tư chọn 1 trong 2 phương án phù hợp với mục tiêu tài chính."
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "Lộ trình thực hiện",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "handshake",
+                    "product_process_step_title": "Đặt cọc & thẩm định",
+                    "product_process_step_desc": "Ký thỏa thuận đặt cọc, thẩm định hồ sơ ban đầu.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "edit_document",
+                    "product_process_step_title": "Ký hợp đồng & chuẩn bị hồ sơ",
+                    "product_process_step_desc": "Ký hợp đồng dịch vụ và bắt đầu chuẩn bị hồ sơ.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "send",
+                    "product_process_step_title": "Nộp hồ sơ, phỏng vấn & xét duyệt",
+                    "product_process_step_desc": "",
+                    "product_process_step_bullets": [
+                        {
+                            "product_process_step_bullet_text": "Nộp hồ sơ thẩm định nguồn tiền và hồ sơ chính thức lên Chính phủ Grenada."
+                        },
+                        {
+                            "product_process_step_bullet_text": "Phỏng vấn bắt buộc với đương đơn và người phụ thuộc từ 16 tuổi - trực tuyến hoặc trực tiếp."
+                        },
+                        {
+                            "product_process_step_bullet_text": "Chờ xét duyệt."
+                        }
+                    ]
+                },
+                {
+                    "product_process_step_icon": "verified",
+                    "product_process_step_title": "Chấp thuận & hoàn tất đầu tư",
+                    "product_process_step_desc": "Nhận chấp thuận ban đầu; hoàn thành khoản trao tặng hoặc 90% vốn đầu tư còn lại.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "flight_takeoff",
+                    "product_process_step_title": "Nhận hộ chiếu Grenada",
+                    "product_process_step_desc": "Nhận chấp thuận chính thức; hoàn tất thủ tục tuyên thệ (online); nhận giấy chứng nhận quốc tịch & hộ chiếu Grenada.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "Các dự án",
+            "product_projects_posts": [
+                "62055",
+                "100851"
+            ],
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "Có thể bạn quan tâm",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "Có thể bạn quan tâm",
+            "product_care_service_desc": "<p>Tìm hiểu các dịch vụ tư vấn từ IMM Group:</p>\r\n",
+            "product_care_service_links": [
+                {
+                    "product_care_service_link_title": "Các dự án bất động sản Grenada",
+                    "product_care_service_link_url": "https://immgroup.com/cac-nuoc-vung-caribbean/quoc-tich-grenada/cac-du-an-bat-dong-san-grenada/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Quốc tịch các nước vùng Caribbean",
+                    "product_care_service_link_url": "https://immgroup.com/cac-nuoc-vung-caribbean/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Quốc tịch Dominica",
+                    "product_care_service_link_url": "https://immgroup.com/cac-nuoc-vung-caribbean/quoc-tich-dominica/",
+                    "product_care_service_link_blank": "0"
+                },
+                {
+                    "product_care_service_link_title": "Quốc tịch St. Kitts and Nevis",
+                    "product_care_service_link_url": "https://immgroup.com/cac-nuoc-vung-caribbean/quoc-tich-st-kitts-and-nevis/",
+                    "product_care_service_link_blank": "0"
+                }
+            ],
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "Hiểu về Grenada",
+            "product_care_topics_desc": "<p>Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:</p>\r\n",
+            "product_care_topics_links": [
+                {
+                    "product_care_topics_link_title": "Cuộc sống tại Grenada",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-grenada/#n0",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Du lịch tại Grenada",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-grenada/#n1",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Văn hóa Grenada",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-grenada/#n2",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Giáo dục tại Grenada",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-grenada/#n3",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Y tế tại Grenada",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-grenada/#n4",
+                    "product_care_topics_link_blank": "0"
+                },
+                {
+                    "product_care_topics_link_title": "Thuế tại Grenada",
+                    "product_care_topics_link_url": "https://immgroup.com/hieu-ve-grenada/#n5",
+                    "product_care_topics_link_blank": "0"
+                }
+            ],
+            "product_faq_title": "Câu hỏi thường gặp về quốc tịch Grenada",
+            "product_faq_section_id": "faq-grenada",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Tổng chi phí có phụ thuộc số người đi kèm?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Có - tổng chi phí phụ thuộc số người đi kèm",
+                            "product_faq_item_section_bullets": false,
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Khoản đầu tư cơ bản",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Trao tặng: 235.000 USD cho gia đình tối đa 4 người"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Bất động sản: từ 270.000 USD vào dự án được Chính phủ phê duyệt"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Phí Chính phủ & phí hồ sơ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Thay đổi theo số lượng, độ tuổi và quan hệ của người phụ thuộc"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tổng chi phí được báo chi tiết theo từng hồ sơ"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Chi phí thực tế nếu chọn phương án bất động sản?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Đầu tư cổ phần từ 270.000 USD vào dự án được Chính phủ phê duyệt, kèm khoản đóng góp Chính phủ 50.000 USD."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Sau 5 năm duy trì, có thể chuyển nhượng phần đầu tư - thu hồi vốn mà vẫn giữ quốc tịch trọn đời."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Áp dụng đồng bộ khoản +50.000 USD vào mọi nơi mô tả Phương án BĐS."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Dự án thất bại có ảnh hưởng quốc tịch?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Không - quốc tịch không bị ảnh hưởng",
+                            "product_faq_item_section_bullets": false,
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Thời gian nhận quốc tịch",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Xét duyệt 6-8 tháng - nhanh gấp đôi mặt bằng chung Caribbean"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Bảo vệ nhà đầu tư khi dự án thất bại",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Quốc tịch đã nhận - không bị thu hồi"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Luật bảo vệ: dự án không hoàn thành, nhà đầu tư được yêu cầu hoàn vốn"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Vẫn giữ được quốc tịch khi hoàn vốn"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Rủi ro đầu tư lấy quốc tịch Grenada?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Mức độ an toàn của khoản đầu tư",
+                            "product_faq_item_section_bullets": false,
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Về dự án",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "InterContinental Grenada Resort là dự án được Chính phủ Grenada phê duyệt theo chương trình CBI"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Chính phủ tập trung thẩm định hồ sơ nhà đầu tư"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Vốn chỉ chuyển sau khi hồ sơ được chấp thuận"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Về hồ sơ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chỉ bị từ chối nếu có tiền án tiền sự hoặc nguồn tiền không hợp pháp"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group thẩm định kỹ hồ sơ trước khi ký hợp đồng"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Chính sách phúc lợi của Grenada?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Phúc lợi cho công dân Grenada",
+                            "product_faq_item_section_bullets": false,
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Giáo dục",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Miễn học phí từ tiểu học đến hết THPT"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đại học SGU - giảm đến 90% học phí tùy ngành"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tốt nghiệp loại ưu SGU - cơ hội thực tập & làm việc tại Mỹ"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Y tế",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Hệ thống y tế phát triển"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Miễn phí dịch vụ chăm sóc sức khỏe công cơ bản (thăm khám, chẩn đoán…)"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Kinh tế Grenada và ngành trọng điểm?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Kinh tế Grenada - Du lịch là trụ cột",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Tăng trưởng GDP ổn định"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Du lịch là trụ cột kinh tế - chiếm hơn một nửa GDP, kéo theo tiềm năng cho thuê và tăng giá bất động sản nghỉ dưỡng"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Khách du lịch tăng 20,45% so với 2017"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Mỹ tăng cường chuyến bay thẳng đến Grenada"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Chính phủ đẩy mạnh các dự án BĐS du lịch"
+                                }
+                            ],
+                            "product_faq_item_section_note": "Ngành trọng điểm: du lịch, nông nghiệp, giáo dục."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Hệ thống giáo dục Grenada?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Hệ thống giáo dục Grenada",
+                            "product_faq_item_section_bullets": false,
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Mô hình giáo dục Anh Quốc",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Hầu hết trường dạy bằng tiếng Anh"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "227 trường: 113 mầm non, 78 tiểu học - trung học, các đại học"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Đại học Y St. George's (SGU)",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "~8.000 sinh viên quốc tế - 70% đến từ Mỹ"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Một trong những nguồn cung bác sĩ lớn cho hệ thống y tế Mỹ"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Công dân Grenada được giảm tới 90% học phí một số ngành"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Học phí cho con dưới 18 tuổi và đại học?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Học phí cho con của công dân Grenada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Dưới 18 tuổi: miễn phí từ tiểu học đến hết THPT"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đại học: giảm tới 90% học phí một số nghành"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Hiệp định E-2 Mỹ - Grenada khi nào kết thúc?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Hiệp định E-2 - Không có thời hạn kết thúc",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Ký kết từ năm 1989"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Hơn 30 năm - chưa từng thay đổi"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Hiệp định ổn định, không có ngày hết hiệu lực"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có cần sang Grenada để lấy quốc tịch?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Không cần sang Grenada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không yêu cầu sang Grenada trước hay sau khi có quốc tịch"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        },
+                        {
+                            "product_faq_item_section_heading": "Lễ tuyên thệ",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có thể bay sang Grenada, hoặc"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Thực hiện tại lãnh sự quán Grenada"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Để xin visa E-2, có cần từng cư trú Grenada?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Visa E-2 cần 3 năm cư trú tại Grenada",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Công dân Grenada diện đầu tư cần duy trì nơi cư trú tại Grenada liên tục 3 năm trước khi nộp đơn E-2 - quy định từ phía Mỹ với người nhập tịch qua chương trình đầu tư."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Đây vẫn là con đường E-2 ổn định nhất vùng Caribbean: Grenada là quốc gia Caribbean duy nhất có hiệp ước E-2 với Mỹ, hiệu lực từ 1989."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Tuổi tối đa con cái đi kèm hồ sơ?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Chính sách người phụ thuộc rộng nhất nhóm Caribbean - con đến dưới 30 tuổi, gồm cả anh chị em ruột và ông bà hai bên"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Covid-19 có ảnh hưởng việc xét duyệt?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Covid-19 không ảnh hưởng xét duyệt",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Grenada kiểm soát dịch hiệu quả"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Hoạt động đã trở lại bình thường"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Việc xét duyệt hồ sơ tiếp tục đúng tiến độ"
+                                }
+                            ],
+                            "product_faq_item_section_note": "Mẹo: chọn đơn vị di trú uy tín, kinh nghiệm để rút ngắn thời gian."
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": ""
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": ""
+            }
+        }
+    }
+]

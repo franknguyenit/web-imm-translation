@@ -34,4 +34,5 @@ mẫu nội dung (Ireland, Cyprus, Latvia, Malta, Bồ Đào Nha, Hungary, Bulga
 
 **How to apply:** CEO trả lời điểm nào thì sửa `viec/2026-09-21-thuong-tru-nhan-hy-lap/song-ngu.tsv` qua
 `dien`, chạy lại `kiem` + `ghep`, và cập nhật memory này. Xem
-[[trang-chuong-trinh-chau-au-khong-dich-permanent-resident]].
+[[trang-chuong-trinh-chau-au-khong-dich-permanent-resident]] · [[ireland-cho-ceo-xac-nhan]] ·
+[[grenada-cho-ceo-xac-nhan]] · [[tm-lay-nham-cau-cua-trang-nuoc-khac]].
