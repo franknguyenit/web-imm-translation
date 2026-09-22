@@ -90,3 +90,10 @@ Nhãn ở khối "Có thể bạn quan tâm" nay dùng **đúng tên trang tiế
 - Trang **chưa dịch** (Latvia, Hungary) → giữ dạng mô tả viết thường, đổi khi dịch xong.
 - Cửa 0 chạy lại: **XANH**; tệp JSON dựng lại, đã kiểm khớp hệt tập trường bản gốc; bộ nhớ dịch đã nạp lại.
 - ⚠ **Nếu team đã import tệp JSON trước ngày 22/09/2026 thì cần import lại bản mới** — chỉ khác ở các nhãn liên kết này.
+
+## Cập nhật lần 2 — 22/09/2026: nhãn Latvia và Hungary
+
+Hai trang đó nay đã có bản dịch nên nhãn liên kết đổi sang **tên trang tiếng Anh**: `Latvia residency by investment`
+→ **`Latvia Golden Visa`**, `Hungary residency by investment` → **`Hungary Golden Visa`**.
+Cửa 0 chạy lại: XANH; tệp JSON dựng lại, đã kiểm khớp hệt tập trường bản gốc.
+⚠ Team đã import bản trước ngày 22/09/2026 thì **import lại** — chỉ khác hai nhãn này.

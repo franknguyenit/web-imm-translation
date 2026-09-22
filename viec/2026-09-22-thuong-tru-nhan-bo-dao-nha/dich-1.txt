@@ -1,0 +1,179 @@
+[s001|#bo-qua-tn: Golden Visa là thẻ cư trú 2 năm gia hạn theo chu kỳ, không phải thường trú — dịch "permanent resident" là sai dữ kiện] Portugal Golden Visa
+[s002|#bo-qua-tn: H1 dùng tên sản phẩm theo cách người bản xứ tìm] {1}Portugal{/1} Golden Visa{br}(Residency by Investment)
+[s003] What is the Portugal Golden Visa?
+[s004] The Portugal Golden Visa is a residency by investment program for investors who hold citizenship outside the European Union.
+[s005] You and your family receive a Portuguese residence permit once you meet the program's investment requirement.
+[s006] The whole family has access to healthcare, education, and social security in Portugal on the terms set by law.
+[s007] Golden Visa holders travel visa-free across the 29 Schengen countries.
+[s008] After 10 years of holding the Golden Visa and meeting the investment and residence conditions, you can file for Portuguese citizenship.
+[s009|#bo-qua-so: bỏ "(~15 tỷ đồng)" và "(~7,5 tỉ đồng)" — chỉ nhắc lại số EUR] The usual route is a fund investment from €500,000; some other routes start at €250,000.
+[s010] Book a consultation
+[s011|#bo-qua-tn: nhãn mục dùng tên sản phẩm, khớp H1] Benefits of the Portugal Golden Visa
+[s012] Live in Portugal
+[s013] Your whole family can live, work, and study in Portugal.
+[s014] Visa-free travel in the Schengen Area
+[s015|#bo-qua-so: nguồn viết "90 ngày trong mỗi 6 tháng"; bản Anh dùng công thức luật 90/180] Travel across the 29 Schengen countries under the standard short-stay rule: 90 days in any 180-day period.
+[s016] The same benefits as local residents
+[s017] Access to the health and education systems on the same terms as Portuguese residents.
+[s018] A route to Portuguese citizenship
+[s019] You can apply for naturalization after 10 years if you meet the conditions.
+[s020] Once you hold Portuguese citizenship
+[s021] Visa-free or eVisa access to 189 countries, including the United Kingdom, the United States, Australia, New Zealand, and Canada.
+[s022] A route to the US E-2 visa
+[s023] Once you hold citizenship and have at least 3 continuous years of residence in Portugal, you can apply for a US E-2 visa.
+[s024] The right to live anywhere in the EU
+[s025] With Portuguese citizenship, your family has the right to live in any EU country.
+[s026|#bo-qua-tn: nhãn mục dùng tên sản phẩm, khớp H1] Why investors choose the Portugal Golden Visa
+[s027] A light physical residence requirement
+[s028] You need to spend an average of only 14 days in Portugal every 2 years to keep the Golden Visa
+[s029] One of the lighter stay requirements among European programs.
+[s030] A clear route to citizenship
+[s031] You can be considered for citizenship after 10 years if you meet the conditions
+[s032] One of the European residency by investment programs with a more accessible route to citizenship.
+[s033] Flexible rules for dependent children
+[s034] One of the few programs that allows children of any age to be included
+[s035] The condition is that they are unmarried and financially dependent on you.
+[s036] Straightforward eligibility
+[s037] No age limit for applicants
+[s038] No interview
+[s039] No degree or management experience is required.
+[s040] Program requirements
+[s041] Applicant requirements
+[s042] Aged 18 or older, with no upper age limit
+[s043] Meets security and background vetting requirements
+[s044] You document a lawful source of funds for the investment
+[s045] Dependents you can include
+[s046] Your legal spouse
+[s047] Children, including adopted children, who are unmarried and financially dependent — with no age limit
+[s048] Parents of both spouses; those under 65 must show they are financially dependent on you
+[s049] Siblings under 18 who are financially dependent on you
+[s050] Investment routes:
+[s051] You choose one of the qualifying investment routes:
+[s052|#bo-qua-so: bỏ "(~15 tỷ đồng)" — chỉ nhắc lại số EUR] Fund investment: €500,000 into a qualifying Portuguese investment fund, held for at least 5 years.
+[s053] A qualifying fund is registered in Portugal, has been running for more than 5 years, invests at least 60% of its capital in commercial companies based in Portugal, and does not invest directly or indirectly in real estate.
+[s054|#bo-qua-so: bỏ "(~15 tỷ đồng)" — chỉ nhắc lại số EUR] Scientific research: an investment of at least €500,000.
+[s055|#bo-qua-so: bỏ "(~7,5 tỷ đồng)" — chỉ nhắc lại số EUR] Arts and cultural heritage projects: a non-refundable donation of at least €250,000.
+[s056|#bo-qua-so: bỏ "(~15 tỷ đồng)" — chỉ nhắc lại số EUR] Company formation: an investment of at least €500,000 that creates 5 jobs, or forming a new company that creates 10 jobs.
+[s057|#bo-qua-so: bỏ "(~8,5 tỷ đồng)" — chỉ nhắc lại số EUR] Real estate: the route to qualify by owning property, from €280,000, has been closed since October 2023.
+[s058] The Portugal Golden Visa process
+[s059] Deposit and due diligence
+[s060] Sign the deposit agreement and complete the initial due diligence on your file.
+[s061] Sign the contracts
+[s062] The service agreement for your Golden Visa application and the subscription agreement with the fund.
+[s063] Prepare the file and transfer the investment
+[s064] We prepare your file and you transfer the investment for the route you have chosen.
+[s065] File the application
+[s066] File the application with Portugal's immigration agency, AIMA.
+[s067] Pre-approval and biometrics
+[s068] Receive pre-approval, then travel to Portugal to give your biometrics.
+[s069] Receive your residence permit
+[s070] You receive formal approval and the residence permit is sent to you in your home country.{br}The permit runs for 2 years and is renewed in cycles as long as you keep the investment and meet the stay requirement of 14 days every 2 years.{br}Actual processing depends on your file and on AIMA's own timelines; IMM Group maps out the likely schedule for your case.
+[s071] View all projects
+[s072] Portugal Golden Visa FAQs
+[s073] How is the investment structured?
+[s074] The Portugal Golden Visa has several qualifying investment routes
+[s075|#bo-qua-so: bỏ "(~15 tỷ đồng)" — chỉ nhắc lại số EUR] Fund investment — from €500,000, the route most investors take today.
+[s076|#bo-qua-so: bỏ "(~15 tỷ đồng)" — chỉ nhắc lại số EUR] Scientific research — from €500,000.
+[s077|#bo-qua-so: bỏ "(~7,5 tỷ đồng)" — chỉ nhắc lại số EUR] Arts and cultural heritage — a non-refundable donation from €250,000.
+[s078|#bo-qua-so: bỏ "(~15 tỷ đồng)" — chỉ nhắc lại số EUR] Forming or investing in a company — from €500,000, with job creation conditions.
+[s079] The real estate route has been closed since October 2023. The amounts and conditions that apply are those in force when you file. (Updated: June 2026.)
+[s080] What is a Golden Visa, and how does it differ from permanent residence?
+[s081] What the Golden Visa is, and how it differs from permanent residence
+[s082] The Portugal Golden Visa is a long-term residence permit for investors. In day-to-day terms it gives your family much of what permanent residence does: you can live, work, start a business, and put your children through school in Portugal.
+[s083] The difference: the Golden Visa runs for a fixed term and has to be renewed periodically. After 10 years of residence, you can be considered for citizenship if you qualify.
+[s084] What about Schengen and the EU?
+[s085] Short stays in the Schengen Area — not a right to live or work elsewhere in the EU
+[s086] The Golden Visa allows travel within the Schengen Area under the short-stay rules of 90 days in any 180-day period.
+[s087] Travel to EU countries outside the Schengen Area still requires a visitor visa, though these are given priority handling.
+[s088] The right to live, work, and study in any EU country arises only once you hold Portuguese citizenship.
+[s089] Schengen is not the same as the EU
+[s090] The EU — the European Union: an intergovernmental organization of 27 countries.
+[s091] The Schengen Area is a zone of free movement between 29 member countries.
+[s092] Some EU countries are not in Schengen, and the reverse is also true. Portugal is a member of both.
+[s093] So with a Golden Visa you can already make short trips within the Schengen Area; the right to live and work across the EU arises only with citizenship.
+[s094] Do my children study free of charge?
+[s095] Free schooling for your children
+[s096] While your family holds a valid Golden Visa, your children attend Portuguese state schools free of charge, from primary through the end of secondary school.
+[s097] At university level, tuition and any support available depend on the institution and on your child's residence status at enrollment.
+[s098] Is income earned outside Portugal taxed?
+[s099] Tax on income earned outside Portugal
+[s100] Portuguese income tax applies only once you become a tax resident — generally when you spend more than 183 days a year in Portugal.
+[s101] Investors who visit only as long as they need to in order to keep or renew the permit usually fall outside that.
+[s102] Tax policy can change, and your own position should follow tax advice at the time you file. (Updated: June 2026.)
+[s103] What are my options after 5 years?
+[s104] Your options after 5 years
+[s105] After 5 years of holding the Golden Visa you have 3 options: keep renewing the residence permit; apply for permanent residence
+[s106] If you keep renewing, you have to maintain the investment. If you apply for permanent residence or citizenship, once you qualify, you are no longer required to keep the investment.
+[s107] What are the requirements for citizenship?
+[s108] To be considered for Portuguese citizenship you need
+[s109] To be 18 or older;
+[s110] To have held a valid Golden Visa for at least 10 years, meeting the stay requirement of an average of 14 days every 2 years;
+[s111] Portuguese at level A2;
+[s112] And no criminal record in Portugal or abroad.
+[s113] Applications are assessed under the rules in force when you file.
+[s114] What is the A2 Portuguese exam?
+[s115] The language requirement is a Portuguese certificate at CEFR level A2.
+[s116] The exam can be run by an accredited school in Portugal or in another Portuguese-speaking country, by IEFP, or by an accredited test center.
+[s117] A2 is a basic level; comparisons with IELTS are indicative only.
+[s118] Is an online certificate accepted?
+[s119] Online certificates
+[s120] Under the rules, you and your family members need a certificate of completion from a Portuguese course at a state school in Portugal, or at a licensed center in Portugal.
+[s121] Whether an online course is accepted depends on the rules in force — check before you enroll.
+[s122] What does Portuguese citizenship give you?
+[s123] What citizenship gives you
+[s124] Full Portuguese citizenship rights, including the right to live, work, and study in any EU country.
+[s125] The passport is among the stronger ones, with visa-free or eVisa access to a wide range of countries (the number changes over time).
+[s126] Once you hold citizenship and have 3 or more continuous years of residence, you can look into the US E-2 route under the E-2 rules in force at the time.
+[s127] What are the investment risks?
+[s128] The investment risks
+[s129] The two main risks: choosing a project or fund without a solid track record, or one that does not qualify under the program; and investment funds from an unlawful source, which leads to the application being refused.
+[s130] IMM Group reviews your file and the project in detail before any contract is signed, to limit these risks.
+[s131] Note: a fund investment carries risk; returns and the recovery of your capital depend on how the fund performs.
+[s132] What source of funds evidence is required?
+[s133] Documenting your source of funds
+[s134] Documenting your source of funds for the Portugal Golden Visa is generally simpler than for programs such as the United States, Australia, or Canada — you document a lawful source at a basic level of detail, for example a property sale, income, or a business.
+[s135] Every family documents this differently — contact IMM Group for advice on your own situation.
+[s136] How long is the permit valid, and how is it renewed?
+[s137] Validity and renewal
+[s138] The first Golden Visa permit runs for 2 years and can be renewed, usually for a further 3 years in the next cycle, provided you still hold the investment and have a clean criminal record.
+[s139] After 5 years, if you qualify, you can apply for permanent residence. The validity and renewal cycles follow the rules in force at the time of renewal.
+[s140] Is there an age limit for applicants?
+[s141] The Portugal Golden Visa sets no upper age limit for the applicant.
+[s142] You need only be 18 or older and meet the requirements on background checks and a lawful source of funds.
+[s143] Are qualifications or language skills required?
+[s144] Qualifications and language
+[s145] At the investment stage the program requires no qualifications, no management experience, no proof of language ability, and no interview.
+[s146] The requirement for Portuguese at level A2 applies later, at the citizenship stage.
+[s147] Which family members can be included?
+[s148] The Golden Visa allows a multigenerational family in one application
+[s149] Your legal spouse;
+[s150] Children, including adopted children, who are unmarried and financially dependent;
+[s151] Parents of both spouses, where those under 65 show they are financially dependent on you;
+[s152] And siblings under 18 who are financially dependent on you.
+[s153] Are adopted children and stepchildren eligible?
+[s154] The program allows adopted children and stepchildren to be included in their parents' application.
+[s155] An adopted child needs a legal adoption certificate.
+[s156] A stepchild needs legal documents plus a notarized letter of consent from the spouse allowing the child to join the application.
+[s157] IMM Group assists with preparing the documents.
+[s158] What is the age limit for dependent children?
+[s159] The age limit for dependent children
+[s160] The program sets no hard upper age limit for dependent children — a child can be included if they are unmarried and financially dependent on you, which usually goes with full-time study.
+[s161] This is one of the advantages of the Portugal Golden Visa over many other programs. The exact conditions follow the rules in force.
+[s162] Can parents be included?
+[s163] Parents in the application
+[s164] Parents of both the investor and the spouse can be included. Parents aged 65 or older can join
+[s165] Those under 65 need to show they are financially dependent on you.
+[s166] The exact conditions follow the rules in force when you file.
+[s167] How many days a year must I spend in Portugal?
+[s168] The Portugal Golden Visa does not require continuous residence.
+[s169] To keep and renew the permit you need only meet the minimum stay requirement — an average of about 7 days a year, that is 14 days every 2 years.
+[s170] If you plan to apply for citizenship later, you will also need to meet the residence, language, and integration conditions set by law.
+[s171] Can I sell or exit the investment after 5 years?
+[s172] Selling or exiting after 5 years
+[s173] The real estate route has been closed since October 2023, so investors now come in mainly through a fund.
+[s174] You need to hold the fund investment continuously for at least 5 years.
+[s175] Can I switch to a different fund?
+[s176] Switching your fund investment
+[s177] You need to hold a qualifying investment continuously throughout the required period.
+[s178] Any switch between funds has to leave the holding condition unbroken and follow the program rules.
+[s179] Questions about buying or selling real estate no longer apply, because that route is closed.

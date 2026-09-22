@@ -1,0 +1,403 @@
+[
+    {
+        "post_id": 100904,
+        "post_slug": "/dau-tu-dinh-cu-latvia/",
+        "post_title": "Latvia Golden Visa",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "<span class=\"accent\">Latvia</span> Golden Visa"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99270",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is the Latvia residence by investment program?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The Latvia Golden Visa lets you and your family obtain a Latvian temporary residence permit through a qualifying investment.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "With a Latvian residence permit, you and your family can travel within the Schengen Area under the short-stay rules.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "You can choose between a real estate investment and a share capital investment in a Latvian company.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Indicative processing time:</strong> 30–90 days, depending on your file and on the authorities' own timelines.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "After 5 years, if you qualify, you can be considered for permanent residence, and after 10 years for Latvian citizenship, provided you meet the conditions.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://immgroup.com/en/contact/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Benefits of the Latvian residence permit",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "Visa-free travel in the Schengen Area",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Travel within the Schengen Area, Switzerland, Norway, and Iceland under the short-stay rules."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "work",
+                    "product_benefits_item_title": "Live and work in Latvia",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "You and your family can live, study, and work in Latvia."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Education",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Your children have access to the Latvian education system on the same terms as local residents."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "card_membership",
+                    "product_benefits_item_title": "A route to permanent residence",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "After 5 years, if you qualify, you can be considered for permanent residence."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "A route to Latvian citizenship",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "After 10 years, and once you meet the conditions set by Latvian law, you can be considered for citizenship."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Why investors choose the Latvia Golden Visa",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "speed",
+                    "product_advantages_item_title": "Fast processing",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Applications take about 30–90 days to process, depending on the case."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "An accessible entry point",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "One route is a share capital investment in a Latvian company, starting at €50,000."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "calendar_month",
+                    "product_advantages_item_title": "No continuous residence required",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You are not required to live in Latvia continuously to keep the temporary residence permit."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "account_balance",
+                    "product_advantages_item_title": "A choice of investment routes",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You can choose between real estate and a share capital investment in a company."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "travel_explore",
+                    "product_advantages_item_title": "A gateway to the Schengen Area",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Latvia is a member of both the EU and the Schengen Area, which suits families who want flexible travel in Europe."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Latvia Golden Visa requirements",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Applicant requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Aged 18 or older."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Meets background security and medical requirements."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "You document a lawful source of funds for the investment."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Requirements for dependents",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Dependents joining the application must meet the background security and medical requirements."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Family applications are assessed under the rules in force when you file."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "home_work",
+                    "product_conditions_item_title": "The real estate route",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Purchase real estate in Riga valued at €250,000."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Hold the investment for at least 5 years."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "business_center",
+                    "product_conditions_item_title": "The share capital route",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Invest at least €50,000 in the share capital of a Latvian company with up to 50 employees."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Or invest at least €100,000 in a company with more than 50 employees."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "The company must pay at least €10,000 a year in corporate income tax."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "The Latvia Golden Visa process",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Consultation and file review",
+                    "product_process_step_desc": "We assess your eligibility, your source of funds, and which investment route fits you.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "travel_explore",
+                    "product_process_step_title": "An optional site visit",
+                    "product_process_step_desc": "You can visit Latvia before deciding which route to take.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "payments",
+                    "product_process_step_title": "Make the investment",
+                    "product_process_step_desc": "Complete the investment under the route you have chosen: real estate or company shares.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Prepare and file the application",
+                    "product_process_step_desc": "We complete the legal and investment file and submit your residence permit application.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "mark_email_read",
+                    "product_process_step_title": "Receive approval",
+                    "product_process_step_desc": "Once your file is approved, you travel to Latvia to register your residence.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "sync",
+                    "product_process_step_title": "Keep meeting the conditions",
+                    "product_process_step_desc": "You maintain the investment and the other conditions so that the permit can be renewed and longer-term options can be considered.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "",
+            "product_care_service_desc": "",
+            "product_care_service_links": false,
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "",
+            "product_care_topics_desc": "",
+            "product_care_topics_links": false,
+            "product_faq_title": "Latvia residence by investment FAQs",
+            "product_faq_section_id": "faq-latvia",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Is the Latvian residence permit the same as permanent residence?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The Latvian temporary residence permit",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "No. It is a temporary residence permit. You can be considered for permanent residence after 5 years if you meet the conditions."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can I travel in the Schengen Area?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Travel in the Schengen Area",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Yes. The Latvian residence permit allows travel within the Schengen Area under the short-stay rules."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do I have to live in Latvia continuously?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Residence conditions",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You are not required to live in Latvia continuously to keep the temporary residence permit, but you do need to meet the applicable renewal conditions."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can I work in Latvia?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The right to work",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Yes. You and your family can work in Latvia while you hold valid residence status."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can I obtain Latvian citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "A route to citizenship",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "It is possible. After 10 years, and once you meet the conditions set by Latvian law, you can be considered for citizenship."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the main risks?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The main risks",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The risks usually lie in choosing an unsuitable property or business, in a source of funds file that is not clear enough, or in failing to keep the investment conditions in place."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        },
+        "seo": {
+            "meta_title": "Latvia Golden Visa: Residence by Investment",
+            "meta_description": "The Latvia Golden Visa gives your family a Latvian residence permit from €50,000 in company shares or €250,000 in Riga real estate, in 30–90 days.",
+            "slug": "latvia-golden-visa"
+        }
+    }
+]

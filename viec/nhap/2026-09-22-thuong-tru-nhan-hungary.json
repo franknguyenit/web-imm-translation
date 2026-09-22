@@ -1,0 +1,464 @@
+[
+    {
+        "post_id": 100906,
+        "post_slug": "/thuong-tru-nhan-hungary-guest-investor-program/",
+        "post_title": "Thường trú nhân Hungary (Guest Investor Program)",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "THƯỜNG TRÚ NHÂN <span class=\"accent\">HUNGARY</span>"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99276",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "GUEST INVESTOR PROGRAM LÀ GÌ?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Chương trình cư trú diện nhà đầu tư do Chính phủ Hungary ban hành (Luật XC/2023).",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Dành cho nhà đầu tư ngoài EU và gia đình thông qua khoản đầu tư đủ điều kiện.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Thẻ cư trú tối đa 10 năm, gia hạn thêm tối đa 10 năm.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Đi lại khối Schengen ngắn hạn theo quy định 90/180 ngày.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Hai hình thức đầu tư hiện hành (từ 01/7/2024):",
+                            "product_hero_content_text_subs": [
+                                {
+                                    "product_hero_content_text_sub_item": "Đầu tư từ 250.000 EUR vào quỹ đầu tư BĐS được Ngân hàng Quốc gia Hungary (MNB) đăng ký, hoặc"
+                                },
+                                {
+                                    "product_hero_content_text_sub_item": "Quyên góp từ 1.000.000 EUR cho cơ sở giáo dục đại học công ích."
+                                }
+                            ]
+                        },
+                        {
+                            "product_hero_content_text_item": "Từ 250.000 EUR (≈ 7,6 – 7,7 tỷ đồng theo tỷ giá tham khảo, chưa gồm thuế/phí).",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://immgroup.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI THƯỜNG TRÚ NHÂN HUNGARY",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "home_work",
+                    "product_benefits_item_title": "Sinh sống tại Hungary",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Cả gia đình được sinh sống, học tập tại Hungary."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "work",
+                    "product_benefits_item_title": "Được làm việc & kinh doanh",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Thẻ cư trú diện nhà đầu tư cho phép làm việc, tự kinh doanh hoặc điều hành doanh nghiệp tại Hungary (khác nhiều chương trình Golden Visa khác)."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "Đi lại Schengen ngắn hạn",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Đi lại 29 nước khối Schengen theo quy định lưu trú 90 ngày trong mỗi 180 ngày."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "health_and_safety",
+                    "product_benefits_item_title": "Tiếp cận y tế & giáo dục",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Tiếp cận hệ thống y tế và giáo dục theo diện cư trú."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Không yêu cầu cư trú tối thiểu",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Không bắt buộc thời gian cư trú để duy trì thẻ."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "LỘ TRÌNH & QUYỀN QUỐC TỊCH",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Cơ hội nhập tịch"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Có thể xét nhập quốc tịch Hungary khi đáp ứng điều kiện cư trú, ngôn ngữ và hội nhập theo luật (thông thường ~8 năm cư trú liên tục). Thời gian thực tế tùy hồ sơ."
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Khi nhập tịch Hungary"
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Hộ chiếu Hungary thuộc nhóm hộ chiếu mạnh hàng đầu thế giới; miễn visa hoặc visa điện tử tới phần lớn các quốc gia (thứ hạng và số nước thay đổi theo thời điểm)."
+                        },
+                        {
+                            "product_benefits_item_bullet_text": "Quyền công dân EU đầy đủ: tự do sinh sống, làm việc, học tập tại bất kỳ quốc gia EU nào."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM THƯỜNG TRÚ NHÂN HUNGARY",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "timer",
+                    "product_advantages_item_title": "Thẻ cư trú đến 10 năm",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Một trong những thẻ cư trú diện đầu tư có thời hạn dài nhất tại châu Âu; gia hạn thêm tối đa 10 năm nếu còn duy trì điều kiện."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "route",
+                    "product_advantages_item_title": "Lộ trình thường trú & quốc tịch",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Cơ hội xét thường trú và quốc tịch một quốc gia EU khi đáp ứng điều kiện theo luật Hungary."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Điều kiện linh hoạt",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không giới hạn độ tuổi tối đa, không phỏng vấn, không yêu cầu học vấn hay kinh nghiệm quản lý."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "calendar_month",
+                    "product_advantages_item_title": "Không yêu cầu cư trú tối thiểu",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không bắt buộc thời gian cư trú để giữ và gia hạn thẻ cư trú diện đầu tư."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "Mức đầu tư từ 250.000 EUR",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Thực hiện qua quỹ đầu tư BĐS được Ngân hàng Quốc gia Hungary (MNB) đăng ký – mức đầu tư cạnh tranh tại châu Âu."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN ĐẦU TƯ LẤY THƯỜNG TRÚ NHÂN HUNGARY",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện đương đơn",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 18 tuổi, không giới hạn tuổi tối đa."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đạt yêu cầu về lý lịch an ninh."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh nguồn vốn đầu tư hợp pháp."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Người phụ thuộc đi kèm",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Vợ/chồng hợp pháp."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Con chưa thành niên (dưới 18 tuổi)."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Một số thành viên phụ thuộc khác (con đã thành niên còn phụ thuộc, cha/mẹ phụ thuộc) theo diện đoàn tụ gia đình."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Điều kiện và độ tuổi cụ thể theo quy định OIF tại thời điểm nộp – liên hệ IMM Group để kiểm tra từng trường hợp."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "payments",
+                    "product_conditions_item_title": "Chọn 1 trong 2 hình thức đầu tư:",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Quỹ đầu tư BĐS – từ 250.000 EUR"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Mua chứng chỉ quỹ đầu tư BĐS được MNB đăng ký; nắm giữ tối thiểu 5 năm. Tối thiểu 40% giá trị tài sản ròng của quỹ là BĐS nhà ở tại Hungary."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Quyên góp giáo dục – từ 1.000.000 EUR"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Quyên góp cho cơ sở giáo dục đại học công ích phục vụ giáo dục/nghiên cứu/sáng tạo nghệ thuật."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "(Hình thức mua BĐS trực tiếp 500.000 EUR đã bị loại bỏ, không có hiệu lực từ 15/01/2025.)"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH ĐẦU TƯ LẤY THƯỜNG TRÚ NHÂN HUNGARY",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Đặt cọc & thẩm định",
+                    "product_process_step_desc": "Ký thỏa thuận đặt cọc và thẩm định hồ sơ ban đầu.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "contract",
+                    "product_process_step_title": "Ký hợp đồng",
+                    "product_process_step_desc": "Ký hợp đồng dịch vụ xin cư trú Hungary và hợp đồng đầu tư với Quỹ.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "description",
+                    "product_process_step_title": "Chuẩn bị hồ sơ",
+                    "product_process_step_desc": "Hoàn thiện hồ sơ theo hình thức đầu tư và số thành viên đi kèm.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Xin Guest Investor Visa",
+                    "product_process_step_desc": "Nộp hồ sơ xin thị thực nhà đầu tư (Guest Investor Visa) tại cơ quan đại diện Hungary.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "flight_takeoff",
+                    "product_process_step_title": "Thực hiện đầu tư & nộp hồ sơ thẻ cư trú",
+                    "product_process_step_desc": "Nhận thị thực, sang Hungary thực hiện đầu tư và nộp hồ sơ xin thẻ cư trú 10 năm. Lấy sinh trắc (vân tay, ảnh) trực tiếp tại Hungary.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "fingerprint",
+                    "product_process_step_title": "Nhận thẻ cư trú",
+                    "product_process_step_desc": "Nhận chấp thuận chính thức; thẻ cư trú (đến 10 năm) được gửi về địa chỉ đã đăng ký.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "card_membership",
+                    "product_process_step_title": "Gia hạn thẻ cư trú",
+                    "product_process_step_desc": "Gia hạn thêm tối đa 10 năm: diện Quỹ cần còn duy trì khoản đầu tư; diện quyên góp không cần đầu tư thêm. Nộp gia hạn tối thiểu 30 ngày trước khi thẻ hết hạn.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "",
+            "product_care_service_desc": "",
+            "product_care_service_links": false,
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "",
+            "product_care_topics_desc": "",
+            "product_care_topics_links": false,
+            "product_faq_title": "Câu hỏi thường gặp về Thường Trú Nhân Hungary",
+            "product_faq_section_id": "faq-hungary",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Mức đầu tư tối thiểu?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Mức đầu tư tối thiểu",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Hiện có 2 hình thức: đầu tư từ 250.000 EUR vào quỹ đầu tư BĐS được MNB đăng ký (giữ tối thiểu 5 năm), hoặc quyên góp từ 1.000.000 EUR cho cơ sở giáo dục đại học công ích. Mức và điều kiện theo quy định tại thời điểm nộp hồ sơ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có được làm việc tại Hungary?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Có được làm việc tại Hungary",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có. Thẻ cư trú diện nhà đầu tư cho phép làm việc, tự kinh doanh hoặc điều hành doanh nghiệp tại Hungary mà không bị hạn chế – lợi thế so với nhiều chương trình Golden Visa châu Âu khác."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Phải ở Hungary bao nhiêu ngày?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Phải ở Hungary bao nhiêu ngày",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không yêu cầu cư trú tối thiểu để giữ và gia hạn thẻ cư trú diện đầu tư. Nếu định hướng nhập quốc tịch về sau, nhà đầu tư cần đáp ứng điều kiện cư trú và hội nhập theo luật Hungary."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Thẻ có thời hạn bao lâu?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Thẻ có thời hạn bao lâu",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Thẻ cư trú có thời hạn tối đa 10 năm, gia hạn thêm tối đa 10 năm. Diện Quỹ cần duy trì khoản đầu tư khi gia hạn; diện quyên góp không yêu cầu đầu tư thêm."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Quỹ đầu tư BĐS là gì? Rủi ro thế nào?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Quỹ đầu tư BĐS là gì? Rủi ro thế nào",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Là quỹ đầu tư BĐS được Ngân hàng Quốc gia Hungary (MNB) đăng ký, do đơn vị quản lý quỹ đủ điều kiện vận hành; tối thiểu 40% giá trị tài sản ròng là BĐS nhà ở tại Hungary. Đây là khoản đầu tư có rủi ro; kết quả và khả năng thu hồi vốn tùy hồ sơ, quỹ và biến động thị trường."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Gia đình gồm những ai?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Gia đình gồm những ai",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Hồ sơ có thể bao gồm vợ/chồng và con chưa thành niên; một số thành viên phụ thuộc khác có thể tham gia theo diện đoàn tụ gia đình. Điều kiện cụ thể tùy quy định OIF – liên hệ IMM Group để kiểm tra từng gia đình."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Chứng minh nguồn tiền thế nào?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Chứng minh nguồn tiền thế nào",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Nhà đầu tư cần chứng minh nguồn vốn đầu tư hợp pháp. Mỗi gia đình có cách chứng minh khác nhau (thu nhập, kinh doanh, chuyển nhượng tài sản…). Liên hệ IMM Group để được đánh giá nguồn tiền cụ thể."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Khi nào có thể nhập quốc tịch?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Khi nào có thể nhập quốc tịch",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Theo luật Hungary, nhập tịch thông thường yêu cầu khoảng 8 năm cư trú liên tục, cùng điều kiện ngôn ngữ, hội nhập và sinh kế. Thẻ cư trú diện đầu tư có thể là bước đệm; thời gian và điều kiện thực tế tùy hồ sơ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    }
+]

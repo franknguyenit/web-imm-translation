@@ -1,0 +1,786 @@
+[
+    {
+        "post_id": 100908,
+        "post_slug": "/thuong-tru-nhan-bo-dao-nha/",
+        "post_title": "Portugal Golden Visa",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "<span class=\"accent\">Portugal</span> Golden Visa<br>(Residency by Investment)"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99261",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "What is the Portugal Golden Visa?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "The Portugal Golden Visa is a residency-by-investment program for investors who hold citizenship outside the European Union.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "You and your family receive a Portuguese residence permit once you meet the program's investment requirement.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Your whole family has access to healthcare, education, and social security in Portugal on the terms set by law.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "As a Golden Visa holder, you and your family travel visa-free within the 29 countries of the Schengen Area.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "After 10 years of holding the Golden Visa and meeting the investment and residence conditions, you can file for Portuguese citizenship under the nationality rules in force at the time.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "The usual route is a fund investment from €500,000; some other routes start at €250,000.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Book a consultation",
+                    "product_hero_cta_url": "https://immgroup.com/en/contact/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "Benefits of the Portugal Golden Visa",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "home",
+                    "product_benefits_item_title": "Live in Portugal",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Your whole family can live, work, and study in Portugal."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "Visa-free travel in the Schengen Area",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Travel across the 29 Schengen countries under the standard short-stay rule: 90 days in any 180-day period."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "health_and_safety",
+                    "product_benefits_item_title": "The same benefits as local residents",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Access to Portugal's health and education systems on the same terms as local residents."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "how_to_reg",
+                    "product_benefits_item_title": "A route to Portuguese citizenship",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "You can apply for naturalization after 10 years if you meet the conditions."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "passport",
+                    "product_benefits_item_title": "Once you hold Portuguese citizenship",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Visa-free or eVisa access to 189 countries, including the United Kingdom, the United States, Australia, New Zealand, Canada, and other major countries."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "flight_takeoff",
+                    "product_benefits_item_title": "A route to the US E-2 visa",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Once you hold Portuguese citizenship and have at least 3 continuous years of residence in Portugal, you may be eligible to apply for a US E-2 investor visa."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "public",
+                    "product_benefits_item_title": "The right to live anywhere in the EU",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "With Portuguese citizenship, your family has the right to live in any EU country."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "Why investors choose the Portugal Golden Visa",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "event_available",
+                    "product_advantages_item_title": "A light physical residence requirement",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You need to spend an average of just 14 days in Portugal every 2 years to keep your Golden Visa"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Among the lighter stay requirements of the European programs."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "verified",
+                    "product_advantages_item_title": "A clear route to citizenship",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "You can be considered for citizenship after 10 years if you meet the conditions"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "Among the European residency-by-investment programs with a more accessible route to citizenship."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "family_restroom",
+                    "product_advantages_item_title": "Flexible rules for dependent children",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "One of the few programs that allows children of any age to be included"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "The condition is that they are unmarried and financially dependent on you."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "task_alt",
+                    "product_advantages_item_title": "Straightforward eligibility",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "No age limit for applicants"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "No interview"
+                        },
+                        {
+                            "product_advantages_item_bullet_text": "No degree or management experience is required."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "Program requirements",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Applicant requirements",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Aged 18 or older, with no upper age limit"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Meets security and background vetting requirements"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "You document a lawful source of funds for the investment"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Dependents you can include",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Your legal spouse"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Children, including adopted children, who are unmarried and financially dependent — with no age limit"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Parents of both spouses; those under 65 must show they are financially dependent on you"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Siblings under 18 who are financially dependent on you"
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "account_balance",
+                    "product_conditions_item_title": "Investment routes:",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "You choose one of the qualifying investment routes:"
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Fund investment: €500,000 into a qualifying Portuguese investment fund, held for at least 5 years."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "A qualifying fund is registered in Portugal, has been running for more than 5 years, invests at least 60% of its capital in commercial companies based in Portugal, and does not invest directly or indirectly in real estate."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Scientific research: an investment of at least €500,000."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Arts and cultural heritage projects: a non-refundable donation of at least €250,000."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Company formation: an investment of at least €500,000 that creates 5 jobs, or forming a new company that creates 10 jobs."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Real estate: the property ownership route, which started at €280,000, has been closed since October 2023."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "The Portugal Golden Visa process",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Deposit and due diligence",
+                    "product_process_step_desc": "Sign the deposit agreement and complete the initial due diligence on your file.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "contract",
+                    "product_process_step_title": "Sign the contracts",
+                    "product_process_step_desc": "The service agreement for your Golden Visa application and the subscription agreement with the fund.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "payments",
+                    "product_process_step_title": "Prepare the file and transfer the investment",
+                    "product_process_step_desc": "We prepare your file and you transfer the investment under the route you have chosen.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "File the application",
+                    "product_process_step_desc": "File the application with AIMA, Portugal's immigration and asylum agency.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "fingerprint",
+                    "product_process_step_title": "Pre-approval and biometrics",
+                    "product_process_step_desc": "Receive pre-approval, then travel to Portugal to provide your biometrics.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "badge",
+                    "product_process_step_title": "Receive your residence permit",
+                    "product_process_step_desc": "You receive formal approval and the residence permit is sent to you in your home country.<br>The permit runs for 2 years and is renewed in cycles as long as you keep the investment and meet the stay requirement of 14 days every 2 years.<br>Actual processing depends on your file and on AIMA's own timelines; IMM Group sets out the likely timeline for your case.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "View all projects",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "",
+            "product_care_service_desc": "",
+            "product_care_service_links": false,
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "",
+            "product_care_topics_desc": "",
+            "product_care_topics_links": false,
+            "product_faq_title": "Portugal Golden Visa FAQs",
+            "product_faq_section_id": "faq-portugal",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "How is the investment structured?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The Portugal Golden Visa has several qualifying investment routes",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Fund investment — from €500,000, the route most investors take today."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Scientific research — from €500,000."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Arts and cultural heritage — a non-refundable donation from €250,000."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Forming or investing in a company — from €500,000, with job creation conditions."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The real estate route has been closed since October 2023. The amounts and conditions that apply are those in force when you apply. (Updated: June 2026.)"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What is a Golden Visa, and how does it differ from permanent residence?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "What the Golden Visa is, and how it differs from permanent residence",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The Portugal Golden Visa is a long-term residence permit for investors. In day-to-day terms it gives your family much of what permanent residence does: you can live, work, start a business, and put your children through school in Portugal."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The difference: the Golden Visa runs for a fixed term and has to be renewed periodically. After 10 years of residence, you can be considered for citizenship if you qualify."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What about Schengen and the EU?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Short stays in the Schengen Area — not a right to live or work elsewhere in the EU",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The Golden Visa allows travel within the Schengen Area under the short-stay rules of 90 days in any 180-day period."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Travel to EU countries outside the Schengen Area still requires a visitor visa, though such applications are usually given priority."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The right to live, work, and study in any EU country arises only once you hold Portuguese citizenship."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Schengen is not the same as the EU",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The EU — the European Union: an intergovernmental organization of 27 countries.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The Schengen Area is a zone where you can travel freely between the 29 member countries."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Some EU countries are not in Schengen, and the reverse is also true. Portugal is a member of both."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "So a Golden Visa already allows short trips within the Schengen Area; the right to live and work across the EU arises only with citizenship."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Do my children study free of charge?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Free schooling for your children",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "While your family holds a valid Golden Visa, your children attend Portugal's public schools free of charge, from primary through the end of secondary school."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "At university level, tuition and any support available depend on the institution and on your child's residence status at enrollment."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is income earned outside Portugal taxed?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Tax on income earned outside Portugal",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Portuguese income tax applies only once you become a tax resident — generally when you spend more than 183 days a year in Portugal."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Investors who visit only as long as they need to in order to keep or renew the permit usually fall outside that."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Tax policy can change, and your own position should be confirmed with a tax advisor at the time you apply. (Updated: June 2026.)"
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are my options after 5 years?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Your options after 5 years",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "After 5 years of holding the Golden Visa you have 3 options: keep renewing the residence permit; apply for permanent residence"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "If you keep renewing, you have to maintain the investment. If you apply for permanent residence or citizenship, once you qualify, you are no longer required to keep the investment."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the requirements for citizenship?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "To be considered for Portuguese citizenship you need",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "To be 18 or older;"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "To have held a valid Golden Visa for at least 10 years, meeting the stay requirement of an average of 14 days every 2 years;"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "To reach level A2 in Portuguese;"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "And to have no criminal record in Portugal or abroad."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Applications are assessed under the rules in force at the time you apply."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What is the A2 Portuguese exam?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The language requirement is a Portuguese certificate at CEFR level A2.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The exam can be run by an accredited school in Portugal or in another Portuguese-speaking country, by IEFP, Portugal's public employment and training institute, or by an accredited test center."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "A2 is a basic level; comparisons with IELTS are indicative only."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is an online certificate accepted?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Online certificates",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Under the rules, you and your family members need a certificate of completion from a Portuguese course at a public school in Portugal, or at a licensed center in Portugal."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Whether an online course is accepted depends on the rules in force — check before you enroll."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What does Portuguese citizenship give you?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "What citizenship gives you",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Full Portuguese citizenship rights, including the right to live, work, and study in any EU country."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The Portuguese passport is among the stronger ones, with visa-free or eVisa access to a wide range of countries (the number changes over time)."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Once you hold Portuguese citizenship and have 3 or more continuous years of residence in Portugal, you can explore the US E-2 route under the E-2 rules in force at the time."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What are the investment risks?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The investment risks",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The two main risks: choosing a project or fund without a solid track record, or one that does not qualify under the program; and investment capital from an unlawful source, which leads to the application being refused."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group reviews your file and the project in detail before any contract is signed, to limit these risks."
+                                }
+                            ],
+                            "product_faq_item_section_note": "Note: a fund investment carries risk; returns and the recovery of your capital depend on how the fund performs."
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What source of funds evidence is required?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Documenting your source of funds",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Documenting your source of funds for the Portugal Golden Visa is generally simpler than for programs such as the United States, Australia, or Canada — you show a lawful source at a basic level of detail, for example a property sale, income, or a business."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Every family documents this differently — contact IMM Group for advice on your own situation."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How long is the permit valid, and how is it renewed?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Validity and renewal",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The first Golden Visa permit runs for 2 years and can be renewed, usually for a further 3 years in the next cycle, provided you still hold the investment and have a clean criminal record."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "After 5 years, if you qualify, you can apply for permanent residence. The validity and renewal cycles follow the rules in force at the time of renewal."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Is there an age limit for applicants?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The Portugal Golden Visa sets no upper age limit for the applicant.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You need only be 18 or older and meet the requirements on background checks and a lawful source of funds."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Are qualifications or language skills required?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Qualifications and language",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "At the investment stage the program requires no qualifications, no management experience, no proof of language ability, and no interview."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The requirement for Portuguese at level A2 applies later, at the citizenship stage."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Which family members can be included?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The Golden Visa lets you include a multigenerational family in a single application",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Your legal spouse;"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Children, including adopted children, who are unmarried and financially dependent;"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Parents of both spouses, where those under 65 show they are financially dependent on you;"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "And siblings under 18 who are financially dependent on you."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Are adopted children and stepchildren eligible?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The program allows adopted children and stepchildren to be included in their parents' application.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "An adopted child needs a legal adoption certificate."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "A stepchild needs legal documents plus a notarized letter of consent from the spouse allowing the child to join the application."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "IMM Group assists with preparing the documents."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "What is the age limit for dependent children?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The age limit for dependent children",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The program sets no hard upper age limit for dependent children — a child can be included if they are unmarried and financially dependent on you, which usually means they are in full-time study."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "This is one of the advantages of the Portugal Golden Visa over many other programs. The exact conditions follow the rules in force."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can parents be included?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Parents in the application",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Parents of both you and your spouse can be included. Parents aged 65 or older can join"
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Those under 65 need to show they are financially dependent on you."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "The exact conditions follow the rules in force when you apply."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "How many days a year must I spend in Portugal?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "The Portugal Golden Visa does not require continuous residence.",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "To keep and renew the permit you need only meet the minimum stay requirement — an average of about 7 days a year, or 14 days every 2 years."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "If you plan to apply for citizenship later, you will also need to meet the residence, language, and integration conditions set by law."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can I sell or exit the investment after 5 years?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Selling or exiting after 5 years",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "The real estate route has been closed since October 2023, so investors now qualify mainly through a fund."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "You need to hold the fund investment continuously for at least 5 years."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Can I switch to a different fund?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Switching your fund investment",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "You need to hold a qualifying investment continuously throughout the required period."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Any switch between funds must keep the holding period unbroken and follow the program rules."
+                                },
+                                {
+                                    "product_faq_item_section_bullet_text": "Questions about buying or selling real estate no longer apply, because that route is closed."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": ""
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": ""
+            }
+        },
+        "seo": {
+            "meta_title": "Portugal Golden Visa: The Fund Route | IMM Group",
+            "meta_description": "The Portugal Golden Visa gives your family EU residence from a €500,000 fund investment, with only 14 days in Portugal every 2 years. Talk to IMM Group.",
+            "slug": "portugal-golden-visa"
+        }
+    }
+]

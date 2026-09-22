@@ -105,9 +105,9 @@ Explore IMM Group's advisory services:
 - Ireland Golden Visa
 - Greece Golden Visa
 - Cyprus Golden Visa
-- Latvia residency by investment
+- Latvia Golden Visa
 - Portugal Golden Visa
-- Hungary residency by investment
+- Hungary Golden Visa
 - Bulgaria Golden Visa
 
 ### Understanding Malta

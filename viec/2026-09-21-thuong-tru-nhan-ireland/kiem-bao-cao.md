@@ -1,19 +1,15 @@
-# CỬA 0 — 2026-09-21-thuong-tru-nhan-ireland — 2026-09-22 11:49
-Kết quả: XANH · 0 lỗi chặn · 27 cảnh báo · 240/240 đoạn đã dịch
+# CỬA 0 — 2026-09-21-thuong-tru-nhan-ireland — 2026-09-22 14:29
+Kết quả: XANH · 0 lỗi chặn · 23 cảnh báo · 240/240 đoạn đã dịch
 
 ## LỖI CHẶN (phải sửa hết)
 - (không)
 
 ## CẢNH BÁO (đọc từng dòng, sửa hoặc ghi lý do vào báo cáo)
-- s001 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Ireland Golden Visa»
 - s003 bản Anh có số không có ở nguồn: 2023
 - s009 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «{1}Ireland{/1} Golden Visa»
 - s011 độ dài bất thường (Anh/Việt = 2.60) — soát bỏ sót hoặc thêm ý
-- s015 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Ireland Golden Visa benefits for your family»
 - s051 VND 60,000,000,000 ≈ US$2,308,142 không thấy (đã ghi #bo-qua-so)
-- s078 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «European citizenship and residency»
-- s083 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Portugal Golden Visa»
-- s084 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Hungary residency by investment»
+- s084 THUẬT NGỮ «thường trú nhân Hungary» gợi ý dịch là «hungary residency by investment | hungary guest investor program» — bản Anh: «Hungary Golden Visa»
 - s099 VND 12,000,000,000 ≈ US$461,628 không thấy (đã ghi #bo-qua-so)
 - s100 VND 30,000,000,000 ≈ US$1,154,071 không thấy (đã ghi #bo-qua-so)
 - s105 VND 12,000,000,000 ≈ US$461,628 không thấy (đã ghi #bo-qua-so)

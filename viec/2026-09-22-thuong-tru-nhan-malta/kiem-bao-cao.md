@@ -1,5 +1,5 @@
-# CỬA 0 — 2026-09-22-thuong-tru-nhan-malta — 2026-09-22 11:49
-Kết quả: XANH · 0 lỗi chặn · 44 cảnh báo · 142/142 đoạn đã dịch
+# CỬA 0 — 2026-09-22-thuong-tru-nhan-malta — 2026-09-22 14:29
+Kết quả: XANH · 0 lỗi chặn · 41 cảnh báo · 142/142 đoạn đã dịch
 
 ## LỖI CHẶN (phải sửa hết)
 - (không)
@@ -26,10 +26,7 @@ Kết quả: XANH · 0 lỗi chặn · 44 cảnh báo · 142/142 đoạn đã d�
 - s049 THUẬT NGỮ «thẩm định» gợi ý dịch là «due diligence» — bản Anh: «Consultation and file review»
 - s050 THUẬT NGỮ «lộ trình» gợi ý dịch là «process | timeline | pathway | roadmap» — bản Anh: «We assess your eligibility and map out the route for your whole family»
 - s052 THUẬT NGỮ «thường trú nhân Malta» gợi ý dịch là «malta golden visa | malta permanent residence programme | mprp» — bản Anh: «We complete your file and submit your application for Maltese permanen»
-- s061 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «European citizenship and residency»
-- s062 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Ireland Golden Visa»
-- s066 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Portugal Golden Visa»
-- s067 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Hungary residency by investment»
+- s067 THUẬT NGỮ «thường trú nhân Hungary» gợi ý dịch là «hungary residency by investment | hungary guest investor program» — bản Anh: «Hungary Golden Visa»
 - s087 số 1 không thấy ở bản Anh (đã ghi #bo-qua-so)
 - s088 VND 11,300,000,000 ≈ US$435,123 không thấy (đã ghi #bo-qua-so)
 - s088 VND 420,000,000 ≈ US$16,173 không thấy (đã ghi #bo-qua-so)

@@ -1,0 +1,97 @@
+[s001|#bo-qua-tn: Hungary cấp thẻ cư trú có thời hạn (tối đa 10 năm), không phải thường trú] Hungary Golden Visa (Guest Investor Program)
+[s002|#bo-qua-tn: H1 dùng tên sản phẩm theo cách người bản xứ tìm] {1}Hungary{/1} Golden Visa
+[s003] What is the Guest Investor Program?
+[s004] The Hungary Golden Visa, officially the Guest Investor Program, is an investor residence program created by the Hungarian government under Act XC of 2023.
+[s005] It is open to investors from outside the EU, and to their families, through a qualifying investment.
+[s006] The residence permit runs for up to 10 years and can be renewed for up to 10 more.
+[s007] Short stays in the Schengen Area under the 90/180-day rule.
+[s008] Two investment routes are in force, since July 1, 2024:
+[s009] From €250,000 into a real estate fund registered with the National Bank of Hungary (MNB), or
+[s010] A donation from €1,000,000 to a public-interest higher education institution.
+[s011|#bo-qua-so: bỏ "(≈ 7,6 – 7,7 tỷ đồng theo tỷ giá tham khảo)" — chỉ nhắc lại số EUR] From €250,000, before taxes and fees.
+[s012] Book a consultation
+[s013|#bo-qua-tn: nhãn mục dùng tên sản phẩm, khớp H1] Benefits of the Hungary Golden Visa
+[s014] Live in Hungary
+[s015] The whole family can live and study in Hungary.
+[s016] The right to work and run a business
+[s017] The investor residence permit allows you to work, be self-employed, or run a business in Hungary — unlike many other golden visa programs.
+[s018] Short stays in the Schengen Area
+[s019] Travel across the 29 Schengen countries under the short-stay rule: 90 days in any 180-day period.
+[s020] Access to healthcare and education
+[s021] Access to the healthcare and education systems on the terms that apply to residents.
+[s022] No minimum stay requirement
+[s023] You are not required to spend any set time in Hungary to keep the permit.
+[s024] Route to citizenship and citizenship rights
+[s025] A path to citizenship
+[s026] You can be considered for Hungarian citizenship once you meet the residence, language, and integration conditions set by law — usually around 8 years of continuous residence. The actual timeline depends on your file.
+[s027] Once you hold Hungarian citizenship
+[s028] The Hungarian passport is among the stronger ones, with visa-free or eVisa access to most countries (the ranking and the number of countries change over time).
+[s029] Full EU citizenship rights: you can live, work, and study in any EU country.
+[s030|#bo-qua-tn: nhãn mục dùng tên sản phẩm, khớp H1] Why investors choose the Hungary Golden Visa
+[s031] A residence permit of up to 10 years
+[s032] One of the longest-running investor residence permits in Europe, renewable for up to 10 more years as long as you still meet the conditions.
+[s033] A route to permanent residence and citizenship
+[s034] The chance to be considered for permanent residence and citizenship of an EU country once you meet the conditions set by Hungarian law.
+[s035] Flexible conditions
+[s036] No upper age limit, no interview, and no education or management experience requirements.
+[s037] No minimum stay requirement
+[s038] You are not required to spend any set time in Hungary to hold or renew the investor residence permit.
+[s039] Investment from €250,000
+[s040] Made through a real estate fund registered with the National Bank of Hungary (MNB) — a competitive entry level in Europe.
+[s041|#bo-qua-tn: nhãn mục dùng tên sản phẩm, khớp H1] Hungary Golden Visa requirements
+[s042] Applicant requirements
+[s043] Aged 18 or older, with no upper age limit.
+[s044] Meets security and background vetting requirements.
+[s045] You document a lawful source of funds for the investment.
+[s046] Dependents you can include
+[s047] Your legal spouse.
+[s048] Minor children, under 18.
+[s049] Certain other dependents — adult children who are still dependent, and dependent parents — through family reunification.
+[s050] The exact conditions and age limits follow the OIF rules in force when you file; contact IMM Group to check your own case.
+[s051|#bo-qua-so: nguồn viết "Chọn 1 trong 2"; bản Anh dùng "one of two" đúng cách nói bản xứ] Choose one of two investment routes:
+[s052] Real estate fund — from €250,000
+[s053] You buy units in a real estate fund registered with the MNB and hold them for at least 5 years. At least 40% of the fund's net asset value has to be residential property in Hungary.
+[s054] Education donation — from €1,000,000
+[s055] A donation to a public-interest higher education institution, for education, research, or artistic work.
+[s056] The direct property purchase route at €500,000 was dropped and has had no effect since January 15, 2025.
+[s057|#bo-qua-tn: nhãn mục dùng tên sản phẩm, khớp H1] The Hungary Golden Visa process
+[s058] Deposit and due diligence
+[s059] Sign the deposit agreement and complete the initial due diligence on your file.
+[s060] Sign the contracts
+[s061] The service agreement for your Hungarian residence application and the subscription agreement with the fund.
+[s062] Prepare the file
+[s063] We complete the file for the investment route you chose and the family members joining you.
+[s064] Apply for the Guest Investor Visa
+[s065] File for the investor visa, the Guest Investor Visa, at a Hungarian mission.
+[s066] Invest and file for your residence permit
+[s067] You receive the visa, travel to Hungary to make the investment, and file for the 10-year residence permit. Biometrics — fingerprints and a photograph — are taken in Hungary.
+[s068] Receive your residence permit
+[s069] You receive formal approval, and the residence permit, valid for up to 10 years, is sent to the address you registered.
+[s070] Renew your residence permit
+[s071] Renewal for up to 10 more years: on the fund route you still hold the investment; on the donation route no further investment is required. File the renewal at least 30 days before the permit expires.
+[s072] View all projects
+[s073|#bo-qua-tn: nhãn mục hỏi đáp dùng tên sản phẩm, khớp H1] Hungary Golden Visa FAQs
+[s074] What is the minimum investment?
+[s075] The minimum investment
+[s076] There are 2 routes: from €250,000 into a real estate fund registered with the MNB, held for at least 5 years, or a donation from €1,000,000 to a public-interest higher education institution. The amounts and conditions that apply are those in force when you file.
+[s077] Can I work in Hungary?
+[s078] Working in Hungary
+[s079] Yes. The investor residence permit allows you to work, be self-employed, or run a business in Hungary without restriction — an advantage over many other European golden visa programs.
+[s080] How many days do I have to spend in Hungary?
+[s081] Days you have to spend in Hungary
+[s082] There is no minimum stay requirement to hold or renew the investor residence permit. If you are aiming at citizenship later, you will need to meet the residence and integration conditions set by Hungarian law.
+[s083] How long is the permit valid?
+[s084] Validity of the permit
+[s085] The residence permit runs for up to 10 years and can be renewed for up to 10 more. On the fund route you keep the investment to renew; on the donation route no further investment is required.
+[s086] What is the real estate fund, and what are the risks?
+[s087] The real estate fund and its risks
+[s088] It is a real estate fund registered with the National Bank of Hungary (MNB) and run by a licensed fund manager; at least 40% of its net asset value is residential property in Hungary. This is an investment that carries risk, and the outcome and the recovery of your capital depend on your file, on the fund, and on how the market moves.
+[s089] Who counts as family?
+[s090] Family members you can include
+[s091] The application can include your spouse and minor children; certain other dependents may join through family reunification. The exact conditions follow the OIF rules — contact IMM Group to check your own family.
+[s092] How do I document my source of funds?
+[s093] Documenting your source of funds
+[s094] You need to document a lawful source for the investment capital. Every family documents this differently — income, a business, the sale of an asset. Contact IMM Group for an assessment of your own source of funds.
+[s095] When can I apply for citizenship?
+[s096] When you can apply for citizenship
+[s097] Under Hungarian law, naturalization generally requires around 8 years of continuous residence, along with language, integration, and means-of-support conditions. The investor residence permit can be a first step; the actual timeline and conditions depend on your file.

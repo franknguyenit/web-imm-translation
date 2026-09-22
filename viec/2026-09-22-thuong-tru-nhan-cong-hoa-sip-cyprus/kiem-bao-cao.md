@@ -1,5 +1,5 @@
-# CỬA 0 — 2026-09-22-thuong-tru-nhan-cong-hoa-sip-cyprus — 2026-09-22 11:49
-Kết quả: XANH · 0 lỗi chặn · 27 cảnh báo · 160/160 đoạn đã dịch
+# CỬA 0 — 2026-09-22-thuong-tru-nhan-cong-hoa-sip-cyprus — 2026-09-22 14:29
+Kết quả: XANH · 0 lỗi chặn · 24 cảnh báo · 160/160 đoạn đã dịch
 
 ## LỖI CHẶN (phải sửa hết)
 - (không)
@@ -18,10 +18,7 @@ Kết quả: XANH · 0 lỗi chặn · 27 cảnh báo · 160/160 đoạn đã d�
 - s041 VND 9,000,000,000 ≈ US$346,558 không thấy (đã ghi #bo-qua-so)
 - s045 độ dài bất thường (Anh/Việt = 2.41) — soát bỏ sót hoặc thêm ý
 - s064 THUẬT NGỮ «thẻ cư trú» gợi ý dịch là «residence permit | residency card» — bản Anh: «Receive formal approval; the residence card is sent to you in your hom»
-- s071 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «European citizenship and residency»
-- s072 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Ireland Golden Visa»
-- s076 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Portugal Golden Visa»
-- s077 THUẬT NGỮ «thường trú nhân» gợi ý dịch là «permanent resident | permanent residence | green card holder» — bản Anh: «Hungary residency by investment»
+- s077 THUẬT NGỮ «thường trú nhân Hungary» gợi ý dịch là «hungary residency by investment | hungary guest investor program» — bản Anh: «Hungary Golden Visa»
 - s085 THUẬT NGỮ «an sinh xã hội» gợi ý dịch là «social insurance | welfare | social security (chữ mỹ)» — bản Anh: «Benefits and social security in Cyprus»
 - s089 THUẬT NGỮ «hình thức đầu tư» gợi ý dịch là «how you invest» — bản Anh: «Which investments qualify?»
 - s106 THUẬT NGỮ «tự do đi lại Schengen» gợi ý dịch là «visa-free travel in the schengen area | schengen travel» — bản Anh: «Does permanent residence give me free movement in Schengen and the EU?»

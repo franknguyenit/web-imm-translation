@@ -1,0 +1,79 @@
+[s001|#bo-qua-tn: Latvia cấp thẻ TẠM TRÚ (nguồn nói rõ ở s060), không phải thường trú] Latvia Golden Visa
+[s002|#bo-qua-tn: H1 dùng tên sản phẩm theo cách người bản xứ tìm] {1}Latvia{/1} Golden Visa
+[s003] What is the Latvia residence by investment program?
+[s004] The Latvia Golden Visa lets you and your family obtain a Latvian temporary residence permit through a qualifying investment.
+[s005] With a Latvian residence permit, your family can travel in the Schengen Area under the short-stay rules.
+[s006] You can choose between investing in real estate and investing in the shares of a Latvian company.
+[s007] **Indicative processing time:** 30–90 days, depending on your file and on the authorities' own timelines.
+[s008] After 5 years, if you qualify, you can be considered for permanent residence; after 10 years you can be considered for Latvian citizenship if you meet the conditions.
+[s009] Book a consultation
+[s010] Benefits of the Latvian residence permit
+[s011] Visa-free travel in the Schengen Area
+[s012] Travel within the Schengen Area, including Switzerland, Norway, and Iceland, under the short-stay rules.
+[s013] Live and work in Latvia
+[s014] You and your family can live, study, and work in Latvia.
+[s015] Education
+[s016] Your children have access to the Latvian education system on the same terms as local residents.
+[s017] A route to permanent residence
+[s018] After 5 years, if you qualify, you can be considered for permanent residence.
+[s019] A route to Latvian citizenship
+[s020] After 10 years, and once you meet the conditions set by Latvian law, you can be considered for citizenship.
+[s021|#bo-qua-tn: nhãn mục dùng tên sản phẩm, khớp H1] Why investors choose the Latvia Golden Visa
+[s022] Fast processing
+[s023] Applications take about 30–90 days to process, depending on the case.
+[s024] An accessible entry level
+[s025] One route is an investment in the shares of a Latvian company from €50,000.
+[s026] No continuous residence required
+[s027] You are not required to live in Latvia continuously to keep the temporary residence permit.
+[s028] A choice of investment routes
+[s029] You can choose between real estate and an investment in the shares of a company.
+[s030] A gateway to the Schengen Area
+[s031] Latvia is a member of both the EU and the Schengen Area, which suits families who want flexible travel in Europe.
+[s032|#bo-qua-tn: nhãn mục dùng tên sản phẩm, khớp H1] Latvia Golden Visa requirements
+[s033] Applicant requirements
+[s034] Aged 18 or older.
+[s035] Meets background security and medical requirements.
+[s036] You document a lawful source of funds for the investment.
+[s037] Requirements for dependents
+[s038] Dependents joining the application must meet the background security and medical requirements.
+[s039] Family applications are assessed under the rules in force when you file.
+[s040] The real estate route
+[s041] Buy real estate in Riga worth €250,000.
+[s042] Hold the investment for at least 5 years.
+[s043] The company share route
+[s044] Invest at least €50,000 in a Latvian company with up to 50 employees.
+[s045] Or invest at least €100,000 in a company with more than 50 employees.
+[s046] The company has to pay at least €10,000 a year in corporate income tax.
+[s047|#bo-qua-tn: nhãn mục dùng tên sản phẩm, khớp H1] The Latvia Golden Visa process
+[s048] Consultation and file review
+[s049] We assess your eligibility, your source of funds, and which investment route fits you.
+[s050] A visit if you want one
+[s051] You can visit Latvia before deciding which route to take.
+[s052] Make the investment
+[s053] Complete the investment on the route you chose: real estate or company shares.
+[s054] Prepare and file the application
+[s055] We complete the legal and investment file and submit your residence permit application.
+[s056] Receive approval
+[s057] Once your file is approved, you travel to Latvia to register your residence.
+[s058] Keep meeting the conditions
+[s059] You keep the investment and the other conditions in place, so the permit can be renewed or a longer-term route considered.
+[s060] View all projects
+[s061] Latvia residence by investment FAQs
+[s062] Is the Latvian residence permit the same as permanent residence?
+[s063] The Latvian temporary residence permit
+[s064] No. It is a temporary residence permit. You can be considered for permanent residence after 5 years if you meet the conditions.
+[s065] Can I travel in the Schengen Area?
+[s066] Travel in the Schengen Area
+[s067] Yes. The Latvian residence permit allows travel within the Schengen Area under the short-stay rules.
+[s068] Do I have to live in Latvia continuously?
+[s069] Residence conditions
+[s070] You are not required to live in Latvia continuously to keep the temporary residence permit, but you do need to meet the renewal conditions set by the rules.
+[s071] Can I work in Latvia?
+[s072] The right to work
+[s073] Yes. You and your family can work in Latvia while you hold valid residence rights.
+[s074] Can I obtain Latvian citizenship?
+[s075] A route to citizenship
+[s076] It is possible. After 10 years, and once you meet the conditions set by Latvian law, you can be considered for citizenship.
+[s077] What are the main risks?
+[s078] The main risks
+[s079] The risks usually lie in choosing an unsuitable property or business, in a source of funds file that is not clear enough, or in failing to keep the investment conditions in place.

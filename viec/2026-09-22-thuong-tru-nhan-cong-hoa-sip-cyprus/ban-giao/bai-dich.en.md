@@ -124,10 +124,10 @@ Explore IMM Group's advisory services:
 - European citizenship and residency
 - Ireland Golden Visa
 - Greece Golden Visa
-- Latvia residency by investment
+- Latvia Golden Visa
 - Malta Golden Visa
 - Portugal Golden Visa
-- Hungary residency by investment
+- Hungary Golden Visa
 - Bulgaria Golden Visa
 
 ### Understanding Cyprus

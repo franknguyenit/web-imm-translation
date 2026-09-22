@@ -154,3 +154,19 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
 - **Bộ kiểm số còn bắt các dạng:** "lần 1"/"lần 2"/"2 lần" (dùng first/second/twice), "cả hai diện" (E-1 và E-2),
   tháng ghi bằng số "12-5"/"6-11" (viết tên tháng), "2/3 diện tích" (two-thirds), "6 sao" (không phải hạng chính thức).
   Tất cả đều gắn `#bo-qua-so` kèm lý do, đừng bẻ câu tiếng Anh cho vừa bộ đếm.
+- **Bảng link: một URL = một bản dịch hiện hành.** `ganlink` nay **bỏ qua** việc cũ hơn khi URL đó đã có bản mới
+  (so theo tên thư mục, mở đầu bằng ngày; hậu tố `-2` của việc dịch lại cũng tính là mới hơn) — dịch lại một trang thì
+  chạy `ganlink` cho việc MỚI, việc cũ tự bị bỏ qua chứ không ghi đè ngược.
+- **Bài dán từ chat vẫn có URL thật:** tìm bằng `curl` trang chuyên mục hoặc `post-sitemap*.xml` của immgroup.com rồi
+  đối chiếu một câu đặc trưng của nguồn — hai việc EB-5 ngày 17/09 hoá ra là **cùng một bài** (một việc dịch trọn bài,
+  một việc chỉ dịch đoạn trích) nên chỉ bản trọn bài được gắn link.
+- **Nguồn đếm sai số mục là lỗi của nguồn, KHÔNG tự lấp** (học 22/09/2026): trang Bồ Đào Nha viết "có **3** lựa chọn"
+  rồi chỉ liệt kê 2. B6 đề nghị đổi thành "several options" — **bác**: giữ đúng con số của nguồn, ghi vào báo cáo và
+  ghi chú bàn giao để CEO bổ sung trước khi đăng. Bản Anh không được tự nghĩ ra lựa chọn thứ ba.
+- **Bản sửa của agent hay làm rơi tên sản phẩm bắt buộc:** B6 viết lại s007 của Bồ Đào Nha làm mất cụm "Golden Visa"
+  → cửa 0 báo LỖI THUẬT NGỮ. Sau mỗi lần `dien` tệp gom, luôn `kiem` lại trước khi `ghep`.
+- **Ba trang châu Âu nữa đều KHÔNG phải thường trú:** Bồ Đào Nha (thẻ 2 năm → 3 năm/lần), Hungary (tối đa 10 năm),
+  Latvia (**tạm trú**, chính nguồn nói vậy). Danh sách hiện tại: dùng "permanent residence" CHỈ với Bulgaria, Cộng hoà
+  Síp và Malta; mọi nước châu Âu khác dùng Golden Visa / residence permit / temporary residence permit.
+- **Đồng bộ nhãn là việc lặp:** mỗi khi dịch xong một nước mới, sửa nhãn nước đó ở MỌI trang châu Âu đã dịch
+  (`grep care_service_link_title` trong các `song-ngu.tsv`), chạy lại `kiem` + `ghep` + `nap`, và nhắc team import lại.

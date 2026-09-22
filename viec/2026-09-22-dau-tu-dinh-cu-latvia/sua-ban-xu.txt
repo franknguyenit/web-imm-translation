@@ -1,0 +1,17 @@
+[s005] With a Latvian residence permit, you and your family can travel within the Schengen Area under the short-stay rules.
+[s006] You can choose between a real estate investment and a share capital investment in a Latvian company.
+[s008] After 5 years, if you qualify, you can be considered for permanent residence, and after 10 years for Latvian citizenship, provided you meet the conditions.
+[s024] An accessible entry point
+[s025] One route is a share capital investment in a Latvian company, starting at €50,000.
+[s029] You can choose between real estate and a share capital investment in a company.
+[s034] You are aged 18 or older.
+[s035] You meet the background security and medical requirements.
+[s041] Purchase real estate in Riga valued at €250,000.
+[s043] The share capital route
+[s044] Invest at least €50,000 in the share capital of a Latvian company with up to 50 employees.
+[s046] The company must pay at least €10,000 a year in corporate income tax.
+[s050] An optional site visit
+[s053] Complete the investment under the route you have chosen: real estate or company shares.
+[s059] You maintain the investment and the other conditions so that the permit can be renewed and longer-term options can be considered.
+[s070] You are not required to live in Latvia continuously to keep the temporary residence permit, but you do need to meet the applicable renewal conditions.
+[s073] Yes. You and your family can work in Latvia while you hold valid residence status.

@@ -7,3 +7,4 @@
 - [TM hay gợi ý nhầm câu của nước khác](tm-lay-nham-cau-cua-trang-nuoc-khac.md) — Hy Lạp lọt sang Ireland, có câu ngược nghĩa; đừng dùng --tm100 mù
 - [Môi trường Windows của dự án dịch](moi-truong-windows-cua-du-an-dich.md) — dùng `python`, đặt PYTHONIOENCODING, 3 test hỏng sẵn
 - [4 trang CBI + D7 22/09: điểm chờ CEO](bon-trang-cbi-d7-22-09-cho-ceo.md) — tên quỹ St. Kitts đổi thành SISC, Dominica quy kết sai Financial Times, D7 không phải thường trú, lỗi E-2
+- [3 trang châu Âu 22/09: điểm chờ CEO](ba-trang-chau-au-22-09-cho-ceo.md) — Bồ Đào Nha mốc nhập tịch 10 năm và "3 lựa chọn" chỉ có 2, Latvia nhiều dữ kiện nghi lỗi thời

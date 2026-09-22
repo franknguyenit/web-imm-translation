@@ -75,10 +75,10 @@ s073	li	Các dự án bất động sản Hy Lạp	Greek real estate projects		t
 s074	li	Quốc tịch & thường trú nhân châu Âu	European citizenship and residency		#bo-qua-tn: tên trang chương trình châu Âu — dùng tên ngành	acf.product_care_service_links[1].product_care_service_link_title
 s075	li	Thường trú nhân Ireland	Ireland Golden Visa		#bo-qua-tn: tên trang chương trình châu Âu — dùng tên ngành #bo-qua-tn: nhãn liên kết dùng tên trang tiếng Anh của trang đích	acf.product_care_service_links[2].product_care_service_link_title
 s076	li	Thường trú nhân Cộng hòa Síp (Cyprus)	Cyprus Golden Visa		#bo-qua-tn: tên trang chương trình châu Âu — dùng tên ngành #bo-qua-tn: nhãn liên kết dùng tên trang tiếng Anh của trang đích	acf.product_care_service_links[3].product_care_service_link_title
-s077	li	Thương trú nhân Latvia	Latvia residency by investment			acf.product_care_service_links[4].product_care_service_link_title
+s077	li	Thương trú nhân Latvia	Latvia Golden Visa			acf.product_care_service_links[4].product_care_service_link_title
 s078	li	Thường trú nhân Malta	Malta Golden Visa		#bo-qua-tn: tên trang chương trình châu Âu — dùng tên ngành #bo-qua-tn: nhãn liên kết dùng tên trang tiếng Anh của trang đích	acf.product_care_service_links[5].product_care_service_link_title
 s079	li	Thường trú nhân Bồ Đào Nha	Portugal Golden Visa		#bo-qua-tn: tên trang chương trình châu Âu — dùng tên ngành	acf.product_care_service_links[6].product_care_service_link_title
-s080	li	Thường trú nhân Hungary	Hungary residency by investment		#bo-qua-tn: tên trang chương trình châu Âu — dùng tên ngành	acf.product_care_service_links[7].product_care_service_link_title
+s080	li	Thường trú nhân Hungary	Hungary Golden Visa		#bo-qua-tn: tên trang chương trình châu Âu — dùng tên ngành	acf.product_care_service_links[7].product_care_service_link_title
 s081	li	Thường trú nhân Bulgaria	Bulgaria Golden Visa		#bo-qua-tn: tên trang chương trình châu Âu — dùng tên ngành #bo-qua-tn: nhãn liên kết dùng tên trang tiếng Anh của trang đích	acf.product_care_service_links[8].product_care_service_link_title
 s082	h3	Hiểu về Hy Lạp	Understanding Greece			acf.product_care_topics_title
 s083	p	Chuyên trang IMM Group tổng hợp các thông tin hữu ích với các chủ đề:	IMM Group's resource hub brings together practical information on the following topics:	100%: IMM Group's resource hub brings together practical information on the following topics:		acf.product_care_topics_desc#1

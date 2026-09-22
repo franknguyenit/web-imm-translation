@@ -1,0 +1,398 @@
+[
+    {
+        "post_id": 100904,
+        "post_slug": "/dau-tu-dinh-cu-latvia/",
+        "post_title": "Đầu tư định cư Latvia",
+        "lang": "en",
+        "template": "template-parts/content-product-2026.php",
+        "acf": {
+            "product_notice_icon": "campaign",
+            "product_notice_eyebrow": "",
+            "product_notice_title": "",
+            "product_notice_bullets": false,
+            "product_notice_cta": false,
+            "product_hero_title": {
+                "product_hero_title_eyebrow": "",
+                "product_hero_title_content": "ĐẦU TƯ ĐỊNH CƯ <span class=\"accent\">LATVIA</span>"
+            },
+            "product_hero_video": "",
+            "product_hero_image": "99270",
+            "product_hero_content": [
+                {
+                    "product_hero_content_icon": "info",
+                    "product_hero_content_title": "Chương trình đầu tư định cư Latvia là gì?",
+                    "product_hero_content_text": [
+                        {
+                            "product_hero_content_text_item": "Chương trình cho phép nhà đầu tư và gia đình lấy thẻ tạm trú Latvia thông qua khoản đầu tư đủ điều kiện.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Khi có thẻ cư trú Latvia, gia đình được đi lại trong khối Schengen theo quy định lưu trú ngắn hạn.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Nhà đầu tư có thể chọn đầu tư bất động sản hoặc đầu tư cổ phần vào công ty tại Latvia.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "<strong>Thời gian xét duyệt tham khảo:</strong> 30–90 ngày, tùy hồ sơ và tiến độ cơ quan chức năng.",
+                            "product_hero_content_text_subs": false
+                        },
+                        {
+                            "product_hero_content_text_item": "Sau 5 năm, nhà đầu tư đủ điều kiện có thể xét lên thường trú nhân vĩnh viễn; sau 10 năm có thể xét quốc tịch Latvia nếu đáp ứng điều kiện.",
+                            "product_hero_content_text_subs": false
+                        }
+                    ]
+                }
+            ],
+            "product_hero_cta": [
+                {
+                    "product_hero_cta_label": "Đăng ký tư vấn",
+                    "product_hero_cta_url": "https://immgroup.com/dang-ky-tu-van/",
+                    "product_hero_cta_is_primary": "1"
+                }
+            ],
+            "product_important_content": "",
+            "product_benefits_icon": "workspace_premium",
+            "product_benefits_title": "QUYỀN LỢI THẺ TẠM TRÚ LATVIA",
+            "product_benefits_items": [
+                {
+                    "product_benefits_item_icon": "travel_explore",
+                    "product_benefits_item_title": "Tự do đi lại Schengen",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Đi lại trong khối Schengen, Thụy Sĩ, Na Uy và Iceland theo quy định lưu trú ngắn hạn."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "work",
+                    "product_benefits_item_title": "Sinh sống và làm việc tại Latvia",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Đương đơn và gia đình có thể sinh sống, học tập và làm việc tại Latvia."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "school",
+                    "product_benefits_item_title": "Quyền lợi giáo dục",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Con cái được tiếp cận hệ thống giáo dục tại Latvia như người bản xứ."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "card_membership",
+                    "product_benefits_item_title": "Cơ hội lên thường trú nhân",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Sau 5 năm, nhà đầu tư đủ điều kiện có thể xét lên thường trú nhân vĩnh viễn."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                },
+                {
+                    "product_benefits_item_icon": "verified",
+                    "product_benefits_item_title": "Lộ trình quốc tịch Latvia",
+                    "product_benefits_item_header": "",
+                    "product_benefits_item_bullets": [
+                        {
+                            "product_benefits_item_bullet_text": "Sau 10 năm và đáp ứng điều kiện theo luật Latvia, nhà đầu tư có thể xét nộp hồ sơ quốc tịch."
+                        }
+                    ],
+                    "product_benefits_item_footnote": ""
+                }
+            ],
+            "product_advantages_icon": "auto_awesome",
+            "product_advantages_title": "ƯU ĐIỂM ĐẦU TƯ ĐỊNH CƯ LATVIA",
+            "product_advantages_items": [
+                {
+                    "product_advantages_item_icon": "speed",
+                    "product_advantages_item_title": "Xét duyệt nhanh",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Thời gian xử lý hồ sơ tham khảo khoảng 30–90 ngày, tùy từng trường hợp."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "payments",
+                    "product_advantages_item_title": "Mức đầu tư dễ tiếp cận",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Có lựa chọn đầu tư cổ phần vào công ty Latvia từ 50.000 EUR."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "calendar_month",
+                    "product_advantages_item_title": "Không yêu cầu cư trú liên tục",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Không bắt buộc sinh sống liên tục tại Latvia để duy trì thẻ tạm trú."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "account_balance",
+                    "product_advantages_item_title": "Linh hoạt hình thức đầu tư",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Nhà đầu tư có thể chọn bất động sản hoặc đầu tư cổ phần vào doanh nghiệp."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                },
+                {
+                    "product_advantages_item_icon": "travel_explore",
+                    "product_advantages_item_title": "Cửa ngõ vào Schengen",
+                    "product_advantages_item_header": "",
+                    "product_advantages_item_bullets": [
+                        {
+                            "product_advantages_item_bullet_text": "Latvia là thành viên EU và Schengen, phù hợp với gia đình cần quyền đi lại châu Âu linh hoạt."
+                        }
+                    ],
+                    "product_advantages_item_footnote": ""
+                }
+            ],
+            "product_conditions_icon": "fact_check",
+            "product_conditions_title": "ĐIỀU KIỆN ĐẦU TƯ ĐỊNH CƯ LATVIA",
+            "product_conditions_items": [
+                {
+                    "product_conditions_item_icon": "person",
+                    "product_conditions_item_title": "Điều kiện đương đơn",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Từ 18 tuổi trở lên."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Đạt yêu cầu về lý lịch an ninh và sức khỏe."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Chứng minh nguồn vốn đầu tư hợp pháp."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "family_restroom",
+                    "product_conditions_item_title": "Điều kiện người phụ thuộc",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Người phụ thuộc đi kèm cần đạt yêu cầu về lý lịch an ninh và sức khỏe."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Hồ sơ gia đình được xem xét theo quy định tại thời điểm nộp."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "home_work",
+                    "product_conditions_item_title": "Phương án đầu tư bất động sản",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đầu tư mua bất động sản trị giá 250.000 EUR tại Riga."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Duy trì khoản đầu tư tối thiểu 5 năm."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                },
+                {
+                    "product_conditions_item_icon": "business_center",
+                    "product_conditions_item_title": "Phương án đầu tư cổ phần công ty",
+                    "product_conditions_item_header": "",
+                    "product_conditions_item_bullets": [
+                        {
+                            "product_conditions_item_bullet_text": "Đầu tư tối thiểu 50.000 EUR vào công ty tại Latvia có tối đa 50 nhân viên."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Hoặc đầu tư tối thiểu 100.000 EUR vào công ty có trên 50 nhân viên."
+                        },
+                        {
+                            "product_conditions_item_bullet_text": "Công ty cần đảm bảo mức thuế thu nhập doanh nghiệp hằng năm tối thiểu 10.000 EUR."
+                        }
+                    ],
+                    "product_conditions_item_footnote": ""
+                }
+            ],
+            "product_process_icon": "route",
+            "product_process_title": "QUY TRÌNH ĐẦU TƯ ĐỊNH CƯ LATVIA",
+            "product_process_steps": [
+                {
+                    "product_process_step_icon": "fact_check",
+                    "product_process_step_title": "Tư vấn và thẩm định hồ sơ",
+                    "product_process_step_desc": "Đánh giá điều kiện đương đơn, nguồn vốn và lựa chọn đầu tư phù hợp.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "travel_explore",
+                    "product_process_step_title": "Khảo sát nếu cần",
+                    "product_process_step_desc": "Nhà đầu tư có thể khảo sát Latvia trước khi quyết định phương án đầu tư.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "payments",
+                    "product_process_step_title": "Thực hiện đầu tư",
+                    "product_process_step_desc": "Hoàn tất khoản đầu tư theo hình thức đã chọn: bất động sản hoặc cổ phần công ty.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "outgoing_mail",
+                    "product_process_step_title": "Chuẩn bị và nộp hồ sơ",
+                    "product_process_step_desc": "Hoàn thiện hồ sơ pháp lý, hồ sơ đầu tư và nộp đơn xin thẻ cư trú.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "mark_email_read",
+                    "product_process_step_title": "Nhận chấp thuận",
+                    "product_process_step_desc": "Khi hồ sơ được chấp thuận, nhà đầu tư sang Latvia đăng ký cư trú.",
+                    "product_process_step_bullets": false
+                },
+                {
+                    "product_process_step_icon": "sync",
+                    "product_process_step_title": "Duy trì điều kiện cư trú",
+                    "product_process_step_desc": "Duy trì khoản đầu tư và các điều kiện theo quy định để gia hạn thẻ hoặc xét lộ trình dài hạn.",
+                    "product_process_step_bullets": false
+                }
+            ],
+            "product_process_2_icon": "route",
+            "product_process_2_title": "",
+            "product_process_2_steps": false,
+            "product_projects_icon": "apartment",
+            "product_projects_title": "",
+            "product_projects_posts": "",
+            "product_projects_cta_label": "Xem tất cả dự án",
+            "product_projects_cta_url": "",
+            "product_care_icon": "hub",
+            "product_care_title": "",
+            "product_care_service_icon": "question_mark",
+            "product_care_service_title": "",
+            "product_care_service_desc": "",
+            "product_care_service_links": false,
+            "product_care_topics_icon": "menu_book",
+            "product_care_topics_title": "",
+            "product_care_topics_desc": "",
+            "product_care_topics_links": false,
+            "product_faq_title": "Câu hỏi thường gặp về định cư Latvia",
+            "product_faq_section_id": "faq-latvia",
+            "product_faq_mode": "flat",
+            "product_faq_groups": false,
+            "product_faq_items": [
+                {
+                    "product_faq_item_question": "Thẻ cư trú Latvia có phải thường trú nhân không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Thẻ tạm trú Latvia",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không. Đây là thẻ tạm trú. Nhà đầu tư có thể xét lên thường trú nhân sau 5 năm nếu đáp ứng điều kiện."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có được đi lại Schengen không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Quyền đi lại Schengen",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có. Thẻ cư trú Latvia cho phép đi lại trong khối Schengen theo quy định lưu trú ngắn hạn."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có cần cư trú liên tục tại Latvia không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Điều kiện cư trú",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Không bắt buộc cư trú liên tục để duy trì thẻ tạm trú, nhưng nhà đầu tư cần đáp ứng điều kiện gia hạn theo quy định."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có được làm việc tại Latvia không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Quyền làm việc",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có. Đương đơn và gia đình có thể làm việc tại Latvia khi có quyền cư trú hợp lệ."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Có thể lên quốc tịch Latvia không?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Lộ trình quốc tịch",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Có thể. Sau 10 năm và đáp ứng điều kiện theo luật Latvia, nhà đầu tư có thể xét nộp hồ sơ quốc tịch."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                },
+                {
+                    "product_faq_item_question": "Rủi ro chính của chương trình là gì?",
+                    "product_faq_item_sections": [
+                        {
+                            "product_faq_item_section_heading": "Rủi ro chính",
+                            "product_faq_item_section_bullets": [
+                                {
+                                    "product_faq_item_section_bullet_text": "Rủi ro thường nằm ở việc chọn tài sản/doanh nghiệp không phù hợp, hồ sơ nguồn tiền chưa rõ ràng hoặc không duy trì đúng điều kiện đầu tư."
+                                }
+                            ],
+                            "product_faq_item_section_note": ""
+                        }
+                    ]
+                }
+            ],
+            "product_post_seo_items": {
+                "product_post_seo_item_title": "",
+                "product_post_seo_item_ids": null
+            },
+            "product_post_related_items": {
+                "product_post_related_item_title": "",
+                "product_post_related_item_ids": null
+            }
+        }
+    }
+]
