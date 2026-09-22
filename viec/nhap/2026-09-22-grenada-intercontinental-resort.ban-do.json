@@ -1,0 +1,1406 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/template-bds-imm/du-an/grenada__intercontinental-resort/dist/grenada__intercontinental-resort.html",
+ "truong_json": null,
+ "doan": [
+  {
+   "tu": 57378,
+   "den": 57403,
+   "raw": "Quốc tịch Grenada | Dự án",
+   "loai": "p",
+   "lop": "imm4-hero__status",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 57433,
+   "den": 57464,
+   "raw": "InterContinental Grenada Resort",
+   "loai": "h1",
+   "lop": "",
+   "the": "h1",
+   "ngu_canh": "",
+   "id": "s002"
+  },
+  {
+   "tu": 57497,
+   "den": 57578,
+   "raw": "Resort 5 sao bên bãi biển La Sagesse – Lộ trình quốc tịch Grenada cho cả gia đình",
+   "loai": "p",
+   "lop": "imm4-hero__lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s003"
+  },
+  {
+   "tu": 57665,
+   "den": 57679,
+   "raw": "YÊU CẦU TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s004"
+  },
+  {
+   "tu": 58780,
+   "den": 58920,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">paid</i>Mức đầu tư tối thiểu</span><strong>270.000 USD</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s005"
+  },
+  {
+   "tu": 58983,
+   "den": 59118,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">check_circle</i>Tình trạng</span><strong>Còn suất</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-1",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s006"
+  },
+  {
+   "tu": 59181,
+   "den": 59306,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">hotel</i>Quy mô</span><strong>150 phòng</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-2",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s007"
+  },
+  {
+   "tu": 59506,
+   "den": 59537,
+   "raw": "InterContinental Grenada Resort",
+   "loai": "cta",
+   "lop": "imm4-anchor__name",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s008"
+  },
+  {
+   "tu": 59594,
+   "den": 59608,
+   "raw": "Hình ảnh dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s009"
+  },
+  {
+   "tu": 59630,
+   "den": 59650,
+   "raw": "Vị trí &amp; kết nối",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s010"
+  },
+  {
+   "tu": 59675,
+   "den": 59690,
+   "raw": "Tổng quan dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s011"
+  },
+  {
+   "tu": 59714,
+   "den": 59737,
+   "raw": "Thiết kế &amp; tiện ích",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s012"
+  },
+  {
+   "tu": 59760,
+   "den": 59778,
+   "raw": "Range Developments",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s013"
+  },
+  {
+   "tu": 59801,
+   "den": 59814,
+   "raw": "Tiến độ dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s014"
+  },
+  {
+   "tu": 59838,
+   "den": 59856,
+   "raw": "Lộ trình quốc tịch",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s015"
+  },
+  {
+   "tu": 59879,
+   "den": 59896,
+   "raw": "Lợi thế quốc tịch",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s016"
+  },
+  {
+   "tu": 68185,
+   "den": 68512,
+   "raw": "<img src=\"https://immgroup.com/wp-content/uploads/2022/06/Hinh-mo-phong-du-an-InteContinental-Grenada_1.png\" alt=\"Video InterContinental Grenada Resort\" loading=\"lazy\"><span class=\"imm4-gallery__play\" aria-hidden=\"true\">play_arrow</span><span class=\"imm4-gallery__video-label\">Video dự án InterContinental Grenada Resort</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s017"
+  },
+  {
+   "tu": 68817,
+   "den": 68849,
+   "raw": "Vị trí và quy mô <em>resort</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s018"
+  },
+  {
+   "tu": 69135,
+   "den": 69237,
+   "raw": "La Sagesse <span aria-hidden=\"true\">·</span> St. David&#39;s <span aria-hidden=\"true\">·</span> Grenada",
+   "loai": "p",
+   "lop": "imm4-map__meta",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s019"
+  },
+  {
+   "tu": 69364,
+   "den": 69452,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">location_on</span>Google Maps",
+   "loai": "cta",
+   "lop": "imm4-map__link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s020"
+  },
+  {
+   "tu": 69541,
+   "den": 69553,
+   "raw": "Vị trí dự án",
+   "loai": "p",
+   "lop": "imm4-loc__eyebrow",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s021"
+  },
+  {
+   "tu": 69588,
+   "den": 69611,
+   "raw": "La Sagesse, Nam Grenada",
+   "loai": "h3",
+   "lop": "imm4-loc__heading",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s022"
+  },
+  {
+   "tu": 69652,
+   "den": 69671,
+   "raw": "Bãi biển La Sagesse",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s023"
+  },
+  {
+   "tu": 69679,
+   "den": 69775,
+   "raw": "Resort nằm tại bãi biển La Sagesse, khu vực có cảnh quan tự nhiên hoang sơ tại phía Nam Grenada.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s024"
+  },
+  {
+   "tu": 69792,
+   "den": 69822,
+   "raw": "Sân bay quốc tế Maurice Bishop",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s025"
+  },
+  {
+   "tu": 69830,
+   "den": 69881,
+   "raw": "Cách sân bay quốc tế Maurice Bishop khoảng 30 phút.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s026"
+  },
+  {
+   "tu": 69898,
+   "den": 69917,
+   "raw": "Thủ đô St. George’s",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s027"
+  },
+  {
+   "tu": 69925,
+   "den": 69975,
+   "raw": "Cách trung tâm thủ đô St. George’s khoảng 30 phút.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s028"
+  },
+  {
+   "tu": 69992,
+   "den": 70013,
+   "raw": "Six Senses La Sagesse",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s029"
+  },
+  {
+   "tu": 70021,
+   "den": 70142,
+   "raw": "Liền kề Six Senses La Sagesse, một dự án khác trong danh mục bất động sản cao cấp của Range Developments hợp tác với IHG.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s030"
+  },
+  {
+   "tu": 70412,
+   "den": 70461,
+   "raw": "Đầu tư resort 5 sao<br> <em>InterContinental</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s031"
+  },
+  {
+   "tu": 70493,
+   "den": 70623,
+   "raw": "Resort 5 sao thương hiệu InterContinental, tọa lạc bên bãi biển La Sagesse, một trong những bãi biển hoang sơ nổi bật tại Grenada.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s032"
+  },
+  {
+   "tu": 70630,
+   "den": 70732,
+   "raw": "Quy mô 150 phòng, cách sân bay quốc tế Maurice Bishop và thủ đô St. George’s khoảng 30 phút di chuyển.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s033"
+  },
+  {
+   "tu": 70739,
+   "den": 70842,
+   "raw": "Nhà đầu tư tham gia theo diện sở hữu cổ phần bất động sản trong dự án được Chính phủ Grenada phê duyệt.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s034"
+  },
+  {
+   "tu": 70849,
+   "den": 70965,
+   "raw": "Cả gia đình có thể nộp hồ sơ xin quốc tịch Grenada, hộ chiếu mạnh và lộ trình xin Visa Mỹ E-2 nếu đáp ứng điều kiện.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s035"
+  },
+  {
+   "tu": 70972,
+   "den": 71081,
+   "raw": "Dự án được phát triển bởi Range Developments, đơn vị có kinh nghiệm triển khai nhiều dự án CBI tại Caribbean.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s036"
+  },
+  {
+   "tu": 71202,
+   "den": 71216,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s037"
+  },
+  {
+   "tu": 71444,
+   "den": 71459,
+   "raw": "Thông tin dự án",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s038"
+  },
+  {
+   "tu": 71473,
+   "den": 71478,
+   "raw": "Dự án",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s039"
+  },
+  {
+   "tu": 71487,
+   "den": 71518,
+   "raw": "InterContinental Grenada Resort",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s040"
+  },
+  {
+   "tu": 71527,
+   "den": 71533,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s041"
+  },
+  {
+   "tu": 71542,
+   "den": 71579,
+   "raw": "bãi biển La Sagesse, phía Nam Grenada",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s042"
+  },
+  {
+   "tu": 71588,
+   "den": 71594,
+   "raw": "Quy mô",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s043"
+  },
+  {
+   "tu": 71603,
+   "den": 71612,
+   "raw": "150 phòng",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s044"
+  },
+  {
+   "tu": 71621,
+   "den": 71637,
+   "raw": "Hình thức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s045"
+  },
+  {
+   "tu": 71646,
+   "den": 71700,
+   "raw": "sở hữu cổ phần bất động sản trong dự án được phê duyệt",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s046"
+  },
+  {
+   "tu": 71709,
+   "den": 71729,
+   "raw": "Mức đầu tư tối thiểu",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s047"
+  },
+  {
+   "tu": 71738,
+   "den": 71749,
+   "raw": "270.000 USD",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s048"
+  },
+  {
+   "tu": 71758,
+   "den": 71774,
+   "raw": "Phát triển dự án",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s049"
+  },
+  {
+   "tu": 71783,
+   "den": 71801,
+   "raw": "Range Developments",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s050"
+  },
+  {
+   "tu": 72159,
+   "den": 72215,
+   "raw": "Thiết kế mô phỏng &amp;<br> <em>tiện ích nghỉ dưỡng</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s051"
+  },
+  {
+   "tu": 72297,
+   "den": 72364,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">beach_access</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s052"
+  },
+  {
+   "tu": 72373,
+   "den": 72392,
+   "raw": "Bãi biển La Sagesse",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s053"
+  },
+  {
+   "tu": 72401,
+   "den": 72497,
+   "raw": "Resort nằm tại bãi biển La Sagesse, khu vực có cảnh quan tự nhiên hoang sơ tại phía Nam Grenada.",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s054"
+  },
+  {
+   "tu": 72520,
+   "den": 72581,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">flight</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s055"
+  },
+  {
+   "tu": 72590,
+   "den": 72608,
+   "raw": "Kết nối thuận tiện",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s056"
+  },
+  {
+   "tu": 72617,
+   "den": 72701,
+   "raw": "Cách sân bay quốc tế Maurice Bishop và trung tâm thủ đô St. George’s khoảng 30 phút.",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s057"
+  },
+  {
+   "tu": 72724,
+   "den": 72784,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">hotel</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s058"
+  },
+  {
+   "tu": 72793,
+   "den": 72822,
+   "raw": "Liền kề Six Senses La Sagesse",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s059"
+  },
+  {
+   "tu": 72831,
+   "den": 72921,
+   "raw": "Một dự án khác trong danh mục bất động sản cao cấp của Range Developments hợp tác với IHG.",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s060"
+  },
+  {
+   "tu": 73016,
+   "den": 73037,
+   "raw": "Tiện ích resort 5 sao",
+   "loai": "h3",
+   "lop": "imm4-amen__sub",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s061"
+  },
+  {
+   "tu": 73075,
+   "den": 73176,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">bed</span><strong>Hơn 30 phòng suite cao cấp</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s062"
+  },
+  {
+   "tu": 73185,
+   "den": 73284,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">restaurant</span><strong>Hệ thống nhà hàng</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s063"
+  },
+  {
+   "tu": 73293,
+   "den": 73382,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">local_bar</span><strong>Quầy bar</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s064"
+  },
+  {
+   "tu": 73391,
+   "den": 73473,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">pool</span><strong>Hồ bơi</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s065"
+  },
+  {
+   "tu": 73482,
+   "den": 73591,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">outdoor_grill</span><strong>Khu bếp nướng ngoài trời</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s066"
+  },
+  {
+   "tu": 73600,
+   "den": 73703,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">fitness_center</span><strong>Trung tâm thể dục</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s067"
+  },
+  {
+   "tu": 73712,
+   "den": 73790,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">spa</span><strong>Spa</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s068"
+  },
+  {
+   "tu": 73799,
+   "den": 73920,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">meeting_room</span><strong>Không gian hội nghị rộng đến 6.000 m²</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s069"
+  },
+  {
+   "tu": 74264,
+   "den": 74316,
+   "raw": "Nhà phát triển dự án<br> <em>Range Developments</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s070"
+  },
+  {
+   "tu": 74360,
+   "den": 74453,
+   "raw": "Range Developments là nhà phát triển bất động sản và dịch vụ khách sạn tại khu vực Caribbean.",
+   "loai": "p",
+   "lop": "imm4-dev__lead imm4-reveal",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s071"
+  },
+  {
+   "tu": 74500,
+   "den": 74596,
+   "raw": "<span class=\"imm4-dev__badge\" aria-hidden=\"true\">business_center</span>Năng lực phát triển dự án",
+   "loai": "h3",
+   "lop": "imm4-dev__eyebrow imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s072"
+  },
+  {
+   "tu": 74646,
+   "den": 74708,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">insights</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s073"
+  },
+  {
+   "tu": 74713,
+   "den": 74749,
+   "raw": "<strong>Năng lực triển khai</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s074"
+  },
+  {
+   "tu": 74752,
+   "den": 74902,
+   "raw": "Các dự án của Range Developments đã thu hút hơn 1.800 nhà đầu tư, tạo khoảng 2.500 việc làm và có hơn 4.200 hộ chiếu được cấp cho gia đình nhà đầu tư.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s075"
+  },
+  {
+   "tu": 74922,
+   "den": 74981,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">hotel</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s076"
+  },
+  {
+   "tu": 74986,
+   "den": 75025,
+   "raw": "<strong>Danh mục dự án quốc tế</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s077"
+  },
+  {
+   "tu": 75028,
+   "den": 75146,
+   "raw": "Các dự án trước của Range gồm Park Hyatt St. Kitts, Cabrits Resort &amp; Spa Kempinski Dominica và Six Senses Grenada.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s078"
+  },
+  {
+   "tu": 75166,
+   "den": 75224,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">flag</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s079"
+  },
+  {
+   "tu": 75229,
+   "den": 75262,
+   "raw": "<strong>Định hướng dự án</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s080"
+  },
+  {
+   "tu": 75265,
+   "den": 75401,
+   "raw": "Dự án nằm trong danh mục resort cao cấp tại Grenada, phát triển theo định hướng nghỉ dưỡng quốc tế và chương trình đầu tư lấy quốc tịch.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s081"
+  },
+  {
+   "tu": 75421,
+   "den": 75484,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">handshake</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s082"
+  },
+  {
+   "tu": 75489,
+   "den": 75523,
+   "raw": "<strong>Đối tác IMM Group</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s083"
+  },
+  {
+   "tu": 75526,
+   "den": 75583,
+   "raw": "Từ năm 2020, IMM Group là đối tác của Range Developments.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s084"
+  },
+  {
+   "tu": 75694,
+   "den": 75709,
+   "raw": "Dự án tiêu biểu",
+   "loai": "h3",
+   "lop": "imm4-dev__projects-title imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s085"
+  },
+  {
+   "tu": 75981,
+   "den": 76054,
+   "raw": "<span class=\"imm4-dev__title-link\">InterContinental Grenada Resort</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s086"
+  },
+  {
+   "tu": 76279,
+   "den": 76341,
+   "raw": "<span class=\"imm4-dev__title-link\">Park Hyatt St. Kitts</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s087"
+  },
+  {
+   "tu": 76587,
+   "den": 76659,
+   "raw": "<span class=\"imm4-dev__title-link\">Six Senses La Sagesse, Grenada</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s088"
+  },
+  {
+   "tu": 76912,
+   "den": 77004,
+   "raw": "<span class=\"imm4-dev__title-link\">InterContinental Dominica Cabrits Resort &amp; Spa</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s089"
+  },
+  {
+   "tu": 77245,
+   "den": 77267,
+   "raw": "Tiến độ <em>dự án</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s090"
+  },
+  {
+   "tu": 77356,
+   "den": 77405,
+   "raw": "<strong>Dự kiến hoàn thiện cuối năm 2026</strong>",
+   "loai": "p",
+   "lop": "imm4-milestone is-current",
+   "the": "article",
+   "ngu_canh": "",
+   "id": "s091"
+  },
+  {
+   "tu": 77453,
+   "den": 77587,
+   "raw": "Nhà đầu tư nên liên hệ IMM Group để cập nhật tiến độ thi công, tình trạng suất đầu tư và tài liệu dự án mới nhất tại thời điểm tư vấn.",
+   "loai": "p",
+   "lop": "imm4-progress-note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s092"
+  },
+  {
+   "tu": 77940,
+   "den": 78258,
+   "raw": "Sở hữu <strong>cổ phần bất động sản tại Grenada</strong> không chỉ là một khoản đầu tư sinh lời và tích sản bằng ngoại tệ. Việc sở hữu cổ phần tại InterContinental Grenada Resort — dự án được Chính phủ Grenada phê duyệt — còn mở ra đặc quyền quốc tịch trọn đời vô giá cho cả gia đình, không ràng buộc điều kiện cư trú.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s093"
+  },
+  {
+   "tu": 78321,
+   "den": 78360,
+   "raw": "Lộ trình quốc tịch<br> <em>Grenada</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s094"
+  },
+  {
+   "tu": 78502,
+   "den": 78520,
+   "raw": "Dự án đủ điều kiện",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s095"
+  },
+  {
+   "tu": 78528,
+   "den": 78645,
+   "raw": "Nhà đầu tư tham gia dự án đủ điều kiện có thể nộp hồ sơ xin quốc tịch Grenada theo chương trình đầu tư lấy quốc tịch.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s096"
+  },
+  {
+   "tu": 78698,
+   "den": 78717,
+   "raw": "Quốc tịch vĩnh viễn",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s097"
+  },
+  {
+   "tu": 78725,
+   "den": 78818,
+   "raw": "Quốc tịch Grenada được cấp có giá trị vĩnh viễn, nếu hồ sơ được Chính phủ Grenada chấp thuận.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s098"
+  },
+  {
+   "tu": 78871,
+   "den": 78882,
+   "raw": "Cả gia đình",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s099"
+  },
+  {
+   "tu": 78890,
+   "den": 79003,
+   "raw": "Cả gia đình có thể tham gia cùng hồ sơ theo phạm vi người phụ thuộc được chương trình cho phép tại thời điểm nộp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s100"
+  },
+  {
+   "tu": 79056,
+   "den": 79068,
+   "raw": "Đa quốc tịch",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s101"
+  },
+  {
+   "tu": 79076,
+   "den": 79189,
+   "raw": "Grenada cho phép đa quốc tịch, nhà đầu tư có thể giữ quốc tịch hiện có nếu pháp luật quốc gia liên quan cho phép.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s102"
+  },
+  {
+   "tu": 79264,
+   "den": 79399,
+   "raw": "IMM Group là công ty Việt Nam đầu tiên và duy nhất được Chính phủ Grenada cấp phép giới thiệu chương trình đầu tư lấy quốc tịch Grenada",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s103"
+  },
+  {
+   "tu": 79408,
+   "den": 79513,
+   "raw": "IMM Group hỗ trợ chuẩn bị hồ sơ và đồng hành bảo vệ quyền lợi nhà đầu tư trong suốt quá trình triển khai.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s104"
+  },
+  {
+   "tu": 79836,
+   "den": 79874,
+   "raw": "Lợi thế quốc tịch<br> <em>Grenada</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s105"
+  },
+  {
+   "tu": 79910,
+   "den": 79954,
+   "raw": "LỢI NHUẬN DỰ KIẾN &amp; ĐẶC QUYỀN NHÀ ĐẦU TƯ",
+   "loai": "p",
+   "lop": "imm4-rights__intro",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s106"
+  },
+  {
+   "tu": 80076,
+   "den": 80094,
+   "raw": "<span>badge</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s107"
+  },
+  {
+   "tu": 80130,
+   "den": 80132,
+   "raw": "01",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s108"
+  },
+  {
+   "tu": 80143,
+   "den": 80177,
+   "raw": "Quyền lợi khi có quốc tịch Grenada",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s109"
+  },
+  {
+   "tu": 80191,
+   "den": 80282,
+   "raw": "Nhà đầu tư và gia đình có thể nhận quốc tịch và hộ chiếu Grenada nếu hồ sơ được chấp thuận.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s110"
+  },
+  {
+   "tu": 80291,
+   "den": 80438,
+   "raw": "Hộ chiếu Grenada cho phép đi lại thuận tiện đến hơn 140 quốc gia và vùng lãnh thổ, gồm nhiều nước châu Âu, Vương quốc Anh, Trung Quốc và Hồng Kông.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s111"
+  },
+  {
+   "tu": 80447,
+   "den": 80501,
+   "raw": "Không yêu cầu cư trú tại Grenada để duy trì quốc tịch.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s112"
+  },
+  {
+   "tu": 80510,
+   "den": 80558,
+   "raw": "Toàn bộ quy trình có thể thực hiện tại Việt Nam.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s113"
+  },
+  {
+   "tu": 80659,
+   "den": 80687,
+   "raw": "<span>account_balance</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s114"
+  },
+  {
+   "tu": 80723,
+   "den": 80725,
+   "raw": "02",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s115"
+  },
+  {
+   "tu": 80736,
+   "den": 80758,
+   "raw": "Điều kiện hồ sơ cơ bản",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s116"
+  },
+  {
+   "tu": 80772,
+   "den": 80807,
+   "raw": "Đương đơn chính từ 18 tuổi trở lên.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s117"
+  },
+  {
+   "tu": 80816,
+   "den": 80904,
+   "raw": "Có sức khỏe tốt, không có tiền án và có đủ nguồn vốn hợp pháp để thực hiện khoản đầu tư.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s118"
+  },
+  {
+   "tu": 80913,
+   "den": 80987,
+   "raw": "Hồ sơ phải trải qua thẩm định lý lịch và được Chính phủ Grenada xét duyệt.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s119"
+  },
+  {
+   "tu": 81088,
+   "den": 81112,
+   "raw": "<span>trending_up</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s120"
+  },
+  {
+   "tu": 81148,
+   "den": 81150,
+   "raw": "03",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s121"
+  },
+  {
+   "tu": 81161,
+   "den": 81178,
+   "raw": "Lợi nhuận dự kiến",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s122"
+  },
+  {
+   "tu": 81192,
+   "den": 81283,
+   "raw": "Nhà đầu tư nhận lợi nhuận dự kiến khoảng 4%/năm trong 5 năm, tương đương khoảng 54.000 USD.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s123"
+  },
+  {
+   "tu": 81292,
+   "den": 81417,
+   "raw": "Khoản lợi nhuận được chi trả sau khi nhà đầu tư nhận chấp thuận nhập tịch và hoàn tất 100% khoản đầu tư theo điều kiện dự án.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s124"
+  },
+  {
+   "tu": 81426,
+   "den": 81575,
+   "raw": "Đây là lợi nhuận dự kiến theo tài liệu/hợp đồng dự án; kết quả thực tế phụ thuộc tiến độ, vận hành resort, điều kiện thị trường và điều khoản ký kết.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s125"
+  },
+  {
+   "tu": 81676,
+   "den": 81701,
+   "raw": "<span>beach_access</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s126"
+  },
+  {
+   "tu": 81737,
+   "den": 81739,
+   "raw": "04",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s127"
+  },
+  {
+   "tu": 81750,
+   "den": 81770,
+   "raw": "Đặc quyền nghỉ dưỡng",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s128"
+  },
+  {
+   "tu": 81784,
+   "den": 81877,
+   "raw": "Nhà đầu tư có 7 đêm nghỉ dưỡng miễn phí mỗi năm trong 5 năm tại resort, theo thông tin dự án.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s129"
+  },
+  {
+   "tu": 81886,
+   "den": 81979,
+   "raw": "Điều kiện sử dụng đặc quyền nghỉ dưỡng được áp dụng theo quy định và lịch vận hành của dự án.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s130"
+  },
+  {
+   "tu": 82253,
+   "den": 82335,
+   "raw": "Nhận tư vấn quốc tịch Grenada - <br><em>Dự án InterContinental Grenada Resort</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s131"
+  },
+  {
+   "tu": 82439,
+   "den": 82453,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "btn-primary link-to imm4-consult__button",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s132"
+  },
+  {
+   "tu": 82638,
+   "den": 82723,
+   "raw": "Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s133"
+  },
+  {
+   "tu": 82732,
+   "den": 82801,
+   "raw": "Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s134"
+  },
+  {
+   "tu": 82849,
+   "den": 82922,
+   "raw": "<span class=\"imm4-consult__notice-icon\" aria-hidden=\"true\">balance</span>",
+   "loai": "p",
+   "lop": "imm4-consult__notice",
+   "the": "aside",
+   "ngu_canh": "",
+   "id": "s135"
+  },
+  {
+   "tu": 82932,
+   "den": 82947,
+   "raw": "Lưu ý thông tin",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s136"
+  },
+  {
+   "tu": 82955,
+   "den": 83113,
+   "raw": "Thông tin trên trang này nhằm cung cấp tổng quan về dự án InterContinental Grenada Resort, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s137"
+  },
+  {
+   "tu": 83374,
+   "den": 83381,
+   "raw": "&times;",
+   "loai": "cta",
+   "lop": "imm4-icon-btn",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s138"
+  },
+  {
+   "tu": 83500,
+   "den": 83578,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_left</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__prev",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s139"
+  },
+  {
+   "tu": 83742,
+   "den": 83821,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_right</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__next",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s140"
+  }
+ ]
+}

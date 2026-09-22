@@ -144,3 +144,23 @@ Mỗi việc dịch thêm điều học được. Ghi: ngày · việc · chươ
 - **Hệ quả đã biết trước và chấp nhận:** cả ba trang đều nhận 2 cảnh báo cửa 0 — từ khoá chính không có nguyên
   cụm trong H1 (H1 là **tên dự án**) và không có trong 150 chữ đầu (thân bài bị ràng buộc bởi bảng thuật ngữ).
   Ghi lý do vào báo cáo, **không bẻ bản dịch** để nhét từ khoá.
+
+## Caribbean — mẻ 3 trang dự án CBI (Secret Bay · InterContinental Grenada · La Sagesse Collection, 22/09/2026)
+
+- **Trang DỰ ÁN CBI phải tách khỏi trang NƯỚC bằng "nhánh", không bằng tên dự án.** Trang nước đã chiếm cụm trần
+  (`dominica citizenship by investment`, `grenada citizenship by investment` + nhánh *cost & E-2*) ⇒ trang dự án
+  lấy: `dominica citizenship by investment real estate` · `grenada citizenship by investment real estate` ·
+  `can foreigners buy property in grenada`. Ba nhánh: **real estate · cost · câu hỏi mua nhà**.
+- **Chùm Caribbean có bốn nhánh gợi ý ổn định ở cả 6 thị trường:** `… citizenship by investment real estate` ·
+  `… citizenship by investment cost` · `can foreigners buy property in …` · `how to get/become a citizen of …`.
+  Nhánh **"can foreigners buy property in X"** mạnh nhất (12 lần với Grenada) — người mua nước ngoài hỏi trước
+  khi hỏi giá.
+- ⚠ **Bẫy trùng tên địa danh Mỹ — Grenada, Mississippi.** `grenada real estate for sale`,
+  `property for sale in grenada ms`, `grenada cooperative bank real estate for sale` đều là bang Mississippi.
+  Cụm **"west indies"** là cách người tìm tự phân biệt ⇒ dùng làm từ khoá phụ, và **không bao giờ** lấy
+  `grenada real estate for sale` trần làm từ khoá chính. (Bẫy cùng loại với "north cyprus" của mảng Síp.)
+- **Từ khoá dạng CÂU HỎI dùng được cho trang dự án**, nhưng phải chấp nhận hai hệ quả: slug không chứa đủ chữ
+  (`can`, `foreigners`) nếu muốn slug đẹp, và thân bài không chứa nguyên cụm. Ghi lý do vào báo cáo.
+- **5 kết quả đầu của nhánh Dominica do trang chính phủ `cbiu.gov.dm` thống trị** — khác hẳn mảng Síp (cổng rao
+  vặt). Với nhánh CBI, đối thủ thật là **trang chính phủ + hãng luật** (Harvey Law, Global Citizen Solutions),
+  nên meta description nên nêu **tên dự án đã được phê duyệt** thay vì đua khái niệm.

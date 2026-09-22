@@ -1,0 +1,88 @@
+[s001] Dominica citizenship | Resort project
+[s002] Secret Bay
+[s003] An award-winning 6-star resort in the Caribbean.
+[s005] {1}{2}paid{/2}Qualifying investment{/1}**US$212,000**
+[s007] {1}{2}hotel{/2}Property type{/1}**6-star resort**
+[s008] Secret Bay
+[s009] Gallery
+[s012] Amenities
+[s015] Citizenship advantages
+[s016] Secret Bay resort project video
+[s017] {1}play_arrow{/1}{2}Secret Bay resort project video{/2}
+[s018] Between the rainforest{br} {1}and the Caribbean Sea{/1}
+[s019] Tibay {1}·{/1} Portsmouth {2}·{/2} Dominica
+[s022] Secret Bay, Dominica
+[s023] Rainforest
+[s024] Set in quiet rainforest, with views over the clear Caribbean Sea.
+[s025] Three private beaches
+[s026] Complimentary access to the resort's three private beaches, including its sea caves and outdoor seating areas.
+[s027] Untouched nature
+[s028] Dominica is described as one of the most beautiful places on earth, with its natural landscape still largely untouched.
+[s029] Invest in the 6-star{br}Secret Bay resort{br}{1}and apply for Dominica citizenship{/1}
+[s030] An award-winning 6-star resort in the Caribbean.
+[s031] Meets the investment threshold for citizenship, with income potential from an operating resort.
+[s032] A quick, lower-cost citizenship program with a short 3-year holding period.
+[s035] Project
+[s036] Secret Bay
+[s037] Country
+[s039] Standard
+[s040] 6-star resort hotel
+[s042] A share in a government-approved project
+[s043] Investment amount
+[s044] US$212,000
+[s046] GEMS Holding Ltd
+[s047] The Caribbean's number one 6-star resort,{br} {1}recognized worldwide{/1}
+[s049] Ranked the number one resort hotel in the Caribbean and number 6 in the world by Travel + Leisure.
+[s051] Approved and well regarded by the Government of Dominica.
+[s052] bar_chart
+[s053] Nine consecutive years of operation, with strong occupancy and solid financials.
+[s054] payments
+[s055] Projected average rental yield of 3–6% a year, with distributions paid to investors each quarter.
+[s056] 6-star service and amenities
+[s057] {1}beach_access{/1}**Three private beaches**
+[s058] {1}kayaking{/1}**Kayaks and paddleboards**
+[s059] {1}scuba_diving{/1}**Diving equipment**
+[s060] {1}restaurant{/1}**Restaurant service**
+[s062] {1}self_improvement{/1}**Yoga**
+[s063] The design brings local handcrafted interiors together with 6-star comforts.
+[s064] The developer{br} {1}GEMS Holding Ltd{/1}
+[s065] GEMS Holding, based in Dominica, is the developer of Secret Bay.
+[s066] {1}business_center{/1}Role: project developer
+[s068] Property portfolio
+[s069] GEMS owns, manages, and develops properties and projects in the international tourism and hospitality market, including the Fort Young Hotel and the Ti-Bay villas.
+[s070] eco
+[s072] GEMS develops and manages its projects, and looks after its guests, with an environmental conscience, so that the experience stays authentic, healthy, and close to nature.
+[s074] IMM Group partnership
+[s075] IMM Group is an official partner of Secret Bay Residences Limited, part of GEMS Holding.
+[s077] Secret Bay
+[s078] The Residences at Secret Bay
+[s079] Fort Young Hotel & Dive Resort
+[s080] Tibay Villas
+[s081] Holding **a real estate share in Dominica** can be more than an income-producing investment and a store of value held in US dollars. A share in Secret Bay — a resort already open and trading — also opens a route to citizenship for three generations of your family.
+[s082] Your route to{br} {1}Dominica citizenship{/1}
+[s083] A qualifying project
+[s084] Secret Bay is a real estate project approved by the Government of Dominica.
+[s085] Due diligence
+[s086] The application is prepared to government requirements and goes through due diligence.
+[s087] Complete the investment
+[s088] You complete the investment after approval in principle.
+[s090] You receive Dominica citizenship if the government approves your application.
+[s091] IMM Group helps prepare the application and protects your interests throughout the process.
+[s092] Advantages of{br} {1}Dominica citizenship{/1}
+[s093] What the program offers investors
+[s094] schedule
+[s095] 01
+[s096] A short holding period
+[s097] You need to hold the investment for only 3 years.
+[s098] You can sell the share after the holding period, on the terms the program sets.
+[s099] family_restroom
+[s100] 02
+[s101] A fast citizenship program
+[s102] A straightforward process, simple requirements, and a lower investment amount.
+[s103] Dominica runs one of the longest-established citizenship by investment programs.
+[s105] 03
+[s106] The Dominica passport
+[s107] Visa-free travel to 142 destinations.
+[s108] Visa-free access changes over time: the United Kingdom currently requires Dominica citizens to hold a visa. Check the current list before you travel.
+[s109] Talk to us about Secret Bay & {br}{1}the route to Dominica citizenship{/1}
+[s115] The information on this page provides an overview of the Secret Bay project. It is not legal, securities, or personalized investment advice.

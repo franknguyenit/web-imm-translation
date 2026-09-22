@@ -1,0 +1,116 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	p	Quốc tịch Dominica | Dự án resort	Dominica citizenship | Resort project			acf.s001_p
+s002	h1	Secret Bay	Secret Bay			acf.s002_h1
+s003	p	Resort khách sạn 6 sao danh giá vùng Caribbean.	A renowned 6-star resort in the Caribbean.			acf.s003_p
+s004	cta	YÊU CẦU TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s004_cta
+s005	p	{1}{2}paid{/2}Thỏa mức đầu tư{/1}**212.000 USD**	{1}{2}paid{/2}Qualifying investment{/1}**US$212,000**			acf.s005_p#1
+s006	p	{1}{2}check_circle{/2}Tình trạng{/1}**Còn suất**	{1}{2}check_circle{/2}Status{/1}**Units available**	100%: {1}{2}check_circle{/2}Status{/1}**Units available**		acf.s006_p#1
+s007	p	{1}{2}hotel{/2}Loại hình{/1}**Resort 6 sao**	{1}{2}hotel{/2}Property type{/1}**6-star resort**			acf.s007_p#1
+s008	cta	Secret Bay	Secret Bay		trung:s002	acf.s008_cta
+s009	cta	Hình ảnh	Gallery			acf.s009_cta
+s010	cta	Vị trí	Location	100%: Location		acf.s010_cta
+s011	cta	Tổng quan	Overview	100%: Overview		acf.s011_cta
+s012	cta	Tiện ích	Amenities			acf.s012_cta
+s013	cta	Chủ đầu tư	Developer	100%: Developer		acf.s013_cta
+s014	cta	Lộ trình quốc tịch	A path to citizenship	100%: A path to citizenship		acf.s014_cta
+s015	cta	Lợi thế quốc tịch	Citizenship advantages			acf.s015_cta
+s016	img	Video dự án Resort Secret Bay	Secret Bay resort project video			acf.s016_cta#1@alt
+s017	cta	{1}play_arrow{/1}{2}Video dự án Resort Secret Bay{/2}	{1}play_arrow{/1}{2}Secret Bay resort project video{/2}			acf.s016_cta#2
+s018	h2	Nằm giữa rừng nhiệt đới{br} {1}và biển Caribbean{/1}	Between the rainforest{br} {1}and the Caribbean Sea{/1}			acf.s017_h2#1
+s019	p	Tibay {1}·{/1} Portsmouth {2}·{/2} Dominica	Tibay {1}·{/1} Portsmouth {2}·{/2} Dominica			acf.s018_p#1
+s020	cta	Google Maps	Google Maps	100%: Google Maps		acf.s019_cta#1
+s021	p	Vị trí dự án	Project location	100%: Project location		acf.s020_p
+s022	h3	Secret Bay, Dominica	Secret Bay, Dominica			acf.s021_h3
+s023	h4	Rừng nhiệt đới	Rainforest			acf.s022_h4
+s024	p	Nằm trong rừng nhiệt đới thanh bình, view biển Caribbean trong xanh.	Set within quiet rainforest, with views over the clear Caribbean Sea.			acf.s023_p
+s025	h4	Ba bãi biển riêng	Three private beaches			acf.s024_h4
+s026	p	Ra vào ba bãi biển riêng của resort miễn phí, bao gồm cả các hang động biển và khu vực ghế ngồi ngoài trời.	Complimentary access to the resort's three private beaches, including its sea caves and outdoor seating areas.			acf.s025_p
+s027	h4	Thiên nhiên nguyên sơ	Untouched nature			acf.s026_h4
+s028	p	Dominica được mệnh danh là một trong những địa điểm đẹp nhất trên Trái Đất, giữ trọn nét nguyên sơ vốn có của thiên nhiên.	Dominica is often called one of the most beautiful places on earth, with its natural landscape still largely untouched.			acf.s027_p
+s029	h2	Đầu tư khách sạn 6 sao{br}Secret Bay{br}{1}Lấy quốc tịch Dominica{/1}	Invest in the 6-star{br}Secret Bay resort{br}{1}and apply for Dominica citizenship{/1}			acf.s028_h2#1
+s030	p	Resort khách sạn 6 sao danh giá vùng Caribbean.	A renowned 6-star resort in the Caribbean.		trung:s003	acf.s029_p
+s031	p	Thỏa mức đầu tư lấy quốc tịch, tiềm năng sinh lời cao.	An investment that meets the citizenship threshold, with income potential from a resort already in operation.			acf.s030_p
+s032	p	Chương trình quốc tịch nhanh, chi phí thấp với thời gian duy trì đầu tư ngắn trong 3 năm.	One of the faster and lower-cost citizenship programs, with a short 3-year holding period.			acf.s031_p
+s033	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s032_cta
+s034	h3	Thông tin dự án	Project information	100%: Project information		acf.s033_h3
+s035	p	Dự án	Project			acf.s034_p
+s036	p	Secret Bay	Secret Bay		trung:s002	acf.s035_p
+s037	p	Quốc gia	Country			acf.s036_p
+s038	p	Dominica	Dominica	100%: Dominica		acf.s037_p
+s039	p	Tiêu chuẩn	Category			acf.s038_p
+s040	p	Resort khách sạn 6 sao	6-star resort hotel			acf.s039_p
+s041	p	Hình thức đầu tư	Investment type	100%: How the investment works		acf.s040_p
+s042	p	Cổ phần trong dự án được phê duyệt	A share in a government-approved project			acf.s041_p
+s043	p	Mức đầu tư trên bài gốc	Investment amount			acf.s042_p
+s044	p	212.000 USD	US$212,000			acf.s043_p
+s045	p	Nhà phát triển	Developer	100%: Developer		acf.s044_p
+s046	p	GEMS Holding Ltd	GEMS Holding Ltd			acf.s045_p
+s047	h2	Resort 6 sao số 1 vùng Caribbean,{br} {1}nổi tiếng toàn thế giới{/1}	The Caribbean's top-ranked 6-star resort,{br} {1}recognized worldwide{/1}		"#bo-qua-so: H2 dùng ""top-ranked"" thay cho ""số 1"" (style guide mục 1 cấm puffery dạng số 1); dữ kiện xếp hạng No. 1 nằm nguyên ở s049 ngay dưới"	acf.s046_h2#1
+s048	p	workspace_premium	workspace_premium	100%: workspace_premium		acf.s047_p#1
+s049	p	Khách sạn resort số 1 khu vực Caribbean và thứ 6 thế giới, vinh danh bởi tạp chí danh tiếng Travel & Leisure.	Ranked the No. 1 resort hotel in the Caribbean and No. 6 in the world by Travel + Leisure.			acf.s048_p#1
+s050	p	verified	verified	100%: verified		acf.s049_p#1
+s051	p	Được Chính phủ Dominica chấp thuận và đánh giá cao.	Approved by the Government of Dominica, and highly regarded there.			acf.s050_p
+s052	p	bar_chart	bar_chart			acf.s051_p#1
+s053	p	9 năm thành công liên tiếp với hiệu suất cho thuê cao cùng số liệu tài chính vững chắc.	Nine consecutive years in operation, with a strong occupancy record and sound financial performance to date.			acf.s052_p
+s054	p	payments	payments			acf.s053_p#1
+s055	p	Lợi nhuận cho thuê trung bình dự kiến đạt 3-6%/năm. Nhà đầu tư được nhận lãi suất theo từng quý.	Projected average rental yield of 3–6% a year, with distributions paid to investors each quarter. Projected returns are not guaranteed.			acf.s054_p
+s056	h3	Dịch vụ tiện nghi chuẩn 6 sao	6-star service and amenities			acf.s055_h3
+s057	li	{1}beach_access{/1}**Ba bãi biển riêng**	{1}beach_access{/1}**Three private beaches**			acf.s056_li#1
+s058	li	{1}kayaking{/1}**Thuyền kayak và ván chèo**	{1}kayaking{/1}**Kayaks and paddleboards**			acf.s057_li#1
+s059	li	{1}scuba_diving{/1}**Thiết bị lặn**	{1}scuba_diving{/1}**Diving equipment**			acf.s058_li#1
+s060	li	{1}restaurant{/1}**Dịch vụ nhà hàng**	{1}restaurant{/1}**Restaurant service**			acf.s059_li#1
+s061	li	{1}spa{/1}**Spa**	{1}spa{/1}**Spa**	100%: {1}spa{/1}**Spa**		acf.s060_li#1
+s062	li	{1}self_improvement{/1}**Yoga**	{1}self_improvement{/1}**Yoga**			acf.s061_li#1
+s063	p	Phong cách thiết kế là sự giao thoa kết hợp giữa nội thất thủ công địa phương và các tiện nghi đẳng cấp 6 sao.	The design brings local handcrafted interiors together with 6-star comforts.			acf.s062_p
+s064	h2	Nhà phát triển dự án{br} {1}GEMS Holding Ltd{/1}	The developer{br} {1}GEMS Holding Ltd{/1}			acf.s063_h2#1
+s065	p	Tập đoàn GEMS Holding có trụ sở tại Dominica, là nhà phát triển dự án Secret Bay.	GEMS Holding, based in Dominica, is the developer of Secret Bay.			acf.s064_p
+s066	h3	{1}business_center{/1}Vai trò: Nhà phát triển dự án	{1}business_center{/1}Role: project developer			acf.s065_h3#1
+s067	li	apartment	apartment	100%: apartment		acf.s066_li#1
+s068	p	Danh mục bất động sản	Property portfolio			acf.s067_p#1
+s069	p	GEMS sở hữu, quản lý và phát triển các bất động sản và dự án trên thị trường du lịch, khách sạn tầm cỡ quốc tế, bao gồm khách sạn Fort Young và chuỗi villa Ti-Bay.	GEMS owns, manages, and develops properties and projects in the international tourism and hospitality market, including the Fort Young Hotel and the Tibay villas.			acf.s068_p
+s070	li	eco	eco			acf.s069_li#1
+s071	p	Phát triển bền vững	Sustainable development	100%: Sustainable growth		acf.s070_p#1
+s072	p	Việc phát triển, quản lý các dự án và chăm sóc khách hàng của GEMS đều đi đôi với ý thức bảo vệ môi trường để mang đến trải nghiệm chân thực, lành mạnh và gần gũi với thiên nhiên.	GEMS develops and manages its projects, and looks after its guests, with an eye to the environment, so that the experience stays authentic, healthy, and close to nature.			acf.s071_p
+s073	li	handshake	handshake	100%: handshake		acf.s072_li#1
+s074	p	Đối tác IMM Group	IMM Group partnership			acf.s073_p#1
+s075	p	IMM Group chính thức là đối tác của Secret Bay Residences Limited – trực thuộc GEMS Holding.	IMM Group is an official partner of Secret Bay Residences Limited, part of GEMS Holding.			acf.s074_p
+s076	h3	Dự án tiêu biểu	Selected projects	100%: Selected projects		acf.s075_h3
+s077	p	Secret Bay	Secret Bay		trung:s002	acf.s076_p#1
+s078	p	The Residences at Secret Bay	The Residences at Secret Bay			acf.s077_p#1
+s079	p	Fort Young Hotel & Dive Resort	Fort Young Hotel & Dive Resort			acf.s078_p#1
+s080	p	Tibay Villas	Tibay Villas			acf.s079_p#1
+s081	p	Sở hữu **cổ phần bất động sản tại Dominica** không chỉ là một khoản đầu tư sinh lời và tích sản bằng ngoại tệ. Việc sở hữu cổ phần tại Secret Bay — resort đã vận hành và đang khai thác thực tế — còn mở ra đặc quyền quốc tịch vô giá cho cả gia đình ba thế hệ.	Holding **a real estate share in Dominica** can be more than an income-producing investment and a store of value held in US dollars. A share in Secret Bay — a resort already open and operating — also opens a route to citizenship for three generations of your family.			acf.s080_p#1
+s082	h2	Lộ trình quốc tịch{br} {1}Dominica{/1}	Your route to{br} {1}Dominica citizenship{/1}			acf.s081_h2#1
+s083	h3	Dự án đủ điều kiện	A qualifying project			acf.s082_h3
+s084	p	Secret Bay là dự án bất động sản được Chính phủ Dominica phê duyệt.	Secret Bay is a real estate project approved by the Government of Dominica.			acf.s083_p
+s085	h3	Thẩm định hồ sơ	Due diligence	85%: L-1A eligibility assessment		acf.s084_h3
+s086	p	Hồ sơ được chuẩn bị theo quy định của Chính phủ và trải qua quá trình thẩm định.	The application is prepared in line with government requirements and goes through due diligence.			acf.s085_p
+s087	h3	Hoàn tất khoản đầu tư	Complete the investment			acf.s086_h3
+s088	p	Nhà đầu tư hoàn tất khoản đầu tư sau khi được chấp thuận về nguyên tắc.	You complete the investment after approval in principle.			acf.s087_p
+s089	h3	Nhận quốc tịch	Receive citizenship	100%: Receive citizenship		acf.s088_h3
+s090	p	Nhà đầu tư nhận quốc tịch Dominica nếu hồ sơ được Chính phủ chấp thuận.	You receive Dominica citizenship if the government approves your application.			acf.s089_p
+s091	p	IMM Group hỗ trợ chuẩn bị hồ sơ và đồng hành bảo vệ quyền lợi nhà đầu tư trong suốt quá trình triển khai.	IMM Group helps prepare the application and represents your interests throughout the process.			acf.s090_p
+s092	h2	Lợi thế quốc tịch{br} {1}Dominica{/1}	Advantages of{br} {1}Dominica citizenship{/1}			acf.s091_h2#1
+s093	p	Nhiều đặc quyền, ưu đãi cao cấp dành riêng cho nhà đầu tư	What the program offers investors			acf.s092_p
+s094	p	schedule	schedule			acf.s093_p#1
+s095	p	01	01			acf.s094_p
+s096	h3	Thời gian duy trì đầu tư ngắn	A short holding period			acf.s095_h3
+s097	li	Chỉ cần duy trì trong 3 năm.	You only need to hold the investment for 3 years.			acf.s096_li
+s098	li	Nhà đầu tư có thể bán lại cổ phần sau thời gian duy trì theo điều kiện của chương trình.	You can sell the share after the holding period, on the terms the program sets.			acf.s097_li
+s099	p	family_restroom	family_restroom			acf.s098_p#1
+s100	p	02	02			acf.s099_p
+s101	h3	Chương trình quốc tịch nhanh	A fast citizenship program			acf.s100_h3
+s102	li	Quy trình nhanh gọn, yêu cầu đơn giản, chi phí đầu tư thấp.	A straightforward process, simple requirements, and a comparatively low investment amount.			acf.s101_li
+s103	li	Chương trình Dominica là một trong những chương trình đầu tư lấy quốc tịch lâu đời.	Dominica runs one of the longest-established Citizenship by Investment (CBI) programs.			acf.s102_li
+s104	p	public	public	100%: public		acf.s103_p#1
+s105	p	03	03			acf.s104_p
+s106	h3	Hộ chiếu Dominica	The Dominica passport			acf.s105_h3
+s107	li	Passport tự do đi lại 142 nước.	Visa-free travel to 142 destinations.			acf.s106_li
+s108	li	Con số này cần được kiểm chứng lại; Anh Quốc hiện yêu cầu công dân Dominica xin visa.	Visa-free access changes over time. The United Kingdom, for example, now requires Dominica citizens to obtain a visa, so the current list should be confirmed before you travel.			acf.s107_li
+s109	h2	Nhận tư vấn dự án Secret Bay & {br}{1}lộ trình quốc tịch Dominica{/1}	Talk to us about Secret Bay & {br}{1}the route to Dominica citizenship{/1}			acf.s108_h2#1
+s110	cta	Yêu cầu tư vấn	Book a consultation	100%: Book a consultation	trung:s004	acf.s109_cta
+s111	li	Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.	An IMM advisor will contact you to discuss the project in detail and assess your eligibility.	100%: An IMM advisor will contact you to discuss the project in detail and assess your eligibility.		acf.s110_li
+s112	li	Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.	Your personal information is kept confidential under IMM Group's Privacy Policy.	100%: Your personal information is kept confidential under IMM Group's Privacy Policy.		acf.s111_li
+s113	p	balance	balance	100%: balance		acf.s112_p#1
+s114	h3	Lưu ý thông tin	Important information	100%: Important information		acf.s113_h3
+s115	p	Thông tin trên trang này nhằm cung cấp tổng quan về dự án Secret Bay, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.	The information on this page provides an overview of the Secret Bay project. It is not legal, securities, or personalized investment advice.	96%: The information on this page provides an overview of the Kastella Bay project. It is not legal, securities, or personalized investment advice.		acf.s114_p

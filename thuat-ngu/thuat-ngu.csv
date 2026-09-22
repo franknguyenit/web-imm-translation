@@ -5,7 +5,6 @@ thuế thu nhập toàn cầu,U.S. tax on worldwide income,worldwide income tax,
 học phí bằng 1/3 du học sinh,in-state tuition,,thuat-ngu,goi-y,Mức 1/3 là học phí in-state sau khi đủ điều kiện cư trú bang — thiếu chữ này là thiếu điều kiện,2026-09-21-overview-usa-v2
 đặc quyền nổi bật,Key benefits,,thuat-ngu,goi-y,Nhãn mục trên template overview; ô label-sm hẹp nên không dùng 'Outstanding privileges',2026-09-21-overview-usa-v2
 hạn chế cần lưu ý,Points to consider,,thuat-ngu,goi-y,Nhãn mục warn-box trên template overview,2026-09-21-overview-usa-v2
-hình thức đầu tư,How you invest,,thuat-ngu,goi-y,Nhãn note-box trên template overview (CSS tự viết hoa),2026-09-21-overview-usa-v2
 IMM Group,IMM Group,,khong-dich,chot,Tên thương hiệu — không dịch, không viết imm group,khoi-tao-2026-09-17
 Tập đoàn IMM,IMM Group,,ten-rieng,chot,Không dịch là IMM Corporation,khoi-tao-2026-09-17
 EB-5,EB-5,,khong-dich,chot,Chương trình thẻ xanh đầu tư Mỹ,khoi-tao-2026-09-17
@@ -123,7 +122,6 @@ cư trú thực tế,reckonable residence,physical residence,thuat-ngu,goi-y,Thu
 Định cư vô thời hạn,Indefinite Leave to Remain (ILR),ILR,ten-rieng,chot,Tên chính thức của Anh; nguồn IMM dịch là giấy phép cư trú vĩnh viễn,thuong-tru-nhan-ireland
 bài kiểm tra Life in UK,Life in the UK test,,ten-rieng,chot,"Tên chính thức có mạo từ ""the"": Life in the UK test",thuong-tru-nhan-ireland
 miễn học phí,free tuition,tuition-free,thuat-ngu,goi-y,Trường công Ireland miễn học phí tới hết trung học,thuong-tru-nhan-ireland
-đa quốc tịch,dual or multiple citizenship,multiple citizenship,thuat-ngu,goi-y,,thuong-tru-nhan-ireland
 Grenada,Grenada,Grenadian,ten-rieng,chot,"Tính từ và người dân: Grenadian (Grenadian citizenship, Grenadian passport); tên nước: Grenada",quoc-tich-grenada
 chương trình đầu tư nhập tịch,Citizenship by Investment (CBI),CBI|citizenship by investment,ten-rieng,chot,Tên chính thức của chương trình Caribbean; lần đầu viết đủ kèm (CBI). Không dịch là naturalization by investment,quoc-tich-grenada
 phương án trao tặng Grenada,National Transformation Fund (NTF),NTF|donation|contribution,ten-rieng,goi-y,"Tên quỹ nhận khoản 235.000 USD không hoàn lại; nguồn IMM chỉ gọi ""Trao tặng"" — dùng NTF nếu muốn chính xác, nhưng KHÔNG tự thêm nếu nguồn không nhắc",quoc-tich-grenada
@@ -313,3 +311,14 @@ Bệnh viện Nhi Makario,Makarios Children's Hospital,Archbishop Makarios III H
 Không gian sống khép kín,self-contained living,self-contained residential community,thuat-ngu,goi-y,Toà nhỏ (12–60 căn) KHÔNG gọi là 'community' — nói quá quy mô; biến thể chỉ dùng cho khu dân cư lớn,2026-09-22-sip-park-residences + centro-limassol + aktea-residence-4
 thành viên cốt lõi,a core company of,core member,thuat-ngu,goi-y,Nói về một CÔNG TY trong tập đoàn thì dùng 'core company'; 'core member' nghe như dịch sát,2026-09-22-sip-park-residences + centro-limassol + aktea-residence-4
 gỗ tự nhiên,natural wood,,thuat-ngu,goi-y,Anh-Mỹ; 'timber' là Anh-Anh và hay đá với 'natural wood' ở đoạn khác cùng trang,2026-09-22-sip-park-residences + centro-limassol + aktea-residence-4
+lợi nhuận dự kiến,projected return,projected returns,thuat-ngu,goi-y,Trang dự án CBI: KHÔNG bao giờ dùng 'guaranteed'. Nguồn ghi 'lợi nhuận CAM KẾT' thì vẫn dịch 'projected' + ghi báo cáo cho CEO sửa bản Việt,2026-09-22-dominica-secret-bay + grenada-intercontinental-resort + grenada-la-sagesse-collection
+nhận lãi suất theo quý,distributions paid each quarter,quarterly distributions,thuat-ngu,goi-y,"Sản phẩm là CỔ PHẦN dự án, không phải khoản vay — dịch 'interest' là sai bản chất",2026-09-22-dominica-secret-bay + grenada-intercontinental-resort + grenada-la-sagesse-collection
+được Chính phủ cấp phép,authorized by the Government,government-authorized,thuat-ngu,goi-y,Đại lý CBI Caribbean: KHÔNG dùng 'licensed by' (xem dòng 'đại lý được chính phủ cấp phép'). Trang Quốc tịch Grenada 21/09 còn dùng licensed by — cần sửa đồng bộ,2026-09-22-dominica-secret-bay + grenada-intercontinental-resort + grenada-la-sagesse-collection
+đa quốc tịch,dual or multiple citizenship,multiple citizenship,thuat-ngu,goi-y,'dual' một mình thu hẹp nghĩa; nguồn nói 'đa',2026-09-22-dominica-secret-bay + grenada-intercontinental-resort + grenada-la-sagesse-collection
+bảo vệ quyền lợi nhà đầu tư,represents your interests,acts for you,thuat-ngu,goi-y,'protects your interests' là lời hứa kết quả của bên tư vấn — bị style guide mục 3 chặn,2026-09-22-dominica-secret-bay + grenada-intercontinental-resort + grenada-la-sagesse-collection
+danh giá,renowned,acclaimed,thuat-ngu,goi-y,KHÔNG dịch là 'award-winning' — xếp hạng của tạp chí không phải giải thưởng,2026-09-22-dominica-secret-bay + grenada-intercontinental-resort + grenada-la-sagesse-collection
+nhà phát triển dự án,developer,project developer,thuat-ngu,goi-y,"'phát triển' trong ngành BĐS là DEVELOP, không phải 'build' — dịch 'built by' làm sai vai giữa chủ đầu tư và đối tác thương hiệu (Range Developments vs IHG)",2026-09-22-dominica-secret-bay + grenada-intercontinental-resort + grenada-la-sagesse-collection
+tích sản bằng ngoại tệ,a store of value held in US dollars,store of value,thuat-ngu,goi-y,Ghi thẳng đồng tiền thật; 'a foreign currency' là góc nhìn người Việt (ngoại tệ ≠ VND),2026-09-22-dominica-secret-bay + grenada-intercontinental-resort + grenada-la-sagesse-collection
+Dominica,Dominica,Dominica (định ngữ),ten-rieng,goi-y,"TUYỆT ĐỐI không dùng tính từ 'Dominican' — ngành hiểu là Dominican Republic, nước khác",2026-09-22-dominica-secret-bay + grenada-intercontinental-resort + grenada-la-sagesse-collection
+Tiêu chuẩn,Category,,thuat-ngu,goi-y,"Nhãn ô bảng thông số cho hạng resort; 'Standard' người bản xứ đọc không hiểu, 'Rating' sai vì 6 sao không phải hạng sao chính thức",2026-09-22-dominica-secret-bay + grenada-intercontinental-resort + grenada-la-sagesse-collection
+hình thức đầu tư,Investment type,how you invest,thuat-ngu,goi-y,Trong BẢNG THÔNG SỐ dùng nhãn 'Investment type'; 'How the investment works' chỉ hợp làm tiêu đề mục,2026-09-22-dominica-secret-bay + grenada-intercontinental-resort + grenada-la-sagesse-collection

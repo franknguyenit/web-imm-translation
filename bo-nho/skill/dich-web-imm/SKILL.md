@@ -279,3 +279,33 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
   việc đã dịch thật, ưu tiên tên chính thức); dòng `cam` khoá rỗng phải lọc theo **cả dòng**.
 - **`rut-layout.py` cần `--bo-chuyen theme-layout-2026`** — bộ chuyển này có `truong_goc` rỗng nên `moi` KHÔNG
   tự khớp được, sẽ báo "Chưa có bộ chuyển cho template này".
+
+## Bài học thêm từ mẻ 3 trang dự án CBI Caribbean (22/09/2026)
+
+- **Trang dự án CBI ≠ trang dự án BĐS thường.** Sản phẩm là **cổ phần trong dự án được chính phủ phê duyệt**
+  (`a share in a government-approved real estate project`), không phải căn hộ để ở. Phần lớn việc biên tập là
+  **rào lời hứa lợi nhuận**, không phải dịch.
+- **Bốn mẫu hứa lợi nhuận phải bắt bằng mắt (máy KHÔNG bắt được):**
+  1. `"Lợi nhuận CAM KẾT"` ở hero trong khi thân bài nói `"dự kiến"` → luôn dịch `projected`, ghi báo cáo để CEO
+     sửa bản Việt.
+  2. `"khoảng 4%/năm trong 5 năm, tương đương 54.000 USD"` → nếu viết `or roughly US$54,000` ngay sau `a year`,
+     người đọc hiểu là **mỗi năm**. Phải viết `— roughly US$54,000 **in total**`.
+  3. `"nhận LÃI SUẤT theo quý"` trên sản phẩm cổ phần → `distributions`, không bao giờ `interest`.
+  4. Hai trang cùng chủ đầu tư, cùng con số mà **mức rào khác nhau** → không tự thêm câu rào mới, đề nghị CEO
+     bổ sung vào bản Việt trước. (Ngoại lệ đã làm một lần ở Secret Bay, có ghi rõ trong báo cáo.)
+- **Ghi chú biên tập NỘI BỘ lọt vào trang khách là lỗi LẶP LẠI của nguồn BĐS.** Đã gặp ở trang Quốc tịch Grenada
+  21/09 và hai chỗ nữa ở Secret Bay. **Grep nguồn trước khi dịch:** `trên bài gốc`, `cần kiểm chứng`,
+  `áp dụng đồng bộ`, `file mẫu`, `(ghi chú`.
+- **Tên nước Caribbean — hai bẫy `chot`:** `Grenadian citizenship/passport` (KHÔNG "Grenada citizenship"; nhưng
+  **"Grenada Citizenship by Investment"** là tên chương trình, giữ nguyên) · **không bao giờ** dùng tính từ
+  `Dominican` (ngành hiểu là Dominican Republic).
+- **`authorized by the Government`, KHÔNG `licensed by`** cho đại lý CBI Caribbean (dòng CSV từ việc ov-caribbean).
+- **"phát triển" trong ngành BĐS là `develop`, không phải `build`.** Dịch "built by Range Developments" làm sai
+  vai giữa **chủ đầu tư** và **đối tác thương hiệu** (IHG) — B5 bắt 5 chỗ trong một trang.
+- **Nhãn ô bảng thông số phải là DANH TỪ:** `Investment type` (không phải "How the investment works"),
+  `Category` (không phải "Standard"/"Rating"), `Size / property type`.
+- **Bẫy trùng tên địa danh Mỹ:** `grenada real estate for sale` kéo về **Grenada, Mississippi**. Cùng loại với
+  `north cyprus`. Luôn soi danh sách gợi ý xem có địa danh trùng tên ở Mỹ không trước khi chốt từ khoá.
+- **`vet-chu-ngoai.py`: bảng phải khớp tệp SAU khi `nhet`.** Chuỗi nào đã được `nhet` dịch rồi thì không còn
+  trong tệp và tool sẽ báo lỗi, KHÔNG ghi gì. Nguồn cũng đánh số ảnh nhảy cóc (Secret Bay có 1–9 và 14–21,
+  thiếu 10–13) nên đừng sinh dãy `alt` bằng vòng lặp — phải grep tệp thật.

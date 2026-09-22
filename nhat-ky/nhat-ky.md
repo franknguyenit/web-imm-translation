@@ -104,3 +104,36 @@
   của Aktea ghi **"aktea-residences-4"** (số nhiều) · thuế 12,5% vs 15% và nhập tịch 8/11 năm (lặp lại từ mẻ trước);
   (9) **dấu `–` trang trí trong H2** ("Căn hộ cao cấp tại – {Paphos}") đã **bỏ** ở ba trang này vì
   "Premium apartments in – {Paphos}" là tiếng Anh vỡ — 6 trang Síp bàn giao trước còn giữ, đề nghị sửa đồng bộ
+- 22/09/2026 · **mẻ 3 trang dự án CBI Caribbean** (HTML thuần `template-bds-imm`, đường `rut-layout.py`):
+  `dominica-secret-bay` 115 đoạn/934 chữ · `grenada-intercontinental-resort` 138/1.306 ·
+  `grenada-la-sagesse-collection` 135/1.389 · TM khớp sẵn chỉ 27/29/26 (19–23% — khung nội dung khác hẳn mảng
+  Síp) · cửa kiểm ráp ngược XANH cả ba · cửa 0 lần đầu ĐỎ 3/1/2, chốt **XANH 16/13/14 cảnh báo** ·
+  B5 (Sonnet) bắt 4/9/15 · B6 (Opus) bắt 22/21/18 (tổng 6 NẶNG) · nhận 22/37/32 đoạn sửa, **bác 8 nhóm** ·
+  +209 đơn vị bộ nhớ dịch (tổng 6.068) · **+10 thuật ngữ** (gộp 3 khoá trùng) · `ganlink` đã ghi 3 dòng · học:
+  (1) **trang dự án CBI ≠ trang dự án BĐS thường** — sản phẩm là **cổ phần trong dự án được chính phủ phê duyệt**,
+  nên phần lớn việc là **rào lời hứa lợi nhuận**; bốn mẫu phải bắt bằng mắt vì `kiem` không bắt được:
+  "lợi nhuận **CAM KẾT**" ở hero (La Sagesse) trong khi thân bài nói "dự kiến" · "4%/năm trong 5 năm, tương đương
+  54.000 USD" viết thành `or roughly US$54,000` ngay sau `a year` khiến đọc thành **mỗi năm** (cả hai B6 bắt,
+  sửa thành `in total`) · "nhận **lãi suất** theo quý" trên sản phẩm cổ phần (Secret Bay) → `distributions` ·
+  hai trang cùng chủ đầu tư cùng con số mà **mức rào khác nhau** (La Sagesse thiếu câu rào của InterContinental);
+  (2) **ghi chú biên tập nội bộ lọt vào trang khách — lần thứ HAI** (lần đầu: Quốc tịch Grenada 21/09):
+  Secret Bay có hai chỗ, nhãn bảng *"Mức đầu tư **trên bài gốc**"* và bullet *"Con số này cần được kiểm chứng
+  lại; Anh Quốc hiện yêu cầu công dân Dominica xin visa"* nằm ngay dưới mục **Lợi thế hộ chiếu** ⇒ từ nay
+  **grep nguồn** các chuỗi `trên bài gốc` · `cần kiểm chứng` · `áp dụng đồng bộ` · `file mẫu` trước khi dịch;
+  (3) **`Grenadian citizenship/passport` là dòng `chot`** mà luồng chính dịch sai 11 đoạn **ở cả hai trang** —
+  B5 bắt, B6 chỉ bắt một đoạn ⇒ B5 (soát song ngữ, đối chiếu bảng thuật ngữ) vẫn là cửa duy nhất bắt được lỗi
+  loại này; cụm **"Grenada Citizenship by Investment"** là tên chương trình, giữ nguyên;
+  (4) **"phát triển" là `develop`, KHÔNG phải `build`** — dịch "built by Range Developments" làm sai vai giữa
+  chủ đầu tư và đối tác thương hiệu IHG (B5 bắt 5 chỗ trong một trang);
+  (5) **`authorized by the Government`, không `licensed by`** (dòng CSV từ ov-caribbean) — **trang Quốc tịch
+  Grenada đã bàn giao 21/09 còn dùng "licensed by", cần sửa đồng bộ**;
+  (6) **bẫy trùng tên địa danh Mỹ: `grenada real estate for sale` = Grenada, Mississippi** — cùng loại với
+  `north cyprus` của mảng Síp; cụm "west indies" là cách người tìm tự phân biệt. Từ khoá dạng **câu hỏi**
+  (`can foreigners buy property in grenada`, phủ 12 lần) dùng được cho trang dự án nhưng phải chấp nhận slug
+  không chứa đủ chữ;
+  (7) **`vet-chu-ngoai.py` báo lỗi và KHÔNG ghi gì** nếu bảng có chuỗi đã bị `nhet` dịch mất, và nguồn Secret Bay
+  **đánh số ảnh nhảy cóc** (1–9, 14–21, thiếu 10–13) ⇒ đừng sinh dãy `alt` bằng vòng lặp, phải grep tệp thật;
+  (8) `thuat-ngu.csv` phát sinh 3 khoá trùng khi thêm thuật ngữ mới (`người phụ thuộc`, `hình thức đầu tư`,
+  `đa quốc tịch` đã có từ việc trước) — gộp tay theo luật "giữ dòng mới", còn **323 dòng**, `kiemtn` XANH;
+  (9) **ngoại lệ đã dùng một lần:** thêm câu `Projected returns are not guaranteed.` vào s055 của Secret Bay —
+  câu DUY NHẤT thêm so với nguồn cả mẻ, đã ghi rõ trong báo cáo để CEO xoá nếu không đồng ý
