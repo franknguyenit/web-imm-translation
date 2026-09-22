@@ -68,3 +68,39 @@
   (7) tên trang Việt "diện đầu tư **trái phiếu** 888B" đã lỗi thời từ 01/07/2021 (nay là **complying investment**)
 - 22/09/2026 · **2026-09-22-visa-uc-dien-doanh-nhan-188a / -dau-tu-188b / -dau-tu-trong-yeu-188c** (một tệp JSON ACF `product-2026` chứa 3 trang, `--trang 1066/1060/1055`, **lang=vi**): 107 + 104 + 100 đoạn / 1.041 + 1.096 + 1.041 chữ · TM khớp sẵn 35 + 31 + 34 · cửa 0 lần đầu chỉ ĐỎ vì thiếu `seo.json`, chốt **XANH** với 15 / 11 / 13 cảnh báo đã giải trình · B5 (Sonnet) bắt 1 / 0 / 1 (nhận cả 2), B6 (Opus) bắt 13 / 15 / 16 đoạn sửa (nhận 13 / 12 / 14, bác 5 nhóm) · +192 đơn vị bộ nhớ dịch (tổng 3.941) · +12 thuật ngữ `goi-y` · `ganlink` đã ghi 3 dòng · **học được:** (1) ⚠ **có phiên Claude thứ hai chạy song song trên cùng thư mục** (đang dịch 888A/888B/888C) — hai phiên cùng `append` vào `thuat-ngu.csv` làm số dòng nhảy 250→272→267 và mất 4 dòng của phiên kia; **ghi tệp dùng chung phải append, không rewrite cả tệp, và nên dồn xuống cuối phiên**; (2) **Úc có STATE và TERRITORY, không có province** — nguồn IMM viết "tỉnh bang Úc" là mượn chữ Canada; dòng `tỉnh bang → province` trong CSV báo nhầm sang mọi trang Úc; (3) **dòng `chot` `thang điểm di trú → selection factor grid` (của New Brunswick) chặn trang Úc** — Úc gọi là *points test*; cách sửa đúng là thêm khoá DÀI HƠN (`thang điểm di trú Úc`) để khớp-dài-trước nuốt khoá ngắn, cộng `#bo-qua-tn` ở chỗ nguồn chỉ viết khoá ngắn; (4) **188B dùng `complying investment`, 188C dùng `complying significant investment`** — thiếu chữ *significant* là người trong nghề nhận ra ngay; "complying funds" không phải tên chính thức; (5) BIIP đóng vĩnh viễn 31/07/2024 — **nguồn IMM KHỚP** immi.homeaffairs.gov.au, không phải hỏi CEO; (6) nguồn lệch nhiều chỗ đã ghi CEO: tuổi "18–55" (chính thức *under 55* + miễn trừ), 188A "3 năm điều hành" (thực ra là điều kiện của 188B; 188A tính 2/4 năm tài chính), 30% vốn (thực tế 51%/30%/10% theo doanh thu), 188B "sớm nhất sau 3 năm" (888B đòi giữ vốn ≥4 năm + 2/3 năm cư trú), "giảm phí bảo trợ ngoại ngữ" (thực ra là có/không đóng, không phải nhiều/ít), 188C "40 ngày/năm" (là trung bình cộng dồn ≈160 ngày cả kỳ, không phải sàn cứng từng năm); (7) `ty-gia.json` chỉ chép để tra cứu — mức vốn AUD là **luật định, giữ nguyên tiền gốc**, và viết dạng chữ số đầy đủ `A$1,250,000` (không rút `A$1.25 million`) để phép kiểm số của cửa 0 đối chiếu được với `1.250.000` của nguồn
 - 22/09/2026 (rà soát sau khi cả hai phiên Úc xong) · **khôi phục 4 dòng thuật ngữ bị mất do hai phiên Cowork cùng ghi `thuat-ngu.csv`**: `diện Doanh nhân đổi mới`, `bang`, `Chương trình Đổi mới và Đầu tư Doanh nghiệp`, `phí bảo trợ ngoại ngữ` (đều của phiên 888, chép lại nguyên văn, đánh dấu [KHÔI PHỤC] trong `ghi_chu`). Tổng 271 dòng, `kiemtn` XANH · nguyên nhân: lệnh dedupe của phiên 188 **đọc-sửa-ghi lại cả tệp**, nuốt mất những dòng phiên kia vừa append trong khoảng giữa — **từ nay chỉ append vào tệp dùng chung** · kiểm bằng `git diff` khoá HEAD vs hiện tại: 0 khoá cũ bị xoá, 0 khoá cũ bị sửa nội dung, 70 khoá mới trong ngày — ngoài 4 dòng trên không mất gì khác · phiên 888 đã **thu hẹp `thang điểm di trú` → `thang điểm di trú (New Brunswick)`** nên cờ `#bo-qua-tn` ở s024 trang 188C không còn cần, đã gỡ; cửa 0 cả ba trang vẫn XANH (14 / 12 / 13 cảnh báo) và tệp `.en.json` không đổi · **còn 1 việc CEO quyết:** hai dòng `phí ngoại ngữ` (188) và `phí bảo trợ ngoại ngữ` (888) ghi hai cách viết khác nhau cho cùng một khoản phí — nên hợp nhất theo cách Home Affairs viết: *second instalment of the visa application charge*
+- 22/09/2026 · **mẻ 3 trang dự án BĐS Síp cuối** (HTML thuần `template-bds-imm`, đường `rut-layout.py`):
+  `sip-park-residences` 127 đoạn/1.315 chữ · `sip-centro-limassol` 133/1.257 · `sip-aktea-residence-4` 122/1.243 ·
+  TM khớp sẵn 75/82/75 (59–62% nhờ 6 trang Síp trước) · cửa kiểm ráp ngược (nhét bản Việt → giống gốc **từng byte**)
+  XANH cả ba · cửa 0 lần đầu ĐỎ 2/2/2 (đều là `#bo-qua-so` của câu "1 lần mỗi 2 năm" + thiếu `seo.json`),
+  chốt **XANH 9/9/9 cảnh báo** đã giải trình từng dòng · B5 (Sonnet) bắt 6/1/8 · B6 (Opus) bắt 24/29/17
+  (tổng 8 NẶNG) · nhận 20/15/14 đoạn sửa, **bác 9 nhóm góp ý** · +117 đơn vị bộ nhớ dịch (tổng 5.859) ·
+  **+11 thuật ngữ `goi-y`** · `ganlink` đã ghi 3 dòng · học:
+  (1) **`thuat-ngu.csv` bị NHÂN ĐÔI bởi commit merge `1396d60`** (237 → 509 dòng, 200 khoá trùng, lọt cả một dòng
+  tiêu đề vào giữa thân tệp) làm `kiemtn` ĐỎ và chặn B2 — bài học "chỉ append" **không cứu được git merge**, phải
+  chạy `kiemtn` sau mỗi lần merge; gộp lại còn **303 dòng, 0 khoá mất** (192 khoá trùng-giống-hệt gộp máy,
+  **8 khoá trùng-khác-nội-dung chọn tay**: ưu tiên dòng của việc đã dịch thật hơn dòng `dong-bo-nhan-lien-ket`,
+  ưu tiên tên chính thức — vd `quỹ đầu tư cân bằng` giữ `balancing investment` của khung complying investment Úc);
+  (2) **lỗi trượt hệ thống cả ba trang:** câu mở khối thường trú bị viết thành *"a route to **European residence**"*
+  + *"held in **a foreign currency**"* — đá thẳng với đoạn tuân thủ cùng trang (PR Síp ≠ quyền cư trú EU); nguyên
+  nhân là TM trả 94%, luồng chính thay tên dự án rồi **tiện tay viết lại phần còn lại của câu** vốn đã qua hai cửa
+  soát ở Elysia Blu/Seaview Heights ⇒ **chỉ thay tên, đừng sửa phần TM trả về**;
+  (3) **template BĐS nhiễm tiếng Anh-Anh nặng** (`letting` · `timber` · `video door entry` · `EV charging point` ·
+  `intruder alarm` · `upmarket` · `cafés`) trong khi CEO chốt tiếng Anh Mỹ — trừ **tên riêng chính thức**
+  ("Strovolos Municipal Sports **Centre**" giữ nguyên);
+  (4) **nhất quán toàn loạt thắng góp ý lẻ:** bác 5 góp ý của B6 Centro (`Prepare the file`, `{X} project timeline`,
+  dạng cụm danh từ ở thẻ bước, "You only need to…", `City center · Limassol`) vì 8 trang Síp đã bàn giao dùng bản
+  cũ — ghi vào báo cáo như **ứng viên sửa đồng loạt**, sửa lẻ một trang là tạo lỗi mới;
+  (5) **hai agent B6 mâu thuẫn nhau ở "Lâu đài Cổ đại"** (một đòi "Limassol Castle", một đòi bỏ tên riêng) → chốt
+  **"the historic castle"** ở cả hai trang: nguồn không nêu tên riêng thì không tự đặt. Ngược lại, tên riêng nguồn
+  **phiên âm sai thì sửa**: "Bệnh viện Nhi Makario" → **Makarios** Children's Hospital;
+  (6) **chín trang cùng một nước ⇒ chín cụm từ khoá:** trục địa danh và trục golden visa đã cạn sau 6 trang, ba
+  trang cuối lùi về `nicosia apartments for sale` (thành phố chưa ai lấy), `limassol apartments for sale`, và
+  **`new build apartments in cyprus`** — trục *tình trạng hàng*, vừa là điểm bán vừa là **điều kiện pháp lý**
+  (diện PR Síp chỉ nhận BĐS mua mới từ chủ đầu tư); ⚠ loại hết gợi ý **"north cyprus"** (vùng khác, ngoài EU);
+  (7) **`moi` KHÔNG tự khớp `theme-layout-2026`** (bộ chuyển có `truong_goc` rỗng) — phải truyền
+  `--bo-chuyen theme-layout-2026`, nếu không báo "Chưa có bộ chuyển cho template này";
+  (8) **điểm chờ CEO mới:** mốc bàn giao Aktea **"Quý 4/2026" đã tới nơi** mà "Tiến độ dự án" vẫn trống ·
+  nguồn gõ sai **"Nicossia"** · tên dự án hai kiểu ("Park Residence" vs "Park Residences Nicosia") · URL trang Việt
+  của Aktea ghi **"aktea-residences-4"** (số nhiều) · thuế 12,5% vs 15% và nhập tịch 8/11 năm (lặp lại từ mẻ trước);
+  (9) **dấu `–` trang trí trong H2** ("Căn hộ cao cấp tại – {Paphos}") đã **bỏ** ở ba trang này vì
+  "Premium apartments in – {Paphos}" là tiếng Anh vỡ — 6 trang Síp bàn giao trước còn giữ, đề nghị sửa đồng bộ

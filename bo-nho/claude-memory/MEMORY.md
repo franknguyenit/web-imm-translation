@@ -13,6 +13,5 @@
 - [New Zealand: Resident Visa không phải PR](new-zealand-resident-visa-khong-phai-pr.md) — nguồn Việt gọi nhầm là "Visa Thường trú"; dịch thành permanent residence là nói quá quyền lợi
 - [Trang dự án BĐS dựng bằng template HTML](trang-du-an-bds-template-html.md) — bẫy tên icon, chữ trong alt/aria/JS, và cái bẫy 250.000 EUR của Golden Visa Hy Lạp
 - [Síp khác Hy Lạp: thường trú thật](sip-khac-hy-lap-thuong-tru-that.md) — thân bài dùng permanent residence, Golden Visa chỉ ở meta; thuế 12,5% vs 15% đá nhau giữa các trang
-- [Trang chương trình ĐÃ ĐÓNG + bẫy export lang=vi](ontario-canada-trang-chuong-trinh-da-dong.md) — đổi thời động từ, "Closed" là lợi thế SEO, post_id trang Việt, Canada không dùng "Social Security"
-- [Manitoba: 5 điểm chờ CEO chốt](manitoba-cho-ceo-xac-nhan.md) — ITA vs LAA, CLB 5 vs IELTS 5.0, Work Permit không cho quyền học dài hạn, slug Việt gõ sai "manioba" đang chạy thật
-- [Nova Scotia: 7 điểm chờ CEO chốt](nova-scotia-cho-ceo-xac-nhan.md) — tạo việc làm không có trong điều kiện chính thức, "more than" 5 năm + sở hữu 1/3, tuổi 21, gộp diện 18/02/2026, NSNP thu phí 01/09/2026, khuôn câu khối điều kiện cần chốt cho cả 7 trang
+- [3 trang dự án Síp cuối: điểm chờ CEO](ba-trang-du-an-sip-cuoi-cho-ceo.md) — "European residence" trượt cả ba, mốc Q4/2026 đã tới, bẫy Anh-Anh của template BĐS
+- [thuat-ngu.csv bị nhân đôi sau merge](thuat-ngu-csv-bi-nhan-doi-sau-merge.md) — 509 dòng/200 khoá trùng, cách gộp lại mà không mất khoá

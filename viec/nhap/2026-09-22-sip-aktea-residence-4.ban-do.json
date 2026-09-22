@@ -1,0 +1,1256 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/template-bds-imm/du-an/sip__aktea-residence-4/dist/sip__aktea-residence-4.html",
+ "truong_json": null,
+ "doan": [
+  {
+   "tu": 55713,
+   "den": 55753,
+   "raw": "Bất động sản Cộng Hòa Síp | Dự án căn hộ",
+   "loai": "p",
+   "lop": "imm4-hero__status",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 55783,
+   "den": 55800,
+   "raw": "Aktea Residence 4",
+   "loai": "h1",
+   "lop": "",
+   "the": "h1",
+   "ngu_canh": "",
+   "id": "s002"
+  },
+  {
+   "tu": 55833,
+   "den": 55959,
+   "raw": "Căn hộ boutique cao cấp tại khu dân cư đắt giá trung tâm Limassol, đáp ứng điều kiện nhận Thường trú nhân Síp cho cả gia đình.",
+   "loai": "p",
+   "lop": "imm4-hero__lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s003"
+  },
+  {
+   "tu": 56046,
+   "den": 56060,
+   "raw": "YÊU CẦU TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s004"
+  },
+  {
+   "tu": 57836,
+   "den": 57976,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">euro_symbol</i>Giá khởi điểm</span><strong>545.000 EUR</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s005"
+  },
+  {
+   "tu": 58039,
+   "den": 58177,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">event</i>Dự kiến hoàn thành</span><strong>Quý 4/2026</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-1",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s006"
+  },
+  {
+   "tu": 58240,
+   "den": 58371,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">apartment</i>Chủ đầu tư</span><strong>Cybarco</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-2",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s007"
+  },
+  {
+   "tu": 58571,
+   "den": 58588,
+   "raw": "Aktea Residence 4",
+   "loai": "cta",
+   "lop": "imm4-anchor__name",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s008"
+  },
+  {
+   "tu": 58645,
+   "den": 58659,
+   "raw": "Hình ảnh dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s009"
+  },
+  {
+   "tu": 58681,
+   "den": 58701,
+   "raw": "Vị trí &amp; kết nối",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s010"
+  },
+  {
+   "tu": 58726,
+   "den": 58741,
+   "raw": "Tổng quan dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s011"
+  },
+  {
+   "tu": 58765,
+   "den": 58788,
+   "raw": "Thiết kế &amp; tiện ích",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s012"
+  },
+  {
+   "tu": 58811,
+   "den": 58833,
+   "raw": "Nhà phát triển Cybarco",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s013"
+  },
+  {
+   "tu": 58856,
+   "den": 58869,
+   "raw": "Tiến độ dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s014"
+  },
+  {
+   "tu": 58893,
+   "den": 58917,
+   "raw": "Lộ trình thường trú nhân",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s015"
+  },
+  {
+   "tu": 58940,
+   "den": 58963,
+   "raw": "Lợi thế thường trú nhân",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s016"
+  },
+  {
+   "tu": 62252,
+   "den": 62309,
+   "raw": "Vị trí chiến lược &amp;<br> <em>Tiềm năng thị trường</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s017"
+  },
+  {
+   "tu": 62581,
+   "den": 62698,
+   "raw": "Aktea Residence 4 <span aria-hidden=\"true\">·</span> Trung tâm Limassol <span aria-hidden=\"true\">·</span> Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "imm4-map__meta",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s018"
+  },
+  {
+   "tu": 62815,
+   "den": 62903,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">location_on</span>Google Maps",
+   "loai": "cta",
+   "lop": "imm4-map__link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s019"
+  },
+  {
+   "tu": 62992,
+   "den": 63031,
+   "raw": "Nằm trong khu dân cư cao cấp riêng biệt",
+   "loai": "p",
+   "lop": "imm4-loc__eyebrow",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s020"
+  },
+  {
+   "tu": 63066,
+   "den": 63113,
+   "raw": "Mọi nhu cầu sống trong bán kính di chuyển ngắn:",
+   "loai": "h3",
+   "lop": "imm4-loc__heading",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s021"
+  },
+  {
+   "tu": 63154,
+   "den": 63184,
+   "raw": "Bờ biển &amp; Bãi biển Dasoudi",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s022"
+  },
+  {
+   "tu": 63192,
+   "den": 63262,
+   "raw": "Chỉ cách bờ biển 1km và bãi biển Dasoudi nổi tiếng vài phút di chuyển.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s023"
+  },
+  {
+   "tu": 63279,
+   "den": 63296,
+   "raw": "Trung tâm kinh tế",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s024"
+  },
+  {
+   "tu": 63304,
+   "den": 63386,
+   "raw": "Tiệm cận các tòa nhà văn phòng biểu tượng như The Oval, Trilogy Limassol Seafront.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s025"
+  },
+  {
+   "tu": 63403,
+   "den": 63428,
+   "raw": "Giải trí &amp; Bến thuyền",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s026"
+  },
+  {
+   "tu": 63436,
+   "den": 63560,
+   "raw": "Nằm gần Bến thuyền siêu du thuyền Limassol Marina, Công viên Sculpture Molos, Lâu đài Cổ đại và Công viên Municipal Gardens.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s027"
+  },
+  {
+   "tu": 63577,
+   "den": 63592,
+   "raw": "Hạ tầng kết nối",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s028"
+  },
+  {
+   "tu": 63600,
+   "den": 63717,
+   "raw": "Dễ dàng di chuyển ra mạng lưới đường cao tốc kết nối đến các thành phố khác và các khu nghỉ dưỡng golf 18 lỗ quốc tế.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s029"
+  },
+  {
+   "tu": 63987,
+   "den": 64025,
+   "raw": "Căn hộ cao cấp tại – <em>Limassol</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s030"
+  },
+  {
+   "tu": 64057,
+   "den": 64167,
+   "raw": "Trung tâm kinh tế sầm uất: Tọa lạc tại Limassol – thủ phủ thương mại, tài chính và giải trí sôi động nhất Síp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s031"
+  },
+  {
+   "tu": 64174,
+   "den": 64312,
+   "raw": "Thiết kế Boutique riêng tư: Dự án quy mô gồm 4 tầng căn hộ với số lượng giới hạn, mang đến không gian sống yên tĩnh, hiện đại và khép kín.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s032"
+  },
+  {
+   "tu": 64319,
+   "den": 64493,
+   "raw": "Đáp ứng điều kiện Thường trú nhân Síp: Mua trực tiếp từ Chủ đầu tư, thỏa mãn tiêu chuẩn đầu tư bất động sản mua mới để lấy Thường trú nhân vĩnh viễn (PR) Síp cho cả gia đình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s033"
+  },
+  {
+   "tu": 64500,
+   "den": 64629,
+   "raw": "Công nghệ Nhà thông minh (Smart Home): Tích hợp công nghệ hiện đại, tối ưu hiệu suất năng lượng và tính tiện nghi cho chủ sở hữu.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s034"
+  },
+  {
+   "tu": 64749,
+   "den": 64763,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s035"
+  },
+  {
+   "tu": 64991,
+   "den": 65010,
+   "raw": "Bảng thông số dự án",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s036"
+  },
+  {
+   "tu": 65024,
+   "den": 65030,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s037"
+  },
+  {
+   "tu": 65039,
+   "den": 65087,
+   "raw": "Trung tâm Limassol, Cộng Hòa Síp (Cách biển 1km)",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s038"
+  },
+  {
+   "tu": 65096,
+   "den": 65105,
+   "raw": "Loại hình",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s039"
+  },
+  {
+   "tu": 65114,
+   "den": 65145,
+   "raw": "Căn hộ cao cấp 1 và 2 phòng ngủ",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s040"
+  },
+  {
+   "tu": 65154,
+   "den": 65166,
+   "raw": "Quy mô dự án",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s041"
+  },
+  {
+   "tu": 65175,
+   "den": 65206,
+   "raw": "Tòa tháp căn hộ boutique 4 tầng",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s042"
+  },
+  {
+   "tu": 65215,
+   "den": 65234,
+   "raw": "Tiêu chuẩn bàn giao",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s043"
+  },
+  {
+   "tu": 65243,
+   "den": 65425,
+   "raw": "Hoàn thiện cao cấp: Hệ thống điều hòa VRV, sưởi sàn thủy lực, thiết bị bếp nhập khẩu từ Ý, sàn gỗ tự nhiên phòng ngủ, hệ thống pin năng lượng mặt trời Photovoltaic riêng cho từng căn",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s044"
+  },
+  {
+   "tu": 65434,
+   "den": 65444,
+   "raw": "Chủ đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s045"
+  },
+  {
+   "tu": 65453,
+   "den": 65485,
+   "raw": "Cybarco (Thuộc Tập đoàn Lanitis)",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s046"
+  },
+  {
+   "tu": 65494,
+   "den": 65504,
+   "raw": "Tình trạng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s047"
+  },
+  {
+   "tu": 65513,
+   "den": 65526,
+   "raw": "Đang xây dựng",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s048"
+  },
+  {
+   "tu": 65787,
+   "den": 65833,
+   "raw": "Tiện ích &amp; Thiết kế <em>chuẩn châu Âu</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s049"
+  },
+  {
+   "tu": 65915,
+   "den": 65982,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">architecture</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s050"
+  },
+  {
+   "tu": 65991,
+   "den": 66001,
+   "raw": "Phong cách",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s051"
+  },
+  {
+   "tu": 66010,
+   "den": 66071,
+   "raw": "Đô thị hiện đại, chú trọng kiến trúc xanh &amp; không gian mở",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s052"
+  },
+  {
+   "tu": 66094,
+   "den": 66168,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">energy_savings_leaf</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s053"
+  },
+  {
+   "tu": 66177,
+   "den": 66197,
+   "raw": "Hiệu suất năng lượng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s054"
+  },
+  {
+   "tu": 66206,
+   "den": 66312,
+   "raw": "Đạt chứng nhận Năng lượng hạng A (Class A) với hệ thống pin năng lượng mặt trời đấu nối riêng từng căn hộ.",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s055"
+  },
+  {
+   "tu": 66407,
+   "den": 66454,
+   "raw": "Không gian sống khép kín &amp; Tiện ích nội khu",
+   "loai": "h3",
+   "lop": "imm4-amen__sub",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s056"
+  },
+  {
+   "tu": 66492,
+   "den": 66574,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">pool</span><strong>Hồ bơi</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s057"
+  },
+  {
+   "tu": 66583,
+   "den": 66696,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">local_parking</span><strong>Bãi đỗ xe &amp; Cổng điện tử</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s058"
+  },
+  {
+   "tu": 66705,
+   "den": 66834,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">security</span><strong>Hệ thống Smart Home &amp; báo chống trộm từng căn</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s059"
+  },
+  {
+   "tu": 66843,
+   "den": 66975,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">videocam</span><strong>Hệ thống chuông cửa màn hình và hệ thống camera CCTV</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s060"
+  },
+  {
+   "tu": 67319,
+   "den": 67366,
+   "raw": "Chủ đầu tư &amp;<br> <em>đơn vị phát triển</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s061"
+  },
+  {
+   "tu": 67410,
+   "den": 67475,
+   "raw": "Cybarco – Nhà phát triển bất động sản danh tiếng hàng đầu tại Síp",
+   "loai": "p",
+   "lop": "imm4-dev__lead imm4-reveal",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s062"
+  },
+  {
+   "tu": 67522,
+   "den": 67608,
+   "raw": "<span class=\"imm4-dev__badge\" aria-hidden=\"true\">diamond</span>Năng lực và kinh nghiệm",
+   "loai": "h3",
+   "lop": "imm4-dev__eyebrow imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s063"
+  },
+  {
+   "tu": 67658,
+   "den": 67725,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">verified_user</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s064"
+  },
+  {
+   "tu": 67730,
+   "den": 67778,
+   "raw": "<strong>Hơn 80 năm kinh nghiệm bền vững</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s065"
+  },
+  {
+   "tu": 67781,
+   "den": 67907,
+   "raw": "Thành lập từ năm 1945, Cybarco là thành viên cốt lõi của Lanitis Group – tập đoàn kinh tế tư nhân uy tín hàng đầu Cộng hòa Síp",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s066"
+  },
+  {
+   "tu": 67927,
+   "den": 67990,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">apartment</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s067"
+  },
+  {
+   "tu": 67995,
+   "den": 68032,
+   "raw": "<strong>Biểu tượng kiến trúc</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s068"
+  },
+  {
+   "tu": 68035,
+   "den": 68159,
+   "raw": "Đơn vị đứng sau các dự án biểu tượng quốc gia như Limassol Marina, Trilogy Limassol Seafront, The Oval, Akamas Bay Villas...",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s069"
+  },
+  {
+   "tu": 68179,
+   "den": 68242,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">handshake</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s070"
+  },
+  {
+   "tu": 68247,
+   "den": 68280,
+   "raw": "<strong>Dịch vụ trọn gói</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s071"
+  },
+  {
+   "tu": 68283,
+   "den": 68394,
+   "raw": "Cam kết chất lượng xây dựng vượt trội cùng dịch vụ quản lý tài sản, hỗ trợ cho thuê chuyên nghiệp sau bàn giao.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s072"
+  },
+  {
+   "tu": 68505,
+   "den": 68520,
+   "raw": "Dự án tiêu biểu",
+   "loai": "h3",
+   "lop": "imm4-dev__projects-title imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s073"
+  },
+  {
+   "tu": 68808,
+   "den": 68867,
+   "raw": "<span class=\"imm4-dev__title-link\">Aktea Residence 4</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s074"
+  },
+  {
+   "tu": 69102,
+   "den": 69159,
+   "raw": "<span class=\"imm4-dev__title-link\">Seaview Heights</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s075"
+  },
+  {
+   "tu": 69400,
+   "den": 69457,
+   "raw": "<span class=\"imm4-dev__title-link\">Centro Limassol</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s076"
+  },
+  {
+   "tu": 69710,
+   "den": 69766,
+   "raw": "<span class=\"imm4-dev__title-link\">Park Residence</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s077"
+  },
+  {
+   "tu": 70007,
+   "den": 70047,
+   "raw": "Tiến độ dự án <em>Aktea Residence 4</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s078"
+  },
+  {
+   "tu": 70136,
+   "den": 70179,
+   "raw": "<strong>Đang cập nhật</strong><span></span>",
+   "loai": "p",
+   "lop": "imm4-milestone is-current",
+   "the": "article",
+   "ngu_canh": "",
+   "id": "s079"
+  },
+  {
+   "tu": 70227,
+   "den": 70340,
+   "raw": "Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.",
+   "loai": "p",
+   "lop": "imm4-progress-note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s080"
+  },
+  {
+   "tu": 70672,
+   "den": 70896,
+   "raw": "Sở hữu <strong>bất động sản Cộng Hòa Síp</strong> không chỉ là một tài sản sinh lời và tích sản an toàn bằng ngoại tệ. Việc sở hữu bất động sản Aktea Residence 4 còn mở ra đặc quyền thường trú châu Âu vô giá cho cả gia đình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s081"
+  },
+  {
+   "tu": 70959,
+   "den": 71023,
+   "raw": "Lộ trình thường trú nhân<br> <em>vĩnh viễn tại Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s082"
+  },
+  {
+   "tu": 71165,
+   "den": 71197,
+   "raw": "Đầu tư bất động sản đủ điều kiện",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s083"
+  },
+  {
+   "tu": 71205,
+   "den": 71264,
+   "raw": "Giá trị đầu tư từ 300.000 EUR + VAT, mua mới từ chủ đầu tư.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s084"
+  },
+  {
+   "tu": 71317,
+   "den": 71331,
+   "raw": "Chuẩn bị hồ sơ",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s085"
+  },
+  {
+   "tu": 71339,
+   "den": 71469,
+   "raw": "Hồ sơ có thể gồm nhà đầu tư cùng vợ/chồng và con phụ thuộc. Ngoài sở hữu bất động sản, cần chứng minh có đủ mức thu nhập hàng năm.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s086"
+  },
+  {
+   "tu": 71522,
+   "den": 71557,
+   "raw": "Trở thành thường trú nhân vĩnh viễn",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s087"
+  },
+  {
+   "tu": 71565,
+   "den": 71619,
+   "raw": "Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s088"
+  },
+  {
+   "tu": 71689,
+   "den": 71790,
+   "raw": "Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp hoặc quyền sinh sống, làm việc tại toàn bộ EU.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s089"
+  },
+  {
+   "tu": 72107,
+   "den": 72156,
+   "raw": "Lợi thế thường trú nhân<br> <em>Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s090"
+  },
+  {
+   "tu": 72192,
+   "den": 72228,
+   "raw": "Quyền lợi khi có thường trú nhân Síp",
+   "loai": "p",
+   "lop": "imm4-rights__intro",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s091"
+  },
+  {
+   "tu": 72350,
+   "den": 72378,
+   "raw": "<span>holiday_village</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s092"
+  },
+  {
+   "tu": 72414,
+   "den": 72416,
+   "raw": "01",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s093"
+  },
+  {
+   "tu": 72427,
+   "den": 72453,
+   "raw": "Sinh sống tại Cộng Hòa Síp",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s094"
+  },
+  {
+   "tu": 72467,
+   "den": 72545,
+   "raw": "Nhà đầu tư và gia đình được sinh sống, học tập và kinh doanh tại Cộng Hòa Síp.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s095"
+  },
+  {
+   "tu": 72554,
+   "den": 72647,
+   "raw": "Được tiếp cận môi trường sống tiêu chuẩn châu Âu, khí hậu Địa Trung Hải và cộng đồng quốc tế.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s096"
+  },
+  {
+   "tu": 72748,
+   "den": 72795,
+   "raw": "<span>school</span><span>business_center</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s097"
+  },
+  {
+   "tu": 72831,
+   "den": 72833,
+   "raw": "02",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s098"
+  },
+  {
+   "tu": 72844,
+   "den": 72872,
+   "raw": "Giáo dục, kinh doanh và thuế",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s099"
+  },
+  {
+   "tu": 72886,
+   "den": 72934,
+   "raw": "Hệ thống giáo dục chịu ảnh hưởng chuẩn Anh Quốc.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s100"
+  },
+  {
+   "tu": 72943,
+   "den": 73028,
+   "raw": "Môi trường kinh doanh minh bạch; thuế doanh nghiệp 12,5% (đối chiếu ngày 18/08/2026).",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s101"
+  },
+  {
+   "tu": 73037,
+   "den": 73132,
+   "raw": "Chính sách thuế cá nhân phụ thuộc tình trạng cư trú thuế, nguồn thu nhập và quy định hiện hành.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s102"
+  },
+  {
+   "tu": 73251,
+   "den": 73297,
+   "raw": "<span>verified_user</span><span>license</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s103"
+  },
+  {
+   "tu": 73333,
+   "den": 73335,
+   "raw": "03",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s104"
+  },
+  {
+   "tu": 73346,
+   "den": 73371,
+   "raw": "Lưu ý về quyền thường trú",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s105"
+  },
+  {
+   "tu": 73385,
+   "den": 73467,
+   "raw": "Quyền làm việc, kinh doanh và hưởng chính sách thuế cần xét theo điều kiện cụ thể.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s106"
+  },
+  {
+   "tu": 73476,
+   "den": 73531,
+   "raw": "Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s107"
+  },
+  {
+   "tu": 73540,
+   "den": 73697,
+   "raw": "Quyền sinh sống, làm việc tại các nước EU khác chỉ phát sinh khi nhà đầu tư có quốc tịch EU hoặc giấy phép cư trú, giấy phép làm việc hợp lệ tại quốc gia đó.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s108"
+  },
+  {
+   "tu": 73809,
+   "den": 73836,
+   "raw": "Lộ trình nhập quốc tịch Síp",
+   "loai": "h3",
+   "lop": "imm4-citizen-route__title",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s109"
+  },
+  {
+   "tu": 73971,
+   "den": 74009,
+   "raw": "Sở hữu quyền thường trú vĩnh viễn (PR)",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s110"
+  },
+  {
+   "tu": 74017,
+   "den": 74098,
+   "raw": "Gia hạn thẻ thường trú (vật lý) mỗi 5 năm với điều kiện còn duy trì bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s111"
+  },
+  {
+   "tu": 74205,
+   "den": 74241,
+   "raw": "Đáp ứng điều kiện cư trú và ngôn ngữ",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s112"
+  },
+  {
+   "tu": 74249,
+   "den": 74365,
+   "raw": "Cư trú thực tế tối thiểu 8 năm trong vòng 11 năm. Đạt trình độ tiếng Hy Lạp B1 và đạt bài kiểm tra hội nhập văn hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s113"
+  },
+  {
+   "tu": 74472,
+   "den": 74483,
+   "raw": "Công dân EU",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s114"
+  },
+  {
+   "tu": 74491,
+   "den": 74564,
+   "raw": "Cho phép đa tịch. Sở hữu Hộ chiếu Síp – Tự do di chuyển hơn 170 quốc gia.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s115"
+  },
+  {
+   "tu": 74831,
+   "den": 74914,
+   "raw": "Nhận tư vấn dự án Aktea Residence 4 &amp; <br><em>lộ trình thường trú nhân Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s116"
+  },
+  {
+   "tu": 75018,
+   "den": 75032,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "btn-primary link-to imm4-consult__button",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s117"
+  },
+  {
+   "tu": 75217,
+   "den": 75302,
+   "raw": "Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s118"
+  },
+  {
+   "tu": 75311,
+   "den": 75380,
+   "raw": "Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s119"
+  },
+  {
+   "tu": 75428,
+   "den": 75501,
+   "raw": "<span class=\"imm4-consult__notice-icon\" aria-hidden=\"true\">balance</span>",
+   "loai": "p",
+   "lop": "imm4-consult__notice",
+   "the": "aside",
+   "ngu_canh": "",
+   "id": "s120"
+  },
+  {
+   "tu": 75511,
+   "den": 75526,
+   "raw": "Lưu ý thông tin",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s121"
+  },
+  {
+   "tu": 75534,
+   "den": 75678,
+   "raw": "Thông tin trên trang này nhằm cung cấp tổng quan về dự án Aktea Residence 4, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s122"
+  },
+  {
+   "tu": 75939,
+   "den": 75946,
+   "raw": "&times;",
+   "loai": "cta",
+   "lop": "imm4-icon-btn",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s123"
+  },
+  {
+   "tu": 76065,
+   "den": 76143,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_left</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__prev",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s124"
+  },
+  {
+   "tu": 76307,
+   "den": 76386,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_right</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__next",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s125"
+  }
+ ]
+}

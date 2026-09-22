@@ -1,0 +1,51 @@
+[s003] A premium apartment project in the heart of Limassol's old town, a short walk from the sea.
+[s005] {1}{2}euro_symbol{/2}Starting price{/1}**From €350,000**
+[s006] {1}{2}event{/2}Expected completion{/1}**March 2028**
+[s018] Centro Limassol {1}·{/1} Central Limassol {2}·{/2} Cyprus
+[s021] Everything you need within a short drive
+[s023] In the heart of the busiest business and financial city in Cyprus
+[s024] Seafront and marina
+[s025] 1 km from the seafront and a few minutes from the landmark Limassol Marina superyacht berth.
+[s026] Culture and leisure
+[s027] Close to the old town, Limassol Castle, the pedestrian streets, restaurants, cafés, and premium fashion stores
+[s028] City amenities
+[s029] Close to international-standard casinos, an 18-hole golf course, international schools, and hospitals
+[s030] Premium apartments in {1}Limassol{/1}
+[s031] Limassol is the financial, commercial, and tourism center of Cyprus, home to an international business community, modern infrastructure, and an energetic Mediterranean city life.
+[s032] A mid-sized premium apartment development that puts privacy, contemporary architecture, and greenery first.
+[s033] Bought new from the developer, the property fully meets the investment condition for permanent residence (PR) in Cyprus for your whole family.
+[s034] A core central location places the property within reach of both long-term and short-term rental demand in Limassol.
+[s038] Central Limassol, Cyprus
+[s040] Premium 1- and 2-bedroom apartments
+[s042] 60 apartments
+[s043] Handover specification
+[s044] premium finishes, with underfloor heating, ducted and split air conditioning, and a kitchen and appliances imported from Europe
+[s046] From €350,000
+[s050] Expected March 2028
+[s056] Modern urban design with refined minimalism
+[s059] A dedicated rooftop level built to resort standard.
+[s062] Class A energy rating, with a solar panel system
+[s064] {1}pool{/1}**Rooftop infinity pool**
+[s065] {1}fitness_center{/1}**Outdoor gym**
+[s066] {1}weekend{/1}**Lounge and relaxation areas**
+[s067] {1}ev_station{/1}**Parking and EV charging**
+[s068] {1}yard{/1}**Landscaped grounds and quiet gardens**
+[s069] {1}videocam{/1}**Electronic access control and CCTV throughout the development**
+[s070] {1}door_front{/1}**Fire-rated apartment security doors and video door entry**
+[s071] {1}heat_pump{/1}**Modern underfloor heating linked to a heat pump, with reversible split-unit air conditioning**
+[s072] The developer &{br} {1}its track record{/1}
+[s073] Cybarco — an established property developer in Cyprus
+[s076] More than 80 years of experience
+[s077] Founded in 1945, Cybarco is a core member of the Lanitis Group, a long-established private business group in Cyprus
+[s079] Landmark architecture
+[s080] The developer behind national landmarks such as Limassol Marina, Trilogy Limassol Seafront, The Oval, and Akamas Bay Villas.
+[s081] handshake
+[s082] End-to-end service
+[s083] A commitment to build quality, with property management and letting support after handover.
+[s089] {1}Centro Limassol{/1} project timeline
+[s092] **Cyprus real estate** can be more than an income-producing asset and a store of value held in a foreign currency. Owning at Centro Limassol also opens a route to European residence for your whole family.
+[s104] 01
+[s109] 02
+[s115] 03
+[s127] Talk to us about Centro Limassol & {br}{1}the Cyprus permanent residence route{/1}
+[s133] The information on this page provides an overview of the Centro Limassol project. It is not legal, securities, or personalized investment advice.

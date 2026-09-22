@@ -1,0 +1,7 @@
+# Soát song ngữ — Centro Limassol (B5)
+
+Đối chiếu `song-ngu.tsv` cột `vi`/`en` từng dòng (s001–s133), kiểm thẻ giữ chỗ bằng script (0 lệch thẻ), đối chiếu `thuat-ngu/thuat-ngu.csv` và `brief.md`.
+
+- **s092 · NẶNG** — vi: "...mở ra **đặc quyền thường trú châu Âu** vô giá cho cả gia đình." dịch thành "...opens a route to **European residence** for your whole family." Đoạn này nằm trong khối s092–s100 mà brief xếp **dịch sát** (lộ trình PR), nhưng "European residence" mâu thuẫn ngay với chính trang: s093/s101 đều ghi "**Cyprus** permanent residence", và s100 nói rõ "Cyprus permanent residence... does not give the right to live or work across the whole EU". Dùng "European residence" ở đây tạo cảm giác quyền cư trú rộng khắp châu Âu — lời hứa vượt nguồn/rủi ro tuân thủ (style guide mục 3), đồng thời lệch khỏi cách dùng nhất quán "permanent residence in Cyprus" mà trang chị em (Elysia Blu, theo gợi ý TM 94%) đã dùng. Đã ghi bản sửa trong `sua-song-ngu.txt`.
+
+Không phát hiện thêm lỗi NẶNG/VỪA khác: số liệu (€350,000 / €300,000+VAT / 60 căn / tháng 3/2028 / 12.5% / 8 năm trong 11 năm / B1), thuật ngữ ("permanent residence/resident", "Cypriot (EU) citizenship"), tên riêng (Cybarco, Lanitis Group, Limassol Marina...), và toàn bộ tên icon Material Symbols (giữ nguyên đúng quy định) đều khớp. Các chỗ bớt tính từ quảng cáo ("hàng đầu", "danh tiếng", "an toàn", "vượt trội") ở s031/s073/s077/s083/s092 là làm mềm đúng style guide mục 1/3, không phải lỗi dịch.

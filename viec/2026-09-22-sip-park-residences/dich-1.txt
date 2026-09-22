@@ -1,0 +1,52 @@
+[s003] A boutique collection of premium apartments in Nicosia, where city life meets quiet green space.
+[s006] {1}{2}event{/2}Expected completion{/1}**June 2027**
+[s018] Park Residence {1}·{/1} Acropolis, Nicosia {2}·{/2} Cyprus
+[s021] Everything central Nicosia offers is within a 10-minute drive:
+[s022] Government and administration
+[s023] Close to the Presidential Palace and the main government offices.
+[s024] International schools
+[s025] Within reach of well-known international schools such as The English School, The Junior School, and Acropolis High School.
+[s026] Healthcare and sport
+[s027] Close to Makario Children's Hospital, the Strovolos Municipal Sports Centre, and the Central Park Football Fields.
+[s028] Green space
+[s029] Next to Ayios Demetrios Park, with walking paths, children's playgrounds, and a row of cafés.
+[s030] Premium apartments in {1}Nicosia, the capital{/1}
+[s031] At the heart of the capital: Nicosia is the administrative, business, and education center of Cyprus, and a settled place to live over the long term.
+[s032] A one-off piece of architecture: just 12 spacious apartments (2- and 3-bedroom), designed by the architect Michael Cosmas to make the most of privacy and space.
+[s033] Meets the conditions for Cyprus permanent residence: bought new and directly from the developer, the property meets the investment condition for permanent residence (PR) in Cyprus for your whole family.
+[s034] A cleaner setting: the building sits in a pocket of greenery, balancing city life with quiet privacy.
+[s038] Acropolis, Nicosia, Cyprus
+[s040] Premium 2- and 3-bedroom apartments
+[s042] A 4-story boutique apartment building with 12 apartments in total
+[s043] Architecture
+[s044] Michael Cosmas Architects
+[s045] Handover specification
+[s046] Premium finishes: split and ducted air conditioning, hydronic underfloor heating, imported kitchen appliances, natural wood flooring in the bedrooms, a smart home system, and solar panels dedicated to each unit
+[s048] Cybarco (part of the Lanitis Group)
+[s054] Modern urban design with refined minimalism (Modern Urban Elegance).
+[s056] Build quality
+[s057] Careful attention to the finishes, using marble and premium natural timber.
+[s058] A self-contained community and on-site amenities
+[s059] {1}local_parking{/1}**Parking: 1 covered space for 2-bedroom units and 2 spaces for 3-bedroom units**
+[s060] {1}ev_station{/1}**EV charging point and solar panels**
+[s061] {1}devices{/1}**Smart home technology**
+[s062] {1}doorbell{/1}**Video door entry**
+[s063] {1}sensors{/1}**Motion-sensor intruder alarm**
+[s064] {1}videocam{/1}**CCTV on the ground floor**
+[s065] Park Residences Nicosia raises the standard of city living, where modern comfort sits alongside clean, open greenery.
+[s066] The developer &{br} {1}its track record{/1}
+[s067] Cybarco — an established property developer in Cyprus
+[s070] More than 80 years of experience
+[s071] Founded in 1945, Cybarco is a core member of the Lanitis Group, a long-established private business group in Cyprus
+[s073] Landmark architecture
+[s074] The developer behind national landmarks such as Limassol Marina, Trilogy Limassol Seafront, The Oval, and Akamas Bay Villas.
+[s075] handshake
+[s076] End-to-end service
+[s077] A commitment to build quality, with property management and letting support after handover.
+[s083] {1}Park Residence{/1} project timeline
+[s086] **Cyprus real estate** can be more than an income-producing asset and a store of value held in a foreign currency. Owning at Park Residence also opens a route to European residence for your whole family.
+[s098] 01
+[s103] 02
+[s109] 03
+[s121] Talk to us about Park Residence & {br}{1}the Cyprus permanent residence route{/1}
+[s127] The information on this page provides an overview of the Park Residence project. It is not legal, securities, or personalized investment advice.

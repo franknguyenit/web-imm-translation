@@ -1,0 +1,1306 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/template-bds-imm/du-an/sip__park-residences/dist/sip__park-residences.html",
+ "truong_json": null,
+ "doan": [
+  {
+   "tu": 55713,
+   "den": 55753,
+   "raw": "Bất động sản Cộng Hòa Síp | Dự án căn hộ",
+   "loai": "p",
+   "lop": "imm4-hero__status",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 55783,
+   "den": 55797,
+   "raw": "Park Residence",
+   "loai": "h1",
+   "lop": "",
+   "the": "h1",
+   "ngu_canh": "",
+   "id": "s002"
+  },
+  {
+   "tu": 55830,
+   "den": 55933,
+   "raw": "Căn hộ boutique cao cấp tại thủ đô Nicosia, hòa quyện giữa nhịp sống đô thị và không gian xanh yên bình",
+   "loai": "p",
+   "lop": "imm4-hero__lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s003"
+  },
+  {
+   "tu": 56020,
+   "den": 56034,
+   "raw": "YÊU CẦU TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s004"
+  },
+  {
+   "tu": 57160,
+   "den": 57303,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">euro_symbol</i>Giá khởi điểm</span><strong>Từ 320.000 EUR</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s005"
+  },
+  {
+   "tu": 57366,
+   "den": 57506,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">event</i>Dự kiến hoàn thành</span><strong>Tháng 6/2027</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-1",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s006"
+  },
+  {
+   "tu": 57569,
+   "den": 57700,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">apartment</i>Chủ đầu tư</span><strong>Cybarco</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-2",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s007"
+  },
+  {
+   "tu": 57900,
+   "den": 57914,
+   "raw": "Park Residence",
+   "loai": "cta",
+   "lop": "imm4-anchor__name",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s008"
+  },
+  {
+   "tu": 57971,
+   "den": 57985,
+   "raw": "Hình ảnh dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s009"
+  },
+  {
+   "tu": 58007,
+   "den": 58027,
+   "raw": "Vị trí &amp; kết nối",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s010"
+  },
+  {
+   "tu": 58052,
+   "den": 58067,
+   "raw": "Tổng quan dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s011"
+  },
+  {
+   "tu": 58091,
+   "den": 58114,
+   "raw": "Thiết kế &amp; tiện ích",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s012"
+  },
+  {
+   "tu": 58137,
+   "den": 58159,
+   "raw": "Nhà phát triển Cybarco",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s013"
+  },
+  {
+   "tu": 58182,
+   "den": 58195,
+   "raw": "Tiến độ dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s014"
+  },
+  {
+   "tu": 58219,
+   "den": 58243,
+   "raw": "Lộ trình thường trú nhân",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s015"
+  },
+  {
+   "tu": 58266,
+   "den": 58289,
+   "raw": "Lợi thế thường trú nhân",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s016"
+  },
+  {
+   "tu": 60167,
+   "den": 60224,
+   "raw": "Vị trí chiến lược &amp;<br> <em>Tiềm năng thị trường</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s017"
+  },
+  {
+   "tu": 60495,
+   "den": 60620,
+   "raw": "Park Residence <span aria-hidden=\"true\">·</span> Khu Acropolis, Thủ đô Nicosia <span aria-hidden=\"true\">·</span> Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "imm4-map__meta",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s018"
+  },
+  {
+   "tu": 60737,
+   "den": 60825,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">location_on</span>Google Maps",
+   "loai": "cta",
+   "lop": "imm4-map__link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s019"
+  },
+  {
+   "tu": 60914,
+   "den": 60932,
+   "raw": "Kết nối thuận tiện",
+   "loai": "p",
+   "lop": "imm4-loc__eyebrow",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s020"
+  },
+  {
+   "tu": 60967,
+   "den": 61042,
+   "raw": "Di chuyển chỉ trong vòng 10 phút đến mọi tiện ích trung tâm thủ đô Nicosia:",
+   "loai": "h3",
+   "lop": "imm4-loc__heading",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s021"
+  },
+  {
+   "tu": 61083,
+   "den": 61117,
+   "raw": "Cơ quan hành chính &amp; Chính trị",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s022"
+  },
+  {
+   "tu": 61125,
+   "den": 61191,
+   "raw": "Gần Phủ Tổng thống (Presidential Palace) và các cơ quan chính phủ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s023"
+  },
+  {
+   "tu": 61208,
+   "den": 61225,
+   "raw": "Giáo dục hàng đầu",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s024"
+  },
+  {
+   "tu": 61233,
+   "den": 61337,
+   "raw": "Tiếp cận các trường quốc tế danh tiếng như The English School, The Junior School, Acropolis High School,",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s025"
+  },
+  {
+   "tu": 61354,
+   "den": 61373,
+   "raw": "Y tế &amp; Thể thao",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s026"
+  },
+  {
+   "tu": 61381,
+   "den": 61506,
+   "raw": "Gần Bệnh viện Nhi Makario, Trung tâm Thể thao Strovolos Municipal Sports Centre và cụm sân bóng Central Park Football Fields.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s027"
+  },
+  {
+   "tu": 61523,
+   "den": 61538,
+   "raw": "Không gian xanh",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s028"
+  },
+  {
+   "tu": 61546,
+   "den": 61652,
+   "raw": "Liền kề công viên Ayios Demetrios Park, các đường dạo bộ, khu vui chơi trẻ em và chuỗi quán cafe thư giãn.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s029"
+  },
+  {
+   "tu": 61922,
+   "den": 61967,
+   "raw": "Căn hộ cao cấp tại – <em>thủ đô Nicossia</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s030"
+  },
+  {
+   "tu": 61999,
+   "den": 62165,
+   "raw": "Trái tim trung tâm thủ đô: Tọa lạc tại Nicosia – trung tâm hành chính, kinh tế và giáo dục của Cộng Hòa Síp, nơi mang lại môi trường sống văn minh và ổn định lâu dài.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s031"
+  },
+  {
+   "tu": 62172,
+   "den": 62352,
+   "raw": "Thiết kế Kiến trúc Độc bản: Dự án gồm duy nhất 12 căn hộ rộng rãi (2 và 3 phòng ngủ), được thiết kế bởi kiến trúc sư nổi tiếng Michael Cosmas, tối ưu hóa sự riêng tư và sang trọng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s032"
+  },
+  {
+   "tu": 62359,
+   "den": 62531,
+   "raw": "Đáp ứng điều kiện Thường trú nhân Síp: Bất động sản mua trực tiếp từ Chủ đầu tư, thỏa mãn hoàn toàn điều kiện đầu tư lấy Thường trú nhân vĩnh viễn (PR) Síp cho cả gia đình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s033"
+  },
+  {
+   "tu": 62538,
+   "den": 62658,
+   "raw": "Môi trường sống trong lành: Nằm giữa ốc đảo xanh tươi mát, hài hòa giữa sự năng động của đô thị và sự riêng tư yên bình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s034"
+  },
+  {
+   "tu": 62778,
+   "den": 62792,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s035"
+  },
+  {
+   "tu": 63020,
+   "den": 63039,
+   "raw": "Bảng thông số dự án",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s036"
+  },
+  {
+   "tu": 63053,
+   "den": 63059,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s037"
+  },
+  {
+   "tu": 63068,
+   "den": 63111,
+   "raw": "Khu Acropolis, Thủ đô Nicosia, Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s038"
+  },
+  {
+   "tu": 63120,
+   "den": 63129,
+   "raw": "Loại hình",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s039"
+  },
+  {
+   "tu": 63138,
+   "den": 63169,
+   "raw": "Căn hộ cao cấp 2 và 3 phòng ngủ",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s040"
+  },
+  {
+   "tu": 63178,
+   "den": 63190,
+   "raw": "Quy mô dự án",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s041"
+  },
+  {
+   "tu": 63199,
+   "den": 63254,
+   "raw": "Tòa tháp căn hộ boutique 4 tầng với tổng cộng 12 căn hộ",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s042"
+  },
+  {
+   "tu": 63263,
+   "den": 63281,
+   "raw": "Thiết kế kiến trúc",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s043"
+  },
+  {
+   "tu": 63290,
+   "den": 63315,
+   "raw": "Michael Cosmas Architects",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s044"
+  },
+  {
+   "tu": 63324,
+   "den": 63343,
+   "raw": "Tiêu chuẩn bàn giao",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s045"
+  },
+  {
+   "tu": 63352,
+   "den": 63536,
+   "raw": "Hoàn thiện cao cấp: Hệ thống điều hòa split/âm trần, sưởi sàn thủy lực, thiết bị bếp nhập khẩu, sàn gỗ tự nhiên phòng ngủ, hệ thống Smart Home và pin năng lượng mặt trời riêng từng căn",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s046"
+  },
+  {
+   "tu": 63545,
+   "den": 63555,
+   "raw": "Chủ đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s047"
+  },
+  {
+   "tu": 63564,
+   "den": 63596,
+   "raw": "Cybarco (Thuộc Tập đoàn Lanitis)",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s048"
+  },
+  {
+   "tu": 63605,
+   "den": 63615,
+   "raw": "Tình trạng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s049"
+  },
+  {
+   "tu": 63624,
+   "den": 63637,
+   "raw": "Đang xây dựng",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s050"
+  },
+  {
+   "tu": 63898,
+   "den": 63944,
+   "raw": "Tiện ích &amp; Thiết kế <em>chuẩn châu Âu</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s051"
+  },
+  {
+   "tu": 64026,
+   "den": 64093,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">architecture</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s052"
+  },
+  {
+   "tu": 64102,
+   "den": 64112,
+   "raw": "Phong cách",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s053"
+  },
+  {
+   "tu": 64121,
+   "den": 64184,
+   "raw": "Đô thị hiện đại &amp; Tối giản tinh tế (Modern Urban Elegance).",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s054"
+  },
+  {
+   "tu": 64207,
+   "den": 64279,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">workspace_premium</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s055"
+  },
+  {
+   "tu": 64288,
+   "den": 64307,
+   "raw": "Chất lượng xây dựng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s056"
+  },
+  {
+   "tu": 64316,
+   "den": 64400,
+   "raw": "Chú trọng chi tiết hoàn thiện, sử dụng vật liệu đá cẩm thạch và gỗ tự nhiên cao cấp.",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s057"
+  },
+  {
+   "tu": 64495,
+   "den": 64542,
+   "raw": "Không gian sống khép kín &amp; Tiện ích nội khu",
+   "loai": "h3",
+   "lop": "imm4-amen__sub",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s058"
+  },
+  {
+   "tu": 64580,
+   "den": 64753,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">local_parking</span><strong>Bãi đỗ xe: 1 chỗ đỗ xe có mái che cho căn 2 phòng ngủ và 2 chỗ đỗ xe cho căn 3 phòng ngủ</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s059"
+  },
+  {
+   "tu": 64762,
+   "den": 64879,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">ev_station</span><strong>Cổng sạc xe điện &amp; Pin mặt trời</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s060"
+  },
+  {
+   "tu": 64888,
+   "den": 65004,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">devices</span><strong>Công nghệ nhà thông minh (Smart Home)</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s061"
+  },
+  {
+   "tu": 65013,
+   "den": 65121,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">doorbell</span><strong>Chuông cửa màn hình hình ảnh</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s062"
+  },
+  {
+   "tu": 65130,
+   "den": 65258,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">sensors</span><strong>Hệ thống báo động chống trộm cảm biến chuyển động</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s063"
+  },
+  {
+   "tu": 65267,
+   "den": 65377,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">videocam</span><strong>Hệ thống camera CCTV tầng trệt</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s064"
+  },
+  {
+   "tu": 65466,
+   "den": 65587,
+   "raw": "Park Residences Nicosia nâng tầm chuẩn mực sống đô thị, nơi mọi tiện nghi hiện đại hòa quyện cùng thiên nhiên trong lành.",
+   "loai": "p",
+   "lop": "imm4-amen__note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s065"
+  },
+  {
+   "tu": 65842,
+   "den": 65889,
+   "raw": "Chủ đầu tư &amp;<br> <em>đơn vị phát triển</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s066"
+  },
+  {
+   "tu": 65933,
+   "den": 65998,
+   "raw": "Cybarco – Nhà phát triển bất động sản danh tiếng hàng đầu tại Síp",
+   "loai": "p",
+   "lop": "imm4-dev__lead imm4-reveal",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s067"
+  },
+  {
+   "tu": 66045,
+   "den": 66131,
+   "raw": "<span class=\"imm4-dev__badge\" aria-hidden=\"true\">diamond</span>Năng lực và kinh nghiệm",
+   "loai": "h3",
+   "lop": "imm4-dev__eyebrow imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s068"
+  },
+  {
+   "tu": 66181,
+   "den": 66248,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">verified_user</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s069"
+  },
+  {
+   "tu": 66253,
+   "den": 66301,
+   "raw": "<strong>Hơn 80 năm kinh nghiệm bền vững</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s070"
+  },
+  {
+   "tu": 66304,
+   "den": 66430,
+   "raw": "Thành lập từ năm 1945, Cybarco là thành viên cốt lõi của Lanitis Group – tập đoàn kinh tế tư nhân uy tín hàng đầu Cộng hòa Síp",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s071"
+  },
+  {
+   "tu": 66450,
+   "den": 66513,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">apartment</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s072"
+  },
+  {
+   "tu": 66518,
+   "den": 66555,
+   "raw": "<strong>Biểu tượng kiến trúc</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s073"
+  },
+  {
+   "tu": 66558,
+   "den": 66682,
+   "raw": "Đơn vị đứng sau các dự án biểu tượng quốc gia như Limassol Marina, Trilogy Limassol Seafront, The Oval, Akamas Bay Villas...",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s074"
+  },
+  {
+   "tu": 66702,
+   "den": 66765,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">handshake</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s075"
+  },
+  {
+   "tu": 66770,
+   "den": 66803,
+   "raw": "<strong>Dịch vụ trọn gói</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s076"
+  },
+  {
+   "tu": 66806,
+   "den": 66917,
+   "raw": "Cam kết chất lượng xây dựng vượt trội cùng dịch vụ quản lý tài sản, hỗ trợ cho thuê chuyên nghiệp sau bàn giao.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s077"
+  },
+  {
+   "tu": 67028,
+   "den": 67043,
+   "raw": "Dự án tiêu biểu",
+   "loai": "h3",
+   "lop": "imm4-dev__projects-title imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s078"
+  },
+  {
+   "tu": 67323,
+   "den": 67379,
+   "raw": "<span class=\"imm4-dev__title-link\">Park Residence</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s079"
+  },
+  {
+   "tu": 67614,
+   "den": 67671,
+   "raw": "<span class=\"imm4-dev__title-link\">Seaview Heights</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s080"
+  },
+  {
+   "tu": 67912,
+   "den": 67969,
+   "raw": "<span class=\"imm4-dev__title-link\">Centro Limassol</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s081"
+  },
+  {
+   "tu": 68230,
+   "den": 68289,
+   "raw": "<span class=\"imm4-dev__title-link\">Aktea Residence 4</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s082"
+  },
+  {
+   "tu": 68530,
+   "den": 68567,
+   "raw": "Tiến độ dự án <em>Park Residence</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s083"
+  },
+  {
+   "tu": 68656,
+   "den": 68699,
+   "raw": "<strong>Đang cập nhật</strong><span></span>",
+   "loai": "p",
+   "lop": "imm4-milestone is-current",
+   "the": "article",
+   "ngu_canh": "",
+   "id": "s084"
+  },
+  {
+   "tu": 68747,
+   "den": 68860,
+   "raw": "Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.",
+   "loai": "p",
+   "lop": "imm4-progress-note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s085"
+  },
+  {
+   "tu": 69192,
+   "den": 69413,
+   "raw": "Sở hữu <strong>bất động sản Cộng Hòa Síp</strong> không chỉ là một tài sản sinh lời và tích sản an toàn bằng ngoại tệ. Việc sở hữu bất động sản Park Residence còn mở ra đặc quyền thường trú châu Âu vô giá cho cả gia đình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s086"
+  },
+  {
+   "tu": 69476,
+   "den": 69540,
+   "raw": "Lộ trình thường trú nhân<br> <em>vĩnh viễn tại Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s087"
+  },
+  {
+   "tu": 69682,
+   "den": 69714,
+   "raw": "Đầu tư bất động sản đủ điều kiện",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s088"
+  },
+  {
+   "tu": 69722,
+   "den": 69781,
+   "raw": "Giá trị đầu tư từ 300.000 EUR + VAT, mua mới từ chủ đầu tư.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s089"
+  },
+  {
+   "tu": 69834,
+   "den": 69848,
+   "raw": "Chuẩn bị hồ sơ",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s090"
+  },
+  {
+   "tu": 69856,
+   "den": 69986,
+   "raw": "Hồ sơ có thể gồm nhà đầu tư cùng vợ/chồng và con phụ thuộc. Ngoài sở hữu bất động sản, cần chứng minh có đủ mức thu nhập hàng năm.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s091"
+  },
+  {
+   "tu": 70039,
+   "den": 70074,
+   "raw": "Trở thành thường trú nhân vĩnh viễn",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s092"
+  },
+  {
+   "tu": 70082,
+   "den": 70136,
+   "raw": "Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s093"
+  },
+  {
+   "tu": 70206,
+   "den": 70307,
+   "raw": "Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp hoặc quyền sinh sống, làm việc tại toàn bộ EU.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s094"
+  },
+  {
+   "tu": 70624,
+   "den": 70673,
+   "raw": "Lợi thế thường trú nhân<br> <em>Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s095"
+  },
+  {
+   "tu": 70709,
+   "den": 70745,
+   "raw": "Quyền lợi khi có thường trú nhân Síp",
+   "loai": "p",
+   "lop": "imm4-rights__intro",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s096"
+  },
+  {
+   "tu": 70867,
+   "den": 70895,
+   "raw": "<span>holiday_village</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s097"
+  },
+  {
+   "tu": 70931,
+   "den": 70933,
+   "raw": "01",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s098"
+  },
+  {
+   "tu": 70944,
+   "den": 70970,
+   "raw": "Sinh sống tại Cộng Hòa Síp",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s099"
+  },
+  {
+   "tu": 70984,
+   "den": 71062,
+   "raw": "Nhà đầu tư và gia đình được sinh sống, học tập và kinh doanh tại Cộng Hòa Síp.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s100"
+  },
+  {
+   "tu": 71071,
+   "den": 71164,
+   "raw": "Được tiếp cận môi trường sống tiêu chuẩn châu Âu, khí hậu Địa Trung Hải và cộng đồng quốc tế.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s101"
+  },
+  {
+   "tu": 71265,
+   "den": 71312,
+   "raw": "<span>school</span><span>business_center</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s102"
+  },
+  {
+   "tu": 71348,
+   "den": 71350,
+   "raw": "02",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s103"
+  },
+  {
+   "tu": 71361,
+   "den": 71389,
+   "raw": "Giáo dục, kinh doanh và thuế",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s104"
+  },
+  {
+   "tu": 71403,
+   "den": 71451,
+   "raw": "Hệ thống giáo dục chịu ảnh hưởng chuẩn Anh Quốc.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s105"
+  },
+  {
+   "tu": 71460,
+   "den": 71545,
+   "raw": "Môi trường kinh doanh minh bạch; thuế doanh nghiệp 12,5% (đối chiếu ngày 18/08/2026).",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s106"
+  },
+  {
+   "tu": 71554,
+   "den": 71649,
+   "raw": "Chính sách thuế cá nhân phụ thuộc tình trạng cư trú thuế, nguồn thu nhập và quy định hiện hành.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s107"
+  },
+  {
+   "tu": 71768,
+   "den": 71814,
+   "raw": "<span>verified_user</span><span>license</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s108"
+  },
+  {
+   "tu": 71850,
+   "den": 71852,
+   "raw": "03",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s109"
+  },
+  {
+   "tu": 71863,
+   "den": 71888,
+   "raw": "Lưu ý về quyền thường trú",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s110"
+  },
+  {
+   "tu": 71902,
+   "den": 71984,
+   "raw": "Quyền làm việc, kinh doanh và hưởng chính sách thuế cần xét theo điều kiện cụ thể.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s111"
+  },
+  {
+   "tu": 71993,
+   "den": 72048,
+   "raw": "Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s112"
+  },
+  {
+   "tu": 72057,
+   "den": 72214,
+   "raw": "Quyền sinh sống, làm việc tại các nước EU khác chỉ phát sinh khi nhà đầu tư có quốc tịch EU hoặc giấy phép cư trú, giấy phép làm việc hợp lệ tại quốc gia đó.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s113"
+  },
+  {
+   "tu": 72326,
+   "den": 72353,
+   "raw": "Lộ trình nhập quốc tịch Síp",
+   "loai": "h3",
+   "lop": "imm4-citizen-route__title",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s114"
+  },
+  {
+   "tu": 72488,
+   "den": 72526,
+   "raw": "Sở hữu quyền thường trú vĩnh viễn (PR)",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s115"
+  },
+  {
+   "tu": 72534,
+   "den": 72615,
+   "raw": "Gia hạn thẻ thường trú (vật lý) mỗi 5 năm với điều kiện còn duy trì bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s116"
+  },
+  {
+   "tu": 72722,
+   "den": 72758,
+   "raw": "Đáp ứng điều kiện cư trú và ngôn ngữ",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s117"
+  },
+  {
+   "tu": 72766,
+   "den": 72882,
+   "raw": "Cư trú thực tế tối thiểu 8 năm trong vòng 11 năm. Đạt trình độ tiếng Hy Lạp B1 và đạt bài kiểm tra hội nhập văn hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s118"
+  },
+  {
+   "tu": 72989,
+   "den": 73000,
+   "raw": "Công dân EU",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s119"
+  },
+  {
+   "tu": 73008,
+   "den": 73081,
+   "raw": "Cho phép đa tịch. Sở hữu Hộ chiếu Síp – Tự do di chuyển hơn 170 quốc gia.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s120"
+  },
+  {
+   "tu": 73348,
+   "den": 73428,
+   "raw": "Nhận tư vấn dự án Park Residence &amp; <br><em>lộ trình thường trú nhân Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s121"
+  },
+  {
+   "tu": 73532,
+   "den": 73546,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "btn-primary link-to imm4-consult__button",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s122"
+  },
+  {
+   "tu": 73731,
+   "den": 73816,
+   "raw": "Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s123"
+  },
+  {
+   "tu": 73825,
+   "den": 73894,
+   "raw": "Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s124"
+  },
+  {
+   "tu": 73942,
+   "den": 74015,
+   "raw": "<span class=\"imm4-consult__notice-icon\" aria-hidden=\"true\">balance</span>",
+   "loai": "p",
+   "lop": "imm4-consult__notice",
+   "the": "aside",
+   "ngu_canh": "",
+   "id": "s125"
+  },
+  {
+   "tu": 74025,
+   "den": 74040,
+   "raw": "Lưu ý thông tin",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s126"
+  },
+  {
+   "tu": 74048,
+   "den": 74189,
+   "raw": "Thông tin trên trang này nhằm cung cấp tổng quan về dự án Park Residence, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s127"
+  },
+  {
+   "tu": 74450,
+   "den": 74457,
+   "raw": "&times;",
+   "loai": "cta",
+   "lop": "imm4-icon-btn",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s128"
+  },
+  {
+   "tu": 74576,
+   "den": 74654,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_left</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__prev",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s129"
+  },
+  {
+   "tu": 74818,
+   "den": 74897,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_right</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__next",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s130"
+  }
+ ]
+}

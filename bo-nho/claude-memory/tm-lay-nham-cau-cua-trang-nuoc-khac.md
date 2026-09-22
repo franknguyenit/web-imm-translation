@@ -29,20 +29,3 @@ thì bỏ, dịch lại"*, và nhắc riêng các đoạn nghi ngờ. Đừng ch
 template `content-product-2026` nếu chưa đọc qua từng gợi ý — nhất là các đoạn tiêu đề chung
 ("Điều kiện tham gia chương trình", "Cuộc sống tại <nước>", "Rủi ro đầu tư", "Có thể bạn quan tâm").
 Xem [[trang-chuong-trinh-chau-au-khong-dich-permanent-resident]] · [[grenada-cho-ceo-xac-nhan]].
-
-## Biến thể thứ hai: TM đúng nước, SAI THÌ và SAI TÊN BƯỚC của tỉnh bang khác (Nova Scotia, 22/09/2026)
-
-Đến trang tỉnh bang Canada thứ 7 thì bẫy đổi dạng: gợi ý TM **đúng chủ đề, đúng ngôn ngữ, nhưng sai bối cảnh**.
-
-- **Sai thì.** TM trả về câu của **Ontario** — chương trình ĐÃ ĐÓNG nên bản dịch cũ viết ở **thì quá khứ**:
-  s004 `TM 92%: "The stream **was designed** for business owners…"`, s005 `TM 94%: "Investors **had to run**…"`,
-  s045 `TM 100%: "The applicant's eligibility… **were assessed**"`. Nova Scotia **đang mở** ⇒ phải viết thì hiện tại.
-  `--tm100` sẽ lấp thẳng câu quá khứ vào một trang chương trình còn mở mà cửa 0 không bắt được.
-- **Sai tên bước.** TM trả về câu của **British Columbia**: s048 `TM 100%: "Submit your registration (EOI)"` —
-  B.C. dùng chữ *registration*, Nova Scotia dùng **EOI**; s056 `TM 100%: "Move to **BC** to invest…"`.
-- **Sai tên tài liệu.** `thuat-ngu.csv` ghi "business performance agreement **(sai)**" theo phạm vi B.C., nhưng với
-  Nova Scotia thì **Business Performance Agreement mới là đúng**. Đã tách thành hai dòng CSV theo tỉnh bang.
-
-**How to apply:** trước khi dịch một trang tỉnh bang / nước mới, kiểm **chương trình còn mở hay đã đóng** rồi mới
-đọc gợi ý TM; gợi ý `TM 100%` vẫn phải soi **thì động từ, tên tỉnh bang, tên bước hồ sơ**. Quy tắc gọn:
-*TM cho chữ, không cho bối cảnh.*

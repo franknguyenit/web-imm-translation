@@ -1,0 +1,2 @@
+[s059] {1}security{/1}**Smart home system and security alarm in every apartment**
+[s060] {1}videocam{/1}**Video intercom and CCTV**

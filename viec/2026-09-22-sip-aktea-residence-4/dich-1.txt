@@ -1,0 +1,47 @@
+[s003] Boutique premium apartments in a prime residential district of central Limassol, meeting the conditions for Cyprus permanent residence for your whole family.
+[s005] {1}{2}euro_symbol{/2}Starting price{/1}**€545,000**
+[s006] {1}{2}event{/2}Expected completion{/1}**Q4 2026**
+[s018] Aktea Residence 4 {1}·{/1} Central Limassol {2}·{/2} Cyprus
+[s020] In a quiet, prime residential district
+[s021] Everything you need within a short drive:
+[s022] Seafront and Dasoudi Beach
+[s023] 1 km from the seafront and a few minutes from the well-known Dasoudi Beach.
+[s024] Business district
+[s025] Close to landmark office buildings such as The Oval and Trilogy Limassol Seafront.
+[s026] Leisure and marina
+[s027] Near the Limassol Marina superyacht berth, Molos Sculpture Park, Limassol Castle, and the Municipal Gardens.
+[s028] Road connections
+[s029] Easy access to the motorway network linking the other cities and the international 18-hole golf resorts.
+[s030] Premium apartments in {1}Limassol{/1}
+[s031] A busy business center: Limassol is the commercial, financial, and entertainment capital of Cyprus.
+[s032] Private boutique design: a 4-story building with a limited number of apartments, for quiet, modern, self-contained living.
+[s033] Meets the conditions for Cyprus permanent residence: bought directly from the developer, the property meets the new-build investment standard for permanent residence (PR) in Cyprus for your whole family.
+[s034] Smart home technology: modern systems that improve energy performance and day-to-day comfort for the owner.
+[s038] Central Limassol, Cyprus (1 km from the sea)
+[s040] Premium 1- and 2-bedroom apartments
+[s042] A 4-story boutique apartment building
+[s043] Handover specification
+[s044] Premium finishes: VRV air conditioning, hydronic underfloor heating, kitchen appliances imported from Italy, natural wood flooring in the bedrooms, and a photovoltaic solar system dedicated to each unit
+[s046] Cybarco (part of the Lanitis Group)
+[s052] Modern urban design, with an emphasis on green architecture and open space
+[s055] Class A energy rating, with a solar panel system connected separately for each apartment.
+[s056] A self-contained community and on-site amenities
+[s058] {1}local_parking{/1}**Parking and electronic gate**
+[s059] {1}security{/1}**Smart home system and intruder alarm in every apartment**
+[s060] {1}videocam{/1}**Video door entry and CCTV**
+[s061] The developer &{br} {1}its track record{/1}
+[s062] Cybarco — an established property developer in Cyprus
+[s065] More than 80 years of experience
+[s066] Founded in 1945, Cybarco is a core member of the Lanitis Group, a long-established private business group in Cyprus
+[s068] Landmark architecture
+[s069] The developer behind national landmarks such as Limassol Marina, Trilogy Limassol Seafront, The Oval, and Akamas Bay Villas.
+[s070] handshake
+[s071] End-to-end service
+[s072] A commitment to build quality, with property management and letting support after handover.
+[s078] {1}Aktea Residence 4{/1} project timeline
+[s081] **Cyprus real estate** can be more than an income-producing asset and a store of value held in a foreign currency. Owning at Aktea Residence 4 also opens a route to European residence for your whole family.
+[s093] 01
+[s098] 02
+[s104] 03
+[s116] Talk to us about Aktea Residence 4 & {br}{1}the Cyprus permanent residence route{/1}
+[s122] The information on this page provides an overview of the Aktea Residence 4 project. It is not legal, securities, or personalized investment advice.

@@ -118,3 +118,29 @@ Mỗi việc dịch thêm điều học được. Ghi: ngày · việc · chươ
 - ⚠ Vẫn chưa có số lượt tìm kiếm; `tukhoa` tiếp tục trả 0 gợi ý vì Cowork chặn mạng dòng lệnh tới Google.
   Thay bằng `WebSearch` rồi đếm độ phủ cụm từ trong tiêu đề 8–10 đối thủ đầu.
 | 22/09/2026 | visa-uc-188a/188b/188c | Australia BIIP subclass 188 (đã đóng 31/07/2024) | AU + cả 6 (us gb au ca sg ae) | 188A Business Innovation visa · 188B Investor visa · 188C Significant Investor visa · SIV | **Úc đi theo đúng mẫu đã học ở PNP Canada: người tìm gõ MÃ DIỆN, không gõ "golden visa" hay "citizenship by investment".** Tiêu đề đối thủ chia hai nhánh: mã diện + tên stream chính thức ("Subclass 188A – Business Innovation Stream", "188C Significant Investor Stream Visa") và tên thị trường ("Australia 188B Investor Visa 2026", "Australia 188C SIV"). Lấy tên chính thức làm từ khoá chính, tên thị trường làm phụ đầu bảng. Riêng 188C có viết tắt **SIV** rất phổ biến — đáng đưa vào từ khoá phụ, khác hẳn 188A/188B không có viết tắt riêng. Nhánh phụ đáng lấy: `subclass <mã> requirements` (người tìm hỏi điều kiện) và `BIIP closure` (người tìm hỏi chương trình còn mở không). Vì chương trình đã đóng, `meta_title` ghi thẳng "Closed" và `meta_description` mở đầu bằng mốc đóng — cùng lợi thế SEO đã học ở trang Ontario. ⚠ Xếp hạng theo độ phủ tiêu đề đối thủ, chưa có số lượt tìm (tukhoa 0 gợi ý). |
+
+## Cộng Hòa Síp — mẻ 3 trang dự án BĐS cuối (Park Residence · Centro Limassol · Aktea Residence 4, 22/09/2026)
+
+- **Chín trang dự án cùng một nước ⇒ phải chia chín cụm từ khoá khác nhau.** Sau 6 trang đầu đã lấy hết
+  `cyprus permanent residency by investment` · `cyprus real estate investment` · `cyprus golden visa property` ·
+  `paphos villas for sale` · `luxury villas in cyprus for sale` · `paphos property for sale with sea views` ·
+  `cyprus property for sale with sea views`, ba trang cuối phải lùi về **trục địa phương và trục loại hàng**:
+  `nicosia apartments for sale` (thành phố chưa ai lấy) · `limassol apartments for sale` (loại hàng + thành phố) ·
+  `new build apartments in cyprus` (trục **tình trạng hàng**, không phải địa danh).
+- **Trục "new build / off-plan" là trục còn trống và hợp pháp lý nhất của mảng Síp:** diện PR chỉ nhận bất động sản
+  **mua mới từ chủ đầu tư**, nên `new build apartments in cyprus` vừa là điểm bán vừa là điều kiện. Gợi ý Google
+  phủ 6/6 thị trường cho cả `new build apartments in cyprus` và `off plan property cyprus`, và nhánh giải thích
+  (`what is off plan property`, `off-plan property meaning`, 12 lần) rất mạnh ⇒ người tìm vừa muốn danh mục vừa
+  muốn hiểu rủi ro mua nhà hình thành trong tương lai.
+- ⚠ **Bẫy Bắc Síp:** gợi ý Google trộn `off plan property north cyprus`, `new build homes north cyprus` vào cùng
+  chùm. **Loại hết** — Bắc Síp là vùng khác, không thuộc EU, không có diện PR này; kéo về trang IMM là sai đối
+  tượng và rủi ro uy tín.
+- **Nicosia là thành phố "không có biển" duy nhất của loạt** ⇒ gợi ý Google cho Nicosia nghiêng hẳn sang nhánh
+  hành chính / trường học / công viên, không có nhánh sea view. Nhánh nghi ngờ vẫn mạnh
+  (`is it a good time to buy property in cyprus`, 12 lần — cao nhất chùm).
+- **5 kết quả đầu của cả ba cụm đều là cổng rao vặt** (JamesEdition, Savills, Rightmove, Zyprus,
+  DevelopersCyprus, Cyprus-Real.Estate). Trang dự án không đấu nổi cụm trần ⇒ `meta_title` đặt **cụm từ khoá
+  trước, tên dự án sau** ("Nicosia Apartments for Sale: Park Residence | IMM Group").
+- **Hệ quả đã biết trước và chấp nhận:** cả ba trang đều nhận 2 cảnh báo cửa 0 — từ khoá chính không có nguyên
+  cụm trong H1 (H1 là **tên dự án**) và không có trong 150 chữ đầu (thân bài bị ràng buộc bởi bảng thuật ngữ).
+  Ghi lý do vào báo cáo, **không bẻ bản dịch** để nhét từ khoá.

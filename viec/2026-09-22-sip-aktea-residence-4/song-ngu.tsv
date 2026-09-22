@@ -1,0 +1,123 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	p	Bất động sản Cộng Hòa Síp | Dự án căn hộ	Cyprus real estate | Apartment project	100%: Cyprus real estate | Apartment project		acf.s001_p
+s002	h1	Aktea Residence 4	Aktea Residence 4	100%: Aktea Residence 4		acf.s002_h1
+s003	p	Căn hộ boutique cao cấp tại khu dân cư đắt giá trung tâm Limassol, đáp ứng điều kiện nhận Thường trú nhân Síp cho cả gia đình.	Premium boutique apartments in a sought-after residential district of central Limassol, qualifying under the Cyprus permanent residence route for your whole family.			acf.s003_p
+s004	cta	YÊU CẦU TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s004_cta
+s005	p	{1}{2}euro_symbol{/2}Giá khởi điểm{/1}**545.000 EUR**	{1}{2}euro_symbol{/2}Starting price{/1}**€545,000**	88%: {1}{2}euro_symbol{/2}Starting price{/1}**From €320,000**		acf.s005_p#1
+s006	p	{1}{2}event{/2}Dự kiến hoàn thành{/1}**Quý 4/2026**	{1}{2}event{/2}Expected completion{/1}**Q4 2026**	85%: {1}{2}event_available{/2}Expected completion{/1}**Q4 2028**		acf.s006_p#1
+s007	p	{1}{2}apartment{/2}Chủ đầu tư{/1}**Cybarco**	{1}{2}apartment{/2}Developer{/1}**Cybarco**	100%: {1}{2}apartment{/2}Developer{/1}**Cybarco**		acf.s007_p#1
+s008	cta	Aktea Residence 4	Aktea Residence 4	100%: Aktea Residence 4	trung:s002	acf.s008_cta
+s009	cta	Hình ảnh dự án	Project gallery	100%: Project gallery		acf.s009_cta
+s010	cta	Vị trí & kết nối	Location & connections	100%: Location & connections		acf.s010_cta#1
+s011	cta	Tổng quan dự án	Project overview	100%: Project overview		acf.s011_cta
+s012	cta	Thiết kế & tiện ích	Design & amenities	100%: Design & amenities		acf.s012_cta#1
+s013	cta	Nhà phát triển Cybarco	Developer Cybarco	100%: Developer Cybarco		acf.s013_cta
+s014	cta	Tiến độ dự án	Project timeline	100%: Project timeline		acf.s014_cta
+s015	cta	Lộ trình thường trú nhân	The permanent residence route	100%: The permanent residence route		acf.s015_cta
+s016	cta	Lợi thế thường trú nhân	Permanent residence advantages	100%: Permanent residence advantages		acf.s016_cta
+s017	h2	Vị trí chiến lược &{br} {1}Tiềm năng thị trường{/1}	A strategic location &{br} {1}market potential{/1}	100%: A strategic location &{br} {1}market potential{/1}		acf.s017_h2#1
+s018	p	Aktea Residence 4 {1}·{/1} Trung tâm Limassol {2}·{/2} Cộng Hòa Síp	Aktea Residence 4 {1}·{/1} Central Limassol {2}·{/2} Cyprus			acf.s018_p#1
+s019	cta	Google Maps	Google Maps	100%: Google Maps		acf.s019_cta#1
+s020	p	Nằm trong khu dân cư cao cấp riêng biệt	In an exclusive, upscale residential district			acf.s020_p
+s021	h3	Mọi nhu cầu sống trong bán kính di chuyển ngắn:	Everything you need within a short drive:			acf.s021_h3
+s022	h4	Bờ biển & Bãi biển Dasoudi	Seafront and Dasoudi Beach			acf.s022_h4#1
+s023	p	Chỉ cách bờ biển 1km và bãi biển Dasoudi nổi tiếng vài phút di chuyển.	Just 1 km from the seafront, and a few minutes' drive from the well-known Dasoudi Beach.			acf.s023_p
+s024	h4	Trung tâm kinh tế	Business district			acf.s024_h4
+s025	p	Tiệm cận các tòa nhà văn phòng biểu tượng như The Oval, Trilogy Limassol Seafront.	Close to landmark office buildings such as The Oval and Trilogy Limassol Seafront.			acf.s025_p
+s026	h4	Giải trí & Bến thuyền	Leisure and marina			acf.s026_h4#1
+s027	p	Nằm gần Bến thuyền siêu du thuyền Limassol Marina, Công viên Sculpture Molos, Lâu đài Cổ đại và Công viên Municipal Gardens.	Near Limassol Marina and its superyacht berths, Molos Sculpture Park, the historic castle, and the Municipal Gardens.			acf.s027_p
+s028	h4	Hạ tầng kết nối	Road connections			acf.s028_h4
+s029	p	Dễ dàng di chuyển ra mạng lưới đường cao tốc kết nối đến các thành phố khác và các khu nghỉ dưỡng golf 18 lỗ quốc tế.	Easy access to the motorway network linking Cyprus's other cities and the island's international 18-hole golf resorts.			acf.s029_p
+s030	h2	Căn hộ cao cấp tại – {1}Limassol{/1}	Premium apartments in {1}Limassol{/1}			acf.s030_h2#1
+s031	p	Trung tâm kinh tế sầm uất: Tọa lạc tại Limassol – thủ phủ thương mại, tài chính và giải trí sôi động nhất Síp.	A thriving economic hub: Limassol is Cyprus's busiest commercial, financial, and entertainment center.			acf.s031_p
+s032	p	Thiết kế Boutique riêng tư: Dự án quy mô gồm 4 tầng căn hộ với số lượng giới hạn, mang đến không gian sống yên tĩnh, hiện đại và khép kín.	Private boutique design: a 4-story building with a limited number of apartments, for quiet, modern, self-contained living.			acf.s032_p
+s033	p	Đáp ứng điều kiện Thường trú nhân Síp: Mua trực tiếp từ Chủ đầu tư, thỏa mãn tiêu chuẩn đầu tư bất động sản mua mới để lấy Thường trú nhân vĩnh viễn (PR) Síp cho cả gia đình.	Eligible for Cyprus permanent residence: bought directly from the developer, the property meets the new-build real estate investment requirement for Cyprus permanent residence (PR), which can cover your whole family.			acf.s033_p
+s034	p	Công nghệ Nhà thông minh (Smart Home): Tích hợp công nghệ hiện đại, tối ưu hiệu suất năng lượng và tính tiện nghi cho chủ sở hữu.	Smart home technology: modern systems that improve energy performance and day-to-day comfort for the owner.			acf.s034_p
+s035	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s035_cta
+s036	h3	Bảng thông số dự án	Project specifications	100%: Project specifications		acf.s036_h3
+s037	p	Vị trí	Location	100%: Location		acf.s037_p
+s038	p	Trung tâm Limassol, Cộng Hòa Síp (Cách biển 1km)	Central Limassol, Cyprus (1 km from the sea)			acf.s038_p
+s039	p	Loại hình	Property type	100%: Property type		acf.s039_p
+s040	p	Căn hộ cao cấp 1 và 2 phòng ngủ	Premium 1- and 2-bedroom apartments			acf.s040_p
+s041	p	Quy mô dự án	Project size	100%: Project size		acf.s041_p
+s042	p	Tòa tháp căn hộ boutique 4 tầng	4-story boutique apartment building			acf.s042_p
+s043	p	Tiêu chuẩn bàn giao	Handover specification			acf.s043_p
+s044	p	Hoàn thiện cao cấp: Hệ thống điều hòa VRV, sưởi sàn thủy lực, thiết bị bếp nhập khẩu từ Ý, sàn gỗ tự nhiên phòng ngủ, hệ thống pin năng lượng mặt trời Photovoltaic riêng cho từng căn	Premium finishes: VRV air conditioning, hydronic underfloor heating, kitchen appliances imported from Italy, natural wood flooring in the bedrooms, and a dedicated photovoltaic system for each unit			acf.s044_p
+s045	p	Chủ đầu tư	Developer	100%: Developer		acf.s045_p
+s046	p	Cybarco (Thuộc Tập đoàn Lanitis)	Cybarco (part of the Lanitis Group)	91%: Cybarco (part of the Lanitis Group)		acf.s046_p
+s047	p	Tình trạng	Status	100%: Status		acf.s047_p
+s048	p	Đang xây dựng	Under construction	100%: Under construction		acf.s048_p
+s049	h2	Tiện ích & Thiết kế {1}chuẩn châu Âu{/1}	Amenities & design to {1}European standards{/1}	100%: Amenities & design to {1}European standards{/1}		acf.s049_h2#1
+s050	p	architecture	architecture	100%: architecture		acf.s050_p#1
+s051	p	Phong cách	Style	100%: Style		acf.s051_p
+s052	p	Đô thị hiện đại, chú trọng kiến trúc xanh & không gian mở	Modern urban design, with an emphasis on green architecture and open space			acf.s052_p#1
+s053	p	energy_savings_leaf	energy_savings_leaf	100%: energy_savings_leaf		acf.s053_p#1
+s054	p	Hiệu suất năng lượng	Energy performance	100%: Energy performance		acf.s054_p
+s055	p	Đạt chứng nhận Năng lượng hạng A (Class A) với hệ thống pin năng lượng mặt trời đấu nối riêng từng căn hộ.	Class A energy rating, with a photovoltaic system connected separately for each apartment.			acf.s055_p
+s056	h3	Không gian sống khép kín & Tiện ích nội khu	Self-contained living and on-site amenities			acf.s056_h3#1
+s057	li	{1}pool{/1}**Hồ bơi**	{1}pool{/1}**Swimming pool**	100%: {1}pool{/1}**Swimming pool**		acf.s057_li#1
+s058	li	{1}local_parking{/1}**Bãi đỗ xe & Cổng điện tử**	{1}local_parking{/1}**Parking and electronic gate**			acf.s058_li#1
+s059	li	{1}security{/1}**Hệ thống Smart Home & báo chống trộm từng căn**	{1}security{/1}**Smart home system and security alarm in every apartment**			acf.s059_li#1
+s060	li	{1}videocam{/1}**Hệ thống chuông cửa màn hình và hệ thống camera CCTV**	{1}videocam{/1}**Video intercom and CCTV**			acf.s060_li#1
+s061	h2	Chủ đầu tư &{br} {1}đơn vị phát triển{/1}	The developer &{br} {1}its track record{/1}	100% (gắn lại thẻ {br} {1} {/1}): Developer & track record		acf.s061_h2#1
+s062	p	Cybarco – Nhà phát triển bất động sản danh tiếng hàng đầu tại Síp	Cybarco — an established property developer in Cyprus	89%: Cybarco — a developer of destination properties in Cyprus		acf.s062_p
+s063	h3	{1}diamond{/1}Năng lực và kinh nghiệm	{1}diamond{/1}Capability and experience	100%: {1}diamond{/1}Capability and experience		acf.s063_h3#1
+s064	li	verified_user	verified_user	100%: verified_user		acf.s064_li#1
+s065	p	Hơn 80 năm kinh nghiệm bền vững	More than 80 years of experience			acf.s065_p#1
+s066	p	Thành lập từ năm 1945, Cybarco là thành viên cốt lõi của Lanitis Group – tập đoàn kinh tế tư nhân uy tín hàng đầu Cộng hòa Síp	Founded in 1945, Cybarco is a core company of the Lanitis Group, a long-established private business group in Cyprus.			acf.s066_p
+s067	li	apartment	apartment	100%: apartment		acf.s067_li#1
+s068	p	Biểu tượng kiến trúc	Landmark architecture			acf.s068_p#1
+s069	p	Đơn vị đứng sau các dự án biểu tượng quốc gia như Limassol Marina, Trilogy Limassol Seafront, The Oval, Akamas Bay Villas...	The developer behind national landmarks such as Limassol Marina, Trilogy Limassol Seafront, The Oval, and Akamas Bay Villas.			acf.s069_p
+s070	li	handshake	handshake			acf.s070_li#1
+s071	p	Dịch vụ trọn gói	End-to-end service			acf.s071_p#1
+s072	p	Cam kết chất lượng xây dựng vượt trội cùng dịch vụ quản lý tài sản, hỗ trợ cho thuê chuyên nghiệp sau bàn giao.	A commitment to build quality, with property management and rental support after handover.			acf.s072_p
+s073	h3	Dự án tiêu biểu	Selected projects	100%: Selected projects		acf.s073_h3
+s074	p	Aktea Residence 4	Aktea Residence 4	100%: Aktea Residence 4	trung:s002	acf.s074_p#1
+s075	p	Seaview Heights	Seaview Heights	100%: Seaview Heights		acf.s075_p#1
+s076	p	Centro Limassol	Centro Limassol	100%: Centro Limassol		acf.s076_p#1
+s077	p	Park Residence	Park Residence	100%: Park Residence		acf.s077_p#1
+s078	h2	Tiến độ dự án {1}Aktea Residence 4{/1}	{1}Aktea Residence 4{/1} project timeline			acf.s078_h2#1
+s079	p	Đang cập nhật	Details coming soon.	100%: Details coming soon.		acf.s079_p#1
+s080	p	Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.	For current construction progress, unit availability, and project documents, please contact IMM Group.	100%: For current construction progress, unit availability, and project documents, please contact IMM Group.		acf.s080_p
+s081	p	Sở hữu **bất động sản Cộng Hòa Síp** không chỉ là một tài sản sinh lời và tích sản an toàn bằng ngoại tệ. Việc sở hữu bất động sản Aktea Residence 4 còn mở ra đặc quyền thường trú châu Âu vô giá cho cả gia đình.	**Cyprus real estate** can be more than an income-producing asset and a store of value held in euros. Owning at Aktea Residence 4 also opens a route to permanent residence in Cyprus for your whole family.	94%: **Cyprus real estate** can be more than an income-producing asset held in euros. Owning at Seaview Heights also opens a route to permanent residence in Cyprus for your whole family.		acf.s081_p#1
+s082	h2	Lộ trình thường trú nhân{br} {1}vĩnh viễn tại Cộng Hòa Síp{/1}	Your route to{br} {1}permanent residence in Cyprus{/1}	100%: Your route to{br} {1}permanent residence in Cyprus{/1}		acf.s082_h2#1
+s083	h3	Đầu tư bất động sản đủ điều kiện	A qualifying real estate purchase	100%: A qualifying real estate purchase		acf.s083_h3
+s084	p	Giá trị đầu tư từ 300.000 EUR + VAT, mua mới từ chủ đầu tư.	A qualifying property starts at €300,000 plus VAT and must be bought new from the developer.	100%: A qualifying property starts at €300,000 plus VAT and must be bought new from the developer.		acf.s084_p
+s085	h3	Chuẩn bị hồ sơ	Prepare the file	100%: Prepare the file		acf.s085_h3
+s086	p	Hồ sơ có thể gồm nhà đầu tư cùng vợ/chồng và con phụ thuộc. Ngoài sở hữu bất động sản, cần chứng minh có đủ mức thu nhập hàng năm.	The application can include you, your spouse, and your dependent children. Besides owning the property, you need to show a secured annual income.	100%: The application can include you, your spouse, and your dependent children. Besides owning the property, you need to show a secured annual income.		acf.s086_p
+s087	h3	Trở thành thường trú nhân vĩnh viễn	Become a permanent resident	100%: Become a permanent resident		acf.s087_h3
+s088	p	Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.	You need to visit Cyprus once every 2 years to keep the status.	100%: You need to visit Cyprus once every 2 years to keep the status.	"#bo-qua-so: nguồn viết ""1 lần mỗi 2 năm""; tiếng Anh ""once every 2 years"" đã gồm số 1"	acf.s088_p
+s089	p	Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp hoặc quyền sinh sống, làm việc tại toàn bộ EU.	Cyprus permanent residence is not Cypriot citizenship, and it does not give the right to live or work across the whole EU.	100%: Cyprus permanent residence is not Cypriot citizenship, and it does not give the right to live or work across the whole EU.		acf.s089_p
+s090	h2	Lợi thế thường trú nhân{br} {1}Cộng Hòa Síp{/1}	Advantages of{br} {1}Cyprus permanent residence{/1}	100%: Advantages of{br} {1}Cyprus permanent residence{/1}		acf.s090_h2#1
+s091	p	Quyền lợi khi có thường trú nhân Síp	What Cyprus permanent residence gives you	100%: What Cyprus permanent residence gives you		acf.s091_p
+s092	p	holiday_village	holiday_village	100%: holiday_village		acf.s092_p#1
+s093	p	01	01			acf.s093_p
+s094	h3	Sinh sống tại Cộng Hòa Síp	Living in Cyprus	100%: Living in Cyprus		acf.s094_h3
+s095	li	Nhà đầu tư và gia đình được sinh sống, học tập và kinh doanh tại Cộng Hòa Síp.	You and your family can live, study, and do business in Cyprus.	100%: You and your family can live, study, and do business in Cyprus.		acf.s095_li
+s096	li	Được tiếp cận môi trường sống tiêu chuẩn châu Âu, khí hậu Địa Trung Hải và cộng đồng quốc tế.	Access to a European standard of living, a Mediterranean climate, and an international community.	100%: Access to a European standard of living, a Mediterranean climate, and an international community.		acf.s096_li
+s097	p	{1}school{/1}{2}business_center{/2}	{1}school{/1}{2}business_center{/2}	100%: {1}school{/1}{2}business_center{/2}		acf.s097_p#1
+s098	p	02	02			acf.s098_p
+s099	h3	Giáo dục, kinh doanh và thuế	Education, business, and tax	100%: Education, business, and tax		acf.s099_h3
+s100	li	Hệ thống giáo dục chịu ảnh hưởng chuẩn Anh Quốc.	An education system shaped by the British model.	100%: An education system shaped by the British model.		acf.s100_li
+s101	li	Môi trường kinh doanh minh bạch; thuế doanh nghiệp 12,5% (đối chiếu ngày 18/08/2026).	A transparent business environment; corporate tax of 12.5% (as of August 18, 2026).	100%: A transparent business environment; corporate tax of 12.5% (as of August 18, 2026).		acf.s101_li
+s102	li	Chính sách thuế cá nhân phụ thuộc tình trạng cư trú thuế, nguồn thu nhập và quy định hiện hành.	Personal tax depends on your tax residence status, your sources of income, and the rules in force.	100%: Personal tax depends on your tax residence status, your sources of income, and the rules in force.		acf.s102_li
+s103	p	{1}verified_user{/1}{2}license{/2}	{1}verified_user{/1}{2}license{/2}	100%: {1}verified_user{/1}{2}license{/2}		acf.s103_p#1
+s104	p	03	03			acf.s104_p
+s105	h3	Lưu ý về quyền thường trú	Points to note about permanent residence	100%: Points to note about permanent residence		acf.s105_h3
+s106	li	Quyền làm việc, kinh doanh và hưởng chính sách thuế cần xét theo điều kiện cụ thể.	Your right to work and do business, and the tax treatment that applies, must be assessed case by case.	100%: Your right to work and do business, and the tax treatment that applies, must be assessed case by case.		acf.s106_li
+s107	li	Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp.	Cyprus permanent residence is not Cypriot citizenship.	100%: Cyprus permanent residence is not Cypriot citizenship.		acf.s107_li
+s108	li	Quyền sinh sống, làm việc tại các nước EU khác chỉ phát sinh khi nhà đầu tư có quốc tịch EU hoặc giấy phép cư trú, giấy phép làm việc hợp lệ tại quốc gia đó.	The right to live and work in other EU countries arises only if you hold EU citizenship or a valid residence permit or work permit in that country.	100%: The right to live and work in other EU countries arises only if you hold EU citizenship or a valid residence permit or work permit in that country.		acf.s108_li
+s109	h3	Lộ trình nhập quốc tịch Síp	The route to Cypriot citizenship	100%: The route to Cypriot citizenship		acf.s109_h3
+s110	h4	Sở hữu quyền thường trú vĩnh viễn (PR)	Hold permanent residence (PR)	100%: Hold permanent residence (PR)		acf.s110_h4
+s111	p	Gia hạn thẻ thường trú (vật lý) mỗi 5 năm với điều kiện còn duy trì bất động sản.	The physical permanent residence card is renewed every 5 years, provided you still own the property.	100%: The physical permanent residence card is renewed every 5 years, provided you still own the property.		acf.s111_p
+s112	h4	Đáp ứng điều kiện cư trú và ngôn ngữ	Meet the residence and language conditions	100%: Meet the residence and language conditions		acf.s112_h4
+s113	p	Cư trú thực tế tối thiểu 8 năm trong vòng 11 năm. Đạt trình độ tiếng Hy Lạp B1 và đạt bài kiểm tra hội nhập văn hóa.	At least 8 years of physical residence within an 11-year period, Greek language at CEFR level B1, and a pass in the cultural integration test.	100%: At least 8 years of physical residence within an 11-year period, Greek language at CEFR level B1, and a pass in the cultural integration test.		acf.s113_p
+s114	h4	Công dân EU	Cypriot (EU) citizenship	100%: Cypriot (EU) citizenship		acf.s114_h4
+s115	p	Cho phép đa tịch. Sở hữu Hộ chiếu Síp – Tự do di chuyển hơn 170 quốc gia.	Dual citizenship is allowed. A Cypriot passport gives visa-free travel to more than 170 destinations.	100%: Dual citizenship is allowed. A Cypriot passport gives visa-free travel to more than 170 destinations.		acf.s115_p
+s116	h2	Nhận tư vấn dự án Aktea Residence 4 & {br}{1}lộ trình thường trú nhân Síp{/1}	Talk to us about Aktea Residence 4 & {br}{1}the Cyprus permanent residence route{/1}	88%: Talk to us about Konia Green & {br}{1}the Cyprus permanent residence route{/1}		acf.s116_h2#1
+s117	cta	Yêu cầu tư vấn	Book a consultation	100%: Book a consultation	trung:s004	acf.s117_cta
+s118	li	Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.	An IMM advisor will contact you to discuss the project in detail and assess your eligibility.	100%: An IMM advisor will contact you to discuss the project in detail and assess your eligibility.		acf.s118_li
+s119	li	Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.	Your personal information is kept confidential under IMM Group's Privacy Policy.	100%: Your personal information is kept confidential under IMM Group's Privacy Policy.		acf.s119_li
+s120	p	balance	balance	100%: balance		acf.s120_p#1
+s121	h3	Lưu ý thông tin	Important information	100%: Important information		acf.s121_h3
+s122	p	Thông tin trên trang này nhằm cung cấp tổng quan về dự án Aktea Residence 4, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.	The information on this page provides an overview of the Aktea Residence 4 project. It is not legal, securities, or personalized investment advice.	95%: The information on this page provides an overview of the Haven Residences EB-5 project and is not personalized legal, securities, or investment advice.		acf.s122_p

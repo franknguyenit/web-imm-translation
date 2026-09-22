@@ -1,0 +1,21 @@
+[s018] Centro Limassol {1}·{/1} City center {2}·{/2} Limassol, Cyprus
+[s021] Everything you need within easy reach
+[s023] In the heart of Cyprus's busiest business and financial hub
+[s025] Just 1 km from the seafront and a few minutes from Limassol Marina, the landmark superyacht marina.
+[s027] Close to the old town, Limassol Castle, the pedestrian streets, restaurants, cafes, and designer fashion stores
+[s029] Near casinos built to international standards, an 18-hole golf course, international schools, and hospitals
+[s031] Limassol is Cyprus's financial, commercial, and tourism center, with an international business community, modern infrastructure, and an energetic Mediterranean city life.
+[s032] A mid-sized premium apartment development designed around privacy, contemporary architecture, and green space.
+[s033] Bought new from the developer, an apartment here fully meets the investment requirement for Cyprus permanent residence (PR) for your whole family.
+[s034] The city-center location puts the apartments in an area of Limassol with demand for both long-term and short-term rentals.
+[s044] Premium finishes, with underfloor heating, ducted and split air conditioning, and a kitchen and appliances imported from Europe
+[s059] A dedicated rooftop level built to resort standards.
+[s062] Class A energy rating, with solar panels
+[s077] Founded in 1945, Cybarco is a core member of the Lanitis Group, a long-established private business group in Cyprus.
+[s083] A commitment to build quality, backed by property management and rental support after handover.
+[s089] Project timeline for {1}Centro Limassol{/1}
+[s092] **Cyprus real estate** can be more than an income-producing asset and a store of value held in euros. Owning at Centro Limassol also opens a route to permanent residence in Cyprus for your whole family.
+[s096] Prepare your application
+[s099|#bo-qua-so: nguồn viết "1 lần mỗi 2 năm"; tiếng Anh "once every 2 years" đã gồm số 1] You only need to visit Cyprus once every 2 years to maintain your status.
+[s123] Meet the residence and language requirements
+[s124] You must complete at least 8 years of physical residence within an 11-year period. You must also reach CEFR level B1 in Greek and pass the cultural integration test.
