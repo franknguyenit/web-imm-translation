@@ -1,0 +1,1356 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/web-imm-translation/viec/nhap/goc-sip/konia-green.html",
+ "truong_json": null,
+ "doan": [
+  {
+   "tu": 56045,
+   "den": 56098,
+   "raw": "Thường trú nhân Cộng Hòa Síp | Dự án biệt thự nhà phố",
+   "loai": "p",
+   "lop": "imm4-hero__status",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 56128,
+   "den": 56139,
+   "raw": "Konia Green",
+   "loai": "h1",
+   "lop": "",
+   "the": "h1",
+   "ngu_canh": "",
+   "id": "s002"
+  },
+  {
+   "tu": 56172,
+   "den": 56259,
+   "raw": "Biệt thự &amp; nhà phố cao cấp tại cố đô Paphos – Lộ trình thường trú nhân Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "imm4-hero__lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s003"
+  },
+  {
+   "tu": 56346,
+   "den": 56360,
+   "raw": "YÊU CẦU TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s004"
+  },
+  {
+   "tu": 57192,
+   "den": 57342,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">euro_symbol</i>Mức đầu tư tối thiểu</span><strong>Từ 345.000 EUR</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s005"
+  },
+  {
+   "tu": 57405,
+   "den": 57559,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">home_work</i>Quy mô dự án</span><strong>34 biệt thự &amp; 26 nhà phố</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-1",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s006"
+  },
+  {
+   "tu": 57622,
+   "den": 57757,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">check_circle</i>Tình trạng</span><strong>Còn suất</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-2",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s007"
+  },
+  {
+   "tu": 57957,
+   "den": 57968,
+   "raw": "Konia Green",
+   "loai": "cta",
+   "lop": "imm4-anchor__name",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s008"
+  },
+  {
+   "tu": 58025,
+   "den": 58039,
+   "raw": "Hình ảnh dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s009"
+  },
+  {
+   "tu": 58061,
+   "den": 58081,
+   "raw": "Vị trí &amp; kết nối",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s010"
+  },
+  {
+   "tu": 58106,
+   "den": 58121,
+   "raw": "Tổng quan dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s011"
+  },
+  {
+   "tu": 58145,
+   "den": 58168,
+   "raw": "Thiết kế &amp; tiện ích",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s012"
+  },
+  {
+   "tu": 58191,
+   "den": 58213,
+   "raw": "Nhà phát triển Pafilia",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s013"
+  },
+  {
+   "tu": 58236,
+   "den": 58249,
+   "raw": "Tiến độ dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s014"
+  },
+  {
+   "tu": 58272,
+   "den": 58292,
+   "raw": "Quyền lợi thường trú",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s015"
+  },
+  {
+   "tu": 62720,
+   "den": 63007,
+   "raw": "<img src=\"https://immgroup.com/wp-content/uploads/2026/08/Konia-Green-1.webp\" alt=\"Video dự án biệt thự và nhà phố Konia Green\" loading=\"lazy\"><span class=\"imm4-gallery__play\" aria-hidden=\"true\">play_arrow</span><span class=\"imm4-gallery__video-label\">Video giới thiệu Konia Green</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s016"
+  },
+  {
+   "tu": 63312,
+   "den": 63364,
+   "raw": "Vị trí đắc địa &amp;<br> <em>kết nối thuận tiện</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s017"
+  },
+  {
+   "tu": 63618,
+   "den": 63711,
+   "raw": "Konia <span aria-hidden=\"true\">·</span> Paphos <span aria-hidden=\"true\">·</span> Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "imm4-map__meta",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s018"
+  },
+  {
+   "tu": 63864,
+   "den": 63952,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">location_on</span>Google Maps",
+   "loai": "cta",
+   "lop": "imm4-map__link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s019"
+  },
+  {
+   "tu": 64041,
+   "den": 64053,
+   "raw": "Vị trí dự án",
+   "loai": "p",
+   "lop": "imm4-loc__eyebrow",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s020"
+  },
+  {
+   "tu": 64088,
+   "den": 64108,
+   "raw": "Gần trung tâm Paphos",
+   "loai": "h3",
+   "lop": "imm4-loc__heading",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s021"
+  },
+  {
+   "tu": 64149,
+   "den": 64165,
+   "raw": "Trung tâm Paphos",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s022"
+  },
+  {
+   "tu": 64173,
+   "den": 64273,
+   "raw": "Dự án nằm gần ngay trung tâm thành phố Paphos, chỉ cách trung tâm 5 phút và bãi biển 15 phút lái xe.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s023"
+  },
+  {
+   "tu": 64290,
+   "den": 64304,
+   "raw": "Sân bay Paphos",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s024"
+  },
+  {
+   "tu": 64312,
+   "den": 64357,
+   "raw": "Dự án cách sân bay Paphos chỉ 12 phút lái xe.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s025"
+  },
+  {
+   "tu": 64374,
+   "den": 64382,
+   "raw": "Limassol",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s026"
+  },
+  {
+   "tu": 64390,
+   "den": 64439,
+   "raw": "Dự án cách thành phố Limassol chỉ 40 phút lái xe.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s027"
+  },
+  {
+   "tu": 64456,
+   "den": 64475,
+   "raw": "Tiện ích xung quanh",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s028"
+  },
+  {
+   "tu": 64483,
+   "den": 64628,
+   "raw": "Vô số quán cafe ven biển, nhà hàng sang trọng, trường tư, bãi biển, thậm chí là các điểm tham quan khảo cổ – tất cả chỉ cách nhà vài phút lái xe.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s029"
+  },
+  {
+   "tu": 64898,
+   "den": 64957,
+   "raw": "Konia Green &amp;<br> <em>lộ trình thường trú nhân Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s030"
+  },
+  {
+   "tu": 64989,
+   "den": 65094,
+   "raw": "Tọa lạc ngay gần trung tâm của thành phố được UNESCO công nhận là Di sản thế giới - Paphos, Cộng Hòa Síp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s031"
+  },
+  {
+   "tu": 65101,
+   "den": 65179,
+   "raw": "Quần thể biệt thự và nhà phố với lối thiết kế tinh tế, sang trọng và đẳng cấp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s032"
+  },
+  {
+   "tu": 65186,
+   "den": 65269,
+   "raw": "Lấy quyền thường trú vĩnh viễn Cộng Hòa Síp nhanh chóng, chỉ trong khoảng 12 tháng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s033"
+  },
+  {
+   "tu": 65389,
+   "den": 65403,
+   "raw": "YÊU CẦU TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s034"
+  },
+  {
+   "tu": 65631,
+   "den": 65646,
+   "raw": "Thông tin dự án",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s035"
+  },
+  {
+   "tu": 65660,
+   "den": 65666,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s036"
+  },
+  {
+   "tu": 65675,
+   "den": 65709,
+   "raw": "Gần trung tâm Paphos, Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s037"
+  },
+  {
+   "tu": 65718,
+   "den": 65727,
+   "raw": "Loại hình",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s038"
+  },
+  {
+   "tu": 65736,
+   "den": 65763,
+   "raw": "Biệt thự đơn lập và nhà phố",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s039"
+  },
+  {
+   "tu": 65772,
+   "den": 65778,
+   "raw": "Quy mô",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s040"
+  },
+  {
+   "tu": 65787,
+   "den": 65820,
+   "raw": "34 biệt thự đơn lập và 26 nhà phố",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s041"
+  },
+  {
+   "tu": 65829,
+   "den": 65839,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s042"
+  },
+  {
+   "tu": 65848,
+   "den": 65862,
+   "raw": "Từ 345.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s043"
+  },
+  {
+   "tu": 65871,
+   "den": 65885,
+   "raw": "Nhà phát triển",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s044"
+  },
+  {
+   "tu": 65894,
+   "den": 65901,
+   "raw": "Pafilia",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s045"
+  },
+  {
+   "tu": 65910,
+   "den": 65920,
+   "raw": "Tình trạng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s046"
+  },
+  {
+   "tu": 65929,
+   "den": 65937,
+   "raw": "Còn suất",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s047"
+  },
+  {
+   "tu": 66264,
+   "den": 66322,
+   "raw": "Sống sang – sống xanh &amp;<br> <em>tiện ích đẳng cấp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s048"
+  },
+  {
+   "tu": 66404,
+   "den": 66471,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">architecture</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s049"
+  },
+  {
+   "tu": 66480,
+   "den": 66490,
+   "raw": "Phong cách",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s050"
+  },
+  {
+   "tu": 66499,
+   "den": 66512,
+   "raw": "Địa Trung Hải",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s051"
+  },
+  {
+   "tu": 66535,
+   "den": 66594,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">park</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s052"
+  },
+  {
+   "tu": 66603,
+   "den": 66612,
+   "raw": "Cảnh quan",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s053"
+  },
+  {
+   "tu": 66621,
+   "den": 66649,
+   "raw": "Công viên cây xanh trung tâm",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s054"
+  },
+  {
+   "tu": 66672,
+   "den": 66739,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">open_in_full</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s055"
+  },
+  {
+   "tu": 66748,
+   "den": 66763,
+   "raw": "Không gian sống",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s056"
+  },
+  {
+   "tu": 66772,
+   "den": 66810,
+   "raw": "Thấp tầng, riêng tư và gần thiên nhiên",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s057"
+  },
+  {
+   "tu": 66833,
+   "den": 66899,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">location_on</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s058"
+  },
+  {
+   "tu": 66908,
+   "den": 66915,
+   "raw": "Kết nối",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s059"
+  },
+  {
+   "tu": 66924,
+   "den": 66956,
+   "raw": "Gần trung tâm Paphos và bãi biển",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s060"
+  },
+  {
+   "tu": 66979,
+   "den": 67046,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">construction</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s061"
+  },
+  {
+   "tu": 67055,
+   "den": 67065,
+   "raw": "Tình trạng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s062"
+  },
+  {
+   "tu": 67074,
+   "den": 67087,
+   "raw": "Đang xây dựng",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s063"
+  },
+  {
+   "tu": 67182,
+   "den": 67197,
+   "raw": "Không gian sống",
+   "loai": "h3",
+   "lop": "imm4-amen__sub",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s064"
+  },
+  {
+   "tu": 67235,
+   "den": 67323,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">pool</span><strong>Hồ bơi riêng</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s065"
+  },
+  {
+   "tu": 67332,
+   "den": 67421,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">landscape</span><strong>Sườn đồi</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s066"
+  },
+  {
+   "tu": 67430,
+   "den": 67515,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">park</span><strong>Công viên</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s067"
+  },
+  {
+   "tu": 67524,
+   "den": 67618,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">architecture</span><strong>Hoàn thiện</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s068"
+  },
+  {
+   "tu": 67707,
+   "den": 67748,
+   "raw": "Một sự lựa chọn hoàn hảo cho cả gia đình.",
+   "loai": "p",
+   "lop": "imm4-amen__note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s069"
+  },
+  {
+   "tu": 68003,
+   "den": 68050,
+   "raw": "Chủ đầu tư &amp;<br> <em>đơn vị phát triển</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s070"
+  },
+  {
+   "tu": 68094,
+   "den": 68162,
+   "raw": "Pafilia - Nhà phát triển bất động sản nhà ở cao cấp hàng đầu tại Síp",
+   "loai": "p",
+   "lop": "imm4-dev__lead imm4-reveal",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s071"
+  },
+  {
+   "tu": 68209,
+   "den": 68295,
+   "raw": "<span class=\"imm4-dev__badge\" aria-hidden=\"true\">diamond</span>Năng lực và kinh nghiệm",
+   "loai": "h3",
+   "lop": "imm4-dev__eyebrow imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s072"
+  },
+  {
+   "tu": 68345,
+   "den": 68412,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">verified_user</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s073"
+  },
+  {
+   "tu": 68417,
+   "den": 68456,
+   "raw": "<strong>Hơn 48 năm kinh nghiệm</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s074"
+  },
+  {
+   "tu": 68459,
+   "den": 68498,
+   "raw": "trong lĩnh vực phát triển bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s075"
+  },
+  {
+   "tu": 68518,
+   "den": 68581,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">apartment</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s076"
+  },
+  {
+   "tu": 68586,
+   "den": 68616,
+   "raw": "<strong>Hơn 250 dự án</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s077"
+  },
+  {
+   "tu": 68619,
+   "den": 68705,
+   "raw": "đã xây dựng tại Síp và Hy Lạp. Chủ đầu tư của ONE - tòa nhà ven biển cao nhất châu Âu.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s078"
+  },
+  {
+   "tu": 68725,
+   "den": 68790,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">euro_symbol</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s079"
+  },
+  {
+   "tu": 68795,
+   "den": 68824,
+   "raw": "<strong>Hơn 3 tỷ EUR</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s080"
+  },
+  {
+   "tu": 68827,
+   "den": 68862,
+   "raw": "tổng giá trị danh mục bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s081"
+  },
+  {
+   "tu": 68882,
+   "den": 68945,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">landscape</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s082"
+  },
+  {
+   "tu": 68950,
+   "den": 68983,
+   "raw": "<strong>60% đất ven biển</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s083"
+  },
+  {
+   "tu": 68986,
+   "den": 69033,
+   "raw": "Quỹ đất sở hữu vị trí đắc địa ngay sát bờ biển.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s084"
+  },
+  {
+   "tu": 69144,
+   "den": 69159,
+   "raw": "Dự án tiêu biểu",
+   "loai": "h3",
+   "lop": "imm4-dev__projects-title imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s085"
+  },
+  {
+   "tu": 69423,
+   "den": 69476,
+   "raw": "<span class=\"imm4-dev__title-link\">Konia Green</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s086"
+  },
+  {
+   "tu": 69875,
+   "den": 69888,
+   "raw": "Pafilia Plaza",
+   "loai": "cta",
+   "lop": "imm4-dev__title-link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s087"
+  },
+  {
+   "tu": 70276,
+   "den": 70287,
+   "raw": "Coral Vista",
+   "loai": "cta",
+   "lop": "imm4-dev__title-link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s088"
+  },
+  {
+   "tu": 70692,
+   "den": 70707,
+   "raw": "Beachside Villa",
+   "loai": "cta",
+   "lop": "imm4-dev__title-link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s089"
+  },
+  {
+   "tu": 70952,
+   "den": 71002,
+   "raw": "Thiết kế mô phỏng &amp;<br> <em>tiến độ dự án</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s090"
+  },
+  {
+   "tu": 71085,
+   "den": 71198,
+   "raw": "Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.",
+   "loai": "p",
+   "lop": "imm4-progress-note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s091"
+  },
+  {
+   "tu": 71538,
+   "den": 71717,
+   "raw": "Đầu tư sở hữu bất động sản tại dự án <strong>Konia Green</strong>, nhà đầu tư và gia đình có thể xét lộ trình thường trú vĩnh viễn Cộng Hòa Síp khi đáp ứng điều kiện chương trình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s092"
+  },
+  {
+   "tu": 71780,
+   "den": 71844,
+   "raw": "Lộ trình thường trú nhân<br> <em>vĩnh viễn tại Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s093"
+  },
+  {
+   "tu": 71986,
+   "den": 72018,
+   "raw": "Đầu tư bất động sản đủ điều kiện",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s094"
+  },
+  {
+   "tu": 72026,
+   "den": 72085,
+   "raw": "Giá trị đầu tư từ 300.000 EUR + VAT, mua mới từ chủ đầu tư.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s095"
+  },
+  {
+   "tu": 72138,
+   "den": 72152,
+   "raw": "Chuẩn bị hồ sơ",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s096"
+  },
+  {
+   "tu": 72160,
+   "den": 72290,
+   "raw": "Hồ sơ có thể gồm nhà đầu tư cùng vợ/chồng và con phụ thuộc. Ngoài sở hữu bất động sản, cần chứng minh có đủ mức thu nhập hàng năm.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s097"
+  },
+  {
+   "tu": 72343,
+   "den": 72378,
+   "raw": "Trở thành thường trú nhân vĩnh viễn",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s098"
+  },
+  {
+   "tu": 72386,
+   "den": 72440,
+   "raw": "Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s099"
+  },
+  {
+   "tu": 72510,
+   "den": 72663,
+   "raw": "Các thông tin trên website chỉ mang tính chất tham khảo và có thể chưa cập nhật đầy đủ các thông tin, yêu cầu chương trình hay quy định pháp lý mới nhất.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s100"
+  },
+  {
+   "tu": 72980,
+   "den": 73029,
+   "raw": "Lợi thế thường trú nhân<br> <em>Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s101"
+  },
+  {
+   "tu": 73065,
+   "den": 73216,
+   "raw": "Đầu tư sở hữu căn hộ tại dự án Konia Green, nhà đầu tư và gia đình có thể lấy quyền thường trú vĩnh viễn Cộng Hòa Síp và nhận được những quyền lợi sau:",
+   "loai": "p",
+   "lop": "imm4-rights__intro",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s102"
+  },
+  {
+   "tu": 73338,
+   "den": 73364,
+   "raw": "<span>verified_user</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s103"
+  },
+  {
+   "tu": 73400,
+   "den": 73402,
+   "raw": "01",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s104"
+  },
+  {
+   "tu": 73413,
+   "den": 73439,
+   "raw": "Sinh sống tại Cộng Hòa Síp",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s105"
+  },
+  {
+   "tu": 73453,
+   "den": 73514,
+   "raw": "Tự do sinh sống, học tập, làm ăn kinh doanh tại Cộng Hòa Síp.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s106"
+  },
+  {
+   "tu": 73523,
+   "den": 73580,
+   "raw": "Chất lượng cuộc sống cao. Cơ sở hạ tầng tiện nghi đầy đủ.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s107"
+  },
+  {
+   "tu": 73681,
+   "den": 73707,
+   "raw": "<span>verified_user</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s108"
+  },
+  {
+   "tu": 73743,
+   "den": 73745,
+   "raw": "02",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s109"
+  },
+  {
+   "tu": 73756,
+   "den": 73772,
+   "raw": "Y tế và giáo dục",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s110"
+  },
+  {
+   "tu": 73786,
+   "den": 73881,
+   "raw": "Hệ thống y tế hiện đại, tiêu chuẩn châu Âu, hoàn toàn miễn phí cho công dân và thường trú nhân.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s111"
+  },
+  {
+   "tu": 73890,
+   "den": 74051,
+   "raw": "Hệ thống giáo dục chất lượng theo tiêu chuẩn Anh Quốc được công nhận toàn cầu, với mức chi phí phù hợp (thấp hơn so với các trường quốc tế cao cấp tại Việt Nam).",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s112"
+  },
+  {
+   "tu": 74170,
+   "den": 74196,
+   "raw": "<span>verified_user</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s113"
+  },
+  {
+   "tu": 74232,
+   "den": 74234,
+   "raw": "03",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s114"
+  },
+  {
+   "tu": 74245,
+   "den": 74274,
+   "raw": "Môi trường kinh doanh và thuế",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s115"
+  },
+  {
+   "tu": 74288,
+   "den": 74358,
+   "raw": "Môi trường kinh doanh cởi mở, minh bạch với hệ thống quy định rõ ràng.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s116"
+  },
+  {
+   "tu": 74367,
+   "den": 74453,
+   "raw": "Síp là một trong những quốc gia có mức thuế doanh nghiệp thấp nhất châu Âu, chỉ 12,5%.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s117"
+  },
+  {
+   "tu": 74462,
+   "den": 74533,
+   "raw": "Chính sách thuế thuận lợi: không đánh thuế toàn cầu, miễn thuế thừa kế.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s118"
+  },
+  {
+   "tu": 74645,
+   "den": 74672,
+   "raw": "Lộ trình nhập quốc tịch Síp",
+   "loai": "h3",
+   "lop": "imm4-citizen-route__title",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s119"
+  },
+  {
+   "tu": 74807,
+   "den": 74845,
+   "raw": "Sở hữu quyền thường trú vĩnh viễn (PR)",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s120"
+  },
+  {
+   "tu": 74853,
+   "den": 74934,
+   "raw": "Gia hạn thẻ thường trú (vật lý) mỗi 5 năm với điều kiện còn duy trì bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s121"
+  },
+  {
+   "tu": 75041,
+   "den": 75077,
+   "raw": "Đáp ứng điều kiện cư trú và ngôn ngữ",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s122"
+  },
+  {
+   "tu": 75085,
+   "den": 75201,
+   "raw": "Cư trú thực tế tối thiểu 8 năm trong vòng 11 năm. Đạt trình độ tiếng Hy Lạp B1 và đạt bài kiểm tra hội nhập văn hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s123"
+  },
+  {
+   "tu": 75308,
+   "den": 75319,
+   "raw": "Công dân EU",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s124"
+  },
+  {
+   "tu": 75327,
+   "den": 75400,
+   "raw": "Cho phép đa tịch. Sở hữu Hộ chiếu Síp – Tự do di chuyển hơn 170 quốc gia.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s125"
+  },
+  {
+   "tu": 75667,
+   "den": 75744,
+   "raw": "Nhận tư vấn dự án Konia Green &amp; <br><em>lộ trình thường trú nhân Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s126"
+  },
+  {
+   "tu": 75848,
+   "den": 75862,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "btn-primary link-to imm4-consult__button",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s127"
+  },
+  {
+   "tu": 76047,
+   "den": 76132,
+   "raw": "Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s128"
+  },
+  {
+   "tu": 76141,
+   "den": 76210,
+   "raw": "Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s129"
+  },
+  {
+   "tu": 76258,
+   "den": 76331,
+   "raw": "<span class=\"imm4-consult__notice-icon\" aria-hidden=\"true\">balance</span>",
+   "loai": "p",
+   "lop": "imm4-consult__notice",
+   "the": "aside",
+   "ngu_canh": "",
+   "id": "s130"
+  },
+  {
+   "tu": 76341,
+   "den": 76356,
+   "raw": "Lưu ý thông tin",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s131"
+  },
+  {
+   "tu": 76364,
+   "den": 76502,
+   "raw": "Thông tin trên trang này nhằm cung cấp tổng quan về dự án Konia Green, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s132"
+  },
+  {
+   "tu": 76775,
+   "den": 76782,
+   "raw": "&times;",
+   "loai": "cta",
+   "lop": "imm4-icon-btn",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s133"
+  },
+  {
+   "tu": 76901,
+   "den": 76979,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_left</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__prev",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s134"
+  },
+  {
+   "tu": 77143,
+   "den": 77222,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_right</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__next",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s135"
+  }
+ ]
+}

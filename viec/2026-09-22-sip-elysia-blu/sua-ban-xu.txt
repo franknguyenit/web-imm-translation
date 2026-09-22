@@ -1,0 +1,18 @@
+[s007] {1}{2}key{/2}Rental commitment{/1}**For 10 years**
+[s013] Developer & track record
+[s025] A few minutes from the coast, the old town, international schools, hospitals, shopping malls, and retail districts.
+[s029] A rare central plot, large enough for a full-scale apartment complex.
+[s055] Modern resort style
+[s058] 5-star resort style
+[s063] Rental program
+[s064] 10-year commitment
+[s068] A self-contained residential community
+[s077] Elysia Blu is designed for a balanced way of living, combining city conveniences with a resort atmosphere on site.
+[s078] The developer &{br} {1}its track record{/1}
+[s079] Pafilia — an established developer of premium homes in Cyprus
+[s092] Prime land holdings directly on the coast.
+[s101] **Cyprus real estate** can be more than an income-producing asset held in euros. Owning at Elysia Blu also opens a route to permanent residence in Cyprus for your whole family.
+[s104] A new-build purchase from the developer, from €300,000 plus VAT.
+[s121] A healthcare system to European standards, subject to the conditions of the General Healthcare System (GESY).
+[s135] At least 8 years of physical residence within an 11-year period, Greek language at CEFR level B1, and a pass in the cultural integration test.
+[s137] Dual citizenship is allowed. A Cypriot passport gives visa-free or visa-on-arrival access to more than 170 destinations.

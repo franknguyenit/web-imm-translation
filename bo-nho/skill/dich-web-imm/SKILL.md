@@ -230,3 +230,15 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
   foreign currency". Đừng nghe B5 (đòi giữ đủ) cũng đừng nghe B6 (đòi bỏ hẳn).
 - **B5 có lúc đọc nhầm cột `tm` thành cột `en`** rồi báo lỗi nặng không có thật (tên dự án của trang khác).
   Kiểm lại giá trị thật trong `song-ngu.tsv` trước khi sửa.
+- **Mảng Cộng Hòa Síp KHÁC mảng Hy Lạp:** Síp cấp **thường trú thật** ⇒ thân bài dùng `permanent residence`,
+  cụm "Cyprus Golden Visa" chỉ nằm ở **meta title/description**. "Công dân EU" → **Cypriot (EU) citizenship**.
+- **"Cam kết cho thuê" KHÔNG dịch là "rental guarantee"** → `rental commitment`. `kiem` không bắt được vì mẫu cấm
+  chỉ chặn `guarantee` + (return|approval|…); lời hứa dòng tiền phải tự soi.
+- **Nhiều trang dự án cùng nước ⇒ tách từ khoá chính cho từng trang** (property · permanent residency by
+  investment · real estate investment). Hệ quả: có trang phải chấp nhận cảnh báo "từ khoá không có trong 150 chữ
+  đầu" vì thân bài bị ràng buộc bởi bảng thuật ngữ — **ghi lý do vào báo cáo, đừng bẻ bản dịch**.
+- **`vet-chu-ngoai.py`: chuỗi ngắn nuốt chuỗi dài.** " ảnh dự án" ăn vào "Phóng to ảnh dự án" → ra
+  "Phóng to project images". Khai báo cả chuỗi dài, và **lọc lại bảng theo tệp thực tế** trước mỗi lần chạy
+  (tool báo lỗi và không ghi gì nếu một dòng không khớp chỗ nào).
+- **Dịch loạt nhiều trang cùng chủ đầu tư:** nạp bộ nhớ dịch sau mỗi trang thì trang sau tự lấp 50–70% đoạn
+  (Síp: 26 → 94 đoạn khớp). Khối "chủ đầu tư", "lộ trình PR", "lợi thế PR" gần như giống hệt nhau.

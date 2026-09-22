@@ -1,0 +1,113 @@
+[s001] Cyprus real estate investment | Premium villa community
+[s002] Coral Vista
+[s003] Premium villas in Paphos — a route to permanent residence in Cyprus
+[s005] {1}{2}villa{/2}Minimum investment{/1}**€480,000**
+[s006] {1}{2}holiday_village{/2}Project size{/1}**19 villas**
+[s007] {1}{2}bed{/2}Unit type{/1}**Premium villas**
+[s008] Coral Vista
+[s013] Developer Pafilia
+[s015] The permanent residence route
+[s016] Permanent residence advantages
+[s017] A hilltop setting &{br} {1}Mediterranean views{/1}
+[s018] Coral Vista {1}·{/1} Peyia hilltop {2}·{/2} Paphos, Cyprus
+[s021] A hilltop position with open views
+[s022] Coral Bay
+[s023] About a 10-minute drive to a Blue Flag beach.
+[s024] Paphos International Airport
+[s025] About a 40-minute drive.
+[s026] Natural scenery
+[s027] Views over the Mediterranean, the Akamas national park, and the Pikni pine forest.
+[s028] Amenities nearby
+[s029] Close to the TLC international school, supermarkets, local markets, restaurants, and cafes.
+[s030] Premium villas in {1}Peyia, Paphos{/1}
+[s031] 19 villas set on the Peyia hilltop, facing the Mediterranean, the Akamas national park, and the Pikni pine forest.
+[s032] A private, quiet place to live, suited to settling down, to holiday use, and to owning real estate in Cyprus.
+[s033] The project is developed by Pafilia, a firm with more than 45 years of real estate experience in Cyprus.
+[s034] Villas start at €480,000; the property investment that qualifies for Cyprus permanent residence starts at €300,000 plus VAT.
+[s035] You and your family can apply for permanent residence in Cyprus once you meet the program conditions.
+[s039] Peyia hilltop, Paphos
+[s040] Views
+[s041] The Mediterranean, Akamas, and the Pikni forest
+[s043] Premium villas
+[s045] 19 villas
+[s046] Design
+[s047] Three architectural styles
+[s049] From €480,000
+[s051] Pafilia
+[s052] Design & amenities {1}with a Mediterranean feel{/1}
+[s053] landscape
+[s054] Views
+[s055] The Mediterranean, Akamas, and the Pikni forest
+[s056] architecture
+[s057] Style
+[s058] Modern, in keeping with its setting
+[s059] open_in_full
+[s060] Living space
+[s061] Private, quiet, and open
+[s062] texture
+[s063] Finishes
+[s064] Premium materials
+[s068] A modern design in keeping with nature
+[s069] {1}window{/1}**Large glazed openings**
+[s070] {1}deck{/1}**Large balconies with glass balustrades**
+[s071] {1}light_mode{/1}**Natural light throughout**
+[s072] {1}kitchen{/1}**Marble, wood flooring, and a premium kitchen**
+[s073] {1}park{/1}**Private garden**
+[s074] {1}pool{/1}**Space laid out for a private pool**
+[s075] {1}nature_people{/1}**Indoor-outdoor living**
+[s076] {1}local_cafe{/1}**Close to restaurants, cafes, and everyday amenities**
+[s077] Each villa is designed to make the most of the views and the natural light, linking the interior with the landscape outside.
+[s078] Developer &{br} {1}development team{/1}
+[s079] Pafilia — a leading developer of premium residential real estate in Cyprus
+[s080] {1}diamond{/1}Capability and experience
+[s081] verified_user
+[s082] More than 48 years of experience
+[s083] in real estate development.
+[s085] More than 250 projects
+[s086] built in Cyprus and Greece. The developer of ONE, the tallest seafront building in Europe.
+[s087] euro_symbol
+[s088] More than €3 billion
+[s089] in total real estate portfolio value.
+[s090] landscape
+[s091] 60% seafront land
+[s092] A land bank in prime positions right by the sea.
+[s094] Coral Vista
+[s095] Beachside Villa
+[s096] Elysia Blu
+[s097] Pafilia Plaza
+[s098] {1}Project{/1} timeline
+[s100] Buy a villa at **Coral Vista** and you and your family can obtain permanent residence in Cyprus once you meet the program conditions.
+[s101] Your route to{br} {1}permanent residence in Cyprus{/1}
+[s103] An investment from €300,000 plus VAT, bought new from the developer.
+[s105] The application can include you, your spouse, and your dependent children. Besides owning the property, you need to show sufficient annual income.
+[s106] Become a permanent resident
+[s107|#bo-qua-so: "1 lần" viết thành "once" cho tự nhiên] You need to visit Cyprus once every 2 years to keep the status.
+[s108] Cyprus permanent residence is not Cypriot citizenship, and it does not give the right to live or work across the whole EU.
+[s109] Advantages of{br} {1}Cyprus permanent residence{/1}
+[s110] What Cyprus permanent residence gives you
+[s111] holiday_village
+[s112] 01
+[s113] Living in Cyprus
+[s114] You and your family can live, study, and do business in Cyprus.
+[s115] Access to a European standard of living, a Mediterranean climate, and an international community.
+[s116] {1}school{/1}{2}business_center{/2}
+[s117] 02
+[s118] Education, business, and tax
+[s119] An education system shaped by the British model.
+[s120|#bo-qua-so: ngày "18/08/2026" viết theo lối Mỹ nên mất chữ số 08] A transparent business environment; corporate tax of 12.5% (checked on August 18, 2026).
+[s121] Personal tax depends on your tax residence status, your sources of income, and the rules in force.
+[s122] {1}verified_user{/1}{2}license{/2}
+[s123] 03
+[s124] Points to note about permanent residence
+[s125] Rights to work and do business, and the tax treatment that applies, have to be assessed case by case.
+[s126] Cyprus permanent residence is not Cypriot citizenship.
+[s127] The right to live and work in other EU countries arises only if you hold EU citizenship or a valid residence permit or work permit in that country.
+[s128] The route to Cypriot citizenship
+[s129] Hold permanent residence (PR)
+[s130] The physical residence card is renewed every 5 years, provided you still own the property.
+[s131] Meet the residence and language conditions
+[s132] At least 8 years of physical residence within 11 years, Greek at level B1, and a pass in the cultural integration test.
+[s133] EU citizenship
+[s134] Dual citizenship is allowed. A Cypriot passport gives visa-free travel to more than 170 countries.
+[s135] Talk to us about Coral Vista & {br}{1}the Cyprus permanent residence route{/1}
+[s141] The information on this page provides an overview of the Coral Vista project. It is not legal, securities, or personalized investment advice.

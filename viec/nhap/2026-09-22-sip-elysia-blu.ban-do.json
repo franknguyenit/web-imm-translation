@@ -1,0 +1,1476 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/web-imm-translation/viec/nhap/goc-sip/elysia-blu.html",
+ "truong_json": null,
+ "doan": [
+  {
+   "tu": 55713,
+   "den": 55753,
+   "raw": "Bất động sản Cộng Hòa Síp | Dự án căn hộ",
+   "loai": "p",
+   "lop": "imm4-hero__status",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 55783,
+   "den": 55793,
+   "raw": "Elysia Blu",
+   "loai": "h1",
+   "lop": "",
+   "the": "h1",
+   "ngu_canh": "",
+   "id": "s002"
+  },
+  {
+   "tu": 55826,
+   "den": 55922,
+   "raw": "Căn hộ nghỉ dưỡng tại trung tâm Paphos, giá từ 511.000 EUR và dự kiến hoàn thành vào Quý 4/2028.",
+   "loai": "p",
+   "lop": "imm4-hero__lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s003"
+  },
+  {
+   "tu": 56009,
+   "den": 56023,
+   "raw": "YÊU CẦU TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s004"
+  },
+  {
+   "tu": 57189,
+   "den": 57327,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">apartment</i>Giá căn hộ</span><strong>Từ 511.000 EUR</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s005"
+  },
+  {
+   "tu": 57390,
+   "den": 57538,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">event_available</i>Dự kiến hoàn thành</span><strong>Quý 4/2028</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-1",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s006"
+  },
+  {
+   "tu": 57601,
+   "den": 57737,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">key</i>Cam kết cho thuê</span><strong>Trong 10 năm</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-2",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s007"
+  },
+  {
+   "tu": 57937,
+   "den": 57947,
+   "raw": "Elysia Blu",
+   "loai": "cta",
+   "lop": "imm4-anchor__name",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s008"
+  },
+  {
+   "tu": 58004,
+   "den": 58018,
+   "raw": "Hình ảnh dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s009"
+  },
+  {
+   "tu": 58040,
+   "den": 58073,
+   "raw": "Vị trí &amp; tiềm năng thị trường",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s010"
+  },
+  {
+   "tu": 58098,
+   "den": 58113,
+   "raw": "Tổng quan dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s011"
+  },
+  {
+   "tu": 58137,
+   "den": 58160,
+   "raw": "Tiện ích &amp; thiết kế",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s012"
+  },
+  {
+   "tu": 58183,
+   "den": 58217,
+   "raw": "Chủ đầu tư &amp; đơn vị phát triển",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s013"
+  },
+  {
+   "tu": 58240,
+   "den": 58253,
+   "raw": "Tiến độ dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s014"
+  },
+  {
+   "tu": 58277,
+   "den": 58301,
+   "raw": "Lộ trình thường trú nhân",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s015"
+  },
+  {
+   "tu": 58324,
+   "den": 58347,
+   "raw": "Lợi thế thường trú nhân",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s016"
+  },
+  {
+   "tu": 60390,
+   "den": 60447,
+   "raw": "Vị trí chiến lược &amp;<br> <em>tiềm năng thị trường</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s017"
+  },
+  {
+   "tu": 60748,
+   "den": 60856,
+   "raw": "Elysia Blu <span aria-hidden=\"true\">·</span> Universal Area <span aria-hidden=\"true\">·</span> Paphos, Cyprus",
+   "loai": "p",
+   "lop": "imm4-map__meta",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s018"
+  },
+  {
+   "tu": 60973,
+   "den": 61061,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">location_on</span>Google Maps",
+   "loai": "cta",
+   "lop": "imm4-map__link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s019"
+  },
+  {
+   "tu": 61150,
+   "den": 61168,
+   "raw": "Kết nối thuận tiện",
+   "loai": "p",
+   "lop": "imm4-loc__eyebrow",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s020"
+  },
+  {
+   "tu": 61203,
+   "den": 61249,
+   "raw": "Mọi nhu cầu sống trong một bán kính thuận tiện",
+   "loai": "h3",
+   "lop": "imm4-loc__heading",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s021"
+  },
+  {
+   "tu": 61290,
+   "den": 61306,
+   "raw": "Trung tâm Paphos",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s022"
+  },
+  {
+   "tu": 61314,
+   "den": 61355,
+   "raw": "Nằm ngay trung tâm thành phố biển Paphos.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s023"
+  },
+  {
+   "tu": 61372,
+   "den": 61390,
+   "raw": "Tiện ích thiết yếu",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s024"
+  },
+  {
+   "tu": 61398,
+   "den": 61491,
+   "raw": "Vài phút đến bờ biển, phố cổ, trường quốc tế, bệnh viện, trung tâm thương mại và khu mua sắm.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s025"
+  },
+  {
+   "tu": 61508,
+   "den": 61528,
+   "raw": "Văn hóa &amp; di sản",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s026"
+  },
+  {
+   "tu": 61536,
+   "den": 61599,
+   "raw": "Gần các di tích lịch sử và địa điểm văn hóa nổi bật của Paphos.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s027"
+  },
+  {
+   "tu": 61616,
+   "den": 61633,
+   "raw": "Quỹ đất trung tâm",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s028"
+  },
+  {
+   "tu": 61641,
+   "den": 61722,
+   "raw": "Sở hữu lợi thế quỹ đất trung tâm hiếm hoi để phát triển tổ hợp căn hộ quy mô lớn.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s029"
+  },
+  {
+   "tu": 61992,
+   "den": 62028,
+   "raw": "Căn hộ cao cấp tại – <em>Paphos</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s030"
+  },
+  {
+   "tu": 62060,
+   "den": 62146,
+   "raw": "Tọa lạc tại trung tâm Paphos, thành phố biển được UNESCO công nhận là Di sản Thế giới.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s031"
+  },
+  {
+   "tu": 62153,
+   "den": 62242,
+   "raw": "Dự án căn hộ cao cấp phong cách nghỉ dưỡng, tích hợp chuỗi tiện ích nội khu chuẩn resort.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s032"
+  },
+  {
+   "tu": 62249,
+   "den": 62334,
+   "raw": "Chủ đầu tư Pafilia có hơn 48 năm kinh nghiệm phát triển bất động sản cao cấp tại Síp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s033"
+  },
+  {
+   "tu": 62341,
+   "den": 62443,
+   "raw": "Giá từ 511.000 EUR cho căn 2 phòng ngủ, đáp ứng điều kiện chương trình đầu tư lấy thường trú nhân Síp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s034"
+  },
+  {
+   "tu": 62450,
+   "den": 62515,
+   "raw": "Giai đoạn 1 đã bán khoảng 70%, dự kiến hoàn thành vào Quý 4/2028.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s035"
+  },
+  {
+   "tu": 62635,
+   "den": 62649,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s036"
+  },
+  {
+   "tu": 62877,
+   "den": 62892,
+   "raw": "Thông tin dự án",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s037"
+  },
+  {
+   "tu": 62906,
+   "den": 62912,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s038"
+  },
+  {
+   "tu": 62921,
+   "den": 62951,
+   "raw": "Trung tâm Paphos, Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s039"
+  },
+  {
+   "tu": 62960,
+   "den": 62969,
+   "raw": "Loại hình",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s040"
+  },
+  {
+   "tu": 62978,
+   "den": 63001,
+   "raw": "Căn hộ 2 và 3 phòng ngủ",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s041"
+  },
+  {
+   "tu": 63010,
+   "den": 63022,
+   "raw": "Quy mô dự án",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s042"
+  },
+  {
+   "tu": 63031,
+   "den": 63041,
+   "raw": "200 căn hộ",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s043"
+  },
+  {
+   "tu": 63050,
+   "den": 63060,
+   "raw": "Giá căn hộ",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s044"
+  },
+  {
+   "tu": 63069,
+   "den": 63083,
+   "raw": "Từ 511.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s045"
+  },
+  {
+   "tu": 63092,
+   "den": 63102,
+   "raw": "Chủ đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s046"
+  },
+  {
+   "tu": 63111,
+   "den": 63118,
+   "raw": "Pafilia",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s047"
+  },
+  {
+   "tu": 63127,
+   "den": 63135,
+   "raw": "Bàn giao",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s048"
+  },
+  {
+   "tu": 63144,
+   "den": 63162,
+   "raw": "Dự kiến Quý 4/2028",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s049"
+  },
+  {
+   "tu": 63171,
+   "den": 63181,
+   "raw": "Tình trạng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s050"
+  },
+  {
+   "tu": 63190,
+   "den": 63203,
+   "raw": "Đang xây dựng",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s051"
+  },
+  {
+   "tu": 63533,
+   "den": 63579,
+   "raw": "Tiện ích &amp; thiết kế <em>chuẩn châu Âu</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s052"
+  },
+  {
+   "tu": 63661,
+   "den": 63728,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">architecture</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s053"
+  },
+  {
+   "tu": 63737,
+   "den": 63747,
+   "raw": "Phong cách",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s054"
+  },
+  {
+   "tu": 63756,
+   "den": 63775,
+   "raw": "Nghỉ dưỡng hiện đại",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s055"
+  },
+  {
+   "tu": 63798,
+   "den": 63864,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">hotel_class</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s056"
+  },
+  {
+   "tu": 63873,
+   "den": 63892,
+   "raw": "Tiêu chuẩn tiện ích",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s057"
+  },
+  {
+   "tu": 63901,
+   "den": 63927,
+   "raw": "Chuẩn khu nghỉ dưỡng 5 sao",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s058"
+  },
+  {
+   "tu": 63950,
+   "den": 64016,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">location_on</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s059"
+  },
+  {
+   "tu": 64025,
+   "den": 64031,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s060"
+  },
+  {
+   "tu": 64040,
+   "den": 64056,
+   "raw": "Trung tâm Paphos",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s061"
+  },
+  {
+   "tu": 64079,
+   "den": 64137,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">key</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s062"
+  },
+  {
+   "tu": 64146,
+   "den": 64164,
+   "raw": "Khai thác cho thuê",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s063"
+  },
+  {
+   "tu": 64173,
+   "den": 64193,
+   "raw": "Cam kết trong 10 năm",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s064"
+  },
+  {
+   "tu": 64216,
+   "den": 64283,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">construction</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s065"
+  },
+  {
+   "tu": 64292,
+   "den": 64302,
+   "raw": "Tình trạng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s066"
+  },
+  {
+   "tu": 64311,
+   "den": 64324,
+   "raw": "Đang xây dựng",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s067"
+  },
+  {
+   "tu": 64419,
+   "den": 64443,
+   "raw": "Không gian sống khép kín",
+   "loai": "h3",
+   "lop": "imm4-amen__sub",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s068"
+  },
+  {
+   "tu": 64481,
+   "den": 64563,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">pool</span><strong>Hồ bơi</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s069"
+  },
+  {
+   "tu": 64572,
+   "den": 64670,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">attractions</span><strong>Sân chơi trẻ em</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s070"
+  },
+  {
+   "tu": 64679,
+   "den": 64757,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">spa</span><strong>Spa</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s071"
+  },
+  {
+   "tu": 64766,
+   "den": 64864,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">shopping_cart</span><strong>Siêu thị mini</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s072"
+  },
+  {
+   "tu": 64873,
+   "den": 64962,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">fitness_center</span><strong>Gym</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s073"
+  },
+  {
+   "tu": 64971,
+   "den": 65073,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">weekend</span><strong>Khu sinh hoạt cộng đồng</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s074"
+  },
+  {
+   "tu": 65082,
+   "den": 65174,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">room_service</span><strong>Nhà hàng</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s075"
+  },
+  {
+   "tu": 65183,
+   "den": 65298,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">park</span><strong>Công viên nội khu và cảnh quan xanh mát</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s076"
+  },
+  {
+   "tu": 65387,
+   "den": 65503,
+   "raw": "Elysia Blu hướng đến trải nghiệm sống cân bằng, kết hợp tiện ích đô thị và phong cách nghỉ dưỡng ngay trong nội khu.",
+   "loai": "p",
+   "lop": "imm4-amen__note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s077"
+  },
+  {
+   "tu": 65758,
+   "den": 65805,
+   "raw": "Chủ đầu tư &amp;<br> <em>đơn vị phát triển</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s078"
+  },
+  {
+   "tu": 65849,
+   "den": 65917,
+   "raw": "Pafilia - Nhà phát triển bất động sản nhà ở cao cấp hàng đầu tại Síp",
+   "loai": "p",
+   "lop": "imm4-dev__lead imm4-reveal",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s079"
+  },
+  {
+   "tu": 65964,
+   "den": 66050,
+   "raw": "<span class=\"imm4-dev__badge\" aria-hidden=\"true\">diamond</span>Năng lực và kinh nghiệm",
+   "loai": "h3",
+   "lop": "imm4-dev__eyebrow imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s080"
+  },
+  {
+   "tu": 66100,
+   "den": 66167,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">verified_user</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s081"
+  },
+  {
+   "tu": 66172,
+   "den": 66211,
+   "raw": "<strong>Hơn 48 năm kinh nghiệm</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s082"
+  },
+  {
+   "tu": 66214,
+   "den": 66253,
+   "raw": "trong lĩnh vực phát triển bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s083"
+  },
+  {
+   "tu": 66273,
+   "den": 66336,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">apartment</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s084"
+  },
+  {
+   "tu": 66341,
+   "den": 66371,
+   "raw": "<strong>Hơn 250 dự án</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s085"
+  },
+  {
+   "tu": 66374,
+   "den": 66460,
+   "raw": "đã xây dựng tại Síp và Hy Lạp. Chủ đầu tư của ONE - tòa nhà ven biển cao nhất châu Âu.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s086"
+  },
+  {
+   "tu": 66480,
+   "den": 66545,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">euro_symbol</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s087"
+  },
+  {
+   "tu": 66550,
+   "den": 66579,
+   "raw": "<strong>Hơn 3 tỷ EUR</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s088"
+  },
+  {
+   "tu": 66582,
+   "den": 66617,
+   "raw": "tổng giá trị danh mục bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s089"
+  },
+  {
+   "tu": 66637,
+   "den": 66700,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">landscape</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s090"
+  },
+  {
+   "tu": 66705,
+   "den": 66738,
+   "raw": "<strong>60% đất ven biển</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s091"
+  },
+  {
+   "tu": 66741,
+   "den": 66788,
+   "raw": "Quỹ đất sở hữu vị trí đắc địa ngay sát bờ biển.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s092"
+  },
+  {
+   "tu": 66899,
+   "den": 66914,
+   "raw": "Dự án tiêu biểu",
+   "loai": "h3",
+   "lop": "imm4-dev__projects-title imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s093"
+  },
+  {
+   "tu": 67168,
+   "den": 67237,
+   "raw": "<span class=\"imm4-dev__title-link\">Dự án tiêu biểu của Pafilia</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s094"
+  },
+  {
+   "tu": 67673,
+   "den": 67688,
+   "raw": "Beachside Villa",
+   "loai": "cta",
+   "lop": "imm4-dev__title-link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s095"
+  },
+  {
+   "tu": 68106,
+   "den": 68117,
+   "raw": "Coral Vista",
+   "loai": "cta",
+   "lop": "imm4-dev__title-link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s096"
+  },
+  {
+   "tu": 68559,
+   "den": 68572,
+   "raw": "Pafilia Plaza",
+   "loai": "cta",
+   "lop": "imm4-dev__title-link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s097"
+  },
+  {
+   "tu": 68817,
+   "den": 68839,
+   "raw": "Tiến độ <em>dự án</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s098"
+  },
+  {
+   "tu": 68928,
+   "den": 68974,
+   "raw": "<strong>Đang cập nhật...</strong><span></span>",
+   "loai": "p",
+   "lop": "imm4-milestone is-current",
+   "the": "article",
+   "ngu_canh": "",
+   "id": "s099"
+  },
+  {
+   "tu": 69022,
+   "den": 69135,
+   "raw": "Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.",
+   "loai": "p",
+   "lop": "imm4-progress-note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s100"
+  },
+  {
+   "tu": 69467,
+   "den": 69684,
+   "raw": "Sở hữu <strong>bất động sản Cộng Hòa Síp</strong> không chỉ là một tài sản sinh lời và tích sản an toàn bằng ngoại tệ. Việc sở hữu bất động sản Elysia Blu còn mở ra đặc quyền thường trú châu Âu vô giá cho cả gia đình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s101"
+  },
+  {
+   "tu": 69747,
+   "den": 69811,
+   "raw": "Lộ trình thường trú nhân<br> <em>vĩnh viễn tại Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s102"
+  },
+  {
+   "tu": 69953,
+   "den": 69985,
+   "raw": "Đầu tư bất động sản đủ điều kiện",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s103"
+  },
+  {
+   "tu": 69993,
+   "den": 70052,
+   "raw": "Giá trị đầu tư từ 300.000 EUR + VAT, mua mới từ chủ đầu tư.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s104"
+  },
+  {
+   "tu": 70105,
+   "den": 70119,
+   "raw": "Chuẩn bị hồ sơ",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s105"
+  },
+  {
+   "tu": 70127,
+   "den": 70257,
+   "raw": "Hồ sơ có thể gồm nhà đầu tư cùng vợ/chồng và con phụ thuộc. Ngoài sở hữu bất động sản, cần chứng minh có đủ mức thu nhập hàng năm.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s106"
+  },
+  {
+   "tu": 70310,
+   "den": 70345,
+   "raw": "Trở thành thường trú nhân vĩnh viễn",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s107"
+  },
+  {
+   "tu": 70353,
+   "den": 70407,
+   "raw": "Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s108"
+  },
+  {
+   "tu": 70477,
+   "den": 70612,
+   "raw": "Thường trú nhân Síp là quyền cư trú tại Cộng Hòa Síp; không đồng nghĩa với quốc tịch Síp hoặc quyền sinh sống, làm việc tại toàn bộ EU.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s109"
+  },
+  {
+   "tu": 70929,
+   "den": 70978,
+   "raw": "Lợi thế thường trú nhân<br> <em>Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s110"
+  },
+  {
+   "tu": 71014,
+   "den": 71050,
+   "raw": "Quyền lợi khi có thường trú nhân Síp",
+   "loai": "p",
+   "lop": "imm4-rights__intro",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s111"
+  },
+  {
+   "tu": 71172,
+   "den": 71200,
+   "raw": "<span>holiday_village</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s112"
+  },
+  {
+   "tu": 71236,
+   "den": 71238,
+   "raw": "01",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s113"
+  },
+  {
+   "tu": 71249,
+   "den": 71275,
+   "raw": "Sinh sống tại Cộng Hòa Síp",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s114"
+  },
+  {
+   "tu": 71289,
+   "den": 71398,
+   "raw": "Nhà đầu tư và gia đình được sinh sống, học tập và kinh doanh tại Cộng Hòa Síp theo quyền của thường trú nhân.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s115"
+  },
+  {
+   "tu": 71407,
+   "den": 71500,
+   "raw": "Được tiếp cận môi trường sống tiêu chuẩn châu Âu, khí hậu Địa Trung Hải và cộng đồng quốc tế.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s116"
+  },
+  {
+   "tu": 71509,
+   "den": 71591,
+   "raw": "Thuận tiện hơn khi xin visa đến các nước châu Âu khác, tùy quy định từng quốc gia.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s117"
+  },
+  {
+   "tu": 71692,
+   "den": 71769,
+   "raw": "<span>health_and_safety</span><span>school</span><span>business_center</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s118"
+  },
+  {
+   "tu": 71805,
+   "den": 71807,
+   "raw": "02",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s119"
+  },
+  {
+   "tu": 71818,
+   "den": 71846,
+   "raw": "Y tế, giáo dục và kinh doanh",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s120"
+  },
+  {
+   "tu": 71860,
+   "den": 71940,
+   "raw": "Hệ thống y tế theo tiêu chuẩn châu Âu, áp dụng theo điều kiện của hệ thống GeSY.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s121"
+  },
+  {
+   "tu": 71949,
+   "den": 72024,
+   "raw": "Giáo dục theo chuẩn Anh Quốc, phù hợp với kế hoạch học tập dài hạn cho con.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s122"
+  },
+  {
+   "tu": 72033,
+   "den": 72102,
+   "raw": "Thuế doanh nghiệp 15% từ năm 2026, thuộc nhóm cạnh tranh tại châu Âu.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s123"
+  },
+  {
+   "tu": 72111,
+   "den": 72206,
+   "raw": "Chính sách thuế cá nhân phụ thuộc tình trạng cư trú thuế, nguồn thu nhập và quy định hiện hành.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s124"
+  },
+  {
+   "tu": 72325,
+   "den": 72371,
+   "raw": "<span>verified_user</span><span>license</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s125"
+  },
+  {
+   "tu": 72407,
+   "den": 72409,
+   "raw": "03",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s126"
+  },
+  {
+   "tu": 72420,
+   "den": 72445,
+   "raw": "Lưu ý về quyền thường trú",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s127"
+  },
+  {
+   "tu": 72459,
+   "den": 72514,
+   "raw": "Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s128"
+  },
+  {
+   "tu": 72523,
+   "den": 72669,
+   "raw": "Quyền sinh sống, làm việc tại các nước EU khác chỉ phát sinh khi nhà đầu tư có quốc tịch EU hoặc giấy phép cư trú/làm việc hợp lệ tại quốc gia đó.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s129"
+  },
+  {
+   "tu": 72678,
+   "den": 72801,
+   "raw": "Quyền làm việc, kinh doanh và chính sách thuế cần được xét theo điều kiện cụ thể của chương trình và hồ sơ từng nhà đầu tư.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s130"
+  },
+  {
+   "tu": 72913,
+   "den": 72940,
+   "raw": "Lộ trình nhập quốc tịch Síp",
+   "loai": "h3",
+   "lop": "imm4-citizen-route__title",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s131"
+  },
+  {
+   "tu": 73075,
+   "den": 73113,
+   "raw": "Sở hữu quyền thường trú vĩnh viễn (PR)",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s132"
+  },
+  {
+   "tu": 73121,
+   "den": 73202,
+   "raw": "Gia hạn thẻ thường trú (vật lý) mỗi 5 năm với điều kiện còn duy trì bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s133"
+  },
+  {
+   "tu": 73309,
+   "den": 73345,
+   "raw": "Đáp ứng điều kiện cư trú và ngôn ngữ",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s134"
+  },
+  {
+   "tu": 73353,
+   "den": 73469,
+   "raw": "Cư trú thực tế tối thiểu 8 năm trong vòng 11 năm. Đạt trình độ tiếng Hy Lạp B1 và đạt bài kiểm tra hội nhập văn hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s135"
+  },
+  {
+   "tu": 73576,
+   "den": 73587,
+   "raw": "Công dân EU",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s136"
+  },
+  {
+   "tu": 73595,
+   "den": 73668,
+   "raw": "Cho phép đa tịch. Sở hữu Hộ chiếu Síp – Tự do di chuyển hơn 170 quốc gia.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s137"
+  },
+  {
+   "tu": 73935,
+   "den": 74011,
+   "raw": "Nhận tư vấn dự án Elysia Blu &amp; <br><em>lộ trình thường trú nhân Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s138"
+  },
+  {
+   "tu": 74115,
+   "den": 74129,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "btn-primary link-to imm4-consult__button",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s139"
+  },
+  {
+   "tu": 74314,
+   "den": 74399,
+   "raw": "Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s140"
+  },
+  {
+   "tu": 74408,
+   "den": 74477,
+   "raw": "Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s141"
+  },
+  {
+   "tu": 74525,
+   "den": 74598,
+   "raw": "<span class=\"imm4-consult__notice-icon\" aria-hidden=\"true\">balance</span>",
+   "loai": "p",
+   "lop": "imm4-consult__notice",
+   "the": "aside",
+   "ngu_canh": "",
+   "id": "s142"
+  },
+  {
+   "tu": 74608,
+   "den": 74623,
+   "raw": "Lưu ý thông tin",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s143"
+  },
+  {
+   "tu": 74631,
+   "den": 74768,
+   "raw": "Thông tin trên trang này nhằm cung cấp tổng quan về dự án Elysia Blu, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s144"
+  },
+  {
+   "tu": 75029,
+   "den": 75036,
+   "raw": "&times;",
+   "loai": "cta",
+   "lop": "imm4-icon-btn",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s145"
+  },
+  {
+   "tu": 75155,
+   "den": 75233,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_left</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__prev",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s146"
+  },
+  {
+   "tu": 75397,
+   "den": 75476,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_right</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__next",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s147"
+  }
+ ]
+}

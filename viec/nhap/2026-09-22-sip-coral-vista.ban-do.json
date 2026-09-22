@@ -1,0 +1,1446 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/web-imm-translation/viec/nhap/goc-sip/coral-vista.html",
+ "truong_json": null,
+ "doan": [
+  {
+   "tu": 55713,
+   "den": 55770,
+   "raw": "Thường trú nhân Cộng Hòa Síp | Dự án khu biệt thự cao cấp",
+   "loai": "p",
+   "lop": "imm4-hero__status",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 55800,
+   "den": 55811,
+   "raw": "Coral Vista",
+   "loai": "h1",
+   "lop": "",
+   "the": "h1",
+   "ngu_canh": "",
+   "id": "s002"
+  },
+  {
+   "tu": 55844,
+   "den": 55921,
+   "raw": "Biệt thự cao cấp tại Paphos – Lộ trình thường trú nhân vĩnh viễn Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "imm4-hero__lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s003"
+  },
+  {
+   "tu": 56008,
+   "den": 56022,
+   "raw": "YÊU CẦU TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s004"
+  },
+  {
+   "tu": 57506,
+   "den": 57647,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">villa</i>Mức đầu tư tối thiểu</span><strong>480.000 EUR</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s005"
+  },
+  {
+   "tu": 57710,
+   "den": 57853,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">holiday_village</i>Quy mô dự án</span><strong>19 biệt thự</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-1",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s006"
+  },
+  {
+   "tu": 57916,
+   "den": 58048,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">bed</i>Loại căn</span><strong>Biệt thự cao cấp</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-2",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s007"
+  },
+  {
+   "tu": 58248,
+   "den": 58259,
+   "raw": "Coral Vista",
+   "loai": "cta",
+   "lop": "imm4-anchor__name",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s008"
+  },
+  {
+   "tu": 58316,
+   "den": 58330,
+   "raw": "Hình ảnh dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s009"
+  },
+  {
+   "tu": 58352,
+   "den": 58372,
+   "raw": "Vị trí &amp; kết nối",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s010"
+  },
+  {
+   "tu": 58397,
+   "den": 58412,
+   "raw": "Tổng quan dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s011"
+  },
+  {
+   "tu": 58436,
+   "den": 58459,
+   "raw": "Thiết kế &amp; tiện ích",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s012"
+  },
+  {
+   "tu": 58482,
+   "den": 58504,
+   "raw": "Nhà phát triển Pafilia",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s013"
+  },
+  {
+   "tu": 58527,
+   "den": 58540,
+   "raw": "Tiến độ dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s014"
+  },
+  {
+   "tu": 58564,
+   "den": 58588,
+   "raw": "Lộ trình thường trú nhân",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s015"
+  },
+  {
+   "tu": 58611,
+   "den": 58634,
+   "raw": "Lợi thế thường trú nhân",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s016"
+  },
+  {
+   "tu": 60878,
+   "den": 60935,
+   "raw": "Vị trí đỉnh đồi &amp;<br> <em>tầm nhìn Địa Trung Hải</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s017"
+  },
+  {
+   "tu": 61221,
+   "den": 61336,
+   "raw": "Coral Vista <span aria-hidden=\"true\">·</span> Đỉnh đồi Peyia <span aria-hidden=\"true\">·</span> Paphos, Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "imm4-map__meta",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s018"
+  },
+  {
+   "tu": 61453,
+   "den": 61541,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">location_on</span>Google Maps",
+   "loai": "cta",
+   "lop": "imm4-map__link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s019"
+  },
+  {
+   "tu": 61630,
+   "den": 61648,
+   "raw": "Kết nối thuận tiện",
+   "loai": "p",
+   "lop": "imm4-loc__eyebrow",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s020"
+  },
+  {
+   "tu": 61683,
+   "den": 61716,
+   "raw": "Vị trí đỉnh đồi, tầm nhìn rộng mở",
+   "loai": "h3",
+   "lop": "imm4-loc__heading",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s021"
+  },
+  {
+   "tu": 61757,
+   "den": 61766,
+   "raw": "Coral Bay",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s022"
+  },
+  {
+   "tu": 61774,
+   "den": 61829,
+   "raw": "Khoảng 10 phút lái xe đến bãi biển đạt chuẩn Blue Flag.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s023"
+  },
+  {
+   "tu": 61846,
+   "den": 61868,
+   "raw": "Sân bay quốc tế Paphos",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s024"
+  },
+  {
+   "tu": 61876,
+   "den": 61898,
+   "raw": "Khoảng 40 phút lái xe.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s025"
+  },
+  {
+   "tu": 61915,
+   "den": 61936,
+   "raw": "Cảnh quan thiên nhiên",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s026"
+  },
+  {
+   "tu": 61944,
+   "den": 62009,
+   "raw": "Tầm nhìn Địa Trung Hải, vườn quốc gia Akamas và rừng thông Pikni.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s027"
+  },
+  {
+   "tu": 62026,
+   "den": 62042,
+   "raw": "Tiện ích lân cận",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s028"
+  },
+  {
+   "tu": 62050,
+   "den": 62124,
+   "raw": "Gần trường quốc tế TLC, siêu thị, chợ địa phương, nhà hàng và quán cà phê.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s029"
+  },
+  {
+   "tu": 62394,
+   "den": 62437,
+   "raw": "Biệt thự cao cấp tại <em>Peyia, Paphos</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s030"
+  },
+  {
+   "tu": 62469,
+   "den": 62584,
+   "raw": "19 biệt thự tọa lạc trên đỉnh đồi Peyia, hướng tầm nhìn ra Địa Trung Hải, vườn quốc gia Akamas và rừng thông Pikni.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s031"
+  },
+  {
+   "tu": 62591,
+   "den": 62696,
+   "raw": "Không gian sống riêng tư, yên bình, phù hợp cho nhu cầu an cư, nghỉ dưỡng và sở hữu bất động sản tại Síp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s032"
+  },
+  {
+   "tu": 62703,
+   "den": 62810,
+   "raw": "Dự án do Pafilia phát triển, đơn vị có hơn 45 năm kinh nghiệm trong lĩnh vực bất động sản tại Cộng Hòa Síp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s033"
+  },
+  {
+   "tu": 62817,
+   "den": 62928,
+   "raw": "Giá biệt thự từ 480.000 EUR; mức đầu tư bất động sản đủ điều kiện xét thường trú nhân Síp từ 300.000 EUR + VAT.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s034"
+  },
+  {
+   "tu": 62935,
+   "den": 63044,
+   "raw": "Nhà đầu tư và gia đình có thể nộp hồ sơ xin thường trú nhân vĩnh viễn Síp khi đáp ứng điều kiện chương trình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s035"
+  },
+  {
+   "tu": 63164,
+   "den": 63178,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s036"
+  },
+  {
+   "tu": 63406,
+   "den": 63421,
+   "raw": "Thông tin dự án",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s037"
+  },
+  {
+   "tu": 63435,
+   "den": 63441,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s038"
+  },
+  {
+   "tu": 63450,
+   "den": 63472,
+   "raw": "Đỉnh đồi Peyia, Paphos",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s039"
+  },
+  {
+   "tu": 63481,
+   "den": 63489,
+   "raw": "Tầm nhìn",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s040"
+  },
+  {
+   "tu": 63498,
+   "den": 63533,
+   "raw": "Địa Trung Hải, Akamas và rừng Pikni",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s041"
+  },
+  {
+   "tu": 63542,
+   "den": 63551,
+   "raw": "Loại hình",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s042"
+  },
+  {
+   "tu": 63560,
+   "den": 63576,
+   "raw": "Biệt thự cao cấp",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s043"
+  },
+  {
+   "tu": 63585,
+   "den": 63591,
+   "raw": "Quy mô",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s044"
+  },
+  {
+   "tu": 63600,
+   "den": 63611,
+   "raw": "19 biệt thự",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s045"
+  },
+  {
+   "tu": 63620,
+   "den": 63628,
+   "raw": "Thiết kế",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s046"
+  },
+  {
+   "tu": 63637,
+   "den": 63660,
+   "raw": "Ba phong cách kiến trúc",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s047"
+  },
+  {
+   "tu": 63669,
+   "den": 63679,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s048"
+  },
+  {
+   "tu": 63688,
+   "den": 63702,
+   "raw": "Từ 480.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s049"
+  },
+  {
+   "tu": 63711,
+   "den": 63725,
+   "raw": "Nhà phát triển",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s050"
+  },
+  {
+   "tu": 63734,
+   "den": 63741,
+   "raw": "Pafilia",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s051"
+  },
+  {
+   "tu": 64087,
+   "den": 64142,
+   "raw": "Thiết kế &amp; tiện ích <em>đậm chất Địa Trung Hải</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s052"
+  },
+  {
+   "tu": 64224,
+   "den": 64288,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">landscape</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s053"
+  },
+  {
+   "tu": 64297,
+   "den": 64305,
+   "raw": "Tầm nhìn",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s054"
+  },
+  {
+   "tu": 64314,
+   "den": 64349,
+   "raw": "Địa Trung Hải, Akamas và rừng Pikni",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s055"
+  },
+  {
+   "tu": 64372,
+   "den": 64439,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">architecture</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s056"
+  },
+  {
+   "tu": 64448,
+   "den": 64458,
+   "raw": "Phong cách",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s057"
+  },
+  {
+   "tu": 64467,
+   "den": 64499,
+   "raw": "Hiện đại hài hòa với thiên nhiên",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s058"
+  },
+  {
+   "tu": 64522,
+   "den": 64589,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">open_in_full</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s059"
+  },
+  {
+   "tu": 64598,
+   "den": 64613,
+   "raw": "Không gian sống",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s060"
+  },
+  {
+   "tu": 64622,
+   "den": 64653,
+   "raw": "Riêng tư, yên bình và thoáng mở",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s061"
+  },
+  {
+   "tu": 64676,
+   "den": 64738,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">texture</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s062"
+  },
+  {
+   "tu": 64747,
+   "den": 64757,
+   "raw": "Hoàn thiện",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s063"
+  },
+  {
+   "tu": 64766,
+   "den": 64782,
+   "raw": "Vật liệu cao cấp",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s064"
+  },
+  {
+   "tu": 64805,
+   "den": 64872,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">check_circle</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s065"
+  },
+  {
+   "tu": 64881,
+   "den": 64891,
+   "raw": "Tình trạng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s066"
+  },
+  {
+   "tu": 64900,
+   "den": 64908,
+   "raw": "Còn suất",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s067"
+  },
+  {
+   "tu": 65003,
+   "den": 65041,
+   "raw": "Thiết kế hiện đại, hài hòa thiên nhiên",
+   "loai": "h3",
+   "lop": "imm4-amen__sub",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s068"
+  },
+  {
+   "tu": 65079,
+   "den": 65172,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">window</span><strong>Hệ cửa kính lớn</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s069"
+  },
+  {
+   "tu": 65181,
+   "den": 65286,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">deck</span><strong>Ban công lớn với lan can kính</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s070"
+  },
+  {
+   "tu": 65295,
+   "den": 65401,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">light_mode</span><strong>Tối ưu ánh sáng tự nhiên</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s071"
+  },
+  {
+   "tu": 65410,
+   "den": 65521,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">kitchen</span><strong>Đá marble, sàn gỗ và bếp cao cấp</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s072"
+  },
+  {
+   "tu": 65530,
+   "den": 65620,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">park</span><strong>Sân vườn riêng</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s073"
+  },
+  {
+   "tu": 65629,
+   "den": 65735,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">pool</span><strong>Không gian bố trí hồ bơi riêng</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s074"
+  },
+  {
+   "tu": 65744,
+   "den": 65859,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">nature_people</span><strong>Không gian sống indoor–outdoor</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s075"
+  },
+  {
+   "tu": 65868,
+   "den": 65997,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">local_cafe</span><strong>Gần nhà hàng, quán cà phê và tiện ích hằng ngày</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s076"
+  },
+  {
+   "tu": 66086,
+   "den": 66211,
+   "raw": "Mỗi căn biệt thự được thiết kế để tối ưu tầm nhìn và ánh sáng tự nhiên, kết nối không gian bên trong với cảnh quan bên ngoài.",
+   "loai": "p",
+   "lop": "imm4-amen__note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s077"
+  },
+  {
+   "tu": 66466,
+   "den": 66513,
+   "raw": "Chủ đầu tư &amp;<br> <em>đơn vị phát triển</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s078"
+  },
+  {
+   "tu": 66557,
+   "den": 66625,
+   "raw": "Pafilia - Nhà phát triển bất động sản nhà ở cao cấp hàng đầu tại Síp",
+   "loai": "p",
+   "lop": "imm4-dev__lead imm4-reveal",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s079"
+  },
+  {
+   "tu": 66672,
+   "den": 66758,
+   "raw": "<span class=\"imm4-dev__badge\" aria-hidden=\"true\">diamond</span>Năng lực và kinh nghiệm",
+   "loai": "h3",
+   "lop": "imm4-dev__eyebrow imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s080"
+  },
+  {
+   "tu": 66808,
+   "den": 66875,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">verified_user</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s081"
+  },
+  {
+   "tu": 66880,
+   "den": 66919,
+   "raw": "<strong>Hơn 48 năm kinh nghiệm</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s082"
+  },
+  {
+   "tu": 66922,
+   "den": 66961,
+   "raw": "trong lĩnh vực phát triển bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s083"
+  },
+  {
+   "tu": 66981,
+   "den": 67044,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">apartment</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s084"
+  },
+  {
+   "tu": 67049,
+   "den": 67079,
+   "raw": "<strong>Hơn 250 dự án</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s085"
+  },
+  {
+   "tu": 67082,
+   "den": 67168,
+   "raw": "đã xây dựng tại Síp và Hy Lạp. Chủ đầu tư của ONE - tòa nhà ven biển cao nhất châu Âu.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s086"
+  },
+  {
+   "tu": 67188,
+   "den": 67253,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">euro_symbol</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s087"
+  },
+  {
+   "tu": 67258,
+   "den": 67287,
+   "raw": "<strong>Hơn 3 tỷ EUR</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s088"
+  },
+  {
+   "tu": 67290,
+   "den": 67325,
+   "raw": "tổng giá trị danh mục bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s089"
+  },
+  {
+   "tu": 67345,
+   "den": 67408,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">landscape</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s090"
+  },
+  {
+   "tu": 67413,
+   "den": 67446,
+   "raw": "<strong>60% đất ven biển</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s091"
+  },
+  {
+   "tu": 67449,
+   "den": 67496,
+   "raw": "Quỹ đất sở hữu vị trí đắc địa ngay sát bờ biển.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s092"
+  },
+  {
+   "tu": 67607,
+   "den": 67622,
+   "raw": "Dự án tiêu biểu",
+   "loai": "h3",
+   "lop": "imm4-dev__projects-title imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s093"
+  },
+  {
+   "tu": 67896,
+   "den": 67949,
+   "raw": "<span class=\"imm4-dev__title-link\">Coral Vista</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s094"
+  },
+  {
+   "tu": 68387,
+   "den": 68402,
+   "raw": "Beachside Villa",
+   "loai": "cta",
+   "lop": "imm4-dev__title-link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s095"
+  },
+  {
+   "tu": 68841,
+   "den": 68851,
+   "raw": "Elysia Blu",
+   "loai": "cta",
+   "lop": "imm4-dev__title-link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s096"
+  },
+  {
+   "tu": 69293,
+   "den": 69306,
+   "raw": "Pafilia Plaza",
+   "loai": "cta",
+   "lop": "imm4-dev__title-link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s097"
+  },
+  {
+   "tu": 69551,
+   "den": 69573,
+   "raw": "Tiến độ <em>dự án</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s098"
+  },
+  {
+   "tu": 69656,
+   "den": 69769,
+   "raw": "Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.",
+   "loai": "p",
+   "lop": "imm4-progress-note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s099"
+  },
+  {
+   "tu": 70121,
+   "den": 70283,
+   "raw": "Đầu tư sở hữu biệt thự <strong>Coral Vista</strong>, nhà đầu tư và gia đình có thể lấy quyền thường trú vĩnh viễn Cộng Hòa Síp khi đáp ứng điều kiện chương trình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s100"
+  },
+  {
+   "tu": 70346,
+   "den": 70410,
+   "raw": "Lộ trình thường trú nhân<br> <em>vĩnh viễn tại Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s101"
+  },
+  {
+   "tu": 70552,
+   "den": 70584,
+   "raw": "Đầu tư bất động sản đủ điều kiện",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s102"
+  },
+  {
+   "tu": 70592,
+   "den": 70651,
+   "raw": "Giá trị đầu tư từ 300.000 EUR + VAT, mua mới từ chủ đầu tư.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s103"
+  },
+  {
+   "tu": 70704,
+   "den": 70718,
+   "raw": "Chuẩn bị hồ sơ",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s104"
+  },
+  {
+   "tu": 70726,
+   "den": 70856,
+   "raw": "Hồ sơ có thể gồm nhà đầu tư cùng vợ/chồng và con phụ thuộc. Ngoài sở hữu bất động sản, cần chứng minh có đủ mức thu nhập hàng năm.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s105"
+  },
+  {
+   "tu": 70909,
+   "den": 70944,
+   "raw": "Trở thành thường trú nhân vĩnh viễn",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s106"
+  },
+  {
+   "tu": 70952,
+   "den": 71006,
+   "raw": "Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s107"
+  },
+  {
+   "tu": 71076,
+   "den": 71177,
+   "raw": "Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp hoặc quyền sinh sống, làm việc tại toàn bộ EU.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s108"
+  },
+  {
+   "tu": 71494,
+   "den": 71543,
+   "raw": "Lợi thế thường trú nhân<br> <em>Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s109"
+  },
+  {
+   "tu": 71579,
+   "den": 71615,
+   "raw": "Quyền lợi khi có thường trú nhân Síp",
+   "loai": "p",
+   "lop": "imm4-rights__intro",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s110"
+  },
+  {
+   "tu": 71737,
+   "den": 71765,
+   "raw": "<span>holiday_village</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s111"
+  },
+  {
+   "tu": 71801,
+   "den": 71803,
+   "raw": "01",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s112"
+  },
+  {
+   "tu": 71814,
+   "den": 71840,
+   "raw": "Sinh sống tại Cộng Hòa Síp",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s113"
+  },
+  {
+   "tu": 71854,
+   "den": 71932,
+   "raw": "Nhà đầu tư và gia đình được sinh sống, học tập và kinh doanh tại Cộng Hòa Síp.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s114"
+  },
+  {
+   "tu": 71941,
+   "den": 72034,
+   "raw": "Được tiếp cận môi trường sống tiêu chuẩn châu Âu, khí hậu Địa Trung Hải và cộng đồng quốc tế.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s115"
+  },
+  {
+   "tu": 72135,
+   "den": 72182,
+   "raw": "<span>school</span><span>business_center</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s116"
+  },
+  {
+   "tu": 72218,
+   "den": 72220,
+   "raw": "02",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s117"
+  },
+  {
+   "tu": 72231,
+   "den": 72259,
+   "raw": "Giáo dục, kinh doanh và thuế",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s118"
+  },
+  {
+   "tu": 72273,
+   "den": 72321,
+   "raw": "Hệ thống giáo dục chịu ảnh hưởng chuẩn Anh Quốc.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s119"
+  },
+  {
+   "tu": 72330,
+   "den": 72415,
+   "raw": "Môi trường kinh doanh minh bạch; thuế doanh nghiệp 12,5% (đối chiếu ngày 18/08/2026).",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s120"
+  },
+  {
+   "tu": 72424,
+   "den": 72519,
+   "raw": "Chính sách thuế cá nhân phụ thuộc tình trạng cư trú thuế, nguồn thu nhập và quy định hiện hành.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s121"
+  },
+  {
+   "tu": 72638,
+   "den": 72684,
+   "raw": "<span>verified_user</span><span>license</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s122"
+  },
+  {
+   "tu": 72720,
+   "den": 72722,
+   "raw": "03",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s123"
+  },
+  {
+   "tu": 72733,
+   "den": 72758,
+   "raw": "Lưu ý về quyền thường trú",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s124"
+  },
+  {
+   "tu": 72772,
+   "den": 72854,
+   "raw": "Quyền làm việc, kinh doanh và hưởng chính sách thuế cần xét theo điều kiện cụ thể.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s125"
+  },
+  {
+   "tu": 72863,
+   "den": 72918,
+   "raw": "Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s126"
+  },
+  {
+   "tu": 72927,
+   "den": 73084,
+   "raw": "Quyền sinh sống, làm việc tại các nước EU khác chỉ phát sinh khi nhà đầu tư có quốc tịch EU hoặc giấy phép cư trú, giấy phép làm việc hợp lệ tại quốc gia đó.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s127"
+  },
+  {
+   "tu": 73196,
+   "den": 73223,
+   "raw": "Lộ trình nhập quốc tịch Síp",
+   "loai": "h3",
+   "lop": "imm4-citizen-route__title",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s128"
+  },
+  {
+   "tu": 73358,
+   "den": 73396,
+   "raw": "Sở hữu quyền thường trú vĩnh viễn (PR)",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s129"
+  },
+  {
+   "tu": 73404,
+   "den": 73485,
+   "raw": "Gia hạn thẻ thường trú (vật lý) mỗi 5 năm với điều kiện còn duy trì bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s130"
+  },
+  {
+   "tu": 73592,
+   "den": 73628,
+   "raw": "Đáp ứng điều kiện cư trú và ngôn ngữ",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s131"
+  },
+  {
+   "tu": 73636,
+   "den": 73752,
+   "raw": "Cư trú thực tế tối thiểu 8 năm trong vòng 11 năm. Đạt trình độ tiếng Hy Lạp B1 và đạt bài kiểm tra hội nhập văn hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s132"
+  },
+  {
+   "tu": 73859,
+   "den": 73870,
+   "raw": "Công dân EU",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s133"
+  },
+  {
+   "tu": 73878,
+   "den": 73951,
+   "raw": "Cho phép đa tịch. Sở hữu Hộ chiếu Síp – Tự do di chuyển hơn 170 quốc gia.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s134"
+  },
+  {
+   "tu": 74218,
+   "den": 74295,
+   "raw": "Nhận tư vấn dự án Coral Vista &amp; <br><em>lộ trình thường trú nhân Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s135"
+  },
+  {
+   "tu": 74399,
+   "den": 74413,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "btn-primary link-to imm4-consult__button",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s136"
+  },
+  {
+   "tu": 74598,
+   "den": 74683,
+   "raw": "Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s137"
+  },
+  {
+   "tu": 74692,
+   "den": 74761,
+   "raw": "Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s138"
+  },
+  {
+   "tu": 74809,
+   "den": 74882,
+   "raw": "<span class=\"imm4-consult__notice-icon\" aria-hidden=\"true\">balance</span>",
+   "loai": "p",
+   "lop": "imm4-consult__notice",
+   "the": "aside",
+   "ngu_canh": "",
+   "id": "s139"
+  },
+  {
+   "tu": 74892,
+   "den": 74907,
+   "raw": "Lưu ý thông tin",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s140"
+  },
+  {
+   "tu": 74915,
+   "den": 75053,
+   "raw": "Thông tin trên trang này nhằm cung cấp tổng quan về dự án Coral Vista, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s141"
+  },
+  {
+   "tu": 75314,
+   "den": 75321,
+   "raw": "&times;",
+   "loai": "cta",
+   "lop": "imm4-icon-btn",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s142"
+  },
+  {
+   "tu": 75440,
+   "den": 75518,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_left</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__prev",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s143"
+  },
+  {
+   "tu": 75682,
+   "den": 75761,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_right</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__next",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s144"
+  }
+ ]
+}

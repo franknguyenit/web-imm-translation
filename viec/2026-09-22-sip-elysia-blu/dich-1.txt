@@ -1,0 +1,118 @@
+[s001] Cyprus Golden Visa property | Apartment project
+[s002] Elysia Blu
+[s003] Resort-style apartments in central Paphos, from €511,000, with completion expected in Q4 2028.
+[s005] {1}{2}apartment{/2}Apartment price{/1}**From €511,000**
+[s006] {1}{2}event_available{/2}Expected completion{/1}**Q4 2028**
+[s007] {1}{2}key{/2}Rental guarantee{/1}**For 10 years**
+[s008] Elysia Blu
+[s010] Location & market potential
+[s012] Amenities & design
+[s013] Developer & development team
+[s015] The permanent residence route
+[s016] PR advantages
+[s017] A strategic location &{br} {1}market potential{/1}
+[s018] Elysia Blu {1}·{/1} Universal Area {2}·{/2} Paphos, Cyprus
+[s021] Everything you need within easy reach
+[s022] Central Paphos
+[s023] Right in the center of the seaside city of Paphos.
+[s024] Everyday amenities
+[s025] A few minutes to the coast, the old town, international schools, hospitals, malls, and shopping.
+[s026] Culture & heritage
+[s027] Close to Paphos's notable historic sites and cultural landmarks.
+[s028] A central land plot
+[s029] It holds a rare central plot large enough for a full-scale apartment complex.
+[s030] Premium apartments in – {1}Paphos{/1}
+[s031] Set in the center of Paphos, a seaside city listed by UNESCO as a World Heritage Site.
+[s032] A premium, resort-style apartment project with a full set of on-site resort-standard amenities.
+[s033] The developer, Pafilia, has more than 48 years of experience in premium real estate in Cyprus.
+[s034] From €511,000 for a 2-bedroom apartment, meeting the requirements of the Cyprus permanent residence by investment program.
+[s035] Phase 1 is about 70% sold, with completion expected in Q4 2028.
+[s039] Central Paphos, Cyprus
+[s041] 2- and 3-bedroom apartments
+[s043] 200 apartments
+[s044] Apartment price
+[s045] From €511,000
+[s047] Pafilia
+[s048] Handover
+[s049] Expected Q4 2028
+[s051] Under construction
+[s052] Amenities & design to {1}European standards{/1}
+[s053] architecture
+[s054] Style
+[s055] Modern resort
+[s056] hotel_class
+[s057] Amenity standard
+[s058] 5-star resort standard
+[s059] location_on
+[s061] Central Paphos
+[s062] key
+[s063] Rental operation
+[s064] Guaranteed for 10 years
+[s065] construction
+[s067] Under construction
+[s068] A self-contained living environment
+[s069] {1}pool{/1}**Swimming pool**
+[s070] {1}attractions{/1}**Children's playground**
+[s071] {1}spa{/1}**Spa**
+[s072] {1}shopping_cart{/1}**Mini market**
+[s073] {1}fitness_center{/1}**Gym**
+[s074] {1}weekend{/1}**Community lounge**
+[s075] {1}room_service{/1}**Restaurant**
+[s076] {1}park{/1}**On-site park and green landscaping**
+[s077] Elysia Blu aims at a balanced way of living, combining city amenities with a resort feel on site.
+[s078] Developer &{br} {1}development team{/1}
+[s079] Pafilia — a leading developer of premium residential real estate in Cyprus
+[s080] {1}diamond{/1}Capability and experience
+[s081] verified_user
+[s082] More than 48 years of experience
+[s083] in real estate development.
+[s085] More than 250 projects
+[s086] built in Cyprus and Greece. The developer of ONE, the tallest seafront building in Europe.
+[s087] euro_symbol
+[s088] More than €3 billion
+[s089] in total real estate portfolio value.
+[s090] landscape
+[s091] 60% seafront land
+[s092] A land bank in prime positions right by the sea.
+[s094] Selected Pafilia projects
+[s095] Beachside Villa
+[s096] Coral Vista
+[s097] Pafilia Plaza
+[s098] {1}Project{/1} timeline
+[s101] **Cyprus real estate** can be more than an asset that produces income and holds value in a foreign currency. Owning at Elysia Blu also opens a route to European residence for your whole family.
+[s102] Your route to{br} {1}permanent residence in Cyprus{/1}
+[s104] An investment from €300,000 plus VAT, bought new from the developer.
+[s106] The application can include you, your spouse, and your dependent children. Besides owning the property, you need to show sufficient annual income.
+[s107] Become a permanent resident
+[s108|#bo-qua-so: "1 lần" viết thành "once" cho tự nhiên] You need to visit Cyprus once every 2 years to keep the status.
+[s109] Cyprus permanent residence is the right to live in Cyprus; it is not Cypriot citizenship, and it does not give the right to live or work across the whole EU.
+[s110] Advantages of{br} {1}Cyprus permanent residence{/1}
+[s111] What Cyprus permanent residence gives you
+[s112] holiday_village
+[s113] 01
+[s114] Living in Cyprus
+[s115] You and your family can live, study, and do business in Cyprus with the rights of a permanent resident.
+[s116] Access to a European standard of living, a Mediterranean climate, and an international community.
+[s117] Visa applications to other European countries can be more straightforward, depending on each country's rules.
+[s118] {1}health_and_safety{/1}{2}school{/2}{3}business_center{/3}
+[s119] 02
+[s120] Healthcare, education, and business
+[s121] A healthcare system to European standards, under the conditions of the GeSY system.
+[s122] Education on the British model, which suits a long-term education plan for your children.
+[s123] Corporate tax of 15% from 2026, among the more competitive rates in Europe.
+[s124] Personal tax depends on your tax residence status, your sources of income, and the rules in force.
+[s125] {1}verified_user{/1}{2}license{/2}
+[s126] 03
+[s127] Points to note about permanent residence
+[s128] Cyprus permanent residence is not Cypriot citizenship.
+[s129] The right to live and work in other EU countries arises only if you hold EU citizenship or a valid residence or work permit in that country.
+[s130] Rights to work and do business, and the tax treatment that applies, have to be assessed against the program conditions and each investor's own file.
+[s131] The route to Cypriot citizenship
+[s132] Hold permanent residence (PR)
+[s133] The physical residence card is renewed every 5 years, provided you still own the property.
+[s134] Meet the residence and language conditions
+[s135] At least 8 years of physical residence within 11 years, Greek at level B1, and a pass in the cultural integration test.
+[s136] EU citizenship
+[s137] Dual citizenship is allowed. A Cypriot passport gives visa-free travel to more than 170 countries.
+[s138] Talk to us about Elysia Blu & {br}{1}the Cyprus permanent residence route{/1}
+[s144] The information on this page provides an overview of the Elysia Blu project. It is not legal, securities, or personalized investment advice.

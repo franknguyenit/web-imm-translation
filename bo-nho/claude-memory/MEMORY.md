@@ -12,3 +12,4 @@
 - [Trang trục dùng cụm từ khoá gộp](trang-truc-dung-cum-tu-khoa-gop.md) — hub không lấy tên một chương trình; người đọc hỏi khái niệm và so sánh
 - [New Zealand: Resident Visa không phải PR](new-zealand-resident-visa-khong-phai-pr.md) — nguồn Việt gọi nhầm là "Visa Thường trú"; dịch thành permanent residence là nói quá quyền lợi
 - [Trang dự án BĐS dựng bằng template HTML](trang-du-an-bds-template-html.md) — bẫy tên icon, chữ trong alt/aria/JS, và cái bẫy 250.000 EUR của Golden Visa Hy Lạp
+- [Síp khác Hy Lạp: thường trú thật](sip-khac-hy-lap-thuong-tru-that.md) — thân bài dùng permanent residence, Golden Visa chỉ ở meta; thuế 12,5% vs 15% đá nhau giữa các trang

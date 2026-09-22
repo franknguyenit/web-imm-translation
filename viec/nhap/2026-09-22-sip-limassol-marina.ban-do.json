@@ -1,0 +1,1456 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/web-imm-translation/viec/nhap/goc-sip/limassol-marina.html",
+ "truong_json": null,
+ "doan": [
+  {
+   "tu": 55713,
+   "den": 55754,
+   "raw": "Thường trú nhân Cộng Hòa Síp | Siêu dự án",
+   "loai": "p",
+   "lop": "imm4-hero__status",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 55784,
+   "den": 55799,
+   "raw": "Limassol Marina",
+   "loai": "h1",
+   "lop": "",
+   "the": "h1",
+   "ngu_canh": "",
+   "id": "s002"
+  },
+  {
+   "tu": 55832,
+   "den": 55921,
+   "raw": "Biệt thự &amp; căn hộ hạng sang bên bến du thuyền – Lộ trình thường trú nhân Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "imm4-hero__lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s003"
+  },
+  {
+   "tu": 56008,
+   "den": 56022,
+   "raw": "YÊU CẦU TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s004"
+  },
+  {
+   "tu": 57057,
+   "den": 57200,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">villa</i>Mức đầu tư tối thiểu</span><strong>3.900.000 EUR</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s005"
+  },
+  {
+   "tu": 57263,
+   "den": 57401,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">holiday_village</i>Tình trạng</span><strong>Còn suất</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-1",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s006"
+  },
+  {
+   "tu": 57464,
+   "den": 57612,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">bed</i>Loại hình</span><strong>Biệt thự &amp; căn hộ hạng sang</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-2",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s007"
+  },
+  {
+   "tu": 57812,
+   "den": 57827,
+   "raw": "Limassol Marina",
+   "loai": "cta",
+   "lop": "imm4-anchor__name",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s008"
+  },
+  {
+   "tu": 57884,
+   "den": 57898,
+   "raw": "Hình ảnh dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s009"
+  },
+  {
+   "tu": 57920,
+   "den": 57940,
+   "raw": "Vị trí &amp; kết nối",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s010"
+  },
+  {
+   "tu": 57965,
+   "den": 57980,
+   "raw": "Tổng quan dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s011"
+  },
+  {
+   "tu": 58004,
+   "den": 58027,
+   "raw": "Thiết kế &amp; tiện ích",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s012"
+  },
+  {
+   "tu": 58050,
+   "den": 58072,
+   "raw": "Nhà phát triển Cybarco",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s013"
+  },
+  {
+   "tu": 58095,
+   "den": 58108,
+   "raw": "Tiến độ dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s014"
+  },
+  {
+   "tu": 58132,
+   "den": 58156,
+   "raw": "Lộ trình thường trú nhân",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s015"
+  },
+  {
+   "tu": 58179,
+   "den": 58202,
+   "raw": "Lợi thế thường trú nhân",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s016"
+  },
+  {
+   "tu": 62222,
+   "den": 62517,
+   "raw": "<img src=\"https://immgroup.com/wp-content/uploads/2026/08/Limassol-Marina-1.webp\" alt=\"Video giới thiệu siêu dự án Limassol Marina\" loading=\"lazy\"><span class=\"imm4-gallery__play\" aria-hidden=\"true\">play_arrow</span><span class=\"imm4-gallery__video-label\">Video giới thiệu Limassol Marina</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s017"
+  },
+  {
+   "tu": 62822,
+   "den": 62875,
+   "raw": "Vị trí bên biển &amp;<br> <em>trung tâm Limassol</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s018"
+  },
+  {
+   "tu": 63152,
+   "den": 63271,
+   "raw": "Limassol Marina <span aria-hidden=\"true\">·</span> Bến du thuyền Limassol <span aria-hidden=\"true\">·</span> Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "imm4-map__meta",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s019"
+  },
+  {
+   "tu": 63388,
+   "den": 63476,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">location_on</span>Google Maps",
+   "loai": "cta",
+   "lop": "imm4-map__link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s020"
+  },
+  {
+   "tu": 63565,
+   "den": 63583,
+   "raw": "Kết nối thuận tiện",
+   "loai": "p",
+   "lop": "imm4-loc__eyebrow",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s021"
+  },
+  {
+   "tu": 63618,
+   "den": 63654,
+   "raw": "Vị trí “kim cương” bên bến du thuyền",
+   "loai": "h3",
+   "lop": "imm4-loc__heading",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s022"
+  },
+  {
+   "tu": 63695,
+   "den": 63713,
+   "raw": "Trung tâm Limassol",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s023"
+  },
+  {
+   "tu": 63721,
+   "den": 63822,
+   "raw": "Khoảng 2 phút đến khu trung tâm kinh tế tài chính, trung tâm thương mại, trường quốc tế và bệnh viện.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s024"
+  },
+  {
+   "tu": 63839,
+   "den": 63854,
+   "raw": "Công viên Molos",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s025"
+  },
+  {
+   "tu": 63862,
+   "den": 63911,
+   "raw": "Liền kề công viên ven biển Molos dài khoảng 1 km.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s026"
+  },
+  {
+   "tu": 63928,
+   "den": 63946,
+   "raw": "Kết nối đường biển",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s027"
+  },
+  {
+   "tu": 63954,
+   "den": 64019,
+   "raw": "Thuận tiện kết nối với các bến du thuyền và điểm đến tại châu Âu.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s028"
+  },
+  {
+   "tu": 64036,
+   "den": 64057,
+   "raw": "Bến du thuyền quốc tế",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s029"
+  },
+  {
+   "tu": 64065,
+   "den": 64126,
+   "raw": "Limassol Marina đạt Giải thưởng 5 Gold Anchor Platinum Award.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s030"
+  },
+  {
+   "tu": 64396,
+   "den": 64456,
+   "raw": "Biệt thự &amp; căn hộ hạng sang tại <em>Limassol Marina</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s031"
+  },
+  {
+   "tu": 64488,
+   "den": 64574,
+   "raw": "Tọa lạc ngay bến du thuyền Limassol Marina, biểu tượng sống đẳng cấp của Cộng Hòa Síp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s032"
+  },
+  {
+   "tu": 64581,
+   "den": 64677,
+   "raw": "Không gian sống bên biển hiếm có, kết hợp biệt thự, căn hộ hạng sang và bến neo du thuyền riêng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s033"
+  },
+  {
+   "tu": 64684,
+   "den": 64767,
+   "raw": "Dự án đã hoàn thiện và bàn giao từ tháng 6/2021; số lượng sản phẩm còn lại hạn chế.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s034"
+  },
+  {
+   "tu": 64774,
+   "den": 64957,
+   "raw": "Sản phẩm còn lại tại Limassol Marina tham khảo từ khoảng 3,9 triệu EUR; mức đầu tư bất động sản đủ điều kiện xét thường trú nhân Síp từ 300.000 EUR, chưa gồm VAT và chi phí liên quan.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s035"
+  },
+  {
+   "tu": 64964,
+   "den": 65073,
+   "raw": "Nhà đầu tư và gia đình có thể nộp hồ sơ xin thường trú nhân vĩnh viễn Síp khi đáp ứng điều kiện chương trình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s036"
+  },
+  {
+   "tu": 65193,
+   "den": 65207,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s037"
+  },
+  {
+   "tu": 65435,
+   "den": 65450,
+   "raw": "Thông tin dự án",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s038"
+  },
+  {
+   "tu": 65464,
+   "den": 65470,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s039"
+  },
+  {
+   "tu": 65479,
+   "den": 65508,
+   "raw": "Bến du thuyền Limassol Marina",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s040"
+  },
+  {
+   "tu": 65517,
+   "den": 65526,
+   "raw": "Thành phố",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s041"
+  },
+  {
+   "tu": 65535,
+   "den": 65557,
+   "raw": "Limassol, Cộng Hòa Síp",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s042"
+  },
+  {
+   "tu": 65566,
+   "den": 65575,
+   "raw": "Loại hình",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s043"
+  },
+  {
+   "tu": 65584,
+   "den": 65612,
+   "raw": "Biệt thự và căn hộ hạng sang",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s044"
+  },
+  {
+   "tu": 65621,
+   "den": 65633,
+   "raw": "Điểm nổi bật",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s045"
+  },
+  {
+   "tu": 65642,
+   "den": 65665,
+   "raw": "Bến neo du thuyền riêng",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s046"
+  },
+  {
+   "tu": 65674,
+   "den": 65684,
+   "raw": "Tình trạng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s047"
+  },
+  {
+   "tu": 65693,
+   "den": 65719,
+   "raw": "Hoàn thiện từ tháng 6/2021",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s048"
+  },
+  {
+   "tu": 65728,
+   "den": 65738,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s049"
+  },
+  {
+   "tu": 65747,
+   "den": 65763,
+   "raw": "Từ 3.900.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s050"
+  },
+  {
+   "tu": 65772,
+   "den": 65786,
+   "raw": "Nhà phát triển",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s051"
+  },
+  {
+   "tu": 65795,
+   "den": 65802,
+   "raw": "Cybarco",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s052"
+  },
+  {
+   "tu": 66142,
+   "den": 66197,
+   "raw": "Thiết kế &amp; tiện ích <em>đậm chất Địa Trung Hải</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s053"
+  },
+  {
+   "tu": 66279,
+   "den": 66349,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">holiday_village</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s054"
+  },
+  {
+   "tu": 66358,
+   "den": 66367,
+   "raw": "Loại hình",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s055"
+  },
+  {
+   "tu": 66376,
+   "den": 66397,
+   "raw": "Biệt thự &amp; căn hộ",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s056"
+  },
+  {
+   "tu": 66420,
+   "den": 66482,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">sailing</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s057"
+  },
+  {
+   "tu": 66491,
+   "den": 66503,
+   "raw": "Điểm nổi bật",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s058"
+  },
+  {
+   "tu": 66512,
+   "den": 66535,
+   "raw": "Bến neo du thuyền riêng",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s059"
+  },
+  {
+   "tu": 66558,
+   "den": 66624,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">location_on</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s060"
+  },
+  {
+   "tu": 66633,
+   "den": 66639,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s061"
+  },
+  {
+   "tu": 66648,
+   "den": 66666,
+   "raw": "Trung tâm Limassol",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s062"
+  },
+  {
+   "tu": 66689,
+   "den": 66755,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">euro_symbol</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s063"
+  },
+  {
+   "tu": 66764,
+   "den": 66774,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s064"
+  },
+  {
+   "tu": 66783,
+   "den": 66799,
+   "raw": "Từ 3.900.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s065"
+  },
+  {
+   "tu": 66822,
+   "den": 66881,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">sync</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s066"
+  },
+  {
+   "tu": 66890,
+   "den": 66900,
+   "raw": "Tình trạng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s067"
+  },
+  {
+   "tu": 66909,
+   "den": 66917,
+   "raw": "Còn suất",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s068"
+  },
+  {
+   "tu": 67012,
+   "den": 67044,
+   "raw": "Chuẩn sống tinh túy bên mặt nước",
+   "loai": "h3",
+   "lop": "imm4-amen__sub",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s069"
+  },
+  {
+   "tu": 67082,
+   "den": 67170,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">pool</span><strong>Hồ bơi riêng</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s070"
+  },
+  {
+   "tu": 67179,
+   "den": 67268,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">deck</span><strong>Sân vườn rộng</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s071"
+  },
+  {
+   "tu": 67277,
+   "den": 67379,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">sailing</span><strong>Bến neo du thuyền riêng</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s072"
+  },
+  {
+   "tu": 67388,
+   "den": 67490,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">restaurant</span><strong>Nhà hàng và quán bar</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s073"
+  },
+  {
+   "tu": 67499,
+   "den": 67594,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">shopping_bag</span><strong>Khu mua sắm</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s074"
+  },
+  {
+   "tu": 67603,
+   "den": 67699,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">spa</span><strong>Spa chăm sóc sức khỏe</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s075"
+  },
+  {
+   "tu": 67708,
+   "den": 67814,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">fitness_center</span><strong>Phòng gym tiêu chuẩn</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s076"
+  },
+  {
+   "tu": 67823,
+   "den": 67927,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">support_agent</span><strong>Dịch vụ lễ tân 24/7</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s077"
+  },
+  {
+   "tu": 68016,
+   "den": 68142,
+   "raw": "Biệt thự có hồ bơi riêng, sân vườn rộng và bến neo du thuyền phía sau; căn hộ mở tầm nhìn ra biển Địa Trung Hải và khu marina.",
+   "loai": "p",
+   "lop": "imm4-amen__note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s078"
+  },
+  {
+   "tu": 68397,
+   "den": 68444,
+   "raw": "Chủ đầu tư &amp;<br> <em>đơn vị phát triển</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s079"
+  },
+  {
+   "tu": 68488,
+   "den": 68545,
+   "raw": "Cybarco - Thành viên Tập đoàn Lanitis hơn 100 năm lịch sử",
+   "loai": "p",
+   "lop": "imm4-dev__lead imm4-reveal",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s080"
+  },
+  {
+   "tu": 68592,
+   "den": 68678,
+   "raw": "<span class=\"imm4-dev__badge\" aria-hidden=\"true\">diamond</span>Năng lực và kinh nghiệm",
+   "loai": "h3",
+   "lop": "imm4-dev__eyebrow imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s081"
+  },
+  {
+   "tu": 68728,
+   "den": 68795,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">verified_user</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s082"
+  },
+  {
+   "tu": 68800,
+   "den": 68848,
+   "raw": "<strong>Cybarco được thành lập năm 1945</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s083"
+  },
+  {
+   "tu": 68851,
+   "den": 68879,
+   "raw": "trực thuộc Tập đoàn Lanitis.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s084"
+  },
+  {
+   "tu": 68899,
+   "den": 68970,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">workspace_premium</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s085"
+  },
+  {
+   "tu": 68975,
+   "den": 69022,
+   "raw": "<strong>Lanitis có lịch sử từ năm 1896</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s086"
+  },
+  {
+   "tu": 69025,
+   "den": 69055,
+   "raw": "và đã phát triển qua 4 thế hệ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s087"
+  },
+  {
+   "tu": 69075,
+   "den": 69138,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">apartment</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s088"
+  },
+  {
+   "tu": 69143,
+   "den": 69190,
+   "raw": "<strong>Hoạt động trong nhiều lĩnh vực</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s089"
+  },
+  {
+   "tu": 69193,
+   "den": 69269,
+   "raw": "gồm xây dựng, bất động sản, du lịch, khách sạn, bến du thuyền và năng lượng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s090"
+  },
+  {
+   "tu": 69289,
+   "den": 69360,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">workspace_premium</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s091"
+  },
+  {
+   "tu": 69365,
+   "den": 69420,
+   "raw": "<strong>Chuyên phát triển bất động sản cao cấp</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s092"
+  },
+  {
+   "tu": 69423,
+   "den": 69471,
+   "raw": "dành cho nhóm khách hàng thượng lưu tại châu Âu.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s093"
+  },
+  {
+   "tu": 69582,
+   "den": 69597,
+   "raw": "Dự án tiêu biểu",
+   "loai": "h3",
+   "lop": "imm4-dev__projects-title imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s094"
+  },
+  {
+   "tu": 69851,
+   "den": 69908,
+   "raw": "<span class=\"imm4-dev__title-link\">Limassol Marina</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s095"
+  },
+  {
+   "tu": 70117,
+   "den": 70167,
+   "raw": "<span class=\"imm4-dev__title-link\">The Oval</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s096"
+  },
+  {
+   "tu": 70374,
+   "den": 70423,
+   "raw": "<span class=\"imm4-dev__title-link\">Trilogy</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s097"
+  },
+  {
+   "tu": 70636,
+   "den": 70688,
+   "raw": "<span class=\"imm4-dev__title-link\">Akamas Bay</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s098"
+  },
+  {
+   "tu": 70929,
+   "den": 70951,
+   "raw": "Tiến độ <em>dự án</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s099"
+  },
+  {
+   "tu": 71034,
+   "den": 71147,
+   "raw": "Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.",
+   "loai": "p",
+   "lop": "imm4-progress-note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s100"
+  },
+  {
+   "tu": 71485,
+   "den": 71670,
+   "raw": "Đầu tư sở hữu biệt thự hoặc căn hộ tại <strong>Limassol Marina</strong>, nhà đầu tư và gia đình có thể xét lộ trình thường trú vĩnh viễn Cộng Hòa Síp khi đáp ứng điều kiện chương trình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s101"
+  },
+  {
+   "tu": 71733,
+   "den": 71797,
+   "raw": "Lộ trình thường trú nhân<br> <em>vĩnh viễn tại Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s102"
+  },
+  {
+   "tu": 71939,
+   "den": 71971,
+   "raw": "Đầu tư bất động sản đủ điều kiện",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s103"
+  },
+  {
+   "tu": 71979,
+   "den": 72038,
+   "raw": "Giá trị đầu tư từ 300.000 EUR + VAT, mua mới từ chủ đầu tư.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s104"
+  },
+  {
+   "tu": 72091,
+   "den": 72105,
+   "raw": "Chuẩn bị hồ sơ",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s105"
+  },
+  {
+   "tu": 72113,
+   "den": 72243,
+   "raw": "Hồ sơ có thể gồm nhà đầu tư cùng vợ/chồng và con phụ thuộc. Ngoài sở hữu bất động sản, cần chứng minh có đủ mức thu nhập hàng năm.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s106"
+  },
+  {
+   "tu": 72296,
+   "den": 72331,
+   "raw": "Trở thành thường trú nhân vĩnh viễn",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s107"
+  },
+  {
+   "tu": 72339,
+   "den": 72393,
+   "raw": "Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s108"
+  },
+  {
+   "tu": 72463,
+   "den": 72564,
+   "raw": "Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp hoặc quyền sinh sống, làm việc tại toàn bộ EU.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s109"
+  },
+  {
+   "tu": 72881,
+   "den": 72930,
+   "raw": "Lợi thế thường trú nhân<br> <em>Cộng Hòa Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s110"
+  },
+  {
+   "tu": 72966,
+   "den": 73002,
+   "raw": "Quyền lợi khi có thường trú nhân Síp",
+   "loai": "p",
+   "lop": "imm4-rights__intro",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s111"
+  },
+  {
+   "tu": 73124,
+   "den": 73152,
+   "raw": "<span>holiday_village</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s112"
+  },
+  {
+   "tu": 73188,
+   "den": 73190,
+   "raw": "01",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s113"
+  },
+  {
+   "tu": 73201,
+   "den": 73227,
+   "raw": "Sinh sống tại Cộng Hòa Síp",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s114"
+  },
+  {
+   "tu": 73241,
+   "den": 73319,
+   "raw": "Nhà đầu tư và gia đình được sinh sống, học tập và kinh doanh tại Cộng Hòa Síp.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s115"
+  },
+  {
+   "tu": 73328,
+   "den": 73421,
+   "raw": "Được tiếp cận môi trường sống tiêu chuẩn châu Âu, khí hậu Địa Trung Hải và cộng đồng quốc tế.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s116"
+  },
+  {
+   "tu": 73522,
+   "den": 73569,
+   "raw": "<span>school</span><span>business_center</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s117"
+  },
+  {
+   "tu": 73605,
+   "den": 73607,
+   "raw": "02",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s118"
+  },
+  {
+   "tu": 73618,
+   "den": 73646,
+   "raw": "Giáo dục, kinh doanh và thuế",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s119"
+  },
+  {
+   "tu": 73660,
+   "den": 73708,
+   "raw": "Hệ thống giáo dục chịu ảnh hưởng chuẩn Anh Quốc.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s120"
+  },
+  {
+   "tu": 73717,
+   "den": 73802,
+   "raw": "Môi trường kinh doanh minh bạch; thuế doanh nghiệp 12,5% (đối chiếu ngày 18/08/2026).",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s121"
+  },
+  {
+   "tu": 73811,
+   "den": 73906,
+   "raw": "Chính sách thuế cá nhân phụ thuộc tình trạng cư trú thuế, nguồn thu nhập và quy định hiện hành.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s122"
+  },
+  {
+   "tu": 74025,
+   "den": 74069,
+   "raw": "<span>verified_user</span><span>badge</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s123"
+  },
+  {
+   "tu": 74105,
+   "den": 74107,
+   "raw": "03",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s124"
+  },
+  {
+   "tu": 74118,
+   "den": 74143,
+   "raw": "Lưu ý về quyền thường trú",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s125"
+  },
+  {
+   "tu": 74157,
+   "den": 74239,
+   "raw": "Quyền làm việc, kinh doanh và hưởng chính sách thuế cần xét theo điều kiện cụ thể.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s126"
+  },
+  {
+   "tu": 74248,
+   "den": 74303,
+   "raw": "Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s127"
+  },
+  {
+   "tu": 74312,
+   "den": 74469,
+   "raw": "Quyền sinh sống, làm việc tại các nước EU khác chỉ phát sinh khi nhà đầu tư có quốc tịch EU hoặc giấy phép cư trú, giấy phép làm việc hợp lệ tại quốc gia đó.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s128"
+  },
+  {
+   "tu": 74581,
+   "den": 74608,
+   "raw": "Lộ trình nhập quốc tịch Síp",
+   "loai": "h3",
+   "lop": "imm4-citizen-route__title",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s129"
+  },
+  {
+   "tu": 74743,
+   "den": 74781,
+   "raw": "Sở hữu quyền thường trú vĩnh viễn (PR)",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s130"
+  },
+  {
+   "tu": 74789,
+   "den": 74870,
+   "raw": "Gia hạn thẻ thường trú (vật lý) mỗi 5 năm với điều kiện còn duy trì bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s131"
+  },
+  {
+   "tu": 74977,
+   "den": 75013,
+   "raw": "Đáp ứng điều kiện cư trú và ngôn ngữ",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s132"
+  },
+  {
+   "tu": 75021,
+   "den": 75137,
+   "raw": "Cư trú thực tế tối thiểu 8 năm trong vòng 11 năm. Đạt trình độ tiếng Hy Lạp B1 và đạt bài kiểm tra hội nhập văn hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s133"
+  },
+  {
+   "tu": 75244,
+   "den": 75255,
+   "raw": "Công dân EU",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s134"
+  },
+  {
+   "tu": 75263,
+   "den": 75336,
+   "raw": "Cho phép đa tịch. Sở hữu Hộ chiếu Síp – Tự do di chuyển hơn 170 quốc gia.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s135"
+  },
+  {
+   "tu": 75603,
+   "den": 75684,
+   "raw": "Nhận tư vấn dự án Limassol Marina &amp; <br><em>lộ trình thường trú nhân Síp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s136"
+  },
+  {
+   "tu": 75788,
+   "den": 75802,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "btn-primary link-to imm4-consult__button",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s137"
+  },
+  {
+   "tu": 75987,
+   "den": 76072,
+   "raw": "Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s138"
+  },
+  {
+   "tu": 76081,
+   "den": 76150,
+   "raw": "Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s139"
+  },
+  {
+   "tu": 76198,
+   "den": 76271,
+   "raw": "<span class=\"imm4-consult__notice-icon\" aria-hidden=\"true\">balance</span>",
+   "loai": "p",
+   "lop": "imm4-consult__notice",
+   "the": "aside",
+   "ngu_canh": "",
+   "id": "s140"
+  },
+  {
+   "tu": 76281,
+   "den": 76296,
+   "raw": "Lưu ý thông tin",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s141"
+  },
+  {
+   "tu": 76304,
+   "den": 76446,
+   "raw": "Thông tin trên trang này nhằm cung cấp tổng quan về dự án Limassol Marina, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s142"
+  },
+  {
+   "tu": 76707,
+   "den": 76714,
+   "raw": "&times;",
+   "loai": "cta",
+   "lop": "imm4-icon-btn",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s143"
+  },
+  {
+   "tu": 76833,
+   "den": 76911,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_left</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__prev",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s144"
+  },
+  {
+   "tu": 77075,
+   "den": 77154,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_right</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__next",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s145"
+  }
+ ]
+}

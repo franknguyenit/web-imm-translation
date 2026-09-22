@@ -1,0 +1,142 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	p	Bất động sản Cộng Hòa Síp | Dự án biệt thự ven biển	Cyprus real estate | Beachfront villa project			acf.s001_p
+s002	h1	Beachside Villa	Beachside Villa			acf.s002_h1
+s003	p	Biệt thự ven biển Địa Trung Hải, lộ trình thường trú nhân vĩnh viễn Cộng Hòa Síp. Mức đầu tư từ 633.000 EUR.	Mediterranean beachfront villas and a route to permanent residence in Cyprus. Investment from €633,000.			acf.s003_p
+s004	cta	YÊU CẦU TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s004_cta
+s005	p	{1}{2}villa{/2}Giá biệt thự{/1}**Từ 633.000 EUR**	{1}{2}villa{/2}Villa price{/1}**From €633,000**			acf.s005_p#1
+s006	p	{1}{2}holiday_village{/2}Quy mô dự án{/1}**28 biệt thự**	{1}{2}holiday_village{/2}Project size{/1}**28 villas**			acf.s006_p#1
+s007	p	{1}{2}bed{/2}Loại căn{/1}**2-3 phòng ngủ**	{1}{2}bed{/2}Unit types{/1}**2–3 bedrooms**			acf.s007_p#1
+s008	cta	Beachside Villa	Beachside Villa		trung:s002	acf.s008_cta
+s009	cta	Hình ảnh dự án	Project gallery	100%: Project gallery		acf.s009_cta
+s010	cta	Vị trí & kết nối	Location & connections	100%: Location & connections		acf.s010_cta#1
+s011	cta	Tổng quan dự án	Project overview	100%: Project overview		acf.s011_cta
+s012	cta	Thiết kế & tiện ích	Design & amenities	100%: Design & amenities		acf.s012_cta#1
+s013	cta	Nhà phát triển Pafilia	Developer Pafilia			acf.s013_cta
+s014	cta	Tiến độ dự án	Project timeline	100%: Project timeline		acf.s014_cta
+s015	cta	Lộ trình thường trú nhân	The permanent residence route	87%: Your route to the{br} {1}Greece Golden Visa{/1}		acf.s015_cta
+s016	cta	Lợi thế thường trú nhân	Permanent residence advantages	86%: Advantages of the{br} {1}Greece Golden Visa{/1}		acf.s016_cta
+s017	h2	Vị trí ven biển &{br} {1}bán đảo Akamas{/1}	A beachfront setting &{br} {1}the Akamas peninsula{/1}			acf.s017_h2#1
+s018	p	Beachside Villa {1}·{/1} Gần thành phố Polis {2}·{/2} Bán đảo Akamas, Cyprus	Beachside Villa {1}·{/1} Near the town of Polis {2}·{/2} Akamas peninsula, Cyprus			acf.s018_p#1
+s019	cta	Google Maps	Google Maps	100%: Google Maps		acf.s019_cta#1
+s020	p	Kết nối nghỉ dưỡng thuận tiện	Well connected, easy to reach			acf.s020_p
+s021	h3	Không gian yên bình, tiện ích trong tầm tay	A quiet setting with amenities close by			acf.s021_h3
+s022	h4	Thành phố Polis	The town of Polis			acf.s022_h4
+s023	p	Cách khoảng 12 phút lái xe.	About a 12-minute drive.			acf.s023_p
+s024	h4	Bãi biển	The beach			acf.s024_h4
+s025	p	Cách khoảng 1 phút đi bộ.	About a 1-minute walk.			acf.s025_p
+s026	h4	Thiên nhiên Akamas	Akamas nature			acf.s026_h4
+s027	p	Gần vườn quốc gia Akamas, cảng Latchi và bãi tắm Aphrodite.	Close to Akamas National Forest Park, Latchi harbor, and the Baths of Aphrodite.			acf.s027_p
+s028	h4	Tiện ích lân cận	Amenities nearby			acf.s028_h4
+s029	p	Không gian yên bình nhưng vẫn gần nhà hàng, trung tâm thương mại và khu giải trí.	A quiet setting that is still close to restaurants, shopping, and things to do.			acf.s029_p
+s030	h2	Biệt thự ven biển tại {1}bán đảo Akamas{/1}	Beachfront villas on {1}the Akamas peninsula{/1}			acf.s030_h2#1
+s031	p	Vị trí ven biển Địa Trung Hải, gần Polis và bán đảo Akamas, khu vực nổi bật với cảnh quan hoang sơ và hệ sinh thái tự nhiên.	A Mediterranean beachfront location near Polis and the Akamas peninsula, an area known for its unspoiled scenery and natural habitats.			acf.s031_p
+s032	p	Quy mô 28 biệt thự cao cấp, nằm sát bãi biển cát trắng và làn nước xanh ngọc của Địa Trung Hải.	28 premium villas, set beside a white-sand beach and the turquoise water of the Mediterranean.			acf.s032_p
+s033	p	Biệt thự thiết kế hiện đại, hài hòa thiên nhiên, phù hợp cho nhu cầu nghỉ dưỡng, an cư và sở hữu bất động sản tại Síp.	The villas are modern in design and sit easily in their setting, suited to holiday use, to full-time living, or simply to owning real estate in Cyprus.			acf.s033_p
+s034	p	Mức đầu tư dự án từ 633.000 EUR; ngưỡng bất động sản đủ điều kiện thường trú nhân Síp từ 300.000 EUR, chưa gồm VAT và chi phí liên quan.	The project starts at €633,000; the property threshold that qualifies for Cyprus permanent residence starts at €300,000, before VAT and related costs.			acf.s034_p
+s035	p	Nhà đầu tư và gia đình có thể nộp hồ sơ xin thường trú nhân vĩnh viễn Síp khi đáp ứng điều kiện chương trình.	You and your family can apply for permanent residence in Cyprus once you meet the program conditions.	85%: You and your family can apply for a Greek residence permit if you meet the program conditions.		acf.s035_p
+s036	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s036_cta
+s037	h3	Thông tin dự án	Project information	100%: Project information		acf.s037_h3
+s038	p	Vị trí	Location	100%: Location		acf.s038_p
+s039	p	Ven biển Địa Trung Hải, gần thành phố Polis	Mediterranean beachfront, near the town of Polis			acf.s039_p
+s040	p	Khu vực	Area			acf.s040_p
+s041	p	Bán đảo Akamas, Cộng Hòa Síp	Akamas peninsula, Cyprus			acf.s041_p
+s042	p	Loại hình	Property type	100%: Property type		acf.s042_p
+s043	p	Biệt thự ven biển cao cấp	Premium beachfront villas			acf.s043_p
+s044	p	Quy mô	Scale	100%: Scale		acf.s044_p
+s045	p	28 biệt thự	28 villas			acf.s045_p
+s046	p	Loại căn	Unit types			acf.s046_p
+s047	p	2-3 phòng ngủ, khoảng 130-187 m²	2–3 bedrooms, about 130–187 m²			acf.s047_p
+s048	p	Mức đầu tư	Investment	100%: Investment		acf.s048_p
+s049	p	Từ 633.000 EUR	From €633,000	85%: From €300,000		acf.s049_p
+s050	p	Nhà phát triển	Developer	100%: Developer		acf.s050_p
+s051	p	Pafilia	Pafilia			acf.s051_p
+s052	h2	Thiết kế & tiện ích {1}đậm chất Địa Trung Hải{/1}	Design & amenities {1}with a Mediterranean feel{/1}			acf.s052_h2#1
+s053	p	waves	waves			acf.s053_p#1
+s054	p	Trải nghiệm sống	The living experience			acf.s054_p
+s055	p	Riêng tư bên bờ biển	Private, by the sea			acf.s055_p
+s056	p	architecture	architecture			acf.s056_p#1
+s057	p	Phong cách	Style			acf.s057_p
+s058	p	Biệt thự nghỉ dưỡng cao cấp	Premium holiday villas			acf.s058_p
+s059	p	open_in_full	open_in_full			acf.s059_p#1
+s060	p	Không gian sống	Living space			acf.s060_p
+s061	p	Kết nối trong nhà và ngoài trời	Indoor-outdoor living			acf.s061_p
+s062	p	landscape	landscape			acf.s062_p#1
+s063	p	Cảnh quan	Views			acf.s063_p
+s064	p	Biển Địa Trung Hải và bán đảo Akamas	The Mediterranean and the Akamas peninsula			acf.s064_p
+s065	p	check_circle	check_circle	100%: check_circle		acf.s065_p#1
+s066	p	Tình trạng	Status	100%: Status		acf.s066_p
+s067	p	Còn suất	Units available	100%: Units available		acf.s067_p
+s068	h3	Không gian sống mở, gần thiên nhiên	Open living, close to nature			acf.s068_h3
+s069	li	{1}pool{/1}**Hồ bơi riêng tại mỗi biệt thự**	{1}pool{/1}**A private pool at every villa**			acf.s069_li#1
+s070	li	{1}deck{/1}**Khu sinh hoạt ngoài trời**	{1}deck{/1}**Outdoor living area**			acf.s070_li#1
+s071	li	{1}fireplace{/1}**Tùy chọn lò sưởi và giàn che**	{1}fireplace{/1}**Optional fireplace and pergola**			acf.s071_li#1
+s072	li	{1}fitness_center{/1}**Công viên thể dục ngoài trời**	{1}fitness_center{/1}**Outdoor fitness park**			acf.s072_li#1
+s073	li	{1}park{/1}**Vườn cây Địa Trung Hải với cây bản địa**	{1}park{/1}**Mediterranean garden with native planting**			acf.s073_li#1
+s074	li	{1}sunny{/1}**Tối ưu ánh sáng tự nhiên và gió trời**	{1}sunny{/1}**Designed for natural light and airflow**			acf.s074_li#1
+s075	li	{1}handyman{/1}**Nội thất vật liệu tự nhiên, hoàn thiện thủ công**	{1}handyman{/1}**Natural-material interiors, hand-finished**			acf.s075_li#1
+s076	li	{1}beach_access{/1}**Cách bãi biển khoảng 1 phút đi bộ**	{1}beach_access{/1}**About a 1-minute walk to the beach**			acf.s076_li#1
+s077	p	Thiết kế hướng đến sự riêng tư, thư giãn và hài hòa với cảnh quan biển, kết nối liền mạch giữa khu vực sinh hoạt trong nhà và ngoài trời.	The design is built around privacy, ease, and harmony with the coastal setting, with indoor and outdoor living areas flowing into one another.			acf.s077_p
+s078	h2	Chủ đầu tư &{br} {1}đơn vị phát triển{/1}	The developer &{br} {1}its track record{/1}			acf.s078_h2#1
+s079	p	Pafilia - Nhà phát triển bất động sản nhà ở cao cấp hàng đầu tại Síp	Pafilia — an established developer of premium residential real estate in Cyprus			acf.s079_p
+s080	h3	{1}diamond{/1}Năng lực và kinh nghiệm	{1}diamond{/1}Capability and experience			acf.s080_h3#1
+s081	li	verified_user	verified_user			acf.s081_li#1
+s082	p	Hơn 48 năm kinh nghiệm	More than 48 years of experience	90%: More than 65 years of experience		acf.s082_p#1
+s083	p	trong lĩnh vực phát triển bất động sản.	in real estate development.			acf.s083_p
+s084	li	apartment	apartment	100%: apartment		acf.s084_li#1
+s085	p	Hơn 250 dự án	More than 250 projects			acf.s085_p#1
+s086	p	đã xây dựng tại Síp và Hy Lạp. Chủ đầu tư của ONE - tòa nhà ven biển cao nhất châu Âu.	built in Cyprus and Greece. The developer of ONE, the tallest seafront building in Europe.			acf.s086_p
+s087	li	euro_symbol	euro_symbol			acf.s087_li#1
+s088	p	Hơn 3 tỷ EUR	More than €3 billion			acf.s088_p#1
+s089	p	tổng giá trị danh mục bất động sản.	in total real estate portfolio value.			acf.s089_p
+s090	li	landscape	landscape		trung:s062	acf.s090_li#1
+s091	p	60% đất ven biển	60% seafront land bank			acf.s091_p#1
+s092	p	Quỹ đất sở hữu vị trí đắc địa ngay sát bờ biển.	A land bank in prime positions directly on the coast.			acf.s092_p
+s093	h3	Dự án tiêu biểu	Selected projects	100%: Selected projects		acf.s093_h3
+s094	p	Beachside Villa	Beachside Villa		trung:s002	acf.s094_p#1
+s095	cta	Coral Vista	Coral Vista			acf.s095_cta
+s096	cta	Elysia Blu	Elysia Blu			acf.s096_cta
+s097	cta	Pafilia Plaza	Pafilia Plaza			acf.s097_cta
+s098	h2	Tiến độ {1}dự án{/1}	{1}Project{/1} timeline	100% (gắn lại thẻ {1} {/1}): Project timeline		acf.s098_h2#1
+s099	p	Anh/Chị nên liên hệ IMM Group để nhận cập nhật về tiến độ thi công, bảng giá, loại biệt thự còn lại và lịch bàn giao.	Please contact IMM Group for updates on construction progress, the price list, the villa types still available, and the handover schedule.			acf.s099_p
+s100	p	Sở hữu **bất động sản Cộng Hòa Síp** không chỉ là một tài sản tích sản an toàn bằng ngoại tệ. Việc sở hữu biệt thự ven biển Beachside Villa còn mở ra lộ trình thường trú nhân vĩnh viễn cho cả gia đình.	**Cyprus real estate** can be more than a store of value held in euros. Owning a beachfront villa at Beachside Villa also opens a route to permanent residence for your whole family.			acf.s100_p#1
+s101	h2	Lộ trình thường trú nhân{br} {1}vĩnh viễn tại Cộng Hòa Síp{/1}	Your route to{br} {1}permanent residence in Cyprus{/1}			acf.s101_h2#1
+s102	h3	Đầu tư bất động sản đủ điều kiện	A qualifying real estate purchase	100%: A qualifying real estate purchase		acf.s102_h3
+s103	p	Giá trị đầu tư từ 300.000 EUR + VAT, mua mới từ chủ đầu tư.	A qualifying property starts at €300,000 plus VAT and must be bought new from the developer.			acf.s103_p
+s104	h3	Chuẩn bị hồ sơ	Prepare the file	100%: Prepare the file		acf.s104_h3
+s105	p	Hồ sơ có thể gồm nhà đầu tư cùng vợ/chồng và con phụ thuộc. Ngoài sở hữu bất động sản, cần chứng minh có đủ mức thu nhập hàng năm.	The application can include you, your spouse, and your dependent children. Besides owning the property, you need to show a secured annual income.			acf.s105_p
+s106	h3	Trở thành thường trú nhân vĩnh viễn	Become a permanent resident			acf.s106_h3
+s107	p	Chỉ cần đến Síp 1 lần mỗi 2 năm để duy trì tình trạng.	You need to visit Cyprus once every 2 years to keep the status.		"#bo-qua-so: ""1 lần"" viết thành ""once"" cho tự nhiên"	acf.s107_p
+s108	p	Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp hoặc quyền sinh sống, làm việc tại toàn bộ EU.	Cyprus permanent residence is not Cypriot citizenship, and it does not give the right to live or work across the whole EU.			acf.s108_p
+s109	h2	Lợi thế thường trú nhân{br} {1}Cộng Hòa Síp{/1}	Advantages of{br} {1}Cyprus permanent residence{/1}	87%: {1}Cyprus{/1} Golden Visa		acf.s109_h2#1
+s110	p	Quyền lợi khi có thường trú nhân Síp	What Cyprus permanent residence gives you			acf.s110_p
+s111	p	holiday_village	holiday_village			acf.s111_p#1
+s112	p	01	01			acf.s112_p
+s113	h3	Sinh sống tại Cộng Hòa Síp	Living in Cyprus			acf.s113_h3
+s114	li	Nhà đầu tư và gia đình được sinh sống, học tập và kinh doanh tại Cộng Hòa Síp.	You and your family can live, study, and do business in Cyprus.			acf.s114_li
+s115	li	Được tiếp cận môi trường sống tiêu chuẩn châu Âu, khí hậu Địa Trung Hải và cộng đồng quốc tế.	Access to a European standard of living, a Mediterranean climate, and an international community.			acf.s115_li
+s116	p	{1}school{/1}{2}business_center{/2}	{1}school{/1}{2}business_center{/2}	91%: {1}home{/1}{2}school{/2}{3}business_center{/3}		acf.s116_p#1
+s117	p	02	02			acf.s117_p
+s118	h3	Giáo dục, kinh doanh và thuế	Education, business, and tax			acf.s118_h3
+s119	li	Hệ thống giáo dục chịu ảnh hưởng chuẩn Anh Quốc.	An education system shaped by the British model.			acf.s119_li
+s120	li	Môi trường kinh doanh minh bạch; thuế doanh nghiệp 12,5% (đối chiếu ngày 18/08/2026).	A transparent business environment; a corporate income tax rate of 12.5% (as of August 18, 2026).		"#bo-qua-so: ngày ""18/08/2026"" viết theo lối Mỹ nên mất chữ số 08"	acf.s120_li
+s121	li	Chính sách thuế cá nhân phụ thuộc tình trạng cư trú thuế, nguồn thu nhập và quy định hiện hành.	Personal tax depends on your tax residence status, your sources of income, and the rules in force.			acf.s121_li
+s122	p	{1}verified_user{/1}{2}license{/2}	{1}verified_user{/1}{2}license{/2}			acf.s122_p#1
+s123	p	03	03			acf.s123_p
+s124	h3	Lưu ý về quyền thường trú	Points to note about permanent residence			acf.s124_h3
+s125	li	Quyền làm việc, kinh doanh và hưởng chính sách thuế cần xét theo điều kiện cụ thể.	Your right to work and do business, and the tax treatment that applies, must be assessed case by case.			acf.s125_li
+s126	li	Thường trú nhân Síp không đồng nghĩa với quốc tịch Síp.	Cyprus permanent residence is not Cypriot citizenship.			acf.s126_li
+s127	li	Quyền sinh sống, làm việc tại các nước EU khác chỉ phát sinh khi nhà đầu tư có quốc tịch EU hoặc giấy phép cư trú, giấy phép làm việc hợp lệ tại quốc gia đó.	The right to live and work in other EU countries arises only if you hold EU citizenship or a valid residence permit or work permit in that country.			acf.s127_li
+s128	h3	Lộ trình nhập quốc tịch Síp	The route to Cypriot citizenship	87%: The route to Greek citizenship		acf.s128_h3
+s129	h4	Sở hữu quyền thường trú vĩnh viễn (PR)	Hold permanent residence (PR)			acf.s129_h4
+s130	p	Gia hạn thẻ thường trú (vật lý) mỗi 5 năm với điều kiện còn duy trì bất động sản.	The physical permanent residence card is renewed every 5 years, provided you still own the property.			acf.s130_p
+s131	h4	Đáp ứng điều kiện cư trú và ngôn ngữ	Meet the residence and language conditions			acf.s131_h4
+s132	p	Cư trú thực tế tối thiểu 8 năm trong vòng 11 năm. Đạt trình độ tiếng Hy Lạp B1 và đạt bài kiểm tra hội nhập văn hóa.	At least 8 years of physical residence within an 11-year period, Greek language at CEFR level B1, and a pass in the cultural integration test.			acf.s132_p
+s133	h4	Công dân EU	Cypriot (EU) citizenship			acf.s133_h4
+s134	p	Cho phép đa tịch. Sở hữu Hộ chiếu Síp – Tự do di chuyển hơn 170 quốc gia.	Dual citizenship is allowed. A Cypriot passport gives visa-free travel to more than 170 destinations.			acf.s134_p
+s135	h2	Nhận tư vấn dự án Beachside Villa & {br}{1}lộ trình thường trú nhân Síp{/1}	Talk to us about Beachside Villa & {br}{1}the Cyprus permanent residence route{/1}			acf.s135_h2#1
+s136	cta	Yêu cầu tư vấn	Book a consultation	100%: Book a consultation	trung:s004	acf.s136_cta
+s137	li	Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.	An IMM advisor will contact you to discuss the project in detail and assess your eligibility.	100%: An IMM advisor will contact you to discuss the project in detail and assess your eligibility.		acf.s137_li
+s138	li	Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.	Your personal information is kept confidential under IMM Group's Privacy Policy.	100%: Your personal information is kept confidential under IMM Group's Privacy Policy.		acf.s138_li
+s139	p	balance	balance	100%: balance		acf.s139_p#1
+s140	h3	Lưu ý thông tin	Important information	100%: Important information		acf.s140_h3
+s141	p	Thông tin trên trang này nhằm cung cấp tổng quan về dự án Beachside Villa, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.	The information on this page provides an overview of the Beachside Villa project. It is not legal, securities, or personalized investment advice.	93%: The information on this page provides an overview of the Kastella Bay project. It is not legal, securities, or personalized investment advice.		acf.s141_p

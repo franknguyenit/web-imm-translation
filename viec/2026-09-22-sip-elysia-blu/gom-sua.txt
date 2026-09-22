@@ -1,0 +1,24 @@
+[s001] Cyprus real estate | Apartment project
+[s007] {1}{2}key{/2}Rental commitment{/1}**For 10 years**
+[s013] Developer & track record
+[s025] A few minutes from the coast, the old town, international schools, hospitals, shopping malls, and retail districts.
+[s029] A rare central plot, large enough for a full-scale apartment complex.
+[s055] Modern resort style
+[s058] 5-star resort style
+[s063] Rental program
+[s064] 10-year commitment
+[s068] A self-contained residential community
+[s077] Elysia Blu is designed for a balanced way of living, combining city conveniences with a resort atmosphere on site.
+[s078] The developer &{br} {1}its track record{/1}
+[s079] Pafilia — an established developer of premium residential real estate in Cyprus
+[s091] 60% seafront land bank
+[s092] A land bank in prime positions directly on the coast.
+[s101] **Cyprus real estate** can be more than an income-producing asset held in euros. Owning at Elysia Blu also opens a route to permanent residence in Cyprus for your whole family.
+[s104] A qualifying property starts at €300,000 plus VAT and must be bought new from the developer.
+[s106] The application can include you, your spouse, and your dependent children. Besides owning the property, you need to show a secured annual income.
+[s121] A healthcare system to European standards, subject to the conditions of the General Healthcare System (GESY).
+[s130] Your right to work and do business, and the tax treatment that applies, must be assessed against the program conditions and each investor's own file.
+[s133] The physical permanent residence card is renewed every 5 years, provided you still own the property.
+[s135] At least 8 years of physical residence within an 11-year period, Greek language at CEFR level B1, and a pass in the cultural integration test.
+[s136] Cypriot (EU) citizenship
+[s137] Dual citizenship is allowed. A Cypriot passport gives visa-free travel to more than 170 destinations.

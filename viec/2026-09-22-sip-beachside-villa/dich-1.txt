@@ -1,0 +1,115 @@
+[s001] Cyprus permanent residency by investment | Beachfront villa project
+[s002] Beachside Villa
+[s003] Mediterranean beachfront villas and a route to permanent residence in Cyprus. Investment from €633,000.
+[s005] {1}{2}villa{/2}Villa price{/1}**From €633,000**
+[s006] {1}{2}holiday_village{/2}Project size{/1}**28 villas**
+[s007] {1}{2}bed{/2}Unit types{/1}**2–3 bedrooms**
+[s008] Beachside Villa
+[s013] Developer Pafilia
+[s015] The permanent residence route
+[s016] Permanent residence advantages
+[s017] A beachfront setting &{br} {1}the Akamas peninsula{/1}
+[s018] Beachside Villa {1}·{/1} Near the town of Polis {2}·{/2} Akamas peninsula, Cyprus
+[s020] Easy resort connections
+[s021] A quiet setting with amenities close by
+[s022] The town of Polis
+[s023] About a 12-minute drive.
+[s024] The beach
+[s025] About a 1-minute walk.
+[s026] Akamas nature
+[s027] Close to the Akamas national park, Latchi harbor, and the Baths of Aphrodite.
+[s028] Amenities nearby
+[s029] A quiet setting that is still close to restaurants, malls, and entertainment.
+[s030] Beachfront villas on {1}the Akamas peninsula{/1}
+[s031] A Mediterranean beachfront location near Polis and the Akamas peninsula, an area known for unspoiled scenery and natural ecosystems.
+[s032] 28 premium villas, set beside a white-sand beach and the turquoise water of the Mediterranean.
+[s033] The villas are modern in design and in keeping with their setting, suited to holiday use, to living there, and to owning real estate in Cyprus.
+[s034] The project starts at €633,000; the property threshold that qualifies for Cyprus permanent residence starts at €300,000, before VAT and related costs.
+[s035] You and your family can apply for permanent residence in Cyprus once you meet the program conditions.
+[s039] Mediterranean beachfront, near the town of Polis
+[s040] Area
+[s041] Akamas peninsula, Cyprus
+[s043] Premium beachfront villas
+[s045] 28 villas
+[s046] Unit types
+[s047] 2–3 bedrooms, about 130–187 m²
+[s049] From €633,000
+[s051] Pafilia
+[s052] Design & amenities {1}with a Mediterranean feel{/1}
+[s053] waves
+[s054] The living experience
+[s055] Private, by the sea
+[s056] architecture
+[s057] Style
+[s058] Premium holiday villas
+[s059] open_in_full
+[s060] Living space
+[s061] Indoor and outdoor connected
+[s062] landscape
+[s063] Views
+[s064] The Mediterranean and the Akamas peninsula
+[s068] Open living, close to nature
+[s069] {1}pool{/1}**A private pool at every villa**
+[s070] {1}deck{/1}**Outdoor living area**
+[s071] {1}fireplace{/1}**Optional fireplace and pergola**
+[s072] {1}fitness_center{/1}**Outdoor fitness park**
+[s073] {1}park{/1}**Mediterranean garden with native planting**
+[s074] {1}sunny{/1}**Natural light and cross-ventilation**
+[s075] {1}handyman{/1}**Natural materials, hand-finished**
+[s076] {1}beach_access{/1}**About a 1-minute walk to the beach**
+[s077] The design aims at privacy, ease, and harmony with the coastal setting, with indoor and outdoor living areas flowing into each other.
+[s078] Developer &{br} {1}development team{/1}
+[s079] Pafilia — a leading developer of premium residential real estate in Cyprus
+[s080] {1}diamond{/1}Capability and experience
+[s081] verified_user
+[s082] More than 48 years of experience
+[s083] in real estate development.
+[s085] More than 250 projects
+[s086] built in Cyprus and Greece. The developer of ONE, the tallest seafront building in Europe.
+[s087] euro_symbol
+[s088] More than €3 billion
+[s089] in total real estate portfolio value.
+[s090] landscape
+[s091] 60% seafront land
+[s092] A land bank in prime positions right by the sea.
+[s094] Beachside Villa
+[s095] Coral Vista
+[s096] Elysia Blu
+[s097] Pafilia Plaza
+[s098] {1}Project{/1} timeline
+[s099] Please contact IMM Group for updates on construction progress, the price list, the villa types still available, and the handover schedule.
+[s100] **Cyprus real estate** can be more than an asset that holds value in a foreign currency. Owning a beachfront villa at Beachside Villa also opens a route to permanent residence for your whole family.
+[s101] Your route to{br} {1}permanent residence in Cyprus{/1}
+[s103] An investment from €300,000 plus VAT, bought new from the developer.
+[s105] The application can include you, your spouse, and your dependent children. Besides owning the property, you need to show sufficient annual income.
+[s106] Become a permanent resident
+[s107|#bo-qua-so: "1 lần" viết thành "once" cho tự nhiên] You need to visit Cyprus once every 2 years to keep the status.
+[s108] Cyprus permanent residence is not Cypriot citizenship, and it does not give the right to live or work across the whole EU.
+[s109] Advantages of{br} {1}Cyprus permanent residence{/1}
+[s110] What Cyprus permanent residence gives you
+[s111] holiday_village
+[s112] 01
+[s113] Living in Cyprus
+[s114] You and your family can live, study, and do business in Cyprus.
+[s115] Access to a European standard of living, a Mediterranean climate, and an international community.
+[s116] {1}school{/1}{2}business_center{/2}
+[s117] 02
+[s118] Education, business, and tax
+[s119] An education system shaped by the British model.
+[s120|#bo-qua-so: ngày "18/08/2026" viết theo lối Mỹ nên mất chữ số 08] A transparent business environment; corporate tax of 12.5% (checked on August 18, 2026).
+[s121] Personal tax depends on your tax residence status, your sources of income, and the rules in force.
+[s122] {1}verified_user{/1}{2}license{/2}
+[s123] 03
+[s124] Points to note about permanent residence
+[s125] Rights to work and do business, and the tax treatment that applies, have to be assessed case by case.
+[s126] Cyprus permanent residence is not Cypriot citizenship.
+[s127] The right to live and work in other EU countries arises only if you hold EU citizenship or a valid residence permit or work permit in that country.
+[s128] The route to Cypriot citizenship
+[s129] Hold permanent residence (PR)
+[s130] The physical residence card is renewed every 5 years, provided you still own the property.
+[s131] Meet the residence and language conditions
+[s132] At least 8 years of physical residence within 11 years, Greek at level B1, and a pass in the cultural integration test.
+[s133] EU citizenship
+[s134] Dual citizenship is allowed. A Cypriot passport gives visa-free travel to more than 170 countries.
+[s135] Talk to us about Beachside Villa & {br}{1}the Cyprus permanent residence route{/1}
+[s141] The information on this page provides an overview of the Beachside Villa project. It is not legal, securities, or personalized investment advice.
