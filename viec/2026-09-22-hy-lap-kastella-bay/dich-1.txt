@@ -1,0 +1,122 @@
+[s001] Greece Golden Visa property | Premium apartment project
+[s002] Kastella Bay
+[s003] Premium apartments in Piraeus — a route to the Greece Golden Visa
+[s005] {1}{2}paid{/2}Minimum investment{/1}**€250,000**
+[s006] {1}{2}check_circle{/2}Status{/1}**Investor spots available**
+[s007] {1}{2}workspace_premium{/2}Exclusive project{/1}**IMM Group**
+[s008] Kastella Bay
+[s009] Project gallery
+[s010] Location & connections
+[s012] Design & amenities
+[s013] Developer Arish
+[s015] The Golden Visa route
+[s016] Golden Visa advantages
+[s017] A central location in{br} {1}Piraeus{/1}
+[s018] Mikrolimano {1}·{/1} Piraeus {2}·{/2} Greece
+[s019] Google Maps
+[s021] Easy to get around
+[s022] Mikrolimano
+[s023] In Mikrolimano, the well-known marina district of Piraeus.
+[s024] Central Athens
+[s025] About 12–15 minutes from central Athens.
+[s026] Neo Faliro metro station
+[s027] About 1 km from Neo Faliro metro station.
+[s028] Amenities nearby
+[s029] Close to the University of Piraeus, hospitals, shopping centers, and international offices.
+[s030] Converted apartments at{br} {1}Mikrolimano marina{/1}
+[s031] A central Piraeus location, close to Mikrolimano marina and with fast connections to Athens.
+[s032|#bo-qua-so: bỏ quy đổi VND theo style guide mục 5] Apartments legally converted from a hotel, meeting the Greece Golden Visa investment level of €250,000.
+[s033] It opens a route to a Greek residence permit for your whole family, with visa-free travel in the Schengen Area and the right to live, study, and do business in Greece.
+[s034] The developer, Arish Capital Partners, brings more than 65 years of experience in investment, finance, fund management, and residency programs.
+[s037] Location
+[s038] Mikrolimano, the port city of Piraeus
+[s039] Property type
+[s040] premium apartments legally converted from a hotel
+[s043] Connections
+[s044] about 12–15 minutes to central Athens
+[s045] Developer
+[s046] Arish Capital Partners
+[s047] Design renderings &{br} {1}amenities nearby{/1}
+[s048] apartment
+[s049] Property type
+[s050] Premium apartments legally converted from a hotel
+[s051] directions_car
+[s052] Connections
+[s053] About 12–15 minutes to central Athens
+[s054] train
+[s055] Metro
+[s056] About 1 km from Neo Faliro station
+[s057] paid
+[s060] check_circle
+[s061] Status
+[s063] Inside the apartments
+[s064] {1}hotel{/1}**Apartments converted from a hotel.**
+[s065] {1}bed{/1}**Designed for modern living.**
+[s066] {1}architecture{/1}**Refined design.**
+[s067] {1}water{/1}**Views over the bay.**
+[s068] {1}restaurant{/1}**Restaurants nearby.**
+[s069] {1}directions_boat{/1}**Close to the marina.**
+[s070] {1}shopping_bag{/1}**Close to shopping.**
+[s071] {1}subway{/1}**Close to the metro.**
+[s072] It suits owner-occupiers, long-term letting, or renting to international tenants.
+[s073] 100% freehold ownership — you can live in it, rent it, sell it, or pass it on, with no time limit.
+[s074] A 2-year warranty on the apartment and the common areas from the handover date.
+[s075] The developer{br} {1}Arish Capital Partners{/1}
+[s076] Arish Capital Partners — international investment and real estate experience
+[s077] {1}apartment{/1}Development track record
+[s078] verified
+[s079] More than 65 years of experience
+[s080] built up across investment, finance, fund management, and real estate.
+[s081] public
+[s082] The firm has delivered projects in
+[s083] Portugal, Greece, the United Kingdom, and the Middle East
+[s084] domain
+[s085] Its portfolio
+[s086] covers premium residential developments, serviced apartments, and mixed-use commercial projects.
+[s087] passport
+[s088] Golden Visa
+[s089] Arish combines real estate with Golden Visa programs and residency products for international investors.
+[s090] Selected projects
+[s091] Kastella Bay
+[s092] Sun House Comporta Country
+[s093] South Beach Sagres
+[s094] CDO’Q Lisbon
+[s095] {1}Project{/1} timeline
+[s096] Being updated...
+[s097] Please contact IMM Group for the latest construction progress, unit availability, and project documents at the time of your consultation.
+[s098] Owning **Greek real estate** is more than an income-producing asset held in a foreign currency. Owning at Kastella Bay also opens a route to European residency (the {1}Golden Visa{/1}) for your whole family.
+[s099] Your route to the{br} {1}Greece Golden Visa{/1}
+[s100] A change-of-use property
+[s101] The project was converted from a hotel into apartments.
+[s103] The change-of-use model lets you meet the Greece Golden Visa investment level of €250,000.
+[s104] A 5-year residence permit
+[s105] The permit runs for 5 years and is renewable in 5-year periods for as long as you continue to own the qualifying property.
+[s106] The Golden Visa is a Greek residence permit, not EU citizenship; the right to live freely in other EU countries arises only once you naturalize.
+[s107] Advantages of the{br} {1}Greece Golden Visa{/1}
+[s108] Own an apartment at Kastella Bay and open a route to a Greek residence permit for your whole family
+[s109] travel_explore
+[s110] 01
+[s111] Visa-free travel in the Schengen Area
+[s112] Travel within the Schengen Area without a visa, under the rule of up to 90 days in any 180-day period.
+[s113] {1}home{/1}{2}school{/2}{3}business_center{/3}
+[s114] 02
+[s115] Live, study, and do business
+[s116] You can live, study, and do business in Greece with the rights of a residence permit holder.
+[s117] location_off
+[s118] 03
+[s119] No physical residence requirement
+[s120] No physical residence in Greece is required to keep the permit
+[s121] badge
+[s122] 04
+[s123] A 5-year residence permit
+[s124] The permit runs for 5 years and is renewable in 5-year periods for as long as you continue to own the qualifying property.
+[s125] The route to Greek citizenship
+[s126] A route to citizenship
+[s127] After the period of lawful residence set by law, you can consider the route to Greek citizenship.
+[s128] A separate step
+[s129] Naturalization is a separate step, with its own conditions on physical residence, language, integration, and assessment.
+[s130] EU citizenship rights
+[s131] EU citizenship rights, including the right to live and work in EU member states, arise only once naturalization succeeds.
+[s132] Talk to us about Kastella Bay & {br}{1}the Greece Golden Visa route{/1}
+[s136] balance
+[s138] The information on this page provides an overview of the Kastella Bay project. It is not legal, securities, or personalized investment advice.

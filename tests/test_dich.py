@@ -122,6 +122,14 @@ class DonVi(unittest.TestCase):
         self.assertEqual(dich.lay_so("Rules may change. You may save. Filed May 22, 2026 or 1 March 2027.", "en")[0], [5.0, 22.0, 2026.0, 1.0, 3.0, 2027.0])
         self.assertEqual(dich.lay_so("EB-5 may not pay. Rules may change in 20 years.", "en")[0], [5.0, 20.0])
 
+    def test_m_dinh_lien_moi_la_trieu(self):
+        # "170 m" là 170 MÉT, không phải 170 triệu — trang dự án bất động sản đầy khoảng cách mét.
+        self.assertEqual(dich.lay_so("About 170 m from the port, 500 m from the metro", "en")[0], [170.0, 500.0])
+        # dính liền số thì vẫn là hệ số, như cách thị trường viết tiền
+        self.assertEqual(dich.lay_so("a US$5m fund and 800k in fees", "en")[0], [5000000.0, 800000.0])
+        # hệ số nhiều chữ cái vẫn tính khi có dấu cách
+        self.assertEqual(dich.lay_so("A$2.5 million, 1.2 bn, 40 mn", "en")[0], [2500000.0, 1.2e9, 4e7])
+
     def test_thang_nam(self):
         self.assertEqual(dich.lay_so("Founded in January 2005; June 2016 | VTC8", "en")[0], [1.0, 2005.0, 6.0, 2016.0, 8.0])
 

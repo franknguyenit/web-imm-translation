@@ -1,0 +1,131 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	p	Thường trú nhân Hy Lạp | Dự án căn hộ dịch vụ	Greece Golden Visa real estate | Serviced apartment project		"#bo-qua-tn: ""Thường trú nhân Hy Lạp"" — thẻ Hy Lạp có thời hạn 5 năm, tên tiếng Anh đã chốt là Greece Golden Visa"	acf.s001_p
+s002	h1	Etolikou 11	Etolikou 11			acf.s002_h1
+s003	p	Căn hộ dịch vụ tại trung tâm cảng Piraeus – Lộ trình Golden Visa Hy Lạp	Serviced apartments in central Piraeus — a route to the Greece Golden Visa			acf.s003_p
+s004	cta	YÊU CẦU TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s004_cta
+s005	p	{1}{2}paid{/2}Mức đầu tư tối thiểu{/1}**250.000 EUR**	{1}{2}paid{/2}Minimum investment{/1}**€250,000**			acf.s005_p#1
+s006	p	{1}{2}check_circle{/2}Tình trạng{/1}**Còn suất**	{1}{2}check_circle{/2}Status{/1}**Units available**			acf.s006_p#1
+s007	p	{1}{2}apartment{/2}Loại hình{/1}**Căn hộ dịch vụ**	{1}{2}apartment{/2}Property type{/1}**Serviced apartments**			acf.s007_p#1
+s008	cta	Etolikou 11	Etolikou 11		trung:s002	acf.s008_cta
+s009	cta	Hình ảnh dự án	Project gallery			acf.s009_cta
+s010	cta	Vị trí & kết nối	Location & connections			acf.s010_cta#1
+s011	cta	Tổng quan dự án	Project overview	100%: Project overview		acf.s011_cta
+s012	cta	Thiết kế & tiện ích	Design & amenities			acf.s012_cta#1
+s013	cta	Nhà phát triển MIBS	Developer: MIBS			acf.s013_cta
+s014	cta	Tiến độ dự án	Project timeline	100%: Project timeline		acf.s014_cta
+s015	cta	Lộ trình Golden Visa	The Golden Visa route			acf.s015_cta
+s016	cta	Lợi thế Golden Visa	Golden Visa advantages			acf.s016_cta
+s017	img	Video dự án căn hộ dịch vụ Etolikou 11	Etolikou 11 serviced apartment project video			acf.s017_cta#1@alt
+s018	cta	{1}play_arrow{/1}{2}Video dự án Etolikou 11{/2}	{1}play_arrow{/1}{2}Etolikou 11 project video{/2}			acf.s017_cta#2
+s019	h2	Vị trí trung tâm Piraeus -{br} {1}đầu mối giao thương trọng yếu{/1}	Central Piraeus —{br} {1}a major trade gateway{/1}			acf.s018_h2#1
+s020	p	Trung tâm Piraeus {1}·{/1} Hy Lạp	Central Piraeus {1}·{/1} Greece			acf.s019_p#1
+s021	cta	Google Maps	Google Maps			acf.s020_cta#1
+s022	p	Kết nối cảng biển và trung tâm Athens	Connected to the port and to central Athens			acf.s021_p
+s023	h3	Bất động sản tại cảng biển lớn nhất Hy Lạp	Real estate at Greece's largest port			acf.s022_h3
+s024	h4	Cảng Piraeus	Port of Piraeus			acf.s023_h4
+s025	p	Cách cảng Piraeus khoảng 170 m.	About 170 m from the Port of Piraeus.			acf.s024_p
+s026	h4	Ga Metro và ga tàu	Metro and rail stations			acf.s025_h4
+s027	p	Cách ga Metro và ga tàu khoảng 500 m, kết nối trung tâm Athens dưới 20 phút.	About 500 m from the metro and rail stations, putting central Athens under 20 minutes away.			acf.s026_p
+s028	h4	Đại học Piraeus	University of Piraeus			acf.s027_h4
+s029	p	Đại học Piraeus cách khoảng 1,8 km.	The University of Piraeus is about 1.8 km away.			acf.s028_p
+s030	h4	Sân bay quốc tế Athens	Athens International Airport			acf.s029_h4
+s031	p	Khoảng 15 phút đến sân bay quốc tế Athens.	About 15 minutes to Athens International Airport.			acf.s030_p
+s032	h2	Căn hộ dịch vụ tại{br} {1}trung tâm thành phố cảng Piraeus{/1}	Serviced apartments in{br} {1}the heart of the port city of Piraeus{/1}			acf.s031_h2#1
+s033	p	Tọa lạc tại trung tâm thành phố cảng Piraeus, thương cảng lớn nhất Hy Lạp.	Set in the center of Piraeus, Greece's largest commercial port.			acf.s032_p
+s034	p	Cách cảng Piraeus khoảng 170 m, cách ga Metro và ga tàu khoảng 500 m, kết nối trung tâm Athens dưới 20 phút.	About 170 m from the Port of Piraeus and 500 m from the metro and rail stations, putting central Athens under 20 minutes away.			acf.s033_p
+s035	p	Quy mô 158 căn hộ, thiết kế hiện đại, phù hợp nhu cầu ở thực, cho thuê ngắn hạn và dài hạn.	158 apartments with a modern design, suited to owner-occupants and to short- and long-term rentals.			acf.s034_p
+s036	p	Dự án thuộc nhóm bất động sản chuyển đổi công năng, đáp ứng mức đầu tư từ 250.000 EUR theo chương trình Golden Visa Hy Lạp.	The project qualifies as a change-of-use conversion, the property category that carries the €250,000 investment level under the Greece Golden Visa program.			acf.s035_p
+s037	p	Nhà đầu tư và gia đình có thể nộp hồ sơ xin thẻ cư trú Hy Lạp nếu đáp ứng điều kiện chương trình.	You and your family can apply for a Greek residence permit if you meet the program conditions.			acf.s036_p
+s038	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s037_cta
+s039	h3	Tổng quan dự án	Project overview	100%: Project overview	trung:s011	acf.s038_h3
+s040	p	Vị trí	Location			acf.s039_p
+s041	p	trung tâm Piraeus, thành phố cảng trọng yếu của Hy Lạp	central Piraeus, Greece's key port city			acf.s040_p
+s042	p	Quy mô	Scale			acf.s041_p
+s043	p	158 căn hộ	158 apartments			acf.s042_p
+s044	p	Loại hình	Property type			acf.s043_p
+s045	p	căn hộ dịch vụ hiện đại	modern serviced apartments			acf.s044_p
+s046	p	Mức đầu tư	Investment	100%: Investment		acf.s045_p
+s047	p	từ 250.000 EUR	from €250,000	100%: from €250,000		acf.s046_p
+s048	p	Nhà phát triển	Developer			acf.s047_p
+s049	p	MIBS Group, đơn vị có hơn 40 năm kinh nghiệm bất động sản tại Hy Lạp	MIBS Group, with more than 40 years of real estate experience in Greece			acf.s048_p
+s050	p	Phù hợp	Suited to			acf.s049_p
+s051	p	ở thực, đầu tư dài hạn, khai thác cho thuê ngắn hạn và dài hạn	owner-occupation, long-term investment, and short- and long-term rentals			acf.s050_p
+s052	h2	Tiện ích & thiết kế{br}căn hộ dịch vụ {1}Etolikou 11{/1}	Amenities & design{br}of the {1}Etolikou 11{/1} serviced apartments			acf.s051_h2#1
+s053	p	Thiết kế phù hợp thị trường - tối ưu cho thuê	A design matched to the market and built for rentals			acf.s052_p#1
+s054	p	luggage	luggage			acf.s053_p#1
+s055	p	Diện tích căn hộ hợp lý, phù hợp khách du lịch, người đi công tác.	Well-proportioned apartment sizes, suited to tourists and business travelers.			acf.s054_p
+s056	p	school	school			acf.s055_p#1
+s057	p	Phù hợp sinh viên, chuyên gia, nhân sự làm việc quanh Piraeus và Athens.	Suited to students, professionals, and staff working around Piraeus and Athens.			acf.s056_p
+s058	p	apartment	apartment			acf.s057_p#1
+s059	p	Thiết kế hiện đại, dễ vận hành và phù hợp nhu cầu lưu trú đô thị.	A modern design that is easy to run and suited to city-stay demand.			acf.s058_p
+s060	p	verified	verified			acf.s059_p#1
+s061	p	Tiêu chuẩn xây dựng hạng A.	Class A construction standard.			acf.s060_p
+s062	h3	Tiện ích nội khu	On-site amenities			acf.s061_h3
+s063	li	{1}pool{/1}**Bể bơi sân thượng nhìn về khu cảng.**	{1}pool{/1}**Rooftop pool overlooking the port.**			acf.s062_li#1
+s064	li	{1}fitness_center{/1}**Gym, wellness.**	{1}fitness_center{/1}**Gym and wellness facilities.**			acf.s063_li#1
+s065	li	{1}attractions{/1}**Khu giải trí.**	{1}attractions{/1}**Entertainment area.**			acf.s064_li#1
+s066	li	{1}workspaces{/1}**Không gian làm việc chung.**	{1}workspaces{/1}**Coworking space.**			acf.s065_li#1
+s067	li	{1}chair{/1}**Khu vực tiếp khách.**	{1}chair{/1}**Guest lounge.**			acf.s066_li#1
+s068	li	{1}support_agent{/1}**Lễ tân và vận hành 24/7.**	{1}support_agent{/1}**24/7 reception and operations.**			acf.s067_li#1
+s069	p	Thiết kế hiện đại, dễ vận hành và phù hợp nhu cầu lưu trú đô thị.	A modern design that is easy to run and suited to city-stay demand.		trung:s059	acf.s068_p
+s070	h2	Nhà phát triển{br} {1}MIBS Group{/1}	The developer{br} {1}MIBS Group{/1}			acf.s069_h2#1
+s071	p	MIBS Group - hơn 40 năm kinh nghiệm tại Hy Lạp	MIBS Group — more than 40 years of experience in Greece			acf.s070_p
+s072	h3	{1}apartment{/1}Năng lực phát triển dự án	{1}apartment{/1}Development track record			acf.s071_h3#1
+s073	li	calendar_month	calendar_month			acf.s072_li#1
+s074	p	Hoạt động từ năm 1982	Operating since 1982			acf.s073_p#1
+s075	p	MIBS Group là công ty phát triển và quản lý bất động sản có trụ sở tại Athens.	MIBS Group is a real estate development and management company based in Athens.			acf.s074_p
+s076	li	account_tree	account_tree			acf.s075_li#1
+s077	p	Toàn bộ chuỗi giá trị dự án	The full project value chain			acf.s076_p#1
+s078	p	Đơn vị trực tiếp tham gia toàn bộ chuỗi giá trị dự án, từ nghiên cứu thị trường, quy hoạch, thiết kế, xây dựng đến quản lý bất động sản sau bàn giao.	The firm is involved directly across the entire value chain, from market research, planning, and design through construction to property management after handover.			acf.s077_p
+s079	li	location_city	location_city			acf.s078_li#1
+s080	p	Trung tâm Athens và cảng Piraeus	Central Athens and the Port of Piraeus			acf.s079_p#1
+s081	p	Các dự án của MIBS tập trung tại trung tâm Athens và cảng Piraeus, nơi có nhu cầu ở thực, nhu cầu thuê và tiềm năng khai thác đô thị.	MIBS projects are concentrated in central Athens and the Port of Piraeus, where there is owner-occupant demand, rental demand, and potential for income-producing urban use.			acf.s080_p
+s082	h3	Dự án tiêu biểu	Selected projects			acf.s081_h3
+s083	p	Etolikou 11	Etolikou 11		trung:s002	acf.s082_p#1
+s084	p	Etolikou Seafront	Etolikou Seafront			acf.s083_p#1
+s085	p	Celea Residence	Celea Residence			acf.s084_p#1
+s086	p	Glyfada Estate Residence	Glyfada Estate Residence			acf.s085_p#1
+s087	h2	Tiến độ {1}dự án{/1}	{1}Project{/1} timeline	100% (gắn lại thẻ {1} {/1}): Project timeline		acf.s086_h2#1
+s088	p	**Dự kiến hoàn thành**{1}Quý 4/2027.{/1}	**Expected completion**{1}Q4 2027.{/1}			acf.s087_p#1
+s089	p	Nhà đầu tư nên liên hệ IMM Group để cập nhật tiến độ thi công, tình trạng suất đầu tư và tài liệu dự án mới nhất tại thời điểm tư vấn.	Please contact IMM Group for the latest construction progress, availability, and project documents at the time of your consultation.			acf.s088_p
+s090	p	Sở hữu **bất động sản Hy Lạp** không chỉ là một tài sản sinh lời và tích sản an toàn bằng ngoại tệ. Việc sở hữu bất động sản Etolikou 11 còn mở ra đặc quyền thường trú châu Âu (**{1}Golden Visa{/1}**) vô giá cho cả gia đình.	**Greek real estate** can be more than an asset that produces income and holds value in a foreign currency. Owning at Etolikou 11 also opens a route to residency in Europe (**{1}Golden Visa{/1}**) for your whole family.			acf.s089_p#1
+s091	h2	Lộ trình thường trú nhân{br} {1}Hy Lạp{/1}	Your route to the{br} {1}Greece Golden Visa{/1}		#bo-qua-tn: thẻ Hy Lạp có thời hạn 5 năm, không phải thường trú — tên tiếng Anh đã chốt cho trang Hy Lạp là Greece Golden Visa	acf.s090_h2#1
+s092	h3	Bất động sản chuyển đổi công năng	A change-of-use property			acf.s091_h3
+s093	p	Dự án được phát triển từ một tòa nhà công nghiệp cũ; MIBS Group mua lại và cải tạo toàn diện công trình thành nhà ở, theo quy định của chính quyền địa phương.	The project was created from a former industrial building that MIBS Group acquired and fully converted to residential use, in line with local government regulations.			acf.s092_p
+s094	h3	Mức đầu tư từ 250.000 EUR	Investment from €250,000	100%: Investment from €250,000		acf.s093_h3
+s095	p	Mô hình chuyển đổi công năng giúp nhà đầu tư đáp ứng mức đầu tư Golden Visa Hy Lạp từ 250.000 EUR.	The change-of-use model lets you qualify at the €250,000 Greece Golden Visa investment level that applies to this property category.			acf.s094_p
+s096	h3	Thẻ cư trú 5 năm	A 5-year residence permit			acf.s095_h3
+s097	p	Thẻ cư trú có thời hạn 5 năm và gia hạn mỗi 5 năm khi nhà đầu tư duy trì quyền sở hữu bất động sản đủ điều kiện.	The permit runs for 5 years and is renewable in 5-year periods for as long as you continue to own the qualifying property.			acf.s096_p
+s098	p	Golden Visa là thẻ cư trú Hy Lạp – chưa phải quốc tịch EU; quyền tự do sinh sống tại các nước EU khác phát sinh sau khi nhập quốc tịch.	The Golden Visa is a Greek residence permit, not EU citizenship; the right to live freely in other EU countries arises only once you naturalize.			acf.s097_p
+s099	h2	Lợi thế thường trú nhân{br} {1}Hy Lạp{/1}	Advantages of the{br} {1}Greece Golden Visa{/1}		#bo-qua-tn: thẻ Hy Lạp có thời hạn 5 năm, không phải thường trú — tên tiếng Anh đã chốt cho trang Hy Lạp là Greece Golden Visa	acf.s098_h2#1
+s100	p	Sở hữu căn hộ Etolikou 11 - mở lộ trình thẻ cư trú Hy Lạp cho cả gia đình	Own an apartment at Etolikou 11 and open a route to a Greek residence permit for your whole family			acf.s099_p
+s101	p	travel_explore	travel_explore			acf.s100_p#1
+s102	p	01	01			acf.s101_p
+s103	h3	Tự do đi lại khối Schengen	Visa-free travel in the Schengen Area	89%: Visa-free travel in the Schengen Area		acf.s102_h3
+s104	li	Tự do đi lại trong khối Schengen mà không cần xin visa, theo quy định lưu trú tối đa 90 ngày trong vòng 180 ngày.	Travel within the Schengen Area without a visa, for up to 90 days in any 180-day period.			acf.s103_li
+s105	p	{1}home{/1}{2}school{/2}{3}business_center{/3}	{1}home{/1}{2}school{/2}{3}business_center{/3}			acf.s104_p#1
+s106	p	02	02			acf.s105_p
+s107	h3	Sinh sống, học tập và kinh doanh	Live, study, and do business			acf.s106_h3
+s108	li	Được sinh sống, học tập và kinh doanh tại Hy Lạp theo quyền của người giữ thẻ cư trú.	You can live, study, and do business in Greece with the rights of a residence permit holder.			acf.s107_li
+s109	p	location_off	location_off			acf.s108_p#1
+s110	p	03	03			acf.s109_p
+s111	h3	Không yêu cầu cư trú thực tế	No physical residence requirement			acf.s110_h3
+s112	li	Không yêu cầu cư trú thực tế tại Hy Lạp để duy trì thẻ	You are not required to live in Greece to keep the permit			acf.s111_li
+s113	p	badge	badge			acf.s112_p#1
+s114	p	04	04			acf.s113_p
+s115	h3	Thẻ cư trú 5 năm	A 5-year residence permit		trung:s096	acf.s114_h3
+s116	li	Thẻ cư trú có thời hạn 5 năm và gia hạn mỗi 5 năm khi nhà đầu tư duy trì quyền sở hữu bất động sản đủ điều kiện.	The permit runs for 5 years and is renewable in 5-year periods for as long as you continue to own the qualifying property.		trung:s097	acf.s115_li
+s117	h3	Lộ trình nhập quốc tịch Hy Lạp	The route to Greek citizenship			acf.s116_h3
+s118	h4	Xét lộ trình nhập quốc tịch	A route to citizenship	89%: A route to citizenship		acf.s117_h4
+s119	p	Sau thời gian cư trú hợp pháp theo luật, nhà đầu tư có thể xét lộ trình nhập quốc tịch Hy Lạp.	Once you have completed the period of lawful residence that Greek law requires, you can look at the route to Greek citizenship.			acf.s118_p
+s120	h4	Bước riêng	A separate step			acf.s119_h4
+s121	p	Nhập tịch là bước riêng, có điều kiện về cư trú thực tế, ngôn ngữ, hội nhập và xét duyệt theo quy định.	Naturalization is a separate step, with its own conditions on physical residence, language, integration, and assessment.			acf.s120_p
+s122	h4	Quyền công dân EU	EU citizenship rights			acf.s121_h4
+s123	p	Quyền công dân EU, gồm quyền sinh sống và làm việc tại các nước thành viên EU, chỉ phát sinh sau khi nhập tịch thành công.	EU citizenship rights, including the right to live and work in EU member states, arise only once naturalization succeeds.			acf.s122_p
+s124	h2	Nhận tư vấn dự án Etolikou 11 & {br}{1}lộ trình thường trú nhân Hy Lạp{/1}	Talk to us about Etolikou 11 & {br}{1}the Greece Golden Visa route{/1}		"#bo-qua-tn: ""lộ trình thường trú nhân Hy Lạp"" — tên tiếng Anh đã chốt là Greece Golden Visa"	acf.s123_h2#1
+s125	cta	Yêu cầu tư vấn	Book a consultation	100%: Book a consultation	trung:s004	acf.s124_cta
+s126	li	Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.	An IMM advisor will contact you to discuss the project in detail and assess your eligibility.	100%: An IMM advisor will contact you to discuss the project in detail and assess your eligibility.		acf.s125_li
+s127	li	Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.	Your personal information is kept confidential under IMM Group's Privacy Policy.	100%: Your personal information is kept confidential under IMM Group's Privacy Policy.		acf.s126_li
+s128	p	balance	balance			acf.s127_p#1
+s129	h3	Lưu ý thông tin	Important information	100%: Important information		acf.s128_h3
+s130	p	Thông tin trên trang này nhằm cung cấp tổng quan về dự án Etolikou 11, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.	The information on this page provides an overview of the Etolikou 11 project. It is not legal, securities, or personalized investment advice.	92%: The information on this page provides an overview of the Horseshoe Bay EB-5 project and is not personalized legal, securities, or investment advice.		acf.s129_p

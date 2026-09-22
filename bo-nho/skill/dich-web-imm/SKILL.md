@@ -210,3 +210,23 @@ description: Dịch nội dung immgroup.com Việt→Anh cho khách quốc tế 
 - **Chương trình cư trú-đầu tư nước nào cũng bị gọi là "golden visa"**, kể cả nước không dùng tên đó: gợi ý
   "new zealand golden visa" (cost, benefits, to citizenship, rules, for indians, cost in inr) mạnh hơn cả tên chính
   thức "Active Investor Plus Visa" ⇒ H1 dùng tên chính thức, meta description nhồi thêm "golden visa".
+- **Trang dự án bất động sản (template-bds-imm, HTML thuần):** đi đường `rut-layout.py rut/nhet`, bàn giao
+  `tmp-info.en.php` + `bang-song-ngu.md` + `ban-dich-de-duyet.docx`. **Tên icon Material Symbols bị bộ rút bắt như
+  chữ** (`apartment`, `paid`, `pool`, `play_arrow`…), kể cả trong `{1}…{/1}` — dịch là **vỡ icon**; phải dặn bằng
+  chữ trong lời giao cho B5 và B6.
+- **Chữ ngoài tầm bộ rút ở trang BĐS rất nhiều**: `alt`, `aria-label`, `iframe title`, và **chuỗi trong
+  JavaScript**. Dùng `cong-cu/vet-chu-ngoai.py` (đã nhận cả `.php/.html`) + bảng `chu-ngoai-bo-rut.tsv`; bảng tự
+  sắp **chuỗi dài trước**, nếu không chuỗi ngắn nuốt mất chuỗi dài chứa nó.
+- **Mức 250.000 EUR của Golden Visa Hy Lạp chỉ áp cho bất động sản CHUYỂN ĐỔI CÔNG NĂNG** — để con số đứng trần là
+  làm người đọc tưởng đó là mức chung. Luôn buộc mức tiền vào loại tài sản.
+- **Trang dự án thì H1 là TÊN DỰ ÁN**, không nhồi từ khoá; cụm từ khoá chính đặt ở dòng `p` đầu trang + meta.
+  Cửa 0 sẽ cảnh báo "H1 không chứa từ khoá" — **cố ý**, ghi lý do vào báo cáo.
+- **Hai trang dự án cùng nước phải tách từ khoá** (`greece golden visa property` vs `…real estate`) để không
+  giành nhau cùng truy vấn.
+- **Bộ kiểm từng đọc "170 m" thành 170 TRIỆU** (hệ số `m`). Đã sửa: hệ số một chữ cái (`m`, `k`) chỉ tính khi
+  **dính liền** số (`US$5m`, `800k`); có dấu cách là đơn vị đo. Ca kiểm `test_m_dinh_lien_moi_la_trieu`.
+- **"tích sản an toàn" / "vô giá" / "tối ưu cho thuê"** là khẳng định tài chính không dẫn nguồn. Giữ độ lớn của
+  nguồn nhưng **bỏ đúng chữ tuyệt đối hoá**: "can be more than an asset that produces income and holds value in a
+  foreign currency". Đừng nghe B5 (đòi giữ đủ) cũng đừng nghe B6 (đòi bỏ hẳn).
+- **B5 có lúc đọc nhầm cột `tm` thành cột `en`** rồi báo lỗi nặng không có thật (tên dự án của trang khác).
+  Kiểm lại giá trị thật trong `song-ngu.tsv` trước khi sửa.

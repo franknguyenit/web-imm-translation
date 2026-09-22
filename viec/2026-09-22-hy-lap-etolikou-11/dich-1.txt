@@ -1,0 +1,118 @@
+[s001] Greece Golden Visa real estate | Serviced apartment project
+[s002] Etolikou 11
+[s003] Serviced apartments in central Piraeus — a route to the Greece Golden Visa
+[s005] {1}{2}paid{/2}Minimum investment{/1}**€250,000**
+[s006] {1}{2}check_circle{/2}Status{/1}**Investor spots available**
+[s007] {1}{2}apartment{/2}Property type{/1}**Serviced apartments**
+[s008] Etolikou 11
+[s009] Project gallery
+[s010] Location & connections
+[s012] Design & amenities
+[s013] Developer MIBS
+[s015] The Golden Visa route
+[s016] Golden Visa advantages
+[s017] Etolikou 11 serviced apartment project video
+[s018] {1}play_arrow{/1}{2}Etolikou 11 project video{/2}
+[s019] Central Piraeus —{br} {1}a major trade gateway{/1}
+[s020] Central Piraeus {1}·{/1} Greece
+[s021] Google Maps
+[s022] Connected to the port and to central Athens
+[s023] Real estate at Greece's largest port
+[s024] Port of Piraeus
+[s025] About 170 m from the Port of Piraeus.
+[s026] Metro and rail stations
+[s027] About 500 m from the metro and rail stations, with central Athens under 20 minutes away.
+[s028] University of Piraeus
+[s029] The University of Piraeus is about 1.8 km away.
+[s030] Athens International Airport
+[s031] About 15 minutes to Athens International Airport.
+[s032] Serviced apartments in{br} {1}the heart of the port city of Piraeus{/1}
+[s033] Set in the center of Piraeus, Greece's largest commercial port.
+[s034] About 170 m from the Port of Piraeus and 500 m from the metro and rail stations, with central Athens under 20 minutes away.
+[s035] 158 apartments with a modern design, suited to owner-occupiers and to short- and long-term letting.
+[s036] The project falls into the change-of-use category, meeting the €250,000 investment level under the Greece Golden Visa program.
+[s037] You and your family can apply for a Greek residence permit if you meet the program conditions.
+[s040] Location
+[s041] central Piraeus, Greece's key port city
+[s042] Scale
+[s043] 158 apartments
+[s044] Property type
+[s045] modern serviced apartments
+[s048] Developer
+[s049] MIBS Group, with more than 40 years of real estate experience in Greece
+[s050] Suited to
+[s051] owner-occupation, long-term investment, and short- and long-term letting
+[s052] Amenities & design{br}of the {1}Etolikou 11{/1} serviced apartments
+[s053] A design matched to the market and optimized for letting
+[s054] luggage
+[s055] Sensible apartment sizes, suited to tourists and business travelers.
+[s056] school
+[s057] Suited to students, professionals, and staff working around Piraeus and Athens.
+[s058] apartment
+[s059] A modern design that is easy to operate and fits urban stays.
+[s060] verified
+[s061] Class A construction standard.
+[s062] On-site amenities
+[s063] {1}pool{/1}**Rooftop pool overlooking the port.**
+[s064] {1}fitness_center{/1}**Gym and wellness.**
+[s065] {1}attractions{/1}**Entertainment area.**
+[s066] {1}workspaces{/1}**Coworking space.**
+[s067] {1}chair{/1}**Guest lounge.**
+[s068] {1}support_agent{/1}**24/7 reception and operations.**
+[s069] A modern design that is easy to operate and fits urban stays.
+[s070] The developer{br} {1}MIBS Group{/1}
+[s071] MIBS Group — more than 40 years of experience in Greece
+[s072] {1}apartment{/1}Development track record
+[s073] calendar_month
+[s074] Operating since 1982
+[s075] MIBS Group is a real estate development and management company based in Athens.
+[s076] account_tree
+[s077] The full project value chain
+[s078] The firm takes part directly across the whole value chain, from market research, planning, and design through construction to property management after handover.
+[s079] location_city
+[s080] Central Athens and the port of Piraeus
+[s081] MIBS projects are concentrated in central Athens and the port of Piraeus, where there is owner-occupier demand, rental demand, and urban letting potential.
+[s082] Selected projects
+[s083] Etolikou 11
+[s084] Etolikou Seafront
+[s085] Celea Residence
+[s086] Glyfada Estate Residence
+[s087] {1}Project{/1} timeline
+[s088] **Expected completion**{1}Q4 2027.{/1}
+[s089] Please contact IMM Group for the latest construction progress, availability, and project documents at the time of your consultation.
+[s090] Owning **Greek real estate** is more than an income-producing asset held in a foreign currency. Owning at Etolikou 11 also opens a route to European residency (**{1}Golden Visa{/1}**) for your whole family.
+[s091|#bo-qua-tn: thẻ Hy Lạp có thời hạn 5 năm, không phải thường trú — tên tiếng Anh đã chốt cho trang Hy Lạp là Greece Golden Visa] Your route to the{br} {1}Greece Golden Visa{/1}
+[s092] A change-of-use property
+[s093] The project was developed from a former industrial building; MIBS Group acquired it and fully converted it into housing, under local authority rules.
+[s095] The change-of-use model lets you meet the Greece Golden Visa investment level of €250,000.
+[s096] A 5-year residence permit
+[s097] The permit runs for 5 years and is renewable in 5-year periods for as long as you continue to own the qualifying property.
+[s098] The Golden Visa is a Greek residence permit, not EU citizenship; the right to live freely in other EU countries arises only once you naturalize.
+[s099|#bo-qua-tn: thẻ Hy Lạp có thời hạn 5 năm, không phải thường trú — tên tiếng Anh đã chốt cho trang Hy Lạp là Greece Golden Visa] Advantages of the{br} {1}Greece Golden Visa{/1}
+[s100] Own an apartment at Etolikou 11 and open a route to a Greek residence permit for your whole family
+[s101] travel_explore
+[s102] 01
+[s103] Visa-free travel in the Schengen Area
+[s104] Travel within the Schengen Area without a visa, under the rule of up to 90 days in any 180-day period.
+[s105] {1}home{/1}{2}school{/2}{3}business_center{/3}
+[s106] 02
+[s107] Live, study, and do business
+[s108] You can live, study, and do business in Greece with the rights of a residence permit holder.
+[s109] location_off
+[s110] 03
+[s111] No physical residence requirement
+[s112] No physical residence in Greece is required to keep the permit
+[s113] badge
+[s114] 04
+[s115] A 5-year residence permit
+[s116] The permit runs for 5 years and is renewable in 5-year periods for as long as you continue to own the qualifying property.
+[s117] The route to Greek citizenship
+[s118] A route to citizenship
+[s119] After the period of lawful residence set by law, you can consider the route to Greek citizenship.
+[s120] A separate step
+[s121] Naturalization is a separate step, with its own conditions on physical residence, language, integration, and assessment.
+[s122] EU citizenship rights
+[s123] EU citizenship rights, including the right to live and work in EU member states, arise only once naturalization succeeds.
+[s124] Talk to us about Etolikou 11 & {br}{1}the Greece Golden Visa route{/1}
+[s128] balance
+[s130] The information on this page provides an overview of the Etolikou 11 project. It is not legal, securities, or personalized investment advice.

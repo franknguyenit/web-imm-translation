@@ -1,0 +1,1416 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/web-imm-translation/viec/nhap/goc-hy-lap/kastella-bay.html",
+ "truong_json": null,
+ "doan": [
+  {
+   "tu": 56123,
+   "den": 56168,
+   "raw": "Thường trú nhân Hy Lạp | Dự án căn hộ cao cấp",
+   "loai": "p",
+   "lop": "imm4-hero__status",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 56198,
+   "den": 56210,
+   "raw": "Kastella Bay",
+   "loai": "h1",
+   "lop": "",
+   "the": "h1",
+   "ngu_canh": "",
+   "id": "s002"
+  },
+  {
+   "tu": 56243,
+   "den": 56299,
+   "raw": "Căn hộ cao cấp tại Piraeus – Lộ trình Golden Visa Hy Lạp",
+   "loai": "p",
+   "lop": "imm4-hero__lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s003"
+  },
+  {
+   "tu": 56386,
+   "den": 56400,
+   "raw": "YÊU CẦU TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s004"
+  },
+  {
+   "tu": 57461,
+   "den": 57601,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">paid</i>Mức đầu tư tối thiểu</span><strong>250.000 EUR</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s005"
+  },
+  {
+   "tu": 57664,
+   "den": 57799,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">check_circle</i>Tình trạng</span><strong>Còn suất</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-1",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s006"
+  },
+  {
+   "tu": 57862,
+   "den": 58008,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">workspace_premium</i>Dự án độc quyền</span><strong>IMM Group</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-2",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s007"
+  },
+  {
+   "tu": 58208,
+   "den": 58220,
+   "raw": "Kastella Bay",
+   "loai": "cta",
+   "lop": "imm4-anchor__name",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s008"
+  },
+  {
+   "tu": 58277,
+   "den": 58291,
+   "raw": "Hình ảnh dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s009"
+  },
+  {
+   "tu": 58313,
+   "den": 58333,
+   "raw": "Vị trí &amp; kết nối",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s010"
+  },
+  {
+   "tu": 58358,
+   "den": 58373,
+   "raw": "Tổng quan dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s011"
+  },
+  {
+   "tu": 58397,
+   "den": 58420,
+   "raw": "Thiết kế &amp; tiện ích",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s012"
+  },
+  {
+   "tu": 58443,
+   "den": 58459,
+   "raw": "Chủ đầu tư Arish",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s013"
+  },
+  {
+   "tu": 58482,
+   "den": 58495,
+   "raw": "Tiến độ dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s014"
+  },
+  {
+   "tu": 58519,
+   "den": 58539,
+   "raw": "Lộ trình Golden Visa",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s015"
+  },
+  {
+   "tu": 58562,
+   "den": 58581,
+   "raw": "Lợi thế Golden Visa",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s016"
+  },
+  {
+   "tu": 63930,
+   "den": 63971,
+   "raw": "Vị trí trung tâm tại<br> <em>Piraeus</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s017"
+  },
+  {
+   "tu": 64208,
+   "den": 64302,
+   "raw": "Mikrolimano <span aria-hidden=\"true\">·</span> Piraeus <span aria-hidden=\"true\">·</span> Hy Lạp",
+   "loai": "p",
+   "lop": "imm4-map__meta",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s018"
+  },
+  {
+   "tu": 64638,
+   "den": 64726,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">location_on</span>Google Maps",
+   "loai": "cta",
+   "lop": "imm4-map__link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s019"
+  },
+  {
+   "tu": 64815,
+   "den": 64827,
+   "raw": "Vị trí dự án",
+   "loai": "p",
+   "lop": "imm4-loc__eyebrow",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s020"
+  },
+  {
+   "tu": 64862,
+   "den": 64882,
+   "raw": "Thuận tiện di chuyển",
+   "loai": "h3",
+   "lop": "imm4-loc__heading",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s021"
+  },
+  {
+   "tu": 64923,
+   "den": 64934,
+   "raw": "Mikrolimano",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s022"
+  },
+  {
+   "tu": 64942,
+   "den": 65004,
+   "raw": "Nằm tại Mikrolimano, khu vịnh du thuyền nổi tiếng của Piraeus.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s023"
+  },
+  {
+   "tu": 65021,
+   "den": 65037,
+   "raw": "Trung tâm Athens",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s024"
+  },
+  {
+   "tu": 65045,
+   "den": 65095,
+   "raw": "Cách trung tâm Athens khoảng 12-15 phút di chuyển.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s025"
+  },
+  {
+   "tu": 65112,
+   "den": 65131,
+   "raw": "Ga metro Neo Faliro",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s026"
+  },
+  {
+   "tu": 65139,
+   "den": 65176,
+   "raw": "Cách ga metro Neo Faliro khoảng 1 km.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s027"
+  },
+  {
+   "tu": 65193,
+   "den": 65212,
+   "raw": "Tiện ích xung quanh",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s028"
+  },
+  {
+   "tu": 65220,
+   "den": 65294,
+   "raw": "Gần Đại học Piraeus, bệnh viện, trung tâm thương mại và văn phòng quốc tế.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s029"
+  },
+  {
+   "tu": 65564,
+   "den": 65625,
+   "raw": "Căn hộ chuyển đổi tại<br> <em>vịnh du thuyền Mikrolimano</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s030"
+  },
+  {
+   "tu": 65657,
+   "den": 65742,
+   "raw": "Vị trí trung tâm Piraeus, gần vịnh du thuyền Mikrolimano và kết nối nhanh đến Athens.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s031"
+  },
+  {
+   "tu": 65749,
+   "den": 65857,
+   "raw": "Căn hộ chuyển đổi hợp pháp từ khách sạn, đáp ứng mức đầu tư Golden Visa từ 250.000 EUR – khoảng 7,6 tỷ đồng.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s032"
+  },
+  {
+   "tu": 65864,
+   "den": 65979,
+   "raw": "Mở lộ trình thẻ cư trú Hy Lạp cho cả gia đình, Tự do đi lại khối Schengen, an cư – học tập – kinh doanh tại Hy Lạp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s033"
+  },
+  {
+   "tu": 65986,
+   "den": 66087,
+   "raw": "Chủ đầu tư Arish Capital Partners – hơn 65 năm kinh nghiệm đầu tư, tài chính, quản lý quỹ và định cư.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s034"
+  },
+  {
+   "tu": 66207,
+   "den": 66221,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s035"
+  },
+  {
+   "tu": 66449,
+   "den": 66464,
+   "raw": "Thông tin dự án",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s036"
+  },
+  {
+   "tu": 66478,
+   "den": 66484,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s037"
+  },
+  {
+   "tu": 66493,
+   "den": 66528,
+   "raw": "Mikrolimano, thành phố cảng Piraeus",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s038"
+  },
+  {
+   "tu": 66537,
+   "den": 66546,
+   "raw": "Loại hình",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s039"
+  },
+  {
+   "tu": 66555,
+   "den": 66602,
+   "raw": "căn hộ cao cấp chuyển đổi hợp pháp từ khách sạn",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s040"
+  },
+  {
+   "tu": 66611,
+   "den": 66621,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s041"
+  },
+  {
+   "tu": 66630,
+   "den": 66644,
+   "raw": "từ 250.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s042"
+  },
+  {
+   "tu": 66653,
+   "den": 66660,
+   "raw": "Kết nối",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s043"
+  },
+  {
+   "tu": 66669,
+   "den": 66707,
+   "raw": "khoảng 12-15 phút đến trung tâm Athens",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s044"
+  },
+  {
+   "tu": 66716,
+   "den": 66726,
+   "raw": "Chủ đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s045"
+  },
+  {
+   "tu": 66735,
+   "den": 66757,
+   "raw": "Arish Capital Partners",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s046"
+  },
+  {
+   "tu": 67074,
+   "den": 67130,
+   "raw": "Thiết kế mô phỏng &amp;<br> <em>tiện ích xung quanh</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s047"
+  },
+  {
+   "tu": 67212,
+   "den": 67276,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">apartment</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s048"
+  },
+  {
+   "tu": 67285,
+   "den": 67294,
+   "raw": "Loại hình",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s049"
+  },
+  {
+   "tu": 67303,
+   "den": 67350,
+   "raw": "Căn hộ cao cấp chuyển đổi hợp pháp từ khách sạn",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s050"
+  },
+  {
+   "tu": 67373,
+   "den": 67442,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">directions_car</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s051"
+  },
+  {
+   "tu": 67451,
+   "den": 67458,
+   "raw": "Kết nối",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s052"
+  },
+  {
+   "tu": 67467,
+   "den": 67505,
+   "raw": "Khoảng 12-15 phút đến trung tâm Athens",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s053"
+  },
+  {
+   "tu": 67528,
+   "den": 67588,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">train</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s054"
+  },
+  {
+   "tu": 67597,
+   "den": 67602,
+   "raw": "Metro",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s055"
+  },
+  {
+   "tu": 67611,
+   "den": 67641,
+   "raw": "Cách ga Neo Faliro khoảng 1 km",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s056"
+  },
+  {
+   "tu": 67664,
+   "den": 67723,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">paid</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s057"
+  },
+  {
+   "tu": 67732,
+   "den": 67742,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s058"
+  },
+  {
+   "tu": 67751,
+   "den": 67765,
+   "raw": "Từ 250.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s059"
+  },
+  {
+   "tu": 67788,
+   "den": 67855,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">check_circle</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s060"
+  },
+  {
+   "tu": 67864,
+   "den": 67874,
+   "raw": "Tình trạng",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s061"
+  },
+  {
+   "tu": 67883,
+   "den": 67891,
+   "raw": "Còn suất",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s062"
+  },
+  {
+   "tu": 67986,
+   "den": 68003,
+   "raw": "Không gian căn hộ",
+   "loai": "h3",
+   "lop": "imm4-amen__sub",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s063"
+  },
+  {
+   "tu": 68041,
+   "den": 68154,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">hotel</span><strong>Căn hộ được chuyển đổi từ khách sạn.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s064"
+  },
+  {
+   "tu": 68163,
+   "den": 68275,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">bed</span><strong>Hướng đến công năng lưu trú hiện đại.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s065"
+  },
+  {
+   "tu": 68284,
+   "den": 68385,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">architecture</span><strong>Thiết kế tinh tế.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s066"
+  },
+  {
+   "tu": 68394,
+   "den": 68496,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">water</span><strong>Tầm nhìn hướng vịnh biển.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s067"
+  },
+  {
+   "tu": 68505,
+   "den": 68607,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">restaurant</span><strong>Vị trí gần nhà hàng.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s068"
+  },
+  {
+   "tu": 68616,
+   "den": 68728,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">directions_boat</span><strong>Vị trí gần bến du thuyền.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s069"
+  },
+  {
+   "tu": 68737,
+   "den": 68850,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">shopping_bag</span><strong>Vị trí gần trung tâm mua sắm.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s070"
+  },
+  {
+   "tu": 68859,
+   "den": 68960,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">subway</span><strong>Vị trí gần tuyến metro.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s071"
+  },
+  {
+   "tu": 69054,
+   "den": 69138,
+   "raw": "Phù hợp với nhu cầu ở thực, cho thuê dài hạn hoặc khai thác nhóm khách thuê quốc tế.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s072"
+  },
+  {
+   "tu": 69150,
+   "den": 69237,
+   "raw": "Sở hữu vĩnh viễn 100% – toàn quyền ở, cho thuê, bán, thừa kế, không giới hạn thời gian.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s073"
+  },
+  {
+   "tu": 69246,
+   "den": 69309,
+   "raw": "Bảo hành 2 năm cho căn hộ và khu vực chung kể từ ngày bàn giao.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s074"
+  },
+  {
+   "tu": 69576,
+   "den": 69622,
+   "raw": "Chủ đầu tư<br> <em>Arish Capital Partners</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s075"
+  },
+  {
+   "tu": 69666,
+   "den": 69733,
+   "raw": "Arish Capital Partners - kinh nghiệm đầu tư và bất động sản quốc tế",
+   "loai": "p",
+   "lop": "imm4-dev__lead imm4-reveal",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s076"
+  },
+  {
+   "tu": 69780,
+   "den": 69870,
+   "raw": "<span class=\"imm4-dev__badge\" aria-hidden=\"true\">apartment</span>Năng lực phát triển dự án",
+   "loai": "h3",
+   "lop": "imm4-dev__eyebrow imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s077"
+  },
+  {
+   "tu": 69920,
+   "den": 69982,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">verified</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s078"
+  },
+  {
+   "tu": 69987,
+   "den": 70026,
+   "raw": "<strong>Hơn 65 năm kinh nghiệm</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s079"
+  },
+  {
+   "tu": 70029,
+   "den": 70100,
+   "raw": "tích lũy trong lĩnh vực đầu tư, tài chính, quản lý quỹ và bất động sản.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s080"
+  },
+  {
+   "tu": 70120,
+   "den": 70180,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">public</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s081"
+  },
+  {
+   "tu": 70185,
+   "den": 70238,
+   "raw": "<strong>Doanh nghiệp đã triển khai dự án tại</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s082"
+  },
+  {
+   "tu": 70241,
+   "den": 70283,
+   "raw": "Bồ Đào Nha, Hy Lạp, Anh Quốc và Trung Đông",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s083"
+  },
+  {
+   "tu": 70303,
+   "den": 70363,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">domain</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s084"
+  },
+  {
+   "tu": 70368,
+   "den": 70399,
+   "raw": "<strong>Danh mục dự án</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s085"
+  },
+  {
+   "tu": 70402,
+   "den": 70470,
+   "raw": "gồm khu dân cư cao cấp, căn hộ dịch vụ và dự án phức hợp thương mại.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s086"
+  },
+  {
+   "tu": 70490,
+   "den": 70552,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">passport</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s087"
+  },
+  {
+   "tu": 70557,
+   "den": 70585,
+   "raw": "<strong>Golden Visa</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s088"
+  },
+  {
+   "tu": 70588,
+   "den": 70710,
+   "raw": "Arish kết hợp bất động sản với các chương trình Golden Visa và sản phẩm định cư để phục vụ nhu cầu của nhà đầu tư quốc tế.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s089"
+  },
+  {
+   "tu": 70821,
+   "den": 70836,
+   "raw": "Dự án tiêu biểu",
+   "loai": "h3",
+   "lop": "imm4-dev__projects-title imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s090"
+  },
+  {
+   "tu": 71100,
+   "den": 71154,
+   "raw": "<span class=\"imm4-dev__title-link\">Kastella Bay</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s091"
+  },
+  {
+   "tu": 71378,
+   "den": 71446,
+   "raw": "<span class=\"imm4-dev__title-link\">Sun House Comporta Country</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s092"
+  },
+  {
+   "tu": 71666,
+   "den": 71726,
+   "raw": "<span class=\"imm4-dev__title-link\">South Beach Sagres</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s093"
+  },
+  {
+   "tu": 71923,
+   "den": 71977,
+   "raw": "<span class=\"imm4-dev__title-link\">CDO’Q Lisbon</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s094"
+  },
+  {
+   "tu": 72218,
+   "den": 72240,
+   "raw": "Tiến độ <em>dự án</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s095"
+  },
+  {
+   "tu": 72329,
+   "den": 72375,
+   "raw": "<strong>Đang cập nhật...</strong><span></span>",
+   "loai": "p",
+   "lop": "imm4-milestone is-current",
+   "the": "article",
+   "ngu_canh": "",
+   "id": "s096"
+  },
+  {
+   "tu": 72423,
+   "den": 72536,
+   "raw": "Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.",
+   "loai": "p",
+   "lop": "imm4-progress-note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s097"
+  },
+  {
+   "tu": 72898,
+   "den": 73134,
+   "raw": "Sở hữu <strong>bất động sản Hy Lạp</strong> không chỉ là một tài sản sinh lời và tích sản an toàn bằng ngoại tệ. Việc sở hữu bất động sản Kastella Bay còn mở ra đặc quyền thường trú châu Âu (<em>Golden Visa</em>) vô giá cho cả gia đình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s098"
+  },
+  {
+   "tu": 73197,
+   "den": 73241,
+   "raw": "Lộ trình thường trú nhân<br> <em>Hy Lạp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s099"
+  },
+  {
+   "tu": 73383,
+   "den": 73416,
+   "raw": "Bất động sản chuyển đổi công năng",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s100"
+  },
+  {
+   "tu": 73424,
+   "den": 73472,
+   "raw": "Dự án được chuyển đổi từ khách sạn thành căn hộ.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s101"
+  },
+  {
+   "tu": 73525,
+   "den": 73550,
+   "raw": "Mức đầu tư từ 250.000 EUR",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s102"
+  },
+  {
+   "tu": 73558,
+   "den": 73656,
+   "raw": "Mô hình chuyển đổi công năng giúp nhà đầu tư đáp ứng mức đầu tư Golden Visa Hy Lạp từ 250.000 EUR.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s103"
+  },
+  {
+   "tu": 73709,
+   "den": 73725,
+   "raw": "Thẻ cư trú 5 năm",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s104"
+  },
+  {
+   "tu": 73733,
+   "den": 73845,
+   "raw": "Thẻ cư trú có thời hạn 5 năm và gia hạn mỗi 5 năm khi nhà đầu tư duy trì quyền sở hữu bất động sản đủ điều kiện.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s105"
+  },
+  {
+   "tu": 73915,
+   "den": 74050,
+   "raw": "Golden Visa là thẻ cư trú Hy Lạp – chưa phải quốc tịch EU; quyền tự do sinh sống tại các nước EU khác phát sinh sau khi nhập quốc tịch.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s106"
+  },
+  {
+   "tu": 74367,
+   "den": 74410,
+   "raw": "Lợi thế thường trú nhân<br> <em>Hy Lạp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s107"
+  },
+  {
+   "tu": 74446,
+   "den": 74520,
+   "raw": "Sở hữu căn hộ Kastella Bay - mở lộ trình thẻ cư trú Hy Lạp cho cả gia đình",
+   "loai": "p",
+   "lop": "imm4-rights__intro",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s108"
+  },
+  {
+   "tu": 74642,
+   "den": 74669,
+   "raw": "<span>travel_explore</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s109"
+  },
+  {
+   "tu": 74705,
+   "den": 74707,
+   "raw": "01",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s110"
+  },
+  {
+   "tu": 74718,
+   "den": 74744,
+   "raw": "Tự do đi lại khối Schengen",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s111"
+  },
+  {
+   "tu": 74758,
+   "den": 74871,
+   "raw": "Tự do đi lại trong khối Schengen mà không cần xin visa, theo quy định lưu trú tối đa 90 ngày trong vòng 180 ngày.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s112"
+  },
+  {
+   "tu": 74972,
+   "den": 75036,
+   "raw": "<span>home</span><span>school</span><span>business_center</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s113"
+  },
+  {
+   "tu": 75072,
+   "den": 75074,
+   "raw": "02",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s114"
+  },
+  {
+   "tu": 75085,
+   "den": 75117,
+   "raw": "Sinh sống, học tập và kinh doanh",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s115"
+  },
+  {
+   "tu": 75131,
+   "den": 75216,
+   "raw": "Được sinh sống, học tập và kinh doanh tại Hy Lạp theo quyền của người giữ thẻ cư trú.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s116"
+  },
+  {
+   "tu": 75317,
+   "den": 75342,
+   "raw": "<span>location_off</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s117"
+  },
+  {
+   "tu": 75378,
+   "den": 75380,
+   "raw": "03",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s118"
+  },
+  {
+   "tu": 75391,
+   "den": 75419,
+   "raw": "Không yêu cầu cư trú thực tế",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s119"
+  },
+  {
+   "tu": 75433,
+   "den": 75487,
+   "raw": "Không yêu cầu cư trú thực tế tại Hy Lạp để duy trì thẻ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s120"
+  },
+  {
+   "tu": 75588,
+   "den": 75606,
+   "raw": "<span>badge</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s121"
+  },
+  {
+   "tu": 75642,
+   "den": 75644,
+   "raw": "04",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s122"
+  },
+  {
+   "tu": 75655,
+   "den": 75671,
+   "raw": "Thẻ cư trú 5 năm",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s123"
+  },
+  {
+   "tu": 75685,
+   "den": 75797,
+   "raw": "Thẻ cư trú có thời hạn 5 năm và gia hạn mỗi 5 năm khi nhà đầu tư duy trì quyền sở hữu bất động sản đủ điều kiện.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s124"
+  },
+  {
+   "tu": 75909,
+   "den": 75939,
+   "raw": "Lộ trình nhập quốc tịch Hy Lạp",
+   "loai": "h3",
+   "lop": "imm4-citizen-route__title",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s125"
+  },
+  {
+   "tu": 76074,
+   "den": 76101,
+   "raw": "Xét lộ trình nhập quốc tịch",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s126"
+  },
+  {
+   "tu": 76109,
+   "den": 76203,
+   "raw": "Sau thời gian cư trú hợp pháp theo luật, nhà đầu tư có thể xét lộ trình nhập quốc tịch Hy Lạp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s127"
+  },
+  {
+   "tu": 76310,
+   "den": 76320,
+   "raw": "Bước riêng",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s128"
+  },
+  {
+   "tu": 76328,
+   "den": 76431,
+   "raw": "Nhập tịch là bước riêng, có điều kiện về cư trú thực tế, ngôn ngữ, hội nhập và xét duyệt theo quy định.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s129"
+  },
+  {
+   "tu": 76538,
+   "den": 76555,
+   "raw": "Quyền công dân EU",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s130"
+  },
+  {
+   "tu": 76563,
+   "den": 76685,
+   "raw": "Quyền công dân EU, gồm quyền sinh sống và làm việc tại các nước thành viên EU, chỉ phát sinh sau khi nhập tịch thành công.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s131"
+  },
+  {
+   "tu": 76952,
+   "den": 77033,
+   "raw": "Nhận tư vấn dự án Kastella Bay &amp; <br><em>lộ trình thường trú nhân Hy Lạp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s132"
+  },
+  {
+   "tu": 77137,
+   "den": 77151,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "btn-primary link-to imm4-consult__button",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s133"
+  },
+  {
+   "tu": 77336,
+   "den": 77421,
+   "raw": "Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s134"
+  },
+  {
+   "tu": 77430,
+   "den": 77499,
+   "raw": "Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s135"
+  },
+  {
+   "tu": 77547,
+   "den": 77620,
+   "raw": "<span class=\"imm4-consult__notice-icon\" aria-hidden=\"true\">balance</span>",
+   "loai": "p",
+   "lop": "imm4-consult__notice",
+   "the": "aside",
+   "ngu_canh": "",
+   "id": "s136"
+  },
+  {
+   "tu": 77630,
+   "den": 77645,
+   "raw": "Lưu ý thông tin",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s137"
+  },
+  {
+   "tu": 77653,
+   "den": 77792,
+   "raw": "Thông tin trên trang này nhằm cung cấp tổng quan về dự án Kastella Bay, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s138"
+  },
+  {
+   "tu": 78053,
+   "den": 78060,
+   "raw": "&times;",
+   "loai": "cta",
+   "lop": "imm4-icon-btn",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s139"
+  },
+  {
+   "tu": 78179,
+   "den": 78257,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_left</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__prev",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s140"
+  },
+  {
+   "tu": 78421,
+   "den": 78500,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_right</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__next",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s141"
+  }
+ ]
+}

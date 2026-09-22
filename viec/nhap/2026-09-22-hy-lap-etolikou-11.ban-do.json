@@ -1,0 +1,1326 @@
+{
+ "nguon": "/Users/mac/Claude/Projects/web-imm-translation/viec/nhap/goc-hy-lap/etolikou-11.html",
+ "truong_json": null,
+ "doan": [
+  {
+   "tu": 55754,
+   "den": 55799,
+   "raw": "Thường trú nhân Hy Lạp | Dự án căn hộ dịch vụ",
+   "loai": "p",
+   "lop": "imm4-hero__status",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s001"
+  },
+  {
+   "tu": 55829,
+   "den": 55840,
+   "raw": "Etolikou 11",
+   "loai": "h1",
+   "lop": "",
+   "the": "h1",
+   "ngu_canh": "",
+   "id": "s002"
+  },
+  {
+   "tu": 55873,
+   "den": 55944,
+   "raw": "Căn hộ dịch vụ tại trung tâm cảng Piraeus – Lộ trình Golden Visa Hy Lạp",
+   "loai": "p",
+   "lop": "imm4-hero__lead",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s003"
+  },
+  {
+   "tu": 56031,
+   "den": 56045,
+   "raw": "YÊU CẦU TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s004"
+  },
+  {
+   "tu": 57269,
+   "den": 57409,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">paid</i>Mức đầu tư tối thiểu</span><strong>250.000 EUR</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s005"
+  },
+  {
+   "tu": 57472,
+   "den": 57607,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">check_circle</i>Tình trạng</span><strong>Còn suất</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-1",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s006"
+  },
+  {
+   "tu": 57670,
+   "den": 57807,
+   "raw": "<span class=\"imm4-fact__label\"><i class=\"imm4-fact__icon\" aria-hidden=\"true\">apartment</i>Loại hình</span><strong>Căn hộ dịch vụ</strong>",
+   "loai": "p",
+   "lop": "imm4-fact imm4-reveal imm4-reveal--delay-2",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s007"
+  },
+  {
+   "tu": 58007,
+   "den": 58018,
+   "raw": "Etolikou 11",
+   "loai": "cta",
+   "lop": "imm4-anchor__name",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s008"
+  },
+  {
+   "tu": 58075,
+   "den": 58089,
+   "raw": "Hình ảnh dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s009"
+  },
+  {
+   "tu": 58111,
+   "den": 58131,
+   "raw": "Vị trí &amp; kết nối",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s010"
+  },
+  {
+   "tu": 58156,
+   "den": 58171,
+   "raw": "Tổng quan dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s011"
+  },
+  {
+   "tu": 58195,
+   "den": 58218,
+   "raw": "Thiết kế &amp; tiện ích",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s012"
+  },
+  {
+   "tu": 58241,
+   "den": 58260,
+   "raw": "Nhà phát triển MIBS",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s013"
+  },
+  {
+   "tu": 58283,
+   "den": 58296,
+   "raw": "Tiến độ dự án",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s014"
+  },
+  {
+   "tu": 58320,
+   "den": 58340,
+   "raw": "Lộ trình Golden Visa",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s015"
+  },
+  {
+   "tu": 58363,
+   "den": 58382,
+   "raw": "Lợi thế Golden Visa",
+   "loai": "cta",
+   "lop": "",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s016"
+  },
+  {
+   "tu": 60715,
+   "den": 61026,
+   "raw": "<img src=\"https://immgroup.com/wp-content/uploads/2025/07/Etolikou-11-Thiet-ke-mo-phong-sau-khi-hoan-thanh.jpg\" alt=\"Video dự án căn hộ dịch vụ Etolikou 11\" loading=\"lazy\"><span class=\"imm4-gallery__play\" aria-hidden=\"true\">play_arrow</span><span class=\"imm4-gallery__video-label\">Video dự án Etolikou 11</span>",
+   "loai": "cta",
+   "lop": "",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s017"
+  },
+  {
+   "tu": 61331,
+   "den": 61400,
+   "raw": "Vị trí trung tâm Piraeus -<br> <em>đầu mối giao thương trọng yếu</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s018"
+  },
+  {
+   "tu": 61647,
+   "den": 61705,
+   "raw": "Trung tâm Piraeus <span aria-hidden=\"true\">·</span> Hy Lạp",
+   "loai": "p",
+   "lop": "imm4-map__meta",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s019"
+  },
+  {
+   "tu": 61822,
+   "den": 61910,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">location_on</span>Google Maps",
+   "loai": "cta",
+   "lop": "imm4-map__link",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s020"
+  },
+  {
+   "tu": 61999,
+   "den": 62036,
+   "raw": "Kết nối cảng biển và trung tâm Athens",
+   "loai": "p",
+   "lop": "imm4-loc__eyebrow",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s021"
+  },
+  {
+   "tu": 62071,
+   "den": 62113,
+   "raw": "Bất động sản tại cảng biển lớn nhất Hy Lạp",
+   "loai": "h3",
+   "lop": "imm4-loc__heading",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s022"
+  },
+  {
+   "tu": 62154,
+   "den": 62166,
+   "raw": "Cảng Piraeus",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s023"
+  },
+  {
+   "tu": 62174,
+   "den": 62205,
+   "raw": "Cách cảng Piraeus khoảng 170 m.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s024"
+  },
+  {
+   "tu": 62222,
+   "den": 62240,
+   "raw": "Ga Metro và ga tàu",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s025"
+  },
+  {
+   "tu": 62248,
+   "den": 62324,
+   "raw": "Cách ga Metro và ga tàu khoảng 500 m, kết nối trung tâm Athens dưới 20 phút.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s026"
+  },
+  {
+   "tu": 62341,
+   "den": 62356,
+   "raw": "Đại học Piraeus",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s027"
+  },
+  {
+   "tu": 62364,
+   "den": 62399,
+   "raw": "Đại học Piraeus cách khoảng 1,8 km.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s028"
+  },
+  {
+   "tu": 62416,
+   "den": 62438,
+   "raw": "Sân bay quốc tế Athens",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s029"
+  },
+  {
+   "tu": 62446,
+   "den": 62488,
+   "raw": "Khoảng 15 phút đến sân bay quốc tế Athens.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s030"
+  },
+  {
+   "tu": 62758,
+   "den": 62822,
+   "raw": "Căn hộ dịch vụ tại<br> <em>trung tâm thành phố cảng Piraeus</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s031"
+  },
+  {
+   "tu": 62854,
+   "den": 62928,
+   "raw": "Tọa lạc tại trung tâm thành phố cảng Piraeus, thương cảng lớn nhất Hy Lạp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s032"
+  },
+  {
+   "tu": 62935,
+   "den": 63043,
+   "raw": "Cách cảng Piraeus khoảng 170 m, cách ga Metro và ga tàu khoảng 500 m, kết nối trung tâm Athens dưới 20 phút.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s033"
+  },
+  {
+   "tu": 63050,
+   "den": 63141,
+   "raw": "Quy mô 158 căn hộ, thiết kế hiện đại, phù hợp nhu cầu ở thực, cho thuê ngắn hạn và dài hạn.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s034"
+  },
+  {
+   "tu": 63148,
+   "den": 63271,
+   "raw": "Dự án thuộc nhóm bất động sản chuyển đổi công năng, đáp ứng mức đầu tư từ 250.000 EUR theo chương trình Golden Visa Hy Lạp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s035"
+  },
+  {
+   "tu": 63278,
+   "den": 63375,
+   "raw": "Nhà đầu tư và gia đình có thể nộp hồ sơ xin thẻ cư trú Hy Lạp nếu đáp ứng điều kiện chương trình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s036"
+  },
+  {
+   "tu": 63495,
+   "den": 63509,
+   "raw": "ĐĂNG KÝ TƯ VẤN",
+   "loai": "cta",
+   "lop": "btn-primary link-to",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s037"
+  },
+  {
+   "tu": 63737,
+   "den": 63752,
+   "raw": "Tổng quan dự án",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s038"
+  },
+  {
+   "tu": 63766,
+   "den": 63772,
+   "raw": "Vị trí",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s039"
+  },
+  {
+   "tu": 63781,
+   "den": 63835,
+   "raw": "trung tâm Piraeus, thành phố cảng trọng yếu của Hy Lạp",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s040"
+  },
+  {
+   "tu": 63844,
+   "den": 63850,
+   "raw": "Quy mô",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s041"
+  },
+  {
+   "tu": 63859,
+   "den": 63869,
+   "raw": "158 căn hộ",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s042"
+  },
+  {
+   "tu": 63878,
+   "den": 63887,
+   "raw": "Loại hình",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s043"
+  },
+  {
+   "tu": 63896,
+   "den": 63919,
+   "raw": "căn hộ dịch vụ hiện đại",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s044"
+  },
+  {
+   "tu": 63928,
+   "den": 63938,
+   "raw": "Mức đầu tư",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s045"
+  },
+  {
+   "tu": 63947,
+   "den": 63961,
+   "raw": "từ 250.000 EUR",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s046"
+  },
+  {
+   "tu": 63970,
+   "den": 63984,
+   "raw": "Nhà phát triển",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s047"
+  },
+  {
+   "tu": 63993,
+   "den": 64061,
+   "raw": "MIBS Group, đơn vị có hơn 40 năm kinh nghiệm bất động sản tại Hy Lạp",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s048"
+  },
+  {
+   "tu": 64070,
+   "den": 64077,
+   "raw": "Phù hợp",
+   "loai": "p",
+   "lop": "",
+   "the": "dt",
+   "ngu_canh": "",
+   "id": "s049"
+  },
+  {
+   "tu": 64086,
+   "den": 64148,
+   "raw": "ở thực, đầu tư dài hạn, khai thác cho thuê ngắn hạn và dài hạn",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s050"
+  },
+  {
+   "tu": 64599,
+   "den": 64661,
+   "raw": "Tiện ích &amp; thiết kế<br>căn hộ dịch vụ <em>Etolikou 11</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s051"
+  },
+  {
+   "tu": 64706,
+   "den": 64760,
+   "raw": "<em>Thiết kế phù hợp thị trường - tối ưu cho thuê</em>",
+   "loai": "p",
+   "lop": "imm4-amen__note imm4-reveal",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s052"
+  },
+  {
+   "tu": 64882,
+   "den": 64944,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">luggage</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s053"
+  },
+  {
+   "tu": 64953,
+   "den": 65019,
+   "raw": "Diện tích căn hộ hợp lý, phù hợp khách du lịch, người đi công tác.",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s054"
+  },
+  {
+   "tu": 65042,
+   "den": 65103,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">school</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s055"
+  },
+  {
+   "tu": 65112,
+   "den": 65184,
+   "raw": "Phù hợp sinh viên, chuyên gia, nhân sự làm việc quanh Piraeus và Athens.",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s056"
+  },
+  {
+   "tu": 65207,
+   "den": 65271,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">apartment</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s057"
+  },
+  {
+   "tu": 65280,
+   "den": 65345,
+   "raw": "Thiết kế hiện đại, dễ vận hành và phù hợp nhu cầu lưu trú đô thị.",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s058"
+  },
+  {
+   "tu": 65368,
+   "den": 65431,
+   "raw": "<span class=\"imm4-spec__ico\" aria-hidden=\"true\">verified</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s059"
+  },
+  {
+   "tu": 65440,
+   "den": 65467,
+   "raw": "Tiêu chuẩn xây dựng hạng A.",
+   "loai": "p",
+   "lop": "",
+   "the": "dd",
+   "ngu_canh": "",
+   "id": "s060"
+  },
+  {
+   "tu": 65562,
+   "den": 65578,
+   "raw": "Tiện ích nội khu",
+   "loai": "h3",
+   "lop": "imm4-amen__sub",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s061"
+  },
+  {
+   "tu": 65616,
+   "den": 65727,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">pool</span><strong>Bể bơi sân thượng nhìn về khu cảng.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s062"
+  },
+  {
+   "tu": 65736,
+   "den": 65836,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">fitness_center</span><strong>Gym, wellness.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s063"
+  },
+  {
+   "tu": 65845,
+   "den": 65941,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">attractions</span><strong>Khu giải trí.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s064"
+  },
+  {
+   "tu": 65950,
+   "den": 66058,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">workspaces</span><strong>Không gian làm việc chung.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s065"
+  },
+  {
+   "tu": 66067,
+   "den": 66163,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">chair</span><strong>Khu vực tiếp khách.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s066"
+  },
+  {
+   "tu": 66172,
+   "den": 66281,
+   "raw": "<span class=\"imm4-amen__ico\" aria-hidden=\"true\">support_agent</span><strong>Lễ tân và vận hành 24/7.</strong>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s067"
+  },
+  {
+   "tu": 66370,
+   "den": 66435,
+   "raw": "Thiết kế hiện đại, dễ vận hành và phù hợp nhu cầu lưu trú đô thị.",
+   "loai": "p",
+   "lop": "imm4-amen__note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s068"
+  },
+  {
+   "tu": 66690,
+   "den": 66728,
+   "raw": "Nhà phát triển<br> <em>MIBS Group</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s069"
+  },
+  {
+   "tu": 66772,
+   "den": 66818,
+   "raw": "MIBS Group - hơn 40 năm kinh nghiệm tại Hy Lạp",
+   "loai": "p",
+   "lop": "imm4-dev__lead imm4-reveal",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s070"
+  },
+  {
+   "tu": 66865,
+   "den": 66955,
+   "raw": "<span class=\"imm4-dev__badge\" aria-hidden=\"true\">apartment</span>Năng lực phát triển dự án",
+   "loai": "h3",
+   "lop": "imm4-dev__eyebrow imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s071"
+  },
+  {
+   "tu": 67005,
+   "den": 67073,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">calendar_month</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s072"
+  },
+  {
+   "tu": 67078,
+   "den": 67116,
+   "raw": "<strong>Hoạt động từ năm 1982</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s073"
+  },
+  {
+   "tu": 67119,
+   "den": 67197,
+   "raw": "MIBS Group là công ty phát triển và quản lý bất động sản có trụ sở tại Athens.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s074"
+  },
+  {
+   "tu": 67217,
+   "den": 67283,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">account_tree</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s075"
+  },
+  {
+   "tu": 67288,
+   "den": 67332,
+   "raw": "<strong>Toàn bộ chuỗi giá trị dự án</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s076"
+  },
+  {
+   "tu": 67335,
+   "den": 67484,
+   "raw": "Đơn vị trực tiếp tham gia toàn bộ chuỗi giá trị dự án, từ nghiên cứu thị trường, quy hoạch, thiết kế, xây dựng đến quản lý bất động sản sau bàn giao.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s077"
+  },
+  {
+   "tu": 67504,
+   "den": 67571,
+   "raw": "<span class=\"imm4-dev__ico\" aria-hidden=\"true\">location_city</span>",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s078"
+  },
+  {
+   "tu": 67576,
+   "den": 67625,
+   "raw": "<strong>Trung tâm Athens và cảng Piraeus</strong>",
+   "loai": "p",
+   "lop": "",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s079"
+  },
+  {
+   "tu": 67628,
+   "den": 67761,
+   "raw": "Các dự án của MIBS tập trung tại trung tâm Athens và cảng Piraeus, nơi có nhu cầu ở thực, nhu cầu thuê và tiềm năng khai thác đô thị.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s080"
+  },
+  {
+   "tu": 67872,
+   "den": 67887,
+   "raw": "Dự án tiêu biểu",
+   "loai": "h3",
+   "lop": "imm4-dev__projects-title imm4-reveal",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s081"
+  },
+  {
+   "tu": 68181,
+   "den": 68234,
+   "raw": "<span class=\"imm4-dev__title-link\">Etolikou 11</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s082"
+  },
+  {
+   "tu": 68451,
+   "den": 68510,
+   "raw": "<span class=\"imm4-dev__title-link\">Etolikou Seafront</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s083"
+  },
+  {
+   "tu": 68713,
+   "den": 68770,
+   "raw": "<span class=\"imm4-dev__title-link\">Celea Residence</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s084"
+  },
+  {
+   "tu": 68991,
+   "den": 69057,
+   "raw": "<span class=\"imm4-dev__title-link\">Glyfada Estate Residence</span>",
+   "loai": "p",
+   "lop": "",
+   "the": "figcaption",
+   "ngu_canh": "",
+   "id": "s085"
+  },
+  {
+   "tu": 69298,
+   "den": 69320,
+   "raw": "Tiến độ <em>dự án</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s086"
+  },
+  {
+   "tu": 69409,
+   "den": 69468,
+   "raw": "<strong>Dự kiến hoàn thành</strong><span>Quý 4/2027.</span>",
+   "loai": "p",
+   "lop": "imm4-milestone is-current",
+   "the": "article",
+   "ngu_canh": "",
+   "id": "s087"
+  },
+  {
+   "tu": 69516,
+   "den": 69650,
+   "raw": "Nhà đầu tư nên liên hệ IMM Group để cập nhật tiến độ thi công, tình trạng suất đầu tư và tài liệu dự án mới nhất tại thời điểm tư vấn.",
+   "loai": "p",
+   "lop": "imm4-progress-note",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s088"
+  },
+  {
+   "tu": 69981,
+   "den": 70233,
+   "raw": "Sở hữu <strong>bất động sản Hy Lạp</strong> không chỉ là một tài sản sinh lời và tích sản an toàn bằng ngoại tệ. Việc sở hữu bất động sản Etolikou 11 còn mở ra đặc quyền thường trú châu Âu (<strong><em>Golden Visa</em></strong>) vô giá cho cả gia đình.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s089"
+  },
+  {
+   "tu": 70296,
+   "den": 70340,
+   "raw": "Lộ trình thường trú nhân<br> <em>Hy Lạp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s090"
+  },
+  {
+   "tu": 70482,
+   "den": 70515,
+   "raw": "Bất động sản chuyển đổi công năng",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s091"
+  },
+  {
+   "tu": 70523,
+   "den": 70681,
+   "raw": "Dự án được phát triển từ một tòa nhà công nghiệp cũ; MIBS Group mua lại và cải tạo toàn diện công trình thành nhà ở, theo quy định của chính quyền địa phương.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s092"
+  },
+  {
+   "tu": 70734,
+   "den": 70759,
+   "raw": "Mức đầu tư từ 250.000 EUR",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s093"
+  },
+  {
+   "tu": 70767,
+   "den": 70865,
+   "raw": "Mô hình chuyển đổi công năng giúp nhà đầu tư đáp ứng mức đầu tư Golden Visa Hy Lạp từ 250.000 EUR.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s094"
+  },
+  {
+   "tu": 70918,
+   "den": 70934,
+   "raw": "Thẻ cư trú 5 năm",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s095"
+  },
+  {
+   "tu": 70942,
+   "den": 71054,
+   "raw": "Thẻ cư trú có thời hạn 5 năm và gia hạn mỗi 5 năm khi nhà đầu tư duy trì quyền sở hữu bất động sản đủ điều kiện.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s096"
+  },
+  {
+   "tu": 71124,
+   "den": 71259,
+   "raw": "Golden Visa là thẻ cư trú Hy Lạp – chưa phải quốc tịch EU; quyền tự do sinh sống tại các nước EU khác phát sinh sau khi nhập quốc tịch.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s097"
+  },
+  {
+   "tu": 72039,
+   "den": 72082,
+   "raw": "Lợi thế thường trú nhân<br> <em>Hy Lạp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s098"
+  },
+  {
+   "tu": 72118,
+   "den": 72191,
+   "raw": "Sở hữu căn hộ Etolikou 11 - mở lộ trình thẻ cư trú Hy Lạp cho cả gia đình",
+   "loai": "p",
+   "lop": "imm4-rights__intro",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s099"
+  },
+  {
+   "tu": 72313,
+   "den": 72340,
+   "raw": "<span>travel_explore</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s100"
+  },
+  {
+   "tu": 72376,
+   "den": 72378,
+   "raw": "01",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s101"
+  },
+  {
+   "tu": 72389,
+   "den": 72415,
+   "raw": "Tự do đi lại khối Schengen",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s102"
+  },
+  {
+   "tu": 72429,
+   "den": 72542,
+   "raw": "Tự do đi lại trong khối Schengen mà không cần xin visa, theo quy định lưu trú tối đa 90 ngày trong vòng 180 ngày.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s103"
+  },
+  {
+   "tu": 72643,
+   "den": 72707,
+   "raw": "<span>home</span><span>school</span><span>business_center</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s104"
+  },
+  {
+   "tu": 72743,
+   "den": 72745,
+   "raw": "02",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s105"
+  },
+  {
+   "tu": 72756,
+   "den": 72788,
+   "raw": "Sinh sống, học tập và kinh doanh",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s106"
+  },
+  {
+   "tu": 72802,
+   "den": 72887,
+   "raw": "Được sinh sống, học tập và kinh doanh tại Hy Lạp theo quyền của người giữ thẻ cư trú.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s107"
+  },
+  {
+   "tu": 72988,
+   "den": 73013,
+   "raw": "<span>location_off</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s108"
+  },
+  {
+   "tu": 73049,
+   "den": 73051,
+   "raw": "03",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s109"
+  },
+  {
+   "tu": 73062,
+   "den": 73090,
+   "raw": "Không yêu cầu cư trú thực tế",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s110"
+  },
+  {
+   "tu": 73104,
+   "den": 73158,
+   "raw": "Không yêu cầu cư trú thực tế tại Hy Lạp để duy trì thẻ",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s111"
+  },
+  {
+   "tu": 73259,
+   "den": 73277,
+   "raw": "<span>badge</span>",
+   "loai": "p",
+   "lop": "imm4-right__icons",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s112"
+  },
+  {
+   "tu": 73313,
+   "den": 73315,
+   "raw": "04",
+   "loai": "p",
+   "lop": "imm4-right__num",
+   "the": "div",
+   "ngu_canh": "",
+   "id": "s113"
+  },
+  {
+   "tu": 73326,
+   "den": 73342,
+   "raw": "Thẻ cư trú 5 năm",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s114"
+  },
+  {
+   "tu": 73356,
+   "den": 73468,
+   "raw": "Thẻ cư trú có thời hạn 5 năm và gia hạn mỗi 5 năm khi nhà đầu tư duy trì quyền sở hữu bất động sản đủ điều kiện.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s115"
+  },
+  {
+   "tu": 73580,
+   "den": 73610,
+   "raw": "Lộ trình nhập quốc tịch Hy Lạp",
+   "loai": "h3",
+   "lop": "imm4-citizen-route__title",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s116"
+  },
+  {
+   "tu": 73745,
+   "den": 73772,
+   "raw": "Xét lộ trình nhập quốc tịch",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s117"
+  },
+  {
+   "tu": 73780,
+   "den": 73874,
+   "raw": "Sau thời gian cư trú hợp pháp theo luật, nhà đầu tư có thể xét lộ trình nhập quốc tịch Hy Lạp.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s118"
+  },
+  {
+   "tu": 73981,
+   "den": 73991,
+   "raw": "Bước riêng",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s119"
+  },
+  {
+   "tu": 73999,
+   "den": 74102,
+   "raw": "Nhập tịch là bước riêng, có điều kiện về cư trú thực tế, ngôn ngữ, hội nhập và xét duyệt theo quy định.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s120"
+  },
+  {
+   "tu": 74209,
+   "den": 74226,
+   "raw": "Quyền công dân EU",
+   "loai": "h4",
+   "lop": "",
+   "the": "h4",
+   "ngu_canh": "",
+   "id": "s121"
+  },
+  {
+   "tu": 74234,
+   "den": 74356,
+   "raw": "Quyền công dân EU, gồm quyền sinh sống và làm việc tại các nước thành viên EU, chỉ phát sinh sau khi nhập tịch thành công.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s122"
+  },
+  {
+   "tu": 74623,
+   "den": 74703,
+   "raw": "Nhận tư vấn dự án Etolikou 11 &amp; <br><em>lộ trình thường trú nhân Hy Lạp</em>",
+   "loai": "h2",
+   "lop": "imm4-title",
+   "the": "h2",
+   "ngu_canh": "",
+   "id": "s123"
+  },
+  {
+   "tu": 74807,
+   "den": 74821,
+   "raw": "Yêu cầu tư vấn",
+   "loai": "cta",
+   "lop": "btn-primary link-to imm4-consult__button",
+   "the": "a",
+   "ngu_canh": "",
+   "id": "s124"
+  },
+  {
+   "tu": 75006,
+   "den": 75091,
+   "raw": "Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s125"
+  },
+  {
+   "tu": 75100,
+   "den": 75169,
+   "raw": "Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.",
+   "loai": "li",
+   "lop": "",
+   "the": "li",
+   "ngu_canh": "",
+   "id": "s126"
+  },
+  {
+   "tu": 75217,
+   "den": 75290,
+   "raw": "<span class=\"imm4-consult__notice-icon\" aria-hidden=\"true\">balance</span>",
+   "loai": "p",
+   "lop": "imm4-consult__notice",
+   "the": "aside",
+   "ngu_canh": "",
+   "id": "s127"
+  },
+  {
+   "tu": 75300,
+   "den": 75315,
+   "raw": "Lưu ý thông tin",
+   "loai": "h3",
+   "lop": "",
+   "the": "h3",
+   "ngu_canh": "",
+   "id": "s128"
+  },
+  {
+   "tu": 75323,
+   "den": 75461,
+   "raw": "Thông tin trên trang này nhằm cung cấp tổng quan về dự án Etolikou 11, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.",
+   "loai": "p",
+   "lop": "",
+   "the": "p",
+   "ngu_canh": "",
+   "id": "s129"
+  },
+  {
+   "tu": 75722,
+   "den": 75729,
+   "raw": "&times;",
+   "loai": "cta",
+   "lop": "imm4-icon-btn",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s130"
+  },
+  {
+   "tu": 75848,
+   "den": 75926,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_left</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__prev",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s131"
+  },
+  {
+   "tu": 76090,
+   "den": 76169,
+   "raw": "<span class=\"material-symbols-outlined\" aria-hidden=\"true\">chevron_right</span>",
+   "loai": "cta",
+   "lop": "imm4-lightbox__nav imm4-lightbox__next",
+   "the": "button",
+   "ngu_canh": "",
+   "id": "s132"
+  }
+ ]
+}

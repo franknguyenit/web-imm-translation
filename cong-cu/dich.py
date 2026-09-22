@@ -924,15 +924,25 @@ def lay_so(s, ngon_ngu):
         s = re.sub(r"(?<![-\w])((?:[1-9]|[12]\d|3[01]))\s+(" + ten_thang + r")\b\.?", lambda m: f"{m.group(1)} {THANG[m.group(2).lower()]} ", s)
         s = re.sub(r"\b(" + "|".join(TU_SO) + r")\b", lambda m: str(TU_SO[m.group(1).lower()]), s, flags=re.I)
         s = re.sub(r"(\d)(st|nd|rd|th)\b", r"\1", s)
-    for m in re.finditer(SO_RE + r"(?:\s*(%s)\b)?" % "|".join(sorted((NHAN_VI if ngon_ngu == "vi" else NHAN_EN), key=len, reverse=True)), s, flags=re.I):
-        tok, nhan = m.group(0), m.group(1)
+    # Hệ số viết tắt MỘT CHỮ CÁI ("m", "k") chỉ tính khi DÍNH LIỀN số ("$5m", "800k").
+    # Có dấu cách thì đó là đơn vị đo, không phải hệ số: "170 m" là 170 mét, không phải 170 triệu.
+    nhan_bang = NHAN_VI if ngon_ngu == "vi" else NHAN_EN
+    dai = sorted((k for k in nhan_bang if len(k) > 1), key=len, reverse=True)
+    ngan = sorted((k for k in nhan_bang if len(k) == 1), key=len, reverse=True)
+    mau = SO_RE + r"(?:\s*(?P<dai>%s)\b" % "|".join(dai)
+    if ngan:
+        mau += r"|(?P<ngan>%s)\b" % "|".join(ngan)
+    mau += r")?"
+    for m in re.finditer(mau, s, flags=re.I):
+        tok = m.group(0)
+        nhan = m.group("dai") or (m.group("ngan") if ngan else None)
         so_tok = re.match(SO_RE, tok).group(0)
         try:
             v = so_vi(so_tok) if ngon_ngu == "vi" else so_en(so_tok)
         except ValueError:
             continue
         if nhan:
-            v *= (NHAN_VI if ngon_ngu == "vi" else NHAN_EN)[nhan.lower()]
+            v *= nhan_bang[nhan.lower()]
         sau = s[m.end():m.end() + 12].lower()
         if ngon_ngu == "vi" and re.match(r"\s*(đồng|vnđ|vnd|đ\b)", sau):
             vnd.append(v)

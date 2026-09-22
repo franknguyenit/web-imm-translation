@@ -1,0 +1,139 @@
+id	loai	vi	en	tm	ghi_chu	src
+s001	p	Thường trú nhân Hy Lạp | Dự án căn hộ cao cấp	Greece Golden Visa property | Premium apartment project		"#bo-qua-tn: ""Thường trú nhân Hy Lạp"" — thẻ Hy Lạp có thời hạn 5 năm, tên tiếng Anh đã chốt là Greece Golden Visa"	acf.s001_p
+s002	h1	Kastella Bay	Kastella Bay			acf.s002_h1
+s003	p	Căn hộ cao cấp tại Piraeus – Lộ trình Golden Visa Hy Lạp	Premium apartments in Piraeus — a route to the Greece Golden Visa			acf.s003_p
+s004	cta	YÊU CẦU TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s004_cta
+s005	p	{1}{2}paid{/2}Mức đầu tư tối thiểu{/1}**250.000 EUR**	{1}{2}paid{/2}Minimum investment{/1}**€250,000**			acf.s005_p#1
+s006	p	{1}{2}check_circle{/2}Tình trạng{/1}**Còn suất**	{1}{2}check_circle{/2}Status{/1}**Units available**			acf.s006_p#1
+s007	p	{1}{2}workspace_premium{/2}Dự án độc quyền{/1}**IMM Group**	{1}{2}workspace_premium{/2}Exclusive project{/1}**IMM Group**			acf.s007_p#1
+s008	cta	Kastella Bay	Kastella Bay		trung:s002	acf.s008_cta
+s009	cta	Hình ảnh dự án	Project gallery			acf.s009_cta
+s010	cta	Vị trí & kết nối	Location & connections			acf.s010_cta#1
+s011	cta	Tổng quan dự án	Project overview	100%: Project overview		acf.s011_cta
+s012	cta	Thiết kế & tiện ích	Design & amenities			acf.s012_cta#1
+s013	cta	Chủ đầu tư Arish	Developer Arish			acf.s013_cta
+s014	cta	Tiến độ dự án	Project timeline	100%: Project timeline		acf.s014_cta
+s015	cta	Lộ trình Golden Visa	The Golden Visa route			acf.s015_cta
+s016	cta	Lợi thế Golden Visa	Golden Visa advantages			acf.s016_cta
+s017	h2	Vị trí trung tâm tại{br} {1}Piraeus{/1}	A central location in{br} {1}Piraeus{/1}			acf.s017_h2#1
+s018	p	Mikrolimano {1}·{/1} Piraeus {2}·{/2} Hy Lạp	Mikrolimano {1}·{/1} Piraeus {2}·{/2} Greece			acf.s018_p#1
+s019	cta	Google Maps	Google Maps			acf.s019_cta#1
+s020	p	Vị trí dự án	Project location	100%: Project location		acf.s020_p
+s021	h3	Thuận tiện di chuyển	Easy to get around			acf.s021_h3
+s022	h4	Mikrolimano	Mikrolimano			acf.s022_h4
+s023	p	Nằm tại Mikrolimano, khu vịnh du thuyền nổi tiếng của Piraeus.	In Mikrolimano, the well-known marina district of Piraeus.			acf.s023_p
+s024	h4	Trung tâm Athens	Central Athens			acf.s024_h4
+s025	p	Cách trung tâm Athens khoảng 12-15 phút di chuyển.	About 12–15 minutes from central Athens.			acf.s025_p
+s026	h4	Ga metro Neo Faliro	Neo Faliro metro station			acf.s026_h4
+s027	p	Cách ga metro Neo Faliro khoảng 1 km.	About 1 km from Neo Faliro metro station.	98%: About 1 km from Neo Faliro metro station		acf.s027_p
+s028	h4	Tiện ích xung quanh	Amenities nearby			acf.s028_h4
+s029	p	Gần Đại học Piraeus, bệnh viện, trung tâm thương mại và văn phòng quốc tế.	Close to the University of Piraeus, hospitals, shopping centers, and international offices.			acf.s029_p
+s030	h2	Căn hộ chuyển đổi tại{br} {1}vịnh du thuyền Mikrolimano{/1}	Converted apartments at{br} {1}Mikrolimano marina{/1}			acf.s030_h2#1
+s031	p	Vị trí trung tâm Piraeus, gần vịnh du thuyền Mikrolimano và kết nối nhanh đến Athens.	A central Piraeus location, close to Mikrolimano marina and with fast connections to Athens.			acf.s031_p
+s032	p	Căn hộ chuyển đổi hợp pháp từ khách sạn, đáp ứng mức đầu tư Golden Visa từ 250.000 EUR – khoảng 7,6 tỷ đồng.	Apartments converted from a hotel under a lawful change of use, the property category that carries the reduced €250,000 Greece Golden Visa investment level.		#bo-qua-so: bỏ quy đổi VND theo style guide mục 5	acf.s032_p
+s033	p	Mở lộ trình thẻ cư trú Hy Lạp cho cả gia đình, Tự do đi lại khối Schengen, an cư – học tập – kinh doanh tại Hy Lạp.	The investment opens a route to a Greek residence permit for your whole family, with visa-free travel in the Schengen Area and the right to live, study, and do business in Greece.			acf.s033_p
+s034	p	Chủ đầu tư Arish Capital Partners – hơn 65 năm kinh nghiệm đầu tư, tài chính, quản lý quỹ và định cư.	The developer, Arish Capital Partners, brings more than 65 years of experience in investment, finance, fund management, and residency programs.			acf.s034_p
+s035	cta	ĐĂNG KÝ TƯ VẤN	Book a consultation	100%: Book a consultation		acf.s035_cta
+s036	h3	Thông tin dự án	Project information	100%: Project information		acf.s036_h3
+s037	p	Vị trí	Location			acf.s037_p
+s038	p	Mikrolimano, thành phố cảng Piraeus	Mikrolimano, the port city of Piraeus			acf.s038_p
+s039	p	Loại hình	Property type			acf.s039_p
+s040	p	căn hộ cao cấp chuyển đổi hợp pháp từ khách sạn	premium apartments converted from a hotel under a lawful change of use			acf.s040_p
+s041	p	Mức đầu tư	Investment	100%: Investment		acf.s041_p
+s042	p	từ 250.000 EUR	from €250,000	100%: from €250,000		acf.s042_p
+s043	p	Kết nối	Connections			acf.s043_p
+s044	p	khoảng 12-15 phút đến trung tâm Athens	about 12–15 minutes to central Athens			acf.s044_p
+s045	p	Chủ đầu tư	Developer			acf.s045_p
+s046	p	Arish Capital Partners	Arish Capital Partners			acf.s046_p
+s047	h2	Thiết kế mô phỏng &{br} {1}tiện ích xung quanh{/1}	Design renderings &{br} {1}amenities nearby{/1}			acf.s047_h2#1
+s048	p	apartment	apartment			acf.s048_p#1
+s049	p	Loại hình	Property type		trung:s039	acf.s049_p
+s050	p	Căn hộ cao cấp chuyển đổi hợp pháp từ khách sạn	Premium apartments converted from a hotel under a lawful change of use		trung:s040	acf.s050_p
+s051	p	directions_car	directions_car			acf.s051_p#1
+s052	p	Kết nối	Connections		trung:s043	acf.s052_p
+s053	p	Khoảng 12-15 phút đến trung tâm Athens	About 12–15 minutes to central Athens		trung:s044	acf.s053_p
+s054	p	train	train			acf.s054_p#1
+s055	p	Metro	Metro			acf.s055_p
+s056	p	Cách ga Neo Faliro khoảng 1 km	About 1 km from Neo Faliro station	90%: About 1 km from Neo Faliro metro station		acf.s056_p
+s057	p	paid	paid			acf.s057_p#1
+s058	p	Mức đầu tư	Investment	100%: Investment	trung:s041	acf.s058_p
+s059	p	Từ 250.000 EUR	from €250,000	100%: from €250,000	trung:s042	acf.s059_p
+s060	p	check_circle	check_circle			acf.s060_p#1
+s061	p	Tình trạng	Status			acf.s061_p
+s062	p	Còn suất	Units available	100%: Investor spots available		acf.s062_p
+s063	h3	Không gian căn hộ	Inside the apartments			acf.s063_h3
+s064	li	{1}hotel{/1}**Căn hộ được chuyển đổi từ khách sạn.**	{1}hotel{/1}**Apartments converted from a hotel.**			acf.s064_li#1
+s065	li	{1}bed{/1}**Hướng đến công năng lưu trú hiện đại.**	{1}bed{/1}**Designed for modern living.**			acf.s065_li#1
+s066	li	{1}architecture{/1}**Thiết kế tinh tế.**	{1}architecture{/1}**Refined design.**			acf.s066_li#1
+s067	li	{1}water{/1}**Tầm nhìn hướng vịnh biển.**	{1}water{/1}**Views over the bay.**			acf.s067_li#1
+s068	li	{1}restaurant{/1}**Vị trí gần nhà hàng.**	{1}restaurant{/1}**Restaurants nearby.**			acf.s068_li#1
+s069	li	{1}directions_boat{/1}**Vị trí gần bến du thuyền.**	{1}directions_boat{/1}**Close to the marina.**			acf.s069_li#1
+s070	li	{1}shopping_bag{/1}**Vị trí gần trung tâm mua sắm.**	{1}shopping_bag{/1}**Close to shopping.**			acf.s070_li#1
+s071	li	{1}subway{/1}**Vị trí gần tuyến metro.**	{1}subway{/1}**Close to the metro.**			acf.s071_li#1
+s072	p	Phù hợp với nhu cầu ở thực, cho thuê dài hạn hoặc khai thác nhóm khách thuê quốc tế.	The apartments suit owner-occupants, long-term rental, or an international tenant base.			acf.s072_p
+s073	li	Sở hữu vĩnh viễn 100% – toàn quyền ở, cho thuê, bán, thừa kế, không giới hạn thời gian.	100% freehold ownership — the right to live in it, rent it out, sell it, or pass it on, with no time limit.			acf.s073_li
+s074	li	Bảo hành 2 năm cho căn hộ và khu vực chung kể từ ngày bàn giao.	A 2-year warranty covering the apartment and the common areas, running from the handover date.			acf.s074_li
+s075	h2	Chủ đầu tư{br} {1}Arish Capital Partners{/1}	The developer{br} {1}Arish Capital Partners{/1}			acf.s075_h2#1
+s076	p	Arish Capital Partners - kinh nghiệm đầu tư và bất động sản quốc tế	Arish Capital Partners — international investment and real estate experience			acf.s076_p
+s077	h3	{1}apartment{/1}Năng lực phát triển dự án	{1}apartment{/1}Development track record			acf.s077_h3#1
+s078	li	verified	verified			acf.s078_li#1
+s079	p	Hơn 65 năm kinh nghiệm	More than 65 years of experience			acf.s079_p#1
+s080	p	tích lũy trong lĩnh vực đầu tư, tài chính, quản lý quỹ và bất động sản.	built up across investment, finance, fund management, and real estate.			acf.s080_p
+s081	li	public	public			acf.s081_li#1
+s082	p	Doanh nghiệp đã triển khai dự án tại	The firm has delivered projects in			acf.s082_p#1
+s083	p	Bồ Đào Nha, Hy Lạp, Anh Quốc và Trung Đông	Portugal, Greece, the United Kingdom, and the Middle East			acf.s083_p
+s084	li	domain	domain			acf.s084_li#1
+s085	p	Danh mục dự án	Its portfolio			acf.s085_p#1
+s086	p	gồm khu dân cư cao cấp, căn hộ dịch vụ và dự án phức hợp thương mại.	covers premium residential developments, serviced apartments, and mixed-use commercial projects.			acf.s086_p
+s087	li	passport	passport			acf.s087_li#1
+s088	p	Golden Visa	Golden Visa			acf.s088_p#1
+s089	p	Arish kết hợp bất động sản với các chương trình Golden Visa và sản phẩm định cư để phục vụ nhu cầu của nhà đầu tư quốc tế.	Arish pairs real estate with Golden Visa and residency programs for international investors.			acf.s089_p
+s090	h3	Dự án tiêu biểu	Selected projects			acf.s090_h3
+s091	p	Kastella Bay	Kastella Bay		trung:s002	acf.s091_p#1
+s092	p	Sun House Comporta Country	Sun House Comporta Country			acf.s092_p#1
+s093	p	South Beach Sagres	South Beach Sagres			acf.s093_p#1
+s094	p	CDO’Q Lisbon	CDO’Q Lisbon			acf.s094_p#1
+s095	h2	Tiến độ {1}dự án{/1}	{1}Project{/1} timeline	100% (gắn lại thẻ {1} {/1}): Project timeline		acf.s095_h2#1
+s096	p	Đang cập nhật...	Details coming soon.			acf.s096_p#1
+s097	p	Anh/Chị nên liên hệ IMM Group để nhận tiến độ thi công, tình trạng căn và tài liệu mới nhất tại thời điểm tư vấn.	For current construction progress, unit availability, and project documents, please contact IMM Group.			acf.s097_p
+s098	p	Sở hữu **bất động sản Hy Lạp** không chỉ là một tài sản sinh lời và tích sản an toàn bằng ngoại tệ. Việc sở hữu bất động sản Kastella Bay còn mở ra đặc quyền thường trú châu Âu ({1}Golden Visa{/1}) vô giá cho cả gia đình.	**Greek real estate** can be more than an asset that produces income and holds value in a foreign currency. Owning at Kastella Bay also opens a route to residency in Europe (the {1}Golden Visa{/1}) for your whole family.			acf.s098_p#1
+s099	h2	Lộ trình thường trú nhân{br} {1}Hy Lạp{/1}	Your route to the{br} {1}Greece Golden Visa{/1}		#bo-qua-tn: thẻ Hy Lạp có thời hạn 5 năm, không phải thường trú — tên tiếng Anh đã chốt cho trang Hy Lạp là Greece Golden Visa	acf.s099_h2#1
+s100	h3	Bất động sản chuyển đổi công năng	A change-of-use property			acf.s100_h3
+s101	p	Dự án được chuyển đổi từ khách sạn thành căn hộ.	The project is a hotel converted into apartments.			acf.s101_p
+s102	h3	Mức đầu tư từ 250.000 EUR	Investment from €250,000	100%: Investment from €250,000		acf.s102_h3
+s103	p	Mô hình chuyển đổi công năng giúp nhà đầu tư đáp ứng mức đầu tư Golden Visa Hy Lạp từ 250.000 EUR.	The change-of-use model is what places the project at the reduced €250,000 Greece Golden Visa investment level.			acf.s103_p
+s104	h3	Thẻ cư trú 5 năm	A 5-year residence permit			acf.s104_h3
+s105	p	Thẻ cư trú có thời hạn 5 năm và gia hạn mỗi 5 năm khi nhà đầu tư duy trì quyền sở hữu bất động sản đủ điều kiện.	The permit runs for 5 years and is renewable in 5-year periods for as long as you continue to own the qualifying property.			acf.s105_p
+s106	p	Golden Visa là thẻ cư trú Hy Lạp – chưa phải quốc tịch EU; quyền tự do sinh sống tại các nước EU khác phát sinh sau khi nhập quốc tịch.	The Golden Visa is a Greek residence permit, not EU citizenship; the right to live freely in other EU countries arises only once you naturalize.			acf.s106_p
+s107	h2	Lợi thế thường trú nhân{br} {1}Hy Lạp{/1}	Advantages of the{br} {1}Greece Golden Visa{/1}		#bo-qua-tn: thẻ Hy Lạp có thời hạn 5 năm, không phải thường trú — tên tiếng Anh đã chốt cho trang Hy Lạp là Greece Golden Visa	acf.s107_h2#1
+s108	p	Sở hữu căn hộ Kastella Bay - mở lộ trình thẻ cư trú Hy Lạp cho cả gia đình	Own an apartment at Kastella Bay and open a route to a Greek residence permit for your whole family			acf.s108_p
+s109	p	travel_explore	travel_explore			acf.s109_p#1
+s110	p	01	01			acf.s110_p
+s111	h3	Tự do đi lại khối Schengen	Visa-free travel in the Schengen Area	89%: Visa-free travel in the Schengen Area		acf.s111_h3
+s112	li	Tự do đi lại trong khối Schengen mà không cần xin visa, theo quy định lưu trú tối đa 90 ngày trong vòng 180 ngày.	Travel visa-free across the Schengen Area, subject to the limit of 90 days in any 180-day period.			acf.s112_li
+s113	p	{1}home{/1}{2}school{/2}{3}business_center{/3}	{1}home{/1}{2}school{/2}{3}business_center{/3}			acf.s113_p#1
+s114	p	02	02			acf.s114_p
+s115	h3	Sinh sống, học tập và kinh doanh	Live, study, and do business			acf.s115_h3
+s116	li	Được sinh sống, học tập và kinh doanh tại Hy Lạp theo quyền của người giữ thẻ cư trú.	You can live, study, and do business in Greece with the rights of a residence permit holder.			acf.s116_li
+s117	p	location_off	location_off			acf.s117_p#1
+s118	p	03	03			acf.s118_p
+s119	h3	Không yêu cầu cư trú thực tế	No physical residence requirement			acf.s119_h3
+s120	li	Không yêu cầu cư trú thực tế tại Hy Lạp để duy trì thẻ	You do not need to live in Greece to keep the permit			acf.s120_li
+s121	p	badge	badge			acf.s121_p#1
+s122	p	04	04			acf.s122_p
+s123	h3	Thẻ cư trú 5 năm	A 5-year residence permit		trung:s104	acf.s123_h3
+s124	li	Thẻ cư trú có thời hạn 5 năm và gia hạn mỗi 5 năm khi nhà đầu tư duy trì quyền sở hữu bất động sản đủ điều kiện.	The permit runs for 5 years and is renewable in 5-year periods for as long as you continue to own the qualifying property.		trung:s105	acf.s124_li
+s125	h3	Lộ trình nhập quốc tịch Hy Lạp	The route to Greek citizenship			acf.s125_h3
+s126	h4	Xét lộ trình nhập quốc tịch	A route to citizenship	89%: A route to citizenship		acf.s126_h4
+s127	p	Sau thời gian cư trú hợp pháp theo luật, nhà đầu tư có thể xét lộ trình nhập quốc tịch Hy Lạp.	Once you have completed the period of lawful residence required by Greek law, you can look at the route to Greek citizenship.			acf.s127_p
+s128	h4	Bước riêng	A separate step			acf.s128_h4
+s129	p	Nhập tịch là bước riêng, có điều kiện về cư trú thực tế, ngôn ngữ, hội nhập và xét duyệt theo quy định.	Naturalization is a separate step, with its own conditions on physical residence, language, integration, and official assessment.			acf.s129_p
+s130	h4	Quyền công dân EU	EU citizenship rights			acf.s130_h4
+s131	p	Quyền công dân EU, gồm quyền sinh sống và làm việc tại các nước thành viên EU, chỉ phát sinh sau khi nhập tịch thành công.	EU citizenship rights, including the right to live and work in EU member states, arise only after naturalization is granted.			acf.s131_p
+s132	h2	Nhận tư vấn dự án Kastella Bay & {br}{1}lộ trình thường trú nhân Hy Lạp{/1}	Talk to us about Kastella Bay & {br}{1}the Greece Golden Visa route{/1}		"#bo-qua-tn: ""lộ trình thường trú nhân Hy Lạp"" — tên tiếng Anh đã chốt là Greece Golden Visa"	acf.s132_h2#1
+s133	cta	Yêu cầu tư vấn	Book a consultation	100%: Book a consultation	trung:s004	acf.s133_cta
+s134	li	Chuyên viên IMM sẽ liên hệ tư vấn chi tiết và đánh giá khả năng thành công của hồ sơ.	An IMM advisor will contact you to discuss the project in detail and assess your eligibility.	100%: An IMM advisor will contact you to discuss the project in detail and assess your eligibility.		acf.s134_li
+s135	li	Thông tin cá nhân được bảo mật theo Chính sách bảo mật của IMM Group.	Your personal information is kept confidential under IMM Group's Privacy Policy.	100%: Your personal information is kept confidential under IMM Group's Privacy Policy.		acf.s135_li
+s136	p	balance	balance			acf.s136_p#1
+s137	h3	Lưu ý thông tin	Important information	100%: Important information		acf.s137_h3
+s138	p	Thông tin trên trang này nhằm cung cấp tổng quan về dự án Kastella Bay, không phải lời khuyên pháp lý, chứng khoán hoặc đầu tư cá nhân hóa.	The information on this page provides an overview of the Kastella Bay project. It is not legal, securities, or personalized investment advice.	93%: The information on this page provides an overview of the Horseshoe Bay EB-5 project and is not personalized legal, securities, or investment advice.		acf.s138_p
